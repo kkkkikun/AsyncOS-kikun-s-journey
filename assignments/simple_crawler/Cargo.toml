@@ -1,0 +1,23 @@
+[package]
+name = "simple_crawler"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "simple_crawler"
+path = "src/main.rs"
+
+[[bin]]
+name = "test_failed"
+path = "src/test_failed.rs"
+
+[[bin]]
+name = "test_3"
+path = "src/test_3.rs"
+
+[dependencies]
+reqwest = { version = "0.11", features = ["blocking"] }
+csv = "1.3"
+# 新增这两个库用于处理 GBK/中文编码转换
+encoding_rs = "0.8"
+encoding_rs_io = "0.1"

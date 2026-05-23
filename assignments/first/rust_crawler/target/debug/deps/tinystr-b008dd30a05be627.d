@@ -1,0 +1,12 @@
+/home/kikun/School/opencamp-project/assignments/first/rust_crawler/target/debug/deps/tinystr-b008dd30a05be627.d: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/lib.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/macros.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/ascii.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/asciibyte.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/error.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/int_ops.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/unvalidated.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/ule.rs
+
+/home/kikun/School/opencamp-project/assignments/first/rust_crawler/target/debug/deps/libtinystr-b008dd30a05be627.rmeta: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/lib.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/macros.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/ascii.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/asciibyte.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/error.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/int_ops.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/unvalidated.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/ule.rs
+
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/lib.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/macros.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/ascii.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/asciibyte.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/error.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/int_ops.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/unvalidated.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinystr-0.8.3/src/ule.rs:

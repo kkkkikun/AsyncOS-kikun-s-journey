@@ -1,0 +1,2544 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="description" content="" />
+<title>华东师范大学</title><META Name="keywords" Content="华东师范大学" />
+
+
+<link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="style/slick-theme.css">
+  <link rel="stylesheet" href="style/slick.css">
+
+<link rel="stylesheet" href="css/index.css?v=2021081601" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+
+<script src="https://res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+
+<script type="text/javascript" src="js/public2.js"></script>
+<script type="text/javascript" src="js/index1.js?v=2021081601"></script>
+  <script src="js/slick.min.js"></script>
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="js/html5shiv.js"></script>
+<script type="text/javascript" src="js/respond.min.js"></script>
+<![endif]-->
+<link rel="shortcut icon" href="images/favicon.ico" />
+
+<script src="js/jquery.mCustomScrollbar.min.js?v=2021081601"></script>
+<script>
+$(function(){
+$(".sub3-content").mCustomScrollbar({
+        axis:"y",
+        scrollInertia:0,
+        scrollButtons:{enable:false,
+            scrollType:"continuous",
+            scrollSpeed:10,
+            scrollAmount:20},
+        scrollbarPosition:"inside",              
+});
+})
+</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230746847565054574200010000475c -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1726036883)</script>
+</head>
+<body>
+<div style="display:none;"><img src="images/fx300.jpg" alt=""></div>
+<div class="" id="indexlen">
+    <div class="lang">
+    <span style="font-size:17px">language</span>
+    <p>
+        <a href="http://english.ecnu.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&quot;wburl&quot;, 1726036883, 1021)">English</a>
+         <a href="http://french.ecnu.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&quot;wburl&quot;, 1726036883, 1473)">Français</a>
+ <a href="https://russian.ecnu.edu.cn" target="_blank" title="">Русский</a>
+    </p>
+</div>
+</div>
+<!--menu-->
+<div class="nav">
+<ul><script type="text/javascript" src="/system/resource/js/treeshowtimes.js"></script>
+<li class="li1">
+    <span class="nav1"><a>网站菜单</a></span>
+    <div class="sub1">
+        <div class="sub1-content">
+            <div class="clr"></div>
+
+
+<div class="sub1-item item1"><h3><a href="wzcd/xxgk.htm" target="_blank">学校概况</a></h3>
+    <div class="sub2">
+        <div class="sub2-content">
+            <div class="sub2-item"><a href="wzcd/xxgk/xxzc.htm" target="_blank">学校章程</a></div>
+            <div class="sub2-item"><a href="wzcd/xxgk/xqjj.htm" target="_blank">校情简介</a></div>
+            <div class="sub2-item"><a href="wzcd/xxgk/xxld.htm" target="_blank" onclick="addClicks(1726036883, 1454) ">学校领导</a></div>
+            <div class="sub2-item"><a href="wzcd/xxgk/jgsz.htm" target="_blank">机构设置</a></div>
+            <div class="sub2-item"><a href="wzcd/xxgk/yxsz.htm" target="_blank">院系设置</a></div>
+            <div class="sub2-item"><a href="wzcd/xxgk/xsyg.htm" target="_blank">校史沿革</a></div>
+            <div class="sub2-item"><a href="wzcd/xxgk/xxbs.htm" target="_blank">学校标识</a></div>
+            <div class="sub2-item"><a href="http://dwgk.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1030) ">党务公开</a></div>
+            <div class="sub2-item"><a href="http://xxgk.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1029) ">信息公开</a></div>
+
+    </div>
+</div>
+</div>
+            <div class="sub1-item item2"><h3><a>招生就业</a></h3>
+                <div class="sub2">
+                    <div class="sub2-content">
+                        <div class="sub2-item"><a href="https://career.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1280) ">学生就业</a></div>
+                        <div class="sub2-item"><a href="https://zsb.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1101) ">本科生招生</a></div>
+                        <div class="sub2-item"><a href="https://yjszs.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1102) ">研究生招生</a></div>
+                        <div class="sub2-item sub2-item2" style="color:#333;">终身教育（<a href="https://zsjy.ecnu.edu.cn/47721/list.htm" target="_blank" style="display:inline;">非学历教育</a>、<a href="https://www.sole.ecnu.edu.cn/" target="_blank" style="display:inline;padding-left:0;">成人高等教育）</a></div>
+                        <div class="sub2-item"><a href="http://lxs.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1104) ">International Students</a></div>
+
+            </div>
+        </div>
+    </div>
+    <div class="sub1-item item3"><h3><a>学术研究</a></h3>
+        <div class="sub2">
+            <div class="sub2-content">
+                <div class="sub2-item"><a href="wzcd/xsyj/xszz.htm" target="_blank">学术组织</a></div>
+                <div class="sub2-item"><a href="wzcd/xsyj/yjjg2/zdsysyyjjd1.htm" target="_blank" onclick="addClicks(1726036883, 1200) ">研究机构</a></div>
+                <div class="sub2-item"><a href="http://fzghb.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1180) ">学科建设</a></div>
+                <div class="sub2-item" style="color:#333;;display:none;"><a href="http://www.kjc.ecnu.edu.cn/" target="_blank" style="display:none;">管理部门（科技处、</a><a href="http://www.skc.ecnu.edu.cn/" target="_blank" style="display:inline;padding-left:0; display:none;">人文与社会科学研究院）</a></div>
+                <div class="sub2-item"><a href="https://rwsk.ecnu.edu.cn/25037/list.htm" target="_blank" onclick="addClicks(1726036883, 1344) ">学术期刊</a></div>
+                <div class="sub2-item"><a href="wzcd/xsyj/xswh.htm" target="_blank">学术文化</a></div>
+
+    </div>
+    </div>
+</div>
+
+
+<div class="sub1-item item4"><h3><a href="#" target="_blank" onclick="addClicks(1726036883, 1107) ">教育教学</a></h3>
+    <div class="sub2">
+        <div class="sub2-content">
+            <div class="sub2-item"><a href="https://elearning.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1108) ">大夏学堂</a></div>
+            <div class="sub2-item"><a href="https://bksy.ecnu.edu.cn" target="_blank" onclick="addClicks(1726036883, 1109) ">本科生教育</a></div>
+            <div class="sub2-item"><a href="https://yjsy.ecnu.edu.cn" target="_blank" onclick="addClicks(1726036883, 1126) ">研究生教育</a></div>
+
+    </div>
+</div>
+</div>
+
+
+<div class="sub1-item item5"><h3><a href="#" target="_blank" onclick="addClicks(1726036883, 1051) ">师资队伍</a></h3>
+    <div class="sub2">
+        <div class="sub2-content">
+            <div class="sub2-item"><a href="wzcd/szdw/gccrc.htm" target="_blank">高层次人才</a></div>
+            <div class="sub2-item"><a href="https://faculty.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1170) ">教师名录</a></div>
+            <div class="sub2-item"><a href="http://www.jobs.ecnu.edu.cn" target="_blank" onclick="addClicks(1726036883, 1264) ">人才招聘</a></div>
+
+    </div>
+</div>
+</div>
+
+
+<div class="sub1-item item6"><h3><a href="#" target="_blank" onclick="addClicks(1726036883, 1110) ">合作交流</a></h3>
+    <div class="sub2">
+        <div class="sub2-content">
+            <div class="sub2-item"><a href="https://ied.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1121) ">国际交流</a></div>
+            <div class="sub2-item"><a href="https://ied.ecnu.edu.cn/37455/list.htm" target="_blank" onclick="addClicks(1726036883, 1122) ">港澳台交流</a></div>
+            <div class="sub2-item"><a href="http://chinese.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1123) ">国际中文教育</a></div>
+            <div class="sub2-item"><a href="https://shanghai.nyu.edu/" target="_blank" onclick="addClicks(1726036883, 1124) ">上海纽约大学</a></div>
+            <div class="sub2-item"><a href="https://ijec.ecnu.edu.cn" target="_blank" onclick="addClicks(1726036883, 1404) ">国际本科教育</a></div>
+            <div class="sub2-item"><a href="http://foundation.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1125) ">教育基金会</a></div>
+            <div class="sub2-item"><a href="http://alumni.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1276) ">校友会</a></div>
+
+    </div>
+</div>
+</div>
+
+
+<div class="sub1-item item7"><h3><a href="#" target="_blank" onclick="addClicks(1726036883, 1111) ">校园生活</a></h3>
+    <div class="sub2">
+        <div class="sub2-content">
+            <div class="sub2-item"><a href="https://xsgzb.ecnu.edu.cn/main.htm" target="_blank" onclick="addClicks(1726036883, 1112) ">学生工作部</a></div>
+            <div class="sub2-item"><a href="https://zizhu.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1113) ">学生资助管理中心</a></div>
+            <div class="sub2-item"><a href="http://xlzx.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1114) ">心理健康教育与咨询中心</a></div>
+            <div class="sub2-item"><a href="http://www.zhuli.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1117) ">学生校长助理</a></div>
+            <div class="sub2-item"><a href="https://bksy.ecnu.edu.cn/c7/d7/c40558a706519/page.htm" target="_blank" onclick="addClicks(1726036883, 1119) ">校历</a></div>
+            <div class="sub2-item"><a href="http://houqin.ecnu.edu.cn/28837/list.htm" target="_blank" onclick="addClicks(1726036883, 1120) ">班车时刻表</a></div>
+
+    </div>
+</div>
+</div>
+</div>
+</div>
+</li>
+
+
+<li class="li2">
+    <span class="nav2"><a>快速到达</a></span>
+    <div class="sub3">
+        <div class="sub3-content">
+
+
+            <div class="sub3-item"><a href="https://mail.ecnu.edu.cn/login" target="_blank" onclick="addClicks(1726036883, 1012) ">学校邮箱</a></div>
+
+
+
+            <div class="sub3-item"><a href="https://idc.ecnu.edu.cn" target="_blank" onclick="addClicks(1726036883, 1015) ">公共数据库</a></div>
+
+
+
+            <div class="sub3-item"><a href="https://lib.ecnu.edu.cn" target="_blank" onclick="addClicks(1726036883, 1016) ">图书馆</a></div>
+
+
+
+            <div class="sub3-item"><a href="https://elearning.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1017) ">大夏学堂</a></div>
+
+
+
+            <div class="sub3-item"><a href="https://faculty.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1024) ">教师名录</a></div>
+
+
+
+            <div class="sub3-item"><a href="http://zzb.ecnu.edu.cn/_upload/tpl/09/17/2327/template2327/gbgz/gbgz.html" target="_blank" onclick="addClicks(1726036883, 1023) ">干部公示</a></div>
+
+
+
+            <div class="sub3-item"><a href="https://jobs.ecnu.edu.cn/product/recruit/website/RecruitIndex.jsp?FM_SYS_ID=hdsfdx_hr" target="_blank" onclick="addClicks(1726036883, 1018) ">人才招聘平台</a></div>
+
+
+
+            <div class="sub3-item"><a href="https://bksy.ecnu.edu.cn/c7/d7/c40558a706519/page.htm" target="_blank" onclick="addClicks(1726036883, 1027) ">校历</a></div>
+
+
+
+            <div class="sub3-item"><a href="http://archives.ecnu.edu.cn/public/" target="_blank" onclick="addClicks(1726036883, 1025) ">校史上的今天</a></div>
+
+
+
+            <div class="sub3-item"><a href="https://3dmap.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1021) ">校园地图</a></div>
+
+
+
+            <div class="sub3-item"><a href="http://museum.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1028) ">博物馆</a></div>
+
+
+
+            <div class="sub3-item"><a href="http://mpi.ecnu.edu.cn" target="_blank" onclick="addClicks(1726036883, 1394) ">公共创新服务平台</a></div>
+
+
+
+            <div class="sub3-item"><a href="http://wmzx.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1019) ">文明在线</a></div>
+
+
+
+            <div class="sub3-item"><a href="http://foundation.ecnu.edu.cn/3395/list.htm" target="_blank" onclick="addClicks(1726036883, 1022) ">我要捐赠</a></div>
+
+    </div>
+    </div>
+</li>
+
+
+<li class="li3"><span class="nav3"><a href="tzgg.htm" target="_blank">通知公告</a></span></li>
+
+
+
+
+<li class="li4"><span class="nav4"><a>按类型选择</a></span>
+    <div class="sub4">
+        <div class="sub4-content">
+            <div class="sub4-item"><a href="https://zsjy.ecnu.edu.cn/" target="_blank" onclick="addClicks(1726036883, 1514) ">终身学习者</a></div>
+            <div class="sub4-item"><a href="https://alumni.ecnu.edu.cn/xyh/home" target="_blank" onclick="addClicks(1726036883, 1304) ">毕业校友</a></div>
+            <div class="sub4-item"><a href="alxxz/wlxs.htm" target="_blank">未来学生</a></div>
+            <div class="sub4-item"><a href="http://www.jobs.ecnu.edu.cn/product/recruit/website/RecruitIndex.jsp?FM_SYS_ID=hdsfdx_hr" target="_blank" onclick="addClicks(1726036883, 1056) ">人才招聘</a></div>
+            <div class="sub4-item"><a href="alxxz/zxxs.htm" target="_blank">在校学生</a></div>
+            <div class="sub4-item"><a href="alxxz/jzyg1.htm" target="_blank">教职员工</a></div>
+
+    </div>
+    </div>
+</li>
+
+
+
+
+
+
+
+
+
+<li class="li5 show-search"><span class="nav5"><a>搜索</a></span></li>
+</ul>
+</div>
+<!--menu end-->
+<!--头部-->
+<div class="header">
+<div class="logo">
+
+
+
+
+<a href="index.htm"><img src="images/logo.svg" width="510" height="90" alt="华东师范大学" /></a></div>
+<div class="video" style="background-image:url(images/QQ20250723-180512.png)">
+
+<video id="video" x5-video-player-type="h5" x5-video-player-fullscreen="false" playsinline webkit-playsinline src="video/7yue23ri1_0723_180118.mp4" autoplay="" loop="" muted=""></video>
+<span></span></div>
+<script>
+document.addEventListener("WeixinJSBridgeReady",function() { 
+    document.getElementById('video').play(); 
+}, false);
+</script>
+<div class="header-wz">
+    <script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<img src="images/599259db264d28d87e3de4774f23f63.png">
+
+
+
+</div>
+
+<div class="menu1"><span></span><span></span><span></span></div>
+
+</div>
+<!--头部 end-->
+<!--search-->
+<div class="search-drop">
+<div class="search-close"></div>
+<div class="search-content">
+<h3>搜索<br>你想要找的</h3>
+<script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode1086').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1086").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1086").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1086").value = base64.encode(document.getElementById("lucenenewssearchkey1086").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1086"));
+        return true;
+    } 
+</script>
+<form action="jzbg/ssjg.jsp?wbtreeid=1001" method="post" id="au3a" name="au3a" onsubmit="return _nl_ys_check()" class="form">
+ <input type="hidden" id="lucenenewssearchkey1086" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype1086" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope1086" name="searchScope" value="1">
+
+ 
+ 
+ <input type="text" value="" name="showkeycode" id="showkeycode1086" class="search-txt" placeholder="请输入关键词检索相关内容" />
+<input type="submit" value="" class="search-button" id="lucenenewssearbt" />
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+<script>
+function autos(o)
+{
+var text = o.innerHTML
+document.getElementById("showkeycode1086").value=text;
+if(document.getElementById("au3a").onsubmit())
+{
+document.getElementById("au3a").submit()
+}
+
+}
+</script>
+
+
+</div>
+</div>
+<!--search end-->
+<div class="clr"></div>
+<div class="content">
+
+<div class="news">
+
+<h3><a href="xwlm/xwrd.htm">新闻热点</a></h3>
+<div class="news-content">
+
+
+
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/centerCutImg.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="news-1 fl">
+
+    <div class="news-pic"><a href="info/1094/72204.htm" target="_blank"><img src="/__local/C/F4/5D/06AE67140D1485EA2F540100308_BBE15664_541FD.jpg" width="820" height="420" alt="" /></a></div>
+    <div class="news-bottom">
+        <h4><a href="info/1094/72204.htm" target="_blank">市委书记陈吉宁调研华东师范大学</a></h4>
+        <span><a href="#">
+        </a></span>
+        <p>2026-05-12</p>
+    </div>
+   
+</div>
+
+<div class="news-2 ">
+    <div class="news-2pic">
+        <a href="info/1094/72300.htm" target="_blank"><samp><img src="/__local/0/F4/BA/45CEADD6DE61E1E56187B72A37D_02EFE91E_42CD1.jpg" width="390" height="210" alt="" /></samp></a>
+        
+    </div>
+    <div class="news-info">
+        <a href="info/1094/72300.htm" target="_blank"><span>华东师大临港发展基金捐赠仪式举行</span></a>
+    </div>
+    <div class="news-other">
+        <span><a href="#">
+        </a></span>
+        <em>2026-05-20</em>
+    </div>
+    
+</div>
+
+<div class="news-2 ">
+    <div class="news-2pic">
+        <a href="info/1094/72298.htm" target="_blank"><samp><img src="/__local/0/F5/A9/4FF9D467E42AB2B343A387D782C_58FFD554_6E879.jpg" width="390" height="210" alt="" /></samp></a>
+        
+    </div>
+    <div class="news-info">
+        <a href="info/1094/72298.htm" target="_blank"><span>华东师大党委理论学习中心组举行集体学习会</span></a>
+    </div>
+    <div class="news-other">
+        <span><a href="#">
+                    <a href="https://www.ecnu.edu.cn/info/contenttag/1213.htm">理论学习</a>
+        </a></span>
+        <em>2026-05-19</em>
+    </div>
+    
+</div>
+
+<div class="news-2 fl">
+    <div class="news-2pic">
+        <a href="info/1094/72297.htm" target="_blank"><samp><img src="/__local/B/AE/F7/3DACB770744DD7B9A4970F8301C_6C711CBE_92088.jpg" width="390" height="210" alt="" /></samp></a>
+        
+    </div>
+    <div class="news-info">
+        <a href="info/1094/72297.htm" target="_blank"><span>澳门千名教师精英培训计划（第十六期）在华东师大启动</span></a>
+    </div>
+    <div class="news-other">
+        <span><a href="#">
+                    <a href="https://www.ecnu.edu.cn/info/contenttag/1181.htm">合作交流</a>
+                        |
+                    <a href="https://www.ecnu.edu.cn/info/contenttag/1041.htm">教育+</a>
+        </a></span>
+        <em>2026-05-19</em>
+    </div>
+    
+</div>
+
+<div class="news-2 ">
+    <div class="news-2pic">
+        <a href="info/1094/72291.htm" target="_blank"><samp><img src="/__local/C/1D/EC/7115524875BF77691F2C547A880_525749CA_7C8AA.jpg" width="390" height="210" alt="" /></samp></a>
+        
+    </div>
+    <div class="news-info">
+        <a href="info/1094/72291.htm" target="_blank"><span>高能与低能核物理交叉学术研讨会在华东师大举行</span></a>
+    </div>
+    <div class="news-other">
+        <span><a href="#">
+                    <a href="https://www.ecnu.edu.cn/info/contenttag/1024.htm">卓越学术</a>
+        </a></span>
+        <em>2026-05-19</em>
+    </div>
+    
+</div>
+
+<div class="news-2 ">
+    <div class="news-2pic">
+        <a href="info/1094/72265.htm" target="_blank"><samp><img src="/__local/4/12/B4/A6A595BE56CDB5D500C5DF48454_1EFE7542_BABA8.jpg" width="390" height="210" alt="" /></samp></a>
+        
+    </div>
+    <div class="news-info">
+        <a href="info/1094/72265.htm" target="_blank"><span>“从国际理解到全球胜任力教育：文明互鉴、中国智慧与学校实践”主题学术论坛举行</span></a>
+    </div>
+    <div class="news-other">
+        <span><a href="#">
+                    <a href="https://www.ecnu.edu.cn/info/contenttag/1024.htm">卓越学术</a>
+        </a></span>
+        <em>2026-05-18</em>
+    </div>
+    
+</div>
+
+<div class="news-2 news-2-2">
+<div class="news-3pic">
+
+<a href="info/1094/72263.htm" target="_blank"><samp><img src="/__local/6/61/4E/ABF66449A21C2DBCED97085430E_96446415_5CC93.jpg" width="390" height="420" alt=""></samp>
+<span>科技教育推广月（高中学段）暨普通高中科技教育研讨会举行</span>
+</a>
+</div>
+ <div class="news-other">
+        <span><a href="#">
+                    <a href="https://www.ecnu.edu.cn/info/contenttag/1024.htm">卓越学术</a>
+        </a></span>
+        <em>2026-05-18</em>
+    </div>
+
+</div>
+
+<div class="news-2 fl">
+    <div class="news-2pic">
+        <a href="info/1094/72262.htm" target="_blank"><samp><img src="/__local/3/C7/FB/A2AD0ABDD648DA11E1D26BF35A5_B92D768B_500CC.jpg" width="390" height="210" alt="" /></samp></a>
+        
+    </div>
+    <div class="news-info">
+        <a href="info/1094/72262.htm" target="_blank"><span>巴西教育部代表团访问华东师大</span></a>
+    </div>
+    <div class="news-other">
+        <span><a href="#">
+                    <a href="https://www.ecnu.edu.cn/info/contenttag/1181.htm">合作交流</a>
+        </a></span>
+        <em>2026-05-18</em>
+    </div>
+    
+</div>
+
+<div class="news-2 news-2-2">
+<div class="news-3pic">
+
+<a href="info/1094/72253.htm" target="_blank"><samp><img src="/__local/A/5D/ED/BF88305064FA36F07C0E378D013_8BE2B3E7_82C37.jpg" width="390" height="420" alt=""></samp>
+<span>教育部生物科学“101计划”《生物化学》《生物化学实验》教材研讨会暨生物化学虚拟教研室启动会在华东师大举行</span>
+</a>
+</div>
+ <div class="news-other">
+        <span><a href="#">
+                    <a href="https://www.ecnu.edu.cn/info/contenttag/1011.htm">卓越育人</a>
+                        |
+                    <a href="https://www.ecnu.edu.cn/info/contenttag/1041.htm">教育+</a>
+        </a></span>
+        <em>2026-05-17</em>
+    </div>
+
+</div>
+
+<div class="news-2 ">
+    <div class="news-2pic">
+        <a href="info/1094/72252.htm" target="_blank"><samp><img src="/__local/8/C5/01/CF2DB063AB313EE103B47638DE6_CD3888ED_29B48.jpg" width="390" height="210" alt="" /></samp></a>
+        
+    </div>
+    <div class="news-info">
+        <a href="info/1094/72252.htm" target="_blank"><span>构建中国特色哲学社会科学的华东师大实践成果汇展暨学术论坛举行</span></a>
+    </div>
+    <div class="news-other">
+        <span><a href="#">
+                    <a href="https://www.ecnu.edu.cn/info/contenttag/1024.htm">卓越学术</a>
+        </a></span>
+        <em>2026-05-17</em>
+    </div>
+    
+</div>
+
+<div class="news-2 ">
+    <div class="news-2pic">
+        <a href="info/1094/72247.htm" target="_blank"><samp><img src="/__local/C/FA/40/4ABAB9829EA57C09AE56E69126A_FBBDFC07_1FB6B4.jpg" width="390" height="210" alt="" /></samp></a>
+        
+    </div>
+    <div class="news-info">
+        <a href="info/1094/72247.htm" target="_blank"><span>华东师范大学举办2026年离退休党支部书记培训班</span></a>
+    </div>
+    <div class="news-other">
+        <span><a href="#">
+                    <a href="https://www.ecnu.edu.cn/info/contenttag/1261.htm">党纪学习教育</a>
+        </a></span>
+        <em>2026-05-16</em>
+    </div>
+    
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u4_72204','dynclicks_u4_72300','dynclicks_u4_72298','dynclicks_u4_72297','dynclicks_u4_72291','dynclicks_u4_72265','dynclicks_u4_72263','dynclicks_u4_72262','dynclicks_u4_72253','dynclicks_u4_72252','dynclicks_u4_72247'],[72204,72300,72298,72297,72291,72265,72263,72262,72253,72252,72247],"wbnews", 1726036883)</script>
+</div>
+<div class="clr"></div>
+
+
+<div class="news-more more2" style="display:block"><a class="more" target="_blank" href="xwlm/xwrd.htm">查看更多</a></div>
+
+<div class="clr"></div>
+</div>
+
+
+<div class="news" style="width:100%;">
+<h3><a>专题聚焦</a></h3>
+
+<div class="ztjjbox">
+  <div class="swiper-container  swiper-3d">    <div class="swiper-wrapper">
+                   <div class="swiper-slide">
+                  <div>
+                        <a href="https://www.ecnu.edu.cn/info/contenttag/1341.htm" title="树立和践行正确政绩观学习教育" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 75205)" target="_blank">
+                            <img src="images/jiaoyujiajingshen-2025616.jpg" border="0" width="100%">
+                        </a>  
+                    </div>
+                    <p>树立和践行正确政绩观学习教育</p> 
+                </div>
+               <div class="swiper-slide">
+                  <div>
+                        <a href="https://www.ecnu.edu.cn/info/contenttag/1281.htm" title="弘扬践行教育家精神" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 75177)" target="_blank">
+                            <img src="images/53691ef7a4544f31e12495d9d38f1c3.jpg" border="0" width="100%">
+                        </a>  
+                    </div>
+                    <p>弘扬践行教育家精神</p> 
+                </div>
+               <div class="swiper-slide">
+                  <div>
+                        <a href="https://www.ecnu.edu.cn/info/contenttag/1313.htm" title="光华百年" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 75166)" target="_blank">
+                            <img src="images/8d269146d48f9cee29fc2fc05aa8526.jpg" border="0" width="100%">
+                        </a>  
+                    </div>
+                    <p>光华百年</p> 
+                </div>
+               <div class="swiper-slide">
+                  <div>
+                        <a href="https://www.ecnu.edu.cn/info/contenttag/1262.htm" title="AI在华东师大" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 75115)" target="_blank">
+                            <img src="images/ztjj1-1.jpg" border="0" width="100%">
+                        </a>  
+                    </div>
+                    <p>AI在华东师大</p> 
+                </div>
+               <div class="swiper-slide">
+                  <div>
+                        <a href="https://www.ecnu.edu.cn/info/contenttag/1011.htm" title="卓越育人" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 75117)" target="_blank">
+                            <img src="images/zhuoyue07242.png" border="0" width="100%">
+                        </a>  
+                    </div>
+                    <p>卓越育人</p> 
+                </div>
+               <div class="swiper-slide">
+                  <div>
+                        <a href="https://www.ecnu.edu.cn/info/contenttag/1024.htm" title="卓越学术" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 75118)" target="_blank">
+                            <img src="images/zhuoyue07243.png" border="0" width="100%">
+                        </a>  
+                    </div>
+                    <p>卓越学术</p> 
+                </div>
+               <div class="swiper-slide">
+                  <div>
+                        <a href="https://www.ecnu.edu.cn/info/contenttag/1221.htm" title="卓越服务" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 75124)" target="_blank">
+                            <img src="images/zhuoyue07241.png" border="0" width="100%">
+                        </a>  
+                    </div>
+                    <p>卓越服务</p> 
+                </div>
+    </div>
+    
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-pagination"></div></div>
+</div>
+
+<div class="news-more more1" style="float:none;"><a class="more" target="_blank" href="xwlm/ztjj.htm">查看全部</a></div>
+ 
+  <script>
+     var swiper = new Swiper('.ztjjbox .swiper-container', {
+      loop: true, 
+      autoplay: {
+        delay: 4000,
+        disableOnInteraction: false,
+      },
+      speed: 500,
+      effect: "coverflow",
+      grabCursor: true,
+      centeredSlides: true,
+      slidesPerView: "4",
+      coverflowEffect: {
+        rotate: 30,
+        stretch: 38.4,
+        depth: 50,
+        modifier: 1,
+        slideShadows: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+       breakpoints: {
+       
+       1700: {  
+              slidesPerView:"4",
+              coverflowEffect: {
+                    rotate: 30,
+                    stretch: 44,
+                    depth: 44,
+               }
+            },
+            1500: {  
+              slidesPerView:"4",
+              coverflowEffect: {
+                    rotate: 30,
+                    stretch: 50,
+                    depth: 50,
+               }
+            },
+             1300: {  
+              slidesPerView:"4",
+              coverflowEffect: {
+                    rotate: 30,
+                    stretch: 48,
+                    depth: 48,
+               }
+            },
+            1024: {  
+              slidesPerView:"4",
+              coverflowEffect: {
+                    rotate: 28,
+                    stretch: 41,
+                    depth: 41,
+               },
+            },
+            950: {  
+              slidesPerView:"4",
+              coverflowEffect: {
+                    rotate: 27,
+                    stretch: 39,
+                    depth: 39,
+               },
+            },
+             900: {  
+              slidesPerView:"4",
+              coverflowEffect: {
+                    rotate: 25,
+                    stretch: 35,
+                    depth: 35,
+               },
+            },
+            768: {  
+              slidesPerView:"2",
+              coverflowEffect: {
+                    rotate: 40,
+                    stretch: 50,
+                    depth: 50,
+               },
+            }  
+            
+     },
+      on:{
+        transitionStart: function(swiper){
+        
+              $('.ztjjbox .swiper-slide').each(function () {
+                    var currentTransform = $(this)[0].style.transform;
+                    if (currentTransform.indexOf('scale') > -1) {
+                        currentTransform = currentTransform.replace(/scale\(([^)]+)\)/g, 'scale(0.86)');
+                    } else {
+                        currentTransform = currentTransform + ' scale(0.86)'
+                    }
+                    $(this)[0].style.transform = currentTransform;
+                });
+
+                var transform_prev = $('.ztjjbox .swiper-slide-prev')[0].style.transform;
+                if (transform_prev.indexOf('scale') > -1) {
+                    transform_prev = transform_prev.replace(/scale\(([^)]+)\)/g, 'scale(0.89)');
+                }else {
+                    transform_prev = transform_prev + ' scale(0.89)'
+                }
+                $('.ztjjbox .swiper-slide-prev')[0].style.transform = transform_prev;
+                var transform_next = $('.ztjjbox .swiper-slide-next')[0].style.transform;
+                if (transform_next.indexOf('scale') > -1) {
+                    transform_next = transform_next.replace(/scale\(([^)]+)\)/g, 'scale(0.89)');
+                }else {
+                    transform_next = transform_next + ' scale(0.89)'
+                }
+                $('.ztjjbox .swiper-slide-next')[0].style.transform = transform_next;
+        }
+    }
+    });
+  </script>
+
+
+
+<div class="clr" style="height:6px;width:100%;margin-top:5%;visibility: visible;"></div>
+
+</div>
+
+
+
+<div class="mt" style="margin-top:0;">
+<h3><a href="xwlm/mtgz1/xzgd.htm" target="_blank">媒体关注</a></h3>
+<div class="mt-content">
+<div class="mt-left">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul>
+
+   <li class="first"><a href="info/1426/72296.htm" target="_blank" title="长江的未来：从“病后初愈”迈向“强身健体”">
+   <div><samp><img class="lazy" data-original="/__local/7/FB/77/59A1A93441B73C6EFEB1A7CF8C4_E210229C_138CA.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+   <h4>长江的未来：从“病后初愈”迈向“强身健体”</h4></div>
+   <div>
+            <img class="lazy" data-original="/__local/E/03/85/8F88D8D330B476F20D750FE86CE_7E5B001B_147D5.png" src="" />
+   <span>2026-05-19</span>
+   </div>
+   </a></li>
+   
+
+   <li class=""><a href="info/1426/72295.htm" target="_blank" title="普京访华深化中俄战略协作">
+   <div><samp><img class="lazy" data-original="/__local/B/60/ED/D9A6E362BF7E05C06DAD9FA751E_CB603281_7184.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+   <h4>普京访华深化中俄战略协作</h4></div>
+   <div>
+            <img class="lazy" data-original="/__local/5/45/24/46C51D7852081E4FEB652CDC7F8_ED79CB4E_CE94.png" src="" />
+   <span>2026-05-19</span>
+   </div>
+   </a></li>
+   
+
+   <li class=""><a href="info/1425/72261.htm" target="_blank" title="文军：仅停留于中外之争、立场之辩表层，难以触及“自主”问题的实质">
+   <div><samp><img class="lazy" data-original="/__local/9/D5/08/D5A19A19DC8CC93F183C5F16C13_0CACBE85_BB4A.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+   <h4>文军：仅停留于中外之争、立场之辩表层，难以触及“自主”问题的实质</h4></div>
+   <div>
+            <img class="lazy" data-original="/__local/0/6D/95/F46126B6183CEF9EF14A793AFFE_8408F6FF_2D730.png" src="" />
+   <span>2026-05-18</span>
+   </div>
+   </a></li>
+   
+</ul><script>_showDynClickBatch(['dynclicks_u6_72296','dynclicks_u6_72295','dynclicks_u6_72261'],[72296,72295,72261],"wbnews", 1726036883)</script></div>
+<div class="mt-center">
+
+<div class="swiper-container">
+<div class="swiper-wrapper">
+
+<div class="swiper-slide">
+    <a href="info/1426/72294.htm" target="_blank">
+        <samp class="bttd1"><img class="lazy bttd" data-original="/__local/D/AE/5E/190A731DF89C50F15ED36F8027F_92451B79_6754F.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+        <div class="center-tit flex">
+           <span>
+            <img class="lazy" data-original="/__local/F/43/51/5B6A3485E62DF32DD5A8621DA8E_159430C7_F009.jpg" src="" />
+        </span>     
+        <h4>华东师大举办构建中国特色哲学社会科学实践成果汇展活动</h4>
+        <em><b>18</b>2026-05</em>
+     </div>
+    </a>
+</div>
+
+
+<div class="swiper-slide">
+    <a href="info/1426/72260.htm" target="_blank">
+        <samp class="bttd1"><img class="lazy bttd" data-original="/__local/B/DE/30/AF77F2351F67FB6822116802B0E_DC5410E5_E4DE.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+        <div class="center-tit flex">
+           <span>
+            <img class="lazy" data-original="/system/resource/images/2832559CE608F0A9145E8566F2C_1C8F82D9_889A.png" src="" />
+        </span>     
+        <h4>媒体关注丨上海高校哲学社会科学八大学科门类全覆盖，正培育新兴交叉学科增长极</h4>
+        <em><b>18</b>2026-05</em>
+     </div>
+    </a>
+</div>
+
+
+<div class="swiper-slide">
+    <a href="info/1426/72258.htm" target="_blank">
+        <samp class="bttd1"><img class="lazy bttd" data-original="/__local/0/E7/C3/7491CE78BB8E4B816BBAA38FB97_65CB39BD_2C2C7.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+        <div class="center-tit flex">
+           <span>
+            <img class="lazy" data-original="/system/resource/images/2832559CE608F0A9145E8566F2C_1C8F82D9_889A.png" src="" />
+        </span>     
+        <h4>媒体关注丨从二十四节气到中药香气，生态艺术疗愈在华师大呈现“中国表达”</h4>
+        <em><b>18</b>2026-05</em>
+     </div>
+    </a>
+</div>
+
+
+<div class="swiper-slide">
+    <a href="info/1426/72256.htm" target="_blank">
+        <samp class="bttd1"><img class="lazy bttd" data-original="/__local/3/49/14/E518144E5D03E0FFCFEEBA0618D_BE658521_1C8CA.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+        <div class="center-tit flex">
+           <span>
+            <img class="lazy" data-original="/system/resource/images/2832559CE608F0A9145E8566F2C_1C8F82D9_889A.png" src="" />
+        </span>     
+        <h4>媒体关注丨孩子沉迷手机、厌学怎么办？华师大升级智能体“专家式”助力家长解难题</h4>
+        <em><b>18</b>2026-05</em>
+     </div>
+    </a>
+</div>
+
+
+<div class="swiper-slide">
+    <a href="info/1426/72255.htm" target="_blank">
+        <samp class="bttd1"><img class="lazy bttd" data-original="/__local/C/0F/12/C6FE9A203EB46B423A17C1E4582_ACBB54BE_E501.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+        <div class="center-tit flex">
+           <span>
+            <img class="lazy" data-original="/system/resource/images/2832559CE608F0A9145E8566F2C_1C8F82D9_889A.png" src="" />
+        </span>     
+        <h4>媒体关注丨华东师大新增6个本科专业，今年开始招生</h4>
+        <em><b>18</b>2026-05</em>
+     </div>
+    </a>
+</div>
+
+
+<div class="swiper-slide">
+    <a href="info/1426/72213.htm" target="_blank">
+        <samp class="bttd1"><img class="lazy bttd" data-original="/__local/7/10/8E/3DD9949E6BF3999D4AC939DBB63_598FB192_1D509.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+        <div class="center-tit flex">
+           <span>
+            <img class="lazy" data-original="/system/resource/images/2832559CE608F0A9145E8566F2C_1C8F82D9_889A.png" src="" />
+        </span>     
+        <h4>媒体关注丨陈吉宁围绕贯彻落实加强基础研究座谈会精神，在上海交通大学和华东师范大学调研</h4>
+        <em><b>12</b>2026-05</em>
+     </div>
+    </a>
+</div>
+
+</div>
+<div class="swiper-pagination"></div>
+</div><script>_showDynClickBatch(['dynclicks_u7_72294','dynclicks_u7_72260','dynclicks_u7_72258','dynclicks_u7_72256','dynclicks_u7_72255','dynclicks_u7_72213'],[72294,72260,72258,72256,72255,72213],"wbnews", 1726036883)</script>
+</div>
+<div class="mt-left">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul>
+   <li class=""><a href="info/1426/72259.htm" target="_blank" title="你的AI科研“搭子”靠谱吗">
+   <div><samp><img class="lazy" data-original="/__local/5/F0/6E/8AA663225F9517868B0821D3D08_E20FCA55_7D80.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+   <h4>你的AI科研“搭子”靠谱吗</h4></div>
+   <div>
+            <img class="lazy" data-original="/__local/F/43/51/5B6A3485E62DF32DD5A8621DA8E_159430C7_F009.jpg" src="" />
+   <span>2026-05-18</span>
+   </div>
+   </a></li>
+   <li class=""><a href="info/1426/72257.htm" target="_blank" title="美国姑娘宋莉乐：把“中国之美”穿在身上">
+   <div><samp><img class="lazy" data-original="/__local/1/B2/E2/520845D23FF1AA4827EDF966683_D122C4AF_F001.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+   <h4>美国姑娘宋莉乐：把“中国之美”穿在身上</h4></div>
+   <div>
+            <img class="lazy" data-original="/__local/5/91/F8/8BF9D588B8C9991936155E82FEB_65AFD608_AE0A.jpeg" src="" />
+   <span>2026-05-18</span>
+   </div>
+   </a></li>
+   <li class="first"><a href="info/1426/72254.htm" target="_blank" title="健康第一·高校体育风采丨华东师大：聚焦以体育人，打造“品牌+公益+文化+学科”新格局">
+   <div><samp><img class="lazy" data-original="/__local/B/6B/B4/E7593D9B12A279115C3A513DAE5_83CE4605_1F281.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="536" height="302" alt="" /></samp>
+   <h4>健康第一·高校体育风采丨华东师大：聚焦以体育人，打造“品牌+公益+文化+学科”新格局</h4></div>
+   <div>
+            <img class="lazy" data-original="/__local/1/79/5F/9579A175340EDECDD9FE6DC36CC_7705DC6B_3733.jpg" src="" />
+   <span>2026-05-17</span>
+   </div>
+   </a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_72296','dynclicks_u8_72295','dynclicks_u8_72261','dynclicks_u8_72259','dynclicks_u8_72257','dynclicks_u8_72254'],[72296,72295,72261,72259,72257,72254],"wbnews", 1726036883)</script></div>
+</div>
+<div class="genner-more"><a href="xwlm/mtgz1/xzgd.htm" target="_blank">查看全部</a></div>
+</div>
+<div class="clr"></div>
+
+<style>
+.mt-content .swiper-slide:hover {
+    box-shadow: none;}
+.mt-content{display:flex;}
+.mt-content .swiper-container {padding-bottom: 20px;}
+.mt-content .swiper-slide{height:auto;}
+.mt-content .swiper-slide a{height:auto;}
+.mt-content samp{height:50%;float:none;display:block;}
+.mt-content span{position: static;}
+.mt-content h4{margin-top: 0;height: auto;float:none;padding:0;}
+.mt-content .mt-left{width:25%;}
+.mt-content .mt-center{width:50%;margin: 0 2vw;}
+.mt-content .swiper-slide{background:none;}
+.mt-content .mt-center .center-tit{display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;}
+.mt-content .mt-center .center-tit>span{position: static;
+    display: flex;
+    background: #fff;
+    border-radius: 15px;
+    overflow: hidden;
+    width: 120px;
+    height: 120px;
+    justify-content: center;
+    align-items: center;box-shadow: 0px 0px 12px 4px rgba(0,0,0,0.04);
+    margin:40px;}
+.mt-content .mt-center .center-tit>span img {
+        height: auto;
+        width: auto;
+        max-width: 100%;
+        max-width: 100%;}
+.mt-content .mt-center .center-tit>h4{ float: none;width: 52%;font-size: 24px;}
+.mt-content .mt-center .center-tit>em{ position: static;color: #9b2033;padding: 0px 40px 3px;border-left: 1px solid #dfdfdf;text-align: center;margin-left:20px;}
+.mt-content .mt-center .center-tit>em b{  display: block;font-size: 50px;line-height: 50px;}  
+.mt-content .mt-center .swiper-pagination span{width: 6px;height: 6px;}
+.mt-content .mt-center .swiper-pagination span.swiper-pagination-bullet-active   {background:#9b2033;}   
+
+.mt-content .mt-left ul li{padding-bottom:21px;margin-bottom:21px;border-bottom:1px solid #dfdfdf;position:relative;}
+.mt-content .mt-left ul li:after{content:"";position:absolute;bottom:-1px;left:0;width:0;height:1px;background:#9b2033;transition: all 1s;}
+.mt-content .mt-left ul li:hover:after{width:100%;}
+.mt-content .mt-left ul li h4{line-height: 24px;}
+.mt-content .mt-left ul li>a>div{display: flex;width: 100%;flex-wrap: nowrap;justify-content: space-between;align-items: center;}
+.mt-content .mt-left ul li>a>div:nth-child(2) .lazy{height:30px;}
+.mt-content .mt-left ul li>a>div span{font-size: 14px;color: #666;}
+.mt-content .mt-left ul li>a>div:nth-child(1) samp{width: 65%;margin-right: 20px;}
+.mt-content .mt-left ul li>a>div:nth-child(1){margin-bottom:15px;}
+.mt-content .mt-left ul li.first h4{line-height: 24px;margin: 10px 0;height: 48px;}
+.mt-content .mt-left ul li.first>a>div:nth-child(1){display:block;margin-bottom:0;}
+.mt-content .mt-left ul li.first>a>div:nth-child(1) samp {width: 100%;margin: 0;}  
+.mt-content .mt-left ul li:hover div:nth-child(1) samp img {transform: scale(1.1);}
+.mt-content .mt-left ul li:hover h4 {color: #b70031;}
+
+
+
+@media screen and (max-width: 850px) {
+.mt-content { flex-wrap: wrap;}
+
+.mt-content .swiper-container {padding-bottom: 15px;}
+.mt-content .mt-left{width:100%;}
+.mt-content .mt-center{width:100%;margin:20px 0;order: -1;}
+.mt-content .mt-center .swiper-pagination{position: static;margin-top: 20px;}
+.mt-content .mt-center .center-tit>em b{ font-size: 40px;line-height: 40px;}
+.mt-content .mt-center .center-tit>h4{ width: 66%;font-size:15px;}
+.mt-content .mt-center .center-tit>em{ padding: 0px 10px 3px;width: 14vw;} 
+.mt-content .mt-center .center-tit>span{        margin-right: 20px;
+        border-radius: 10px;
+        width: 60px;
+        height: 40px;
+        margin-left: 20px;}
+.mt-content .mt-left ul li.first>a>div:nth-child(1) samp{width: 65%;margin-right: 20px;}
+.mt-content .mt-left ul li.first>a>div:nth-child(1){margin-bottom: 15px;display: flex;}
+}
+</style>
+
+<div class="content-2">
+<h3><a href="xwlm/fzjj.htm" target="_blank">发展聚焦</a></h3>
+<div class="content-slide">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+
+
+
+
+
+
+
+
+     <div class="swiper-slide">
+                    <div class="content-left"><img class="lazy" data-original="/__local/D/1B/05/D2D3EA373F6445FE951CDC0FF61_2FD01F8D_AD0E5.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="1280" height="720" alt="" /></div>
+                    <div class="content-right">
+                        <div class="content-rs">
+                                   <em>幸福之花战略</em>
+                           
+                            <h4><a href="info/1096/60204.htm" target="_blank">华东师范大学《卓越学术纲要》《卓越育人纲要》《通识课程纲要》</a></h4>
+                            <p>全面实施卓越纲要　奋力谱写教育华章　　1951 年 10 月，华东师范大学在大夏大学（1924 年）和光华大学（1925 年）等校基础上正式成立，成为新中国成立后新组建的第一所社会主义师范大学。菁莪育士，薪火传道；历苦弥坚，行健不息。70 年来，华东师范大学始终牢记为党育人、为国育才办学初心，全面贯彻党的教育方针，深入落实立德树人根本任务，秉承“智慧的创获，品性的陶熔，民族和社会的发展”之大学理想，恪守“求实创造，...</p>
+                        </div>
+                    </div>
+                </div>
+     <div class="swiper-slide">
+                    <div class="content-left"><img class="lazy" data-original="/__local/4/F3/93/6F9F5D4735E7599F585E68A2268_995C99EB_4737D.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="1280" height="720" alt="" /></div>
+                    <div class="content-right">
+                        <div class="content-rs">
+                                   <em>幸福之花战略</em>
+                           
+                            <h4><a href="info/1096/59479.htm" target="_blank">华东师大“十四五”发展规划发布</a></h4>
+                            <p>点击图片跳转全文　　《华东师范大学“十四五”发展规划》（以下简称《规划》）日前正式印发。　　“十四五”时期是我国开启全面建设社会主义现代化国家新征程、向第二个百年奋斗目标进军的第一个五年，也是加快建设高质量教育体系，推进教育现代化、建设教育强国、办好人民满意的教育的关键时期。　　育才造士，为国之本。站在“两个一百年”的历史交汇点，华东师范大学以习近平新时代中国特色社会主义思想为指引，立足新发展...</p>
+                        </div>
+                    </div>
+                </div>
+     <div class="swiper-slide">
+                    <div class="content-left"><img class="lazy" data-original="/__local/1/0C/75/9D8EBAE680B6B8F828884AF71EE_D492D99E_60406.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="1280" height="720" alt="" /></div>
+                    <div class="content-right">
+                        <div class="content-rs">
+                                   <em>70周年校庆</em>
+                           
+                            <h4><a href="info/1096/58378.htm" target="_blank">量子思维宣言 The Manifesto of Quantum Thinking</a></h4>
+                            <p>量子论既适用于微观、部分宏观和宏观世界，也适用于生命、生态的世界。而基于量子论的量子思维，更可能适合于作为生态特例的人类社会。量子思维揭示人类思维方式的叠加、纠缠、不确定、跃变等，是普遍而正常的真实存在，明晰这些，对人文社会科学创新、学校教育、组织管理和经济建设、产业发展和社会治理，必将产生重要而深远的意义。</p>
+                        </div>
+                    </div>
+                </div>
+
+<div class="swiper-pagination"></div><script>_showDynClickBatch(['dynclicks_u9_60204','dynclicks_u9_59479','dynclicks_u9_58378'],[60204,59479,58378],"wbnews", 1726036883)</script>
+</div>
+</div>
+</div>
+<div class="content-pannel">
+
+
+
+
+
+
+
+
+<div class="content-item">
+<em>2024-04-24</em>
+<span>
+
+                   <a href="jzbg/fznews_details.jsp?urltype=news.NewsContentUrl&wbtreeid=1096&wbnewsid=66188">教师教育</a>
+            </span>
+<h4><a href="jzbg/fznews_details.jsp?urltype=news.NewsContentUrl&wbtreeid=1096&wbnewsid=66188" target="_blank">华东师范大学教师教育发展报告（2013-2022）</a></h4>
+</div>
+<div class="content-item">
+<em>2022-05-19</em>
+<span>
+
+                   <a href="info/1096/60204.htm">幸福之花战略</a>
+            </span>
+<h4><a href="info/1096/60204.htm" target="_blank">华东师范大学《卓越学术纲要》《卓越育人纲要》《通识课程纲要》</a></h4>
+</div>
+<div class="content-item">
+<em>2022-01-04</em>
+<span>
+
+                   <a href="info/1096/59479.htm">幸福之花战略</a>
+            </span>
+<h4><a href="info/1096/59479.htm" target="_blank">华东师大“十四五”发展规划发布</a></h4>
+</div>
+<div class="clr"></div><script>_showDynClickBatch(['dynclicks_u10_66188','dynclicks_u10_60204','dynclicks_u10_59479'],[66188,60204,59479],"wbnews", 1726036883)</script>
+</div>
+<div class="genner-more"><a href="xwlm/fzjj.htm" target="_blank">查看全部</a></div>
+</div>
+<div class="clr"></div>
+
+
+
+
+
+<div class="report">
+<h3><a href="wzcd/xsyj/xswh.htm" target="_blank">学术文化</a></h3>
+<div class="report-list">
+
+<div class="report-1 lazy" data-original="/__local/9/E9/F0/9F6A330896F7E104DAB97AF3DC8_F9CE8D06_53716.jpg" style="background-image:url(data:image/png">
+    <a href="info/1034/72203.htm" target="_blank">
+    <div class="remask"></div>
+       <em class="stat3">已结束</em>
+        <div class="report-s">
+            <span style="display:none">2026-05-17</span>
+            <h4>5月20日 肖崴：祛魅中国武术——从神话、困境到重生</h4>
+        </div>
+    </a>
+</div>
+<div class="report-2 lazy" data-original="/__local/5/CE/DF/1E17525F92A2A46C738C6DE95B4_8D9646A0_966EF.jpg" style="background-image:url(data:image/png">
+    <a href="info/1034/72192.htm" target="_blank">
+    <div class="remask"></div>
+       <em class="stat2">未开始</em>
+        <div class="report-s">
+            <span style="display:none">2026-05-12</span>
+            <h4>5月22日 殷云露：Chasing Probability Over Prizes:  Designing Dynamic Rewards to Sustain Medical Adherence in Opioid-dependent Consumers</h4>
+        </div>
+    </a>
+</div>
+<div class="report-3 lazy" data-original="/__local/8/C9/A1/12D8B65E4976EF4F755CA27DB26_1920A6AA_913D1.jpg" style="background-image:url(data:image/png">
+    <a href="info/1034/72193.htm" target="_blank">
+    <div class="remask"></div>
+       <em class="stat2">未开始</em>
+        <div class="report-s">
+            <span style="display:none">2026-05-12</span>
+            <h4>5月22日 Nicolas Andruskiewitsch：Pointed Hopf algebras over finite simple groups（有限单群上的点Hopf代数）</h4>
+        </div>
+    </a>
+</div>
+<div class="report-3 lazy" data-original="/__local/7/68/51/278F18900BA98F439ABCB9D7F3C_CC08458F_9CD8D.jpg" style="background-image:url(data:image/png">
+    <a href="info/1034/72147.htm" target="_blank">
+    <div class="remask"></div>
+       <em class="stat2">未开始</em>
+        <div class="report-s">
+            <span style="display:none">2026-05-09</span>
+            <h4>5月22日 张志伟：从简化到权变——公共财务透明度的认知机制与边界条件</h4>
+        </div>
+    </a>
+</div>
+<div class="report-3 lazy" data-original="/__local/E/8F/64/F3501ED17C7145B7951376C20B8_C2A30CA4_592DD.jpg" style="background-image:url(data:image/png">
+    <a href="info/1034/72149.htm" target="_blank">
+    <div class="remask"></div>
+       <em class="stat2">未开始</em>
+        <div class="report-s">
+            <span style="display:none">2026-05-09</span>
+            <h4>5月22日 归斌：The Bisognano-Wichmann theorem in algebraic quantum field theory</h4>
+        </div>
+    </a>
+</div>
+<div class="report-1 lazy" data-original="/__local/4/E0/BA/7F2D854FC92A4F9596F0F80B001_D6C4AFFB_34A23.jpg" style="background-image:url(data:image/png">
+    <a href="info/1034/72143.htm" target="_blank">
+    <div class="remask"></div>
+       <em class="stat2">未开始</em>
+        <div class="report-s">
+            <span style="display:none">2026-05-09</span>
+            <h4>5月21日 Stefano Boccaletti：Parenclitic hypergraphs and their applications in personalized medicine</h4>
+        </div>
+    </a>
+</div>
+<script>_showDynClickBatch(['dynclicks_u11_72203','dynclicks_u11_72192','dynclicks_u11_72193','dynclicks_u11_72147','dynclicks_u11_72149','dynclicks_u11_72143'],[72203,72192,72193,72147,72149,72143],"wbnews", 1726036883)</script>
+</div>
+<div class="report-4"><span>学术日历</span>
+<p></p>
+<samp></samp></div>
+<div class="clr"></div>
+</div>
+<div class="clr"></div>
+<div class="his">
+   <div class="his-head"><a href="wzcd/xxgk/xsyg.htm" target="_blank">历史沿革</a></div>
+    <div class="his-bg">
+        <div class="his-pic active" style="background-image:url(images/index-2021-36.jpg)"></div>
+        <div class="his-pic" style="background-image:url(images/index-2021-36.jpg)"></div>
+        <div class="his-pic" style="background-image:url(images/index-2021-36.jpg)"></div>
+        <div class="his-pic" style="background-image:url(images/index-2021-36.jpg)"></div>
+        <div class="his-pic" style="background-image:url(images/index-2021-36.jpg)"></div>
+        <div class="his-pic" style="background-image:url(images/index-2021-36.jpg)"></div>
+         <div class="his-pic" style="background-image:url(images/index-2021-36.jpg)"></div>
+          <div class="his-pic" style="background-image:url(images/index-2021-36.jpg)"></div>
+           <div class="his-pic" style="background-image:url(images/index-2021-36.jpg)"></div>
+            <div class="his-pic" style="background-image:url(images/index-2021-36.jpg)"></div>
+             <div class="his-pic" style="background-image:url(images/index-2021-36.jpg)"></div>
+    </div>
+    <div class="his-s">
+        <img src="images/icon-2021-21.png" />
+    </div>  
+    <div class="his-ul">
+        <div class="his-li active"><span></span><p>1951</p></div>
+        <div class="his-li active1"><span></span><p>1953</p></div>
+        <div class="his-li active2"><span></span><p>1959</p></div>
+        <div class="his-li active3"><span></span><p>1978</p></div>
+        <div class="his-li active4"><span></span><p>1981</p></div>
+         <div class="his-li active5"><span></span><p>1986</p></div>
+          <div class="his-li active6"><span></span><p>1996</p></div>
+           <div class="his-li active7"><span></span><p>2002</p></div>
+            <div class="his-li active8"><span></span><p>2006</p></div>
+             <div class="his-li active9"><span></span><p>2017</p></div>
+              <div class="his-li active10"><span></span><p>2021</p></div>
+    </div>
+    <div class="his-slide">
+     <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+            <!--loop his-->
+                <div class="swiper-slide" data-sort="1">
+                <span>1951</span>
+                
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<samp><img class="lazy" data-original="images/icon-2021-20.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="504" height="284" alt="" /></samp>
+ <div class="his-ct">
+                <h3>华东师范大学成立暨开学典礼</h3>
+                <p>1951 年10 月16 日，学校举行成立暨开学典礼，正式宣布华东师范大学成立。</p>
+                </div>
+<script>_showDynClickBatch(['dynclicks_u13_53278'],[53278],"wbnews", 1726036883)</script>
+
+                </div>
+                <div class="swiper-slide" data-sort="2">
+                <span>1953</span>
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<samp><img class="lazy" data-original="images/icon-2021-20.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="504" height="284" alt="" /></samp>
+ <div class="his-ct">
+                <h3>华东师范大学被确定为全国重点师范大学。</h3>
+                <p></p>
+                </div>
+<script>_showDynClickBatch(['dynclicks_u14_53280'],[53280],"wbnews", 1726036883)</script>
+
+                </div>
+                <div class="swiper-slide" data-sort="3">
+                <span>1959</span>
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<samp><img class="lazy" data-original="images/icon-2021-20.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="504" height="284" alt="" /></samp>
+ <div class="his-ct">
+                <h3>华东师范大学被中共中央指定为全国16所重点高等学校之一。</h3>
+                <p></p>
+                </div>
+<script>_showDynClickBatch(['dynclicks_u15_54882'],[54882],"wbnews", 1726036883)</script>
+
+                </div>
+                <div class="swiper-slide" data-sort="4">
+                <span>1978</span>
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<samp><img class="lazy" data-original="images/icon-2021-20.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="504" height="284" alt="" /></samp>
+ <div class="his-ct">
+                <h3>华东师范大学再次被确定为全国重点高等院校。</h3>
+                <p></p>
+                </div>
+<script>_showDynClickBatch(['dynclicks_u16_54883'],[54883],"wbnews", 1726036883)</script>
+
+                </div>
+                <div class="swiper-slide" data-sort="5">
+                <span>1981</span>
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<samp><img class="lazy" data-original="images/icon-2021-20.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="504" height="284" alt="" /></samp>
+ <div class="his-ct">
+                <h3>华东师范大学成为我国首批博士学位和硕士学位授予单位。</h3>
+                <p></p>
+                </div>
+<script>_showDynClickBatch(['dynclicks_u17_54884'],[54884],"wbnews", 1726036883)</script>
+
+                </div>
+                 <div class="swiper-slide" data-sort="6">
+                <span>1986</span>
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<samp><img class="lazy" data-original="images/icon-2021-20.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="504" height="284" alt="" /></samp>
+ <div class="his-ct">
+                <h3>华东师范大学成为国务院批准设立研究生院的33 所高等院校之一。</h3>
+                <p></p>
+                </div>
+<script>_showDynClickBatch(['dynclicks_u18_54885'],[54885],"wbnews", 1726036883)</script>
+
+                </div>
+                 <div class="swiper-slide" data-sort="7">
+                <span>1996</span>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<samp><img class="lazy" data-original="images/icon-2021-20.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="504" height="284" alt="" /></samp>
+ <div class="his-ct">
+                <h3>华东师范大学成为国家“211 工程”建设大学。</h3>
+                <p></p>
+                </div>
+<script>_showDynClickBatch(['dynclicks_u19_54886'],[54886],"wbnews", 1726036883)</script>
+
+                </div>
+                 <div class="swiper-slide" data-sort="8">
+                <span>2002</span>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<samp><img class="lazy" data-original="images/icon-2021-20.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="504" height="284" alt="" /></samp>
+ <div class="his-ct">
+                <h3>华东师范大学启动闵行校区规划建设。</h3>
+                <p></p>
+                </div>
+<script>_showDynClickBatch(['dynclicks_u20_54887'],[54887],"wbnews", 1726036883)</script>
+
+                </div>
+                 <div class="swiper-slide" data-sort="9">
+                <span>2006</span>
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<samp><img class="lazy" data-original="images/icon-2021-20.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="504" height="284" alt="" /></samp>
+ <div class="his-ct">
+                <h3>华东师范大学进入国家“985 工程”高校行列。学校主体搬迁到闵行校区，形成一校两区的办学格局。</h3>
+                <p></p>
+                </div>
+<script>_showDynClickBatch(['dynclicks_u21_54888'],[54888],"wbnews", 1726036883)</script>
+
+                </div>
+                 <div class="swiper-slide" data-sort="10">
+                <span>2017</span>
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<samp><img class="lazy" data-original="images/icon-2021-20.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="504" height="284" alt="" /></samp>
+ <div class="his-ct">
+                <h3>华东师范大学进入国家世界一流大学建设高校A 类行列，全面开启扎根中国大地建设一流大学的新征程。</h3>
+                <p></p>
+                </div>
+<script>_showDynClickBatch(['dynclicks_u22_54889'],[54889],"wbnews", 1726036883)</script>
+
+                </div>
+                 <div class="swiper-slide" data-sort="11">
+                <span>2021</span>
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<samp><img class="lazy" data-original="images/icon-2021-20.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="504" height="284" alt="" /></samp>
+ <div class="his-ct">
+                <h3>2021年，华东师范大学制定“十四五”规划，紧抓建党百年和建校70 周年契机，围绕“育人、文明、发展”三大核心使命加快“双一流”建设。</h3>
+                <p></p>
+                </div>
+<script>_showDynClickBatch(['dynclicks_u23_54890'],[54890],"wbnews", 1726036883)</script>
+
+                </div>
+            <!--loop his end-->
+            </div>
+        </div>
+    </div>
+ </div>
+<div class="clr"></div>
+<div class="shu">
+<div class="clr"></div>
+<h3>大学数读</h3>
+<div class="shu-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<!--loop5-->
+<div class="swiper-slide">
+<div class="shu-pannel">
+<div class="shu-item"><span class="counter">1951</span><p>学校成立于1951年10月16日</p><samp></samp></div>
+<div class="shu-item"><span class="counter">2</span><p>2大横跨全上海的校区</p><samp></samp></div>
+<div class="shu-item"><span class="counter">38400</span><p>学生人数38400+名</p><samp></samp></div>
+<div class="shu-item"><span class="counter">207</span><p>校园占地总面积约207公顷</p><samp></samp></div>
+<div class="shu-item"><span class="counter">4255</span><p>4255名教职员工</p><samp></samp></div>
+<div class="shu-item"><span class="counter">3</span><p>3个书院，孟宪承书院、大夏书院、<br>光华书院</p><samp></samp></div>
+<div class="shu-item"><span class="counter">4</span><p>4大学部，地球科学学部、教育学部、<br>经济与管理学部、信息学部</p><samp></samp></div>
+<div class="shu-item"><span class="counter">11</span><p>11大学科门类，覆盖文史哲、教育学、经济学、理学、工学、管理学、法学、艺术学、医学等</p><samp></samp></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="shu-pannel">
+<div class="shu-item"><span class="counter">17</span><p>17个学科进入ESI前1%</p><samp></samp></div>
+<div class="shu-item"><span class="counter">5388000</span><p>两校区图书馆馆藏印刷型文献总量<br>538.8万余册、各类电子文献数据库178个</p><samp></samp></div>
+<div class="shu-item"><span class="counter">23</span><p>23个校管科研平台机构（含2个全国重点<br>实验室）</p><samp></samp></div>
+<div class="shu-item"><span class="counter">2</span><p>2个管理型学院</p><samp></samp></div>
+<div class="shu-item"><span class="counter">343</span><p>建成343门高水平通识课<br></p><samp></samp></div>
+<div class="shu-item"><span class="counter">23</span><p>开设23门创新创业课程</p><samp></samp></div>
+<div class="shu-item"><span class="counter">58</span><p>58个专业入选国家级一流本科专业建设点</p><samp></samp></div>
+<div class="shu-item"><span class="counter">10</span><p>10个基地入选国家基础学科拔尖学生培养计划2.0基地</p><samp></samp></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="shu-pannel">
+<div class="shu-item"><span class="counter">5</span><p>5个专业入选强基计划</p><samp></samp></div>
+<div class="shu-item"><span class="counter">18</span><p>18个师范专业，近五年已培养师范生4000余名</p><samp></samp></div>
+<div class="shu-item"><span class="counter">68</span><p>68所附属中小学、幼儿园</p><samp></samp></div>
+<div class="shu-item"><span class="counter">300</span><p>与世界300余所高校和科研机构合作</p><samp></samp></div>
+<div class="shu-item"><span class="counter">1380</span><p>学校现有在校留学生1380名</p><samp></samp></div>
+<div class="shu-item"><span class="counter">2017</span><p>2017年学校进入世界一流大学A类建设高校行列</p><samp></samp></div>
+<div class="shu-item"><span class="counter">3</span><p>学校三大使命：育人、文明、发展</p><samp></samp></div>
+<div class="shu-item"><span class="counter">5</span><p>教育+、生态+、健康+、智能+、<br>国际+五大行动计划</p><samp></samp></div>
+</div>
+</div>
+<!--loop5 end-->
+</div>
+</div>
+<div class="shu-pag"><div class="swiper-pagination"></div></div>
+</div>
+<div class="clr"></div>
+<div class="shu-line"></div>
+<div class="shu-arr"></div>
+</div>
+<div class="clr"></div>
+<div class="school">
+<div class="school-1">
+<h3>大学区位</h3>
+<p style="text-align: justify;width: 100%">华东师范大学位于上海市，是教育部和上海市人民政府重点共建的综合性研究型全国重点大学。</p>
+<p style="text-align: justify;width: 100%">2002年根据上海市高校布局结构调整的战略部署，学校启动闵行校区规划建设，并于2006年主体搬迁到闵行校区，形成了“一校两区、联动发展”的办学格局。</p>
+</div>
+<div class="school-left">
+<img src="images/icon-2021-19.png" width="504" height="408" alt="" />
+<span class="active">查看普陀校区</span><p>查看闵行校区</p>
+</div>
+
+<div class="school-center">
+<div class="school-map active"><img src="images/map-1.svg">
+<div class="map1 map11 act"><span></span><p>枣阳路460号门</p></div>
+<div class="map1 map12"><span></span><p>理科三馆</p></div>
+<div class="map1 map13"><span></span><p>校友之家</p></div>
+<div class="map1 map14"><span></span><p>丽娃河</p></div>
+<div class="map1 map15"><span></span><p>博群堂</p></div>
+<div class="map1 map16"><span></span><p>图书馆</p></div>
+<div class="map1 map17"><span></span><p>群贤堂</p></div>
+<div class="map1 map18"><span></span><p>思群堂</p></div>
+<div class="map1 map19"><span></span><p>校门</p></div>
+<div class="map1 map20"><span></span><p>体育馆</p></div>
+<div class="map1 map21"><span></span><p>小圆楼</p></div>
+<div class="map1 map22"><span></span><p>办公楼</p></div>
+<div class="map1 map23"><span></span><p>小教楼电化教学楼</p></div>
+<div class="map1 map24"><span></span><p>24小时阅读空间</p></div>
+</div>
+<div class="school-map"><img src="images/map-2.svg">
+<div class="map2 map31 act"><span></span><p>樱花慢行步道 </p></div>
+<div class="map2 map32"><span></span><p>大学生活动中心空中花园</p></div>
+<div class="map2 map33"><span></span><p>幸福研习与促进中心</p></div>
+<div class="map2 map34"><span></span><p>静心空间</p></div>
+<div class="map2 map35"><span></span><p>樱桃河</p></div>
+<div class="map2 map36"><span></span><p>文脉廊</p></div>
+<div class="map2 map37"><span></span><p>图书馆</p></div>
+<div class="map2 map38"><span></span><p>冯契学术成就陈列室</p></div>
+<div class="map2 map39"><span></span><p>尚义桥</p></div>
+<div class="map2 map40"><span></span><p>大师石</p></div>
+<div class="map2 map41"><span></span><p>党建服务中心</p></div>
+</div>
+</div>
+<div class="school-mask">
+<div class="school-top-m">
+<div class="school-img-m school-img-m-left active">
+<div class="school-img-m-item show"><img data-lazy-src="images/zaoyanglu.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/likesanguan.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/xiaoyouzhijia.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/liwahe.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/boquntang.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/tushuguan.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/qunxiantang.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/siquntang.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/xiaomen.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/tiyuguan.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/xiaoyuanlou.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/bangonglou.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/xiaojiaolou.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/24h.jpg"></div>
+</div>
+<div class="school-img-m school-img-m-right">
+<div class="school-img-m-item show"><img data-lazy-src="images/yinghua.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/daxuesheng.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/xingfu.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/jingxin.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/yingtao.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/wenmailang.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/tushuguanm.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/fengqi.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/shangyiqiao.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/dashishi.jpg"></div>
+<div class="school-img-m-item"><img data-lazy-src="images/djfwzx2.png"></div>
+</div>
+</div>
+</div>
+<div class="school-top">
+<div class="school-img school-img-left active">
+<div class="school-img-item show" data-lazy-src="images/zaoyanglu.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/likesanguan.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/xiaoyouzhijia.png"></div>
+<div class="school-img-item" data-lazy-src="images/liwahe.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/boquntang.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/tushuguan.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/qunxiantang.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/siquntang.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/xiaomen.png"></div>
+<div class="school-img-item" data-lazy-src="images/tiyuguan.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/xiaoyuanlou.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/bangonglou.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/xiaojiaolou.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/24h.jpg"></div>
+</div>
+<div class="school-img school-img-right">
+<div class="school-img-item show" data-lazy-src="images/yinghua.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/daxuesheng.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/xingfu.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/jingxin.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/yingtao.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/wenmailang.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/tushuguanm.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/fengqi.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/shangyiqiao.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/dashishi.jpg"></div>
+<div class="school-img-item" data-lazy-src="images/djfwzx2.png"></div>
+</div>
+</div>
+
+<div class="school-right">
+<div class="school-content active">
+<!--loop6-->
+<div class="school-item show">
+<h3>普陀校区</h3>
+<p>大夏大学旧址，中山北路3663号现华东师范大学校园内，现存历史建筑有群贤堂（文史楼）、思群堂（大礼堂）、生物实验楼和化学实验楼等。1951年大夏大学与光华大学合并组建华东师范大学时旧址占地面积18.6万平方米，建筑面积约1.76万平方米。</p>
+</div>
+        
+<!--loop6 end-->
+</div>
+<div class="school-content">
+<!--loop7-->
+<div class="school-item show">
+<h3>闵行校区</h3>
+<p>2004年建成，位于中国上海市闵行区东川路500号。校区被樱桃河贯穿，占地面积为1821.42亩。北部有上粮七库专用线横穿，铁路以北为学生公寓，以南分布有办公、教学、科研、体育等设施。虹梅南路以东有研究生公寓及教师公寓，占地面积为249.99亩。</p>
+</div>
+
+<!--loop7 end-->
+</div>
+</div>
+
+</div>
+<div class="clr"></div>
+<div class="content-7">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="swiper-container gallery-top">
+    <div class="swiper-wrapper">
+      
+<div class="swiper-slide"><a href="info/1100/70211.htm" target="_blank" title="华东师大2025级本科新生报到！"><img class="lazy" data-original="/__local/A/4F/85/DCFBAE169DE5D035D5509DAE1F8_DD7B9C3F_A806C.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "><span>华东师大2025级本科新生报到！</span></a></div>
+      
+<div class="swiper-slide"><a href="info/1100/69858.htm" target="_blank" title="以青春赴山海！华东师大2025届毕业典礼举行"><img class="lazy" data-original="/__local/6/F5/12/73BB71D2958EBE3B12D7A9661AD_C6F3068B_1143C5.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "><span>以青春赴山海！华东师大2025届毕业典礼举行</span></a></div>
+      
+<div class="swiper-slide"><a href="info/1100/69098.htm" target="_blank" title="赏樱寻雅韵 民俗绘华章"><img class="lazy" data-original="/__local/F/FE/EF/34D18B7CB0C7436F75E2909AD64_E5FB0FD9_1275F4.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "><span>赏樱寻雅韵 民俗绘华章</span></a></div>
+      
+<div class="swiper-slide"><a href="info/1100/68221.htm" target="_blank" title="秋@华东师大"><img class="lazy" data-original="/__local/9/84/EE/46F13BFBBB9837D6C6E00F6BDD9_D7EDC484_1A11EC.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "><span>秋@华东师大</span></a></div>
+      
+<div class="swiper-slide"><a href="info/1100/68071.htm" target="_blank" title="世界同梦：华东师大国际文化节举行"><img class="lazy" data-original="/__local/6/98/1F/688AE7C09778BF5F907F169159B_523C4509_198DB7.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "><span>世界同梦：华东师大国际文化节举行</span></a></div>
+      
+<div class="swiper-slide"><a href="info/1100/67772.htm" target="_blank" title="快看你入镜了！直击华东师大运动会"><img class="lazy" data-original="/__local/5/66/A6/F75DB9D9FE17C88495794E6D847_9CD46619_173B7C.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "><span>快看你入镜了！直击华东师大运动会</span></a></div>
+      
+<div class="swiper-slide"><a href="info/1100/67397.htm" target="_blank" title="青春“戎”颜！华东师大新生军训全景直击"><img class="lazy" data-original="/__local/B/B9/F1/A949B0EC53CED4F0DC55740E9F8_AD4588F1_1C187E.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "><span>青春“戎”颜！华东师大新生军训全景直击</span></a></div>
+      
+<div class="swiper-slide"><a href="info/1100/67387.htm" target="_blank" title="热爱在沸腾！华东师大2024年开学典礼举行"><img class="lazy" data-original="/__local/A/B8/A3/F326B33F3B6696CE07989893E68_D5C9769B_570F1.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "><span>热爱在沸腾！华东师大2024年开学典礼举行</span></a></div>
+      
+<div class="swiper-slide"><a href="info/1100/67238.htm" target="_blank" title="一见倾“新”！直击华东师大本科新生报到现场"><img class="lazy" data-original="/__local/3/49/26/717231A108BA6F5DBDF6B03A7A4_D31D1828_134A68.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "><span>一见倾“新”！直击华东师大本科新生报到现场</span></a></div>
+      
+<div class="swiper-slide"><a href="info/1100/66809.htm" target="_blank" title="追求卓越 逐梦远航：华东师范大学2024届毕业典礼举行"><img class="lazy" data-original="/__local/C/78/CE/F5336DC5CCDE2E665A935DCDC64_8D9C1E58_AD822.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "><span>追求卓越 逐梦远航：华东师范大学2024届毕业典礼举行</span></a></div>
+      
+</div>
+    <!-- Add Arrows -->
+    <div class="swiper-button-next swiper-button-white"></div>
+    <div class="swiper-button-prev swiper-button-white"></div>
+  </div>
+  <div class="swiper-container gallery-thumbs">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide"><img class="lazy" data-original="/__local/A/4F/85/DCFBAE169DE5D035D5509DAE1F8_DD7B9C3F_A806C.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "></div>
+      <div class="swiper-slide"><img class="lazy" data-original="/__local/6/F5/12/73BB71D2958EBE3B12D7A9661AD_C6F3068B_1143C5.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "></div>
+      <div class="swiper-slide"><img class="lazy" data-original="/__local/F/FE/EF/34D18B7CB0C7436F75E2909AD64_E5FB0FD9_1275F4.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "></div>
+      <div class="swiper-slide"><img class="lazy" data-original="/__local/9/84/EE/46F13BFBBB9837D6C6E00F6BDD9_D7EDC484_1A11EC.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "></div>
+      <div class="swiper-slide"><img class="lazy" data-original="/__local/6/98/1F/688AE7C09778BF5F907F169159B_523C4509_198DB7.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "></div>
+      <div class="swiper-slide"><img class="lazy" data-original="/__local/5/66/A6/F75DB9D9FE17C88495794E6D847_9CD46619_173B7C.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "></div>
+      <div class="swiper-slide"><img class="lazy" data-original="/__local/B/B9/F1/A949B0EC53CED4F0DC55740E9F8_AD4588F1_1C187E.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "></div>
+      <div class="swiper-slide"><img class="lazy" data-original="/__local/A/B8/A3/F326B33F3B6696CE07989893E68_D5C9769B_570F1.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "></div>
+      <div class="swiper-slide"><img class="lazy" data-original="/__local/3/49/26/717231A108BA6F5DBDF6B03A7A4_D31D1828_134A68.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "></div>
+      <div class="swiper-slide"><img class="lazy" data-original="/__local/C/78/CE/F5336DC5CCDE2E665A935DCDC64_8D9C1E58_AD822.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" width="172" height="92" alt=" "></div>
+     
+    </div>
+  </div><script>_showDynClickBatch(['dynclicks_u25_70211','dynclicks_u25_69858','dynclicks_u25_69098','dynclicks_u25_68221','dynclicks_u25_68071','dynclicks_u25_67772','dynclicks_u25_67397','dynclicks_u25_67387','dynclicks_u25_67238','dynclicks_u25_66809'],[70211,69858,69098,68221,68071,67772,67397,67387,67238,66809],"wbnews", 1726036883)</script>
+</div>
+</div>
+<div class="clr"></div>
+<!--日历弹窗-->
+<div class="cal">
+
+
+
+
+
+
+
+
+<div class="cal">
+    <div class="cal-other">
+        <span>返回</span><p><a href="wzcd/xsyj/xswh.htm" target="_blank">更多</a></p>
+    </div>
+    <div class="swiper-button-prev swiper-perv1"></div>
+    <div class="swiper-button-next swiper-next1"></div>
+    <div class="swiper-container swiper-cal1">
+        <div class="swiper-wrapper">
+            <!--loop5-->
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>22<em>4</em></span>
+                        <p>2026-05</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72193.htm" target="_blank"><span>5月22日 Nicolas Andruskiewitsch：Pointed Hopf algebras over finite simple groups（有限单群上的点Hopf代数）</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72192.htm" target="_blank"><span>5月22日 殷云露：Chasing Probability Over Prizes:  Designing Dynamic Rewards to Sustain Medical Adherence in Opioid-dependent Consumers</span></a>
+                                    </div>
+                                    <samp>2</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72149.htm" target="_blank"><span>5月22日 归斌：The Bisognano-Wichmann theorem in algebraic quantum field theory</span></a>
+                                    </div>
+                                    <samp>3</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72147.htm" target="_blank"><span>5月22日 张志伟：从简化到权变——公共财务透明度的认知机制与边界条件</span></a>
+                                    </div>
+                                    <samp>4</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>21<em>2</em></span>
+                        <p>2026-05</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72143.htm" target="_blank"><span>5月21日 Stefano Boccaletti：Parenclitic hypergraphs and their applications in personalized medicine</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72142.htm" target="_blank"><span>5月21日 Regino Criado：The Structure of Group Interactions: Advances in Higher-Order Network Theory</span></a>
+                                    </div>
+                                    <samp>2</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>20<em>7</em></span>
+                        <p>2026-05</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72203.htm" target="_blank"><span>5月20日 肖崴：祛魅中国武术——从神话、困境到重生</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72190.htm" target="_blank"><span>5月20日 周叶青：Power Enhancement for Test of Multivariate Independence</span></a>
+                                    </div>
+                                    <samp>2</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72181.htm" target="_blank"><span>5月20日 曹旭：从文献到文学批评——以《诗品》《文心雕龙》为例（古代文学与文献系列讲座第二讲）</span></a>
+                                    </div>
+                                    <samp>3</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72152.htm" target="_blank"><span>5月20日 陈明珠：重启亚里士多德《诗术》（2026年第10场百场校级学术讲座）</span></a>
+                                    </div>
+                                    <samp>4</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72151.htm" target="_blank"><span>5月20日 王鼎：从“大地语料库”到识典古籍“东亚汉文数据库”——数字人文视域下的数据制备与知识发现（2026年第21场百场校级学术讲座）</span></a>
+                                    </div>
+                                    <samp>5</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72148.htm" target="_blank"><span>5月20日 陈俊言：Thinking possibilities——在当代音乐中释放创造力</span></a>
+                                    </div>
+                                    <samp>6</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72144.htm" target="_blank"><span>5月20日 Hans-Georg Moeller：成而杀之——《庄子》文明与自然的张力</span></a>
+                                    </div>
+                                    <samp>7</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>19<em>2</em></span>
+                        <p>2026-05</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72191.htm" target="_blank"><span>5月19日 张顺明：Winsorized Information and Nonlinear Pricing</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72185.htm" target="_blank"><span>5月19日 张奇：Competitive Optimal Portfolio Selection under Mean-Variance Utility</span></a>
+                                    </div>
+                                    <samp>2</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>18<em>7</em></span>
+                        <p>2026-05</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72202.htm" target="_blank"><span>5月18日 Pedram Hekmati：The eta invariant in low dimensions</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72188.htm" target="_blank"><span>5月18日 施灿欣：自旋轨道耦合与重离子碰撞过程整体极化效应</span></a>
+                                    </div>
+                                    <samp>2</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72187.htm" target="_blank"><span>5月18日 梁作堂：自旋轨道耦合与重离子碰撞过程整体极化效应</span></a>
+                                    </div>
+                                    <samp>3</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72182.htm" target="_blank"><span>5月18日 施灿欣：From Scattering Amplitudes to Gravitational Waves</span></a>
+                                    </div>
+                                    <samp>4</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72150.htm" target="_blank"><span>5月18日 Nigel Higson：Noncommutative geometry of the Satake compactification(lecture series)</span></a>
+                                    </div>
+                                    <samp>5</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72146.htm" target="_blank"><span>5月18日 Brian Macwhinney：竞争模型的涌现主义阐释（2026年第48场知名学者学术讲座）</span></a>
+                                    </div>
+                                    <samp>6</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72145.htm" target="_blank"><span>5月18日 苏晓波：美式特色国家资本主义与政府干预的证券化/安全化</span></a>
+                                    </div>
+                                    <samp>7</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>16<em>4</em></span>
+                        <p>2026-05</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72197.htm" target="_blank"><span>5月16日 俞大鹏：量子计算需自立自强,  科学仪器要一马当先</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72189.htm" target="_blank"><span>5月16日 麻希南：椭圆偏微分方程的向量场方法介绍</span></a>
+                                    </div>
+                                    <samp>2</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72186.htm" target="_blank"><span>5月16日 彭发：Regularity from p-harmonic potentials to ∞-harmonic potentials in convex rings</span></a>
+                                    </div>
+                                    <samp>3</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72116.htm" target="_blank"><span>5月16日 蔡薇：人工智能时代语言教师专业发展——原则性教学判断</span></a>
+                                    </div>
+                                    <samp>4</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>15<em>1</em></span>
+                        <p>2026-05</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72109.htm" target="_blank"><span>5月15日 夏羿：边界研究视野中的图像实践</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>14<em>4</em></span>
+                        <p>2026-05</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72122.htm" target="_blank"><span>5月14日 丹尼尔·雷奇瓦格：重新审视科普中大众传媒材料的价值与运用（2026年第46场知名学者学术讲座）</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72123.htm" target="_blank"><span>5月14日 林文勋：中国古代史的主线与体系（2026年第45场知名学者学术讲座）</span></a>
+                                    </div>
+                                    <samp>2</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72120.htm" target="_blank"><span>5月14日 钟盛阳：Birkhoff-von Neumann量子逻辑漫谈</span></a>
+                                    </div>
+                                    <samp>3</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72117.htm" target="_blank"><span>5月14日 刘萍萍：绿色行为、自然联结和幸福感</span></a>
+                                    </div>
+                                    <samp>4</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>13<em>1</em></span>
+                        <p>2026-05</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/72125.htm" target="_blank"><span>5月13日 伍斐然：Navigating the academic involution: A digital intervention for empowering parents in Hong Kong</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>30<em>1</em></span>
+                        <p>2026-04</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/71968.htm" target="_blank"><span>4月30日 孙静翎：基于性质的移动应用功能测试研究</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>29<em>2</em></span>
+                        <p>2026-04</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/71969.htm" target="_blank"><span>4月29日 Edwin Michielsen：日本无产阶级文学中的上海——跨国空间、左翼网络与中国启发（2026年第13场百场校级学术讲座）</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/71963.htm" target="_blank"><span>4月29日 李鹤：特拍思维构建之智能摄影革命</span></a>
+                                    </div>
+                                    <samp>2</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>27<em>1</em></span>
+                        <p>2026-04</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/71966.htm" target="_blank"><span>4月27日 张云中：“大模型+知识图谱”赋能文化遗产数字叙事研究思考</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>24<em>5</em></span>
+                        <p>2026-04</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/71995.htm" target="_blank"><span>4月24日 邬思源：《人民监察》——一份被忽视的新中国监察史史料</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/71994.htm" target="_blank"><span>4月24日 刘敬真：Portfolio selection problem with periodic performance evaluation under model uncertainty</span></a>
+                                    </div>
+                                    <samp>2</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/71993.htm" target="_blank"><span>4月24日 王奕可：On stochastic control problems with higher-order moments and applications to portfolio selection</span></a>
+                                    </div>
+                                    <samp>3</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/71992.htm" target="_blank"><span>4月24日 聂天洋：Maximum Principle and Dynamic Programming Principle for Stochastic Optimal Control Problem</span></a>
+                                    </div>
+                                    <samp>4</samp>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/71907.htm" target="_blank"><span>4月24日 潘守永：通过字符成分提取和自合并伪标签增强甲骨文类别发现（2026年第32场知名学者学术讲座）</span></a>
+                                    </div>
+                                    <samp>5</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="cal-left">
+                    <div class="cal-s">
+                        <span>23<em>1</em></span>
+                        <p>2026-04</p>
+                    </div>
+                </div>
+                <div class="cal-right">
+                    <div class="swiper-container swiper-r1">
+                        <div class="swiper-button-prev swiper-pervs1"></div>
+                        <div class="swiper-button-next swiper-nexts1"></div>
+                        <div class="swiper-wrapper">
+                            <!--loop5-->
+                                <div class="swiper-slide">
+                                    <div class="cal-rs">
+                                        <a href="info/1034/71956.htm" target="_blank"><span>4月23日 邱敦莲：科技论文撰写和投稿与学术发表规范</span></a>
+                                    </div>
+                                    <samp>1</samp>
+                                </div>
+                            <!--loop5 end-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--loop5 end-->
+        </div>
+    </div>
+</div>
+</div>
+<!--日历弹窗 end-->
+<!--底部-->
+<div class="footer">
+<div class="footer-1">
+<div class="footer-left">
+<div class="footer-logo">    
+<a href="index.htm" target="_blank" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 1014)"><img src="images/21/03/19/1r916g9urn/logo-bottom.svg" width="410" height="72" alt=""></a>
+
+</div>
+<ul>
+    <li>
+        <span>学校概况</span>
+            <p>
+                        <a href="wzcd/xxgk/xxzc.htm" target="_blank">学校章程</a>
+                        <a href="wzcd/xxgk/xqjj.htm" target="_blank">校情简介</a>
+                        <a href="wzcd/xxgk/xxld.htm" target="_blank">学校领导</a>
+                        <a href="wzcd/xxgk/jgsz.htm" target="_blank">机构设置</a>
+                        <a href="wzcd/xxgk/yxsz.htm" target="_blank">院系设置</a>
+                        <a href="wzcd/xxgk/xsyg.htm" target="_blank">校史沿革</a>
+                        <a href="wzcd/xxgk/xxbs.htm" target="_blank">学校标识</a>
+                        <a href="http://dwgk.ecnu.edu.cn/" target="_blank">党务公开</a>
+                        <a href="http://xxgk.ecnu.edu.cn/" target="_blank">信息公开</a>
+            </p>
+    </li>
+
+    <li>
+        <span>招生就业</span>
+            <p>
+                        <a href="https://career.ecnu.edu.cn/" target="_blank">学生就业</a>
+                        <a href="https://zsb.ecnu.edu.cn/" target="_blank">本科生招生</a>
+                        <a href="https://yjszs.ecnu.edu.cn/" target="_blank">研究生招生</a>
+                        <a href="https://www.sole.ecnu.edu.cn/" target="_blank">继续教育</a>
+                        <a href="http://lxs.ecnu.edu.cn/" target="_blank">International Students</a>
+            </p>
+    </li>
+
+    <li>
+        <span>学术研究</span>
+            <p>
+                        <a href="wzcd/xsyj/xszz.htm" target="_blank">学术组织</a>
+                        <a href="wzcd/xsyj/yjjg2/zdsysyyjjd1.htm" target="_blank">研究机构</a>
+                        <a href="http://fzghb.ecnu.edu.cn/" target="_blank">学科建设</a>
+                        <a href="http://www.xb.ecnu.edu.cn/" target="_blank">学报</a>
+                        <a href="https://rwsk.ecnu.edu.cn/25037/list.htm" target="_blank">学术期刊</a>
+                        <a href="wzcd/xsyj/xswh.htm" target="_blank">学术文化</a>
+            </p>
+    </li>
+
+    <li>
+        <span>教育教学</span>
+            <p>
+                        <a href="https://elearning.ecnu.edu.cn/" target="_blank">大夏学堂</a>
+                        <a href="https://bksy.ecnu.edu.cn" target="_blank">本科生教育</a>
+                        <a href="https://yjsy.ecnu.edu.cn" target="_blank">研究生教育</a>
+            </p>
+    </li>
+
+    <li>
+        <span>师资队伍</span>
+            <p>
+                        <a href="wzcd/szdw/gccrc.htm" target="_blank">高层次人才</a>
+                        <a href="https://faculty.ecnu.edu.cn/" target="_blank">教师名录</a>
+                        <a href="http://www.jobs.ecnu.edu.cn" target="_blank">人才招聘</a>
+            </p>
+    </li>
+
+    <li>
+        <span>合作交流</span>
+            <p>
+                        <a href="https://ied.ecnu.edu.cn/" target="_blank">国际交流</a>
+                        <a href="https://ied.ecnu.edu.cn/37455/list.htm" target="_blank">港澳台交流</a>
+                        <a href="http://chinese.ecnu.edu.cn/" target="_blank">国际中文教育</a>
+                        <a href="https://shanghai.nyu.edu/" target="_blank">上海纽约大学</a>
+                        <a href="https://ijec.ecnu.edu.cn" target="_blank">国际本科教育</a>
+                        <a href="http://foundation.ecnu.edu.cn/" target="_blank">教育基金会</a>
+                        <a href="http://alumni.ecnu.edu.cn/" target="_blank">校友会</a>
+            </p>
+    </li>
+
+    <li>
+        <span>校园生活</span>
+            <p>
+                        <a href="https://xsgzb.ecnu.edu.cn/main.htm" target="_blank">学生工作部</a>
+                        <a href="https://zizhu.ecnu.edu.cn/" target="_blank">学生资助管理中心</a>
+                        <a href="http://xlzx.ecnu.edu.cn/" target="_blank">心理健康教育与咨询中心</a>
+                        <a href="http://www.zhuli.ecnu.edu.cn/" target="_blank">学生校长助理</a>
+                        <a href="https://bksy.ecnu.edu.cn/c7/d7/c40558a706519/page.htm" target="_blank">校历</a>
+                        <a href="http://houqin.ecnu.edu.cn/28837/list.htm" target="_blank">班车时刻表</a>
+            </p>
+    </li>
+</ul>
+</div>
+<div class="footer-right">
+<ul>    <li class="r1"><a href="https://www.ecnu.edu.cn/" target="_blank" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 1038)"></a></li>
+
+<li class="r2"><div class="ul-drop"><img src="images/201png.png" /></div></li>
+<li class="r3"><a href="https://english.ecnu.edu.cn/News_Center/Newsletter.htm" target="_blank" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 1037)"></a></li>
+<li class="r4"><a href="https://ecnuxb.ihwrm.com/index/index/index.html?release_id=226898" target="_blank" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 1036)"></a></li>
+    <li class="r5"><div class="ul-drop"><img src="images/211.png" /></div><span>CN</span></li>
+
+<li class="r6"><div class="ul-drop"><img src="images/erweima300x300.jpg" /></div></li>
+
+<li class="r7"><div class="ul-drop"><img src="images/220dc354-81b0-4ccb-b0b5-5132efd29cf8.png" /></div></li>
+
+<li class="r8"><div class="ul-drop"><img src="images/f2e2e9e02a797998253e515ae3505b0.png" /></div></li>
+
+<li class="r9"><div class="ul-drop"><img src="images/241.png" /></div></li>
+
+<li class="r10"><div class="ul-drop"><img src="images/251.png" /></div></li>
+
+<li class="r11"><div class="ul-drop"><img src="images/261.png" /></div></li>
+
+<li class="r12"><div class="ul-drop"><img src="images/271.png" /></div></li>
+
+<li class="r13"><div class="ul-drop"><img src="images/281.jpeg" /></div></li>
+
+<li class="r14"><div class="ul-drop"><img src="images/291.png" /></div></li>
+<li class="r15"><div class="ul-drop"><img src="images/301.png" /></div><span>EN</span></li>
+<li class="r16"><a href="#" target="_blank" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 1089)"></a></li>
+<li class="r17"><a href="https://twitter.com/ECNUER" target="_blank" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 1023)"></a></li>
+<li class="r18"><a href="https://www.instagram.com/east_china_normal_university/" target="_blank" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 1022)"></a></li>
+<li class="r19"><a href="https://www.linkedin.com/school/east-china-normal-university/" target="_blank" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 1021)"></a></li>
+<li class="r20"><a href="https://www.youtube.com/channel/UCozdZ2rNaDeKoJI0Ep7Fvxw" target="_blank" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 1201)"></a></li>
+</ul>
+<div class="footer-my">    
+
+
+<a href="http://giving.ecnu.edu.cn/index.action" onclick="_addDynClicks(&#34;wbimage&#34;, 1726036883, 1040)" target="_blank">
+<img src="images/21/03/19/1xodtq9v5g/index-2021-1.jpg" width="410" height="200" alt="">
+<div class="footer-jz">
+<p><samp></samp><span>我要捐赠</span></p>
+</div>
+</a>
+
+
+</div>
+</div>
+<div class="clr"></div>
+</div>
+<div class="footer-2">
+<ul><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<ul> 
+ <li>闵行校区：东川路500号，200241</li> 
+ <li>普陀校区：中山北路3663号，200062</li> 
+ <li>总机：86-21-62233333</li> 
+</ul></ul>
+<div class="footer-link" style="display:none;">
+<span>院系链接</span><samp></samp>
+<div class="footer-drop">
+<p><script language="javascript" src="/system/resource/js/openlink.js"></script><a href="http://www.geo.ecnu.edu.cn/" target="_blank" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1726036883, 1071)">地理科学学院</a>
+</p>
+</div>
+</div>
+<div class="clr"></div>
+</div>
+<div class="footer-3">
+<span><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权所有 © 2020 华东师范大学<a href="https://beian.miit.gov.cn/#/Integrated/index">沪ICP备05003394号-26</a><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31009102000042">华东师范大学沪公网安备31009102000042号</a></p></span>
+<p><a href="https://mail.stu.ecnu.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1726036883, 1001)">学生邮箱</a>|
+<a href="https://mail.ecnu.edu.cn/login" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1726036883, 1002)">教师邮箱</a>
+</p>
+</div>
+<div class="clr"></div>
+</div>
+<!--底部 end-->
+
+
+<script type="text/javascript">
+$('#u2 video').attr('loop','loop');
+$('#u2 video').attr('muted','muted');
+//$('#u2 video').removeAttr('controls');
+$('#u2 video').attr('controls','false');
+</script>
+   
+<script>
+  // $("#indexlen .lang").click(function(){
+  //     $("#indexlen .lang p").slideToggle("200");
+  // });
+  $(window).scroll(function(){
+    // if($(window).scrollTop() >= 10){
+    //    $('#indexlen').addClass('active');
+    // }else{
+    //    $('#indexlen').removeClass('active');
+    // }
+    // if($(window).scrollTop()>$(window).height()/2){
+    //     $('#indexlen').removeClass('active');
+    // }else{
+        
+    // }
+    if($(window).scrollTop()>$(window).height() - 50){
+      $('#indexlen').fadeOut()
+    }else{
+      $('#indexlen').fadeIn();
+    }
+  });
+</script>
+
+
+
+</body>
+</html>

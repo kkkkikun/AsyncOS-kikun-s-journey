@@ -1,0 +1,1047 @@
+<!DOCTYPE HTML>
+<HTML><HEAD><TITLE>西安交通大学</TITLE><META Name="keywords" Content="西安交通大学" />
+
+
+
+
+
+<META name="360-site-verification" content="845cb73defc117caad1186ca8fac8532"><script type="text/javascript">
+
+if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) ||(/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){
+    if(window.location.href.indexOf("?mobile")<0){
+        try{
+            if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
+                window.location.href="http://mob.xjtu.edu.cn/";
+            }
+        }catch(e){}
+    }
+}
+
+</script>
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<META content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><LINK rel="stylesheet" type="text/css" href="style/xjnew611.css"><script type="text/javascript" src="js/jquery.min.js"></script><script type="text/javascript" src="js/jquery.SuperSlide.js"></script>
+<script type="text/javascript" src="js/ddsmoothmenu.js"></script>
+<META name="baidu-site-verification" content="r23jsHKdp1">
+<STYLE>
+.menulink ul li:hover ul{width: 230px !important;}
+</STYLE>
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232306975465750565742000100044452 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1151962237)</script>
+</HEAD>
+<BODY>
+<DIV class="piaochuang"></DIV>   
+   
+   
+   
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>   
+</SCRIPT>
+<DIV class="top">
+<DIV class="jrsc">
+<script language="javascript">
+function dosuba65623a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa65623a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa65623a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea65623a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+<a href="javascript:setHomepagea65623a()">设为首页</a><span>|</span><a href="http://en.xjtu.edu.cn/">English Version</a> </DIV></DIV>
+<DIV class="head">
+<DIV class="con">
+<DIV class="logo">             
+                                  <a href="index.htm" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1151962237, 20908)" target="_blank">
+                           
+                            <img src="img/logo_pic99.png" border="0">
+                        </a>  
+           
+</DIV>
+<DIV class="soso">
+<DIV class="link"><script language="javascript" src="/system/resource/js/openlink.js"></script>    <a href="fkdh/zxxs.htm">在校生</a>|
+    <a href="fkdh/jzyg.htm">教职工</a>|
+    <a href="fkdh/xy.htm">校友</a>|
+    <a href="fkdh/ksyfk.htm">考生与访客</a>|
+    <a href="fkdh/hzz_.htm">合作者</a>|
+    <a href="https://ef.xjtu.edu.cn/">捐赠</a>
+</DIV>
+<DIV class="so">
+
+<script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode221740').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey221740").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey221740").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey221740").value = base64.encode(document.getElementById("lucenenewssearchkey221740").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode221740"));
+        return true;
+    } 
+</script>
+<form action="soso_2.jsp?wbtreeid=1001" method="post" id="au4a" name="au4a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey221740" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype221740" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope221740" name="searchScope" value="0">
+ <div style="padding:3px;margin:0px;display:inline;font-family:宋体;font-size:12px;">
+<input name="showkeycode" id="showkeycode221740" placeholder="站内搜索" style="line-height:18px;padding:0;margin:0;height:18px;width:195px;">
+  <select name="_w_v_l_s_n_s_kstype" id="_w_v_l_s_n_s_kstype_id">
+                    <option value="1" selected>
+                                            全部
+                    </option>
+                    <option value="2">
+                        标题
+                    </option>
+                    <option value="3">
+                                             正文
+                    </option>
+                    <option value="4">
+                        标签
+                    </option>
+                    <option value="5">
+                                        摘要
+                    </option>
+                    <option value="6">
+                                        作者
+                    </option>
+                    <option value="7">
+                                        来源
+                    </option>
+                    <option value="8">
+                        栏目
+                    </option>
+                </select>
+                <select name="_w_v_l_s_n_s_kstime" id="_w_v_l_s_n_s_kstime_id">
+                    <option value="0" selected>
+                        全部时间
+                    </option>
+                      <option value="2,025">2025</option>
+                    <option value="2,024">2024</option>
+                    <option value="2,023">2023</option>
+                    <option value="2,022">2022</option>
+                    <option value="2,021">2021</option>
+                    <option value="2,020">2020</option>
+                    <option value="2,019">2019</option>
+                    <option value="2,018">2018</option>
+                    <option value="2,017">2017</option>
+                    <option value="2,016">2016</option>
+                    <option value="2,015">2015</option>
+                    <option value="2,014">2014</option>
+                    <option value="2,013">2013</option>
+                    <option value="2,012">2012</option>
+                    <option value="2,011">2011</option>
+                    <option value="2,010">2010</option>
+                    <option value="2,009">2009</option>
+                    <option value="2,008">2008</option>
+                    <option value="2,007">2007</option>
+                    <option value="2,006">2006</option>
+                    <option value="2,005">2005</option>
+                </select>
+ <input type="image" src="images/search.png" align="absmiddle" style="cursor: hand">
+ </div>
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+</DIV></DIV>
+<DIV class="clear"></DIV>
+<DIV class="dh">
+<DIV class="menu"><div id="smoothmenu1" class="ddsmoothmenu">
+<ul>
+  <li>
+  <a href="index.htm" class="">首页</a>   
+   </li>
+  <li>
+  <a href="javascript:;" class="">交大概况</a>
+    <ul class="ul_2">
+      <li><a href="jdgk/jdjj.htm"><span>交大简介</span></a></li>
+      <li><a href="jdgk/xxld.htm"><span>学校领导</span></a></li>
+      <li><a href="jdgk/tjsj.htm"><span>统计数据</span></a></li>
+      <li><a href="jdgk/xsyg.htm"><span>校史沿革</span></a></li>
+      <li><a href="jdgk/xxbs.htm"><span>学校标识</span></a></li>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">院系设置</a>
+    <ul class="ul_3">
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1026"><span>数学学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2067"><span>物理学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2072"><span>化学学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"><span>前沿院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027"><span>机械学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1028"><span>电气学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1029"><span>能动学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1030"><span>电信学部</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2207"><span>人工智能学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1032"><span>材料学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1033"><span>人居学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1034"><span>生命学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1035"><span>航天学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1036"><span>化工学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2217"><span>仪器科学与技术学院 </span></a></li>
+      <li><a href="yxy_xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1037"><span>医学部</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span>经金学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1047"><span>金禾经济中心</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039"><span>管理学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1040"><span>公管学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1041"><span>人文学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1730"><span>新媒体学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042"><span>马克思主义学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1043"><span>法学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044"><span>外国语学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1049"><span>体育学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1050"><span>继续（网络）教育学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1052"><span>国际教育学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2157"><span>钱学森学院</span></a></li>
+      <li><a href="#"><span>创新创业学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2117"><span>未来技术学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2177"><span>西交米兰学院</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2187"><span>国家储能平台（中心）</span></a></li>
+      <li><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2227"><span>国家卓越工程师学院</span></a></li>
+    <li style="width: 28%;"><a href="xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2247"><span>国家医学攻关平台（中心）</span></a></li>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">组织机构</a>
+    <ul class="ul_4">
+      <li><a href="zzjg/dqjg.htm"><span>党群机构</span></a></li>
+      <li><a href="zzjg/xzbm.htm"><span>行政部门</span></a></li>
+      <li><a href="zzjg/zsdw.htm"><span>直属单位</span></a></li>
+      <li><a href="zzjg/fsdw.htm"><span>附属单位</span></a></li>
+      <li><a href="zzjg/cxgyjy.htm"><span>创新港研究院</span></a></li>
+      <li><a href="zzjg/qt.htm"><span>其它</span></a></li>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">本科书院</a>
+    <ul class="ul_5">
+      <li><a href="bksy/pksy.htm"><span>彭康书院</span></a></li>
+      <li><a href="bksy/wzsy.htm"><span>文治书院</span></a></li>
+      <li><a href="bksy/zlsy.htm"><span>宗濂书院</span></a></li>
+      <li><a href="bksy/qdsy.htm"><span>启德书院</span></a></li>
+      <li><a href="bksy/zysy.htm"><span>仲英书院</span></a></li>
+      <li><a href="bksy/lzsy.htm"><span>励志书院</span></a></li>
+      <li><a href="bksy/cssy.htm"><span>崇实书院</span></a></li>
+      <li><a href="bksy/nysy.htm"><span>南洋书院</span></a></li>
+      <li><a href="bksy/qxssy.htm"><span>钱学森书院</span></a></li>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">医学教育</a>
+  <ul class="ul_6" style="width:360px !important">
+      <table width="360" border="0" cellspacing="0" cellpadding="1">
+  <tr>
+    <td colspan="2" align="center"><a href="new_yxb_xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1757" title="医学部"><span style="font-size:18px; font-weight:bold">医学部</span></a></td>
+  </tr>
+  <tr>
+    <td><a href="new_son_xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1759" target="_blank">基础医学院 </a></td>
+    <td><a href="http://yxbzhb.xjtu.edu.cn" target="_blank">综合办公室 </a></td>
+  </tr>
+    <tr>
+    <td><a href="new_son_xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1760" target="_blank">公共卫生学院 </a></td>
+    <td><a href="http://yxbpyc.xjtu.edu.cn" target="_blank">人才培养处</a></td>
+  </tr>
+  <tr>
+    <td><a href="new_son_xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1761" target="_blank">药学院</a></td>
+    <td><a href="http://hrm.xjtu.edu.cn" target="_blank">人力资源处</a></td>
+  </tr>
+  <tr>
+    <td><a href="new_son_xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1762" target="_blank">法医学院 </a></td>
+    <td><a href="http://yxbkjc.xjtu.edu.cn" target="_blank">科学技术与学科建设处</a></td>
+  </tr>
+  <tr>
+    <td><a href="new_son_xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1763" target="_blank">护理学系</a></td>
+    <td><a href="http://ygc.xjtu.edu.cn" target="_blank">医院管理处</a></td>
+  </tr>
+  <tr>
+    <td><a href="new_son_xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1764" target="_blank">第一临床医学院(第一附属医院)</a></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><a href="new_son_xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1765" target="_blank">第二临床医学院(第二附属医院)</a></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><a href="new_son_xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1766" target="_blank">口腔医学院(口腔医院)</a></td>
+    <td>&nbsp;</td>
+  </tr>
+
+<tr>
+    <td><a href="new_son_xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1897" target="_blank">全球健康研究院</a></td>
+    <td>&nbsp;</td>
+  </tr>
+
+</table>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">科学研究</a>
+    <ul class="ul_7">
+      <li><a href="kxyj/kjgk.htm"><span>科技概况</span></a></li>
+      <li><a href="kxyj/kyjd.htm"><span>科研基地</span></a></li>
+      <li><a href="https://std.xjtu.edu.cn/cxyhzs/" target="_blank"><span>产学研合作</span></a></li>
+      <li><a href="http://meeting.xjtu.edu.cn/" target="_blank"><span>学术资源</span></a></li>
+      <li><a href="kxyj/xsqk.htm"><span>学术期刊</span></a></li>
+      <li><a href="http://equip.xjtu.edu.cn" target="_blank"><span>仪器设备</span></a></li>
+      <li><a href="https://stdmis.xjtu.edu.cn/"><span>科研系统</span></a></li>
+      <li><a href="kxyj/zgxbkjcxg.htm"><span>中国西部科技创新港</span></a></li>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">师资队伍</a>
+    <ul class="ul_8">
+      <li><a href="szdw1/szjs.htm"><span>师资介绍</span></a></li>
+      <li><a href="szdw_lyys.jsp?urltype=tree.TreeTempUrl&wbtreeid=1062"><span>两院院士</span></a></li>
+      <li><a href="szdw_zhimjs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1065"><span>知名教授</span></a></li>
+      <li><a href="szdu_bssds.jsp?urltype=tree.TreeTempUrl&wbtreeid=1066"><span>博士生导师</span></a></li>
+      <li><a href="http://pdc.xjtu.edu.cn/"><span>博士后站</span></a></li>
+      <li><a href="http://hr.xjtu.edu.cn/zoxxlbye.jsp?urltype=tree.TreeTempUrl&wbtreeid=1017"><span>招聘信息</span></a></li>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">人才培养</a>
+    <ul class="ul_9">
+      <li><a href="rcpy/jxjd.htm"><span>教学基地</span></a></li>
+      <li><a href="rcpy/bksjy.htm"><span>本科生教育</span></a></li>
+      <li><a href="rcpy/yjsjy.htm"><span>研究生教育</span></a></li>
+      <li><a href="rcpy/lxsjy.htm"><span>留学生教育</span></a></li>
+      <li><a href="rcpy/ycjy.htm"><span>远程教育</span></a></li>
+      <li><a href="rcpy/jxjy.htm"><span>继续教育</span></a></li>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">国际交流</a>
+    <ul class="ul_10">
+      <li><a href="gjjl/gjhzyjlc.htm"><span>国际合作与交流处</span></a></li>
+      <li><a href="gjjl/shhzzzdx_zg_.htm"><span>上海合作组织大学（中国）</span></a></li>
+      <li><a href="gjjl/sczldxlm.htm"><span>丝绸之路大学联盟</span></a></li>
+      <li><a href="gjjl/gjjyxy.htm"><span>国际教育学院</span></a></li>
+      <li><a href="gjjl/xjlwpdx.htm"><span>西交利物浦大学</span></a></li>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">图书档案</a>
+    <ul class="ul_11">
+      <li><a href="tsda/qxstsg.htm"><span>钱学森图书馆</span></a></li>
+      <li><a href="tsda/dag_bwg.htm"><span>档案馆、博物馆</span></a></li>
+      <li><a href="tsda/jdxqbwg.htm" target="_blank"><span>交大西迁博物馆</span></a></li>
+      <li><a href="http://szwb.xjtu.edu.cn"><span>数字文博平台</span></a></li>
+      <li><a href="tsda/cbs.htm"><span>出版社</span></a></li>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">校友服务</a>
+    <ul class="ul_12">
+      <li><a href="http://alumni.xjtu.edu.cn/" target="_blank"><span>交大校友网</span></a></li>
+      <li><a href="xyfw/zmxy1.htm"><span>知名校友</span></a></li>
+      <li><a href="http://www.ef.xjtu.edu.cn/" target="_blank"><span>基金会</span></a></li>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">校园生活</a>
+    <ul class="ul_13">
+      <li><a href="http://gonghui.xjtu.edu.cn/"><span>工会活动</span></a></li>
+      <li><a href="xysh/xsdj.htm"><span>学生党建</span></a></li>
+      <li><a href="xysh/xsh.htm"><span>学生会</span></a></li>
+      <li><a href="http://wmw.xjtu.edu.cn/"><span>校园文化</span></a></li>
+      <li><a href="xysh/jxj.htm"><span>奖学金</span></a></li>
+      <li><a href="xysh/qgzx.htm"><span>勤工助学</span></a></li>
+    </ul>
+   
+   </li>
+  <li>
+  <a href="javascript:;" class="">信息服务</a>
+    <ul class="ul_14">
+      <li><a href="xxfw/xyjbjs.htm"><span>校园基本建设</span></a></li>
+      <li><a href="xxfw/xytxjs.htm"><span>校园通讯建设</span></a></li>
+      <li><a href="http://one2020.xjtu.edu.cn/EIP/edu/education/schoolcalendar/showCalendar.htm" target="_blank"><span>交大校历</span></a></li>
+      <li><a href="xxfw/cydh.htm"><span>常用电话</span></a></li>
+      <li><a href="http://nic.xjtu.edu.cn/fwzn/sdgj.htm" target="_blank"><span>病毒防治</span></a></li>
+      <li><a href="http://ms.xjtu.edu.cn/" target="_blank"><span>正版软件</span></a></li>
+      <li><a href="xxfw/ydcg.htm"><span>运动场馆</span></a></li>
+      <li><a href="xxfw/xyfw.htm"><span>校园风物</span></a></li>
+      <li><a href="http://vi.xjtu.edu.cn/qt/jdxcc.htm"><span>资料下载</span></a></li>
+      <li><a href="https://sec.xjtu.edu.cn/"><span>安管平台</span></a></li>
+    </ul>
+   
+   </li>
+</ul>
+</div>
+<script type="text/javascript">
+ddsmoothmenu.init({
+mainmenuid: "smoothmenu1", //menu DIV id
+orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+classname: 'ddsmoothmenu', //class added to menu's outer DIV
+//customtheme: ["#1c5a80", "#18374a"],
+contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+</script></DIV></DIV></DIV></DIV>
+<DIV class="con">     <div class="hdp">
+    <div class="hd">
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </div>
+    <div class="bd">
+      <ul>
+        <li><a href="http://news.xjtu.edu.cn/info/1033/230644.htm" target="_blank"><img src="images/banner.png" width="1200" height="400"></a>
+          <div class="txt"><a href="http://news.xjtu.edu.cn/info/1033/230644.htm"></a></div>
+        </li>
+        <li><a href="https://mp.weixin.qq.com/s/ksCZHtp6SwSd2AFfmAuVzQ" target="_blank"><img src="images/20260519011.jpg" width="1200" height="400"></a>
+          <div class="txt"><a href="https://mp.weixin.qq.com/s/ksCZHtp6SwSd2AFfmAuVzQ"></a></div>
+        </li>
+        <li><a href="#" target="_blank"><img src="images/20260518011.jpg" width="1200" height="400"></a>
+          <div class="txt"><a href="#"></a></div>
+        </li>
+        <li><a href="http://news.xjtu.edu.cn/info/1033/232089.htm" target="_blank"><img src="images/chu11.jpg" width="1200" height="400"></a>
+          <div class="txt"><a href="http://news.xjtu.edu.cn/info/1033/232089.htm"></a></div>
+        </li>
+        <li><a href="" target="_blank"><img src="images/weixintupian_20260507171840_96_25.jpg" width="1200" height="400"></a>
+          <div class="txt"><a href=""></a></div>
+        </li>
+        <li><a href="https://news.xjtu.edu.cn/xwzt1/bdzt/bcfc.htm" target="_blank"><img src="images/20260507014.png" width="1200" height="400"></a>
+          <div class="txt"><a href="https://news.xjtu.edu.cn/xwzt1/bdzt/bcfc.htm"></a></div>
+        </li>
+        <li><a href="https://news.xjtu.edu.cn/xwzt1/bdzt/qjxx.htm" target="_blank"><img src="images/20260507013.png" width="1200" height="400"></a>
+          <div class="txt"><a href="https://news.xjtu.edu.cn/xwzt1/bdzt/qjxx.htm"></a></div>
+        </li>
+        <li><a href="https://jwc.xjtu.edu.cn/info/1178/10111.htm" target="_blank"><img src="images/20260507012.jpg" width="1200" height="400"></a>
+          <div class="txt"><a href="https://jwc.xjtu.edu.cn/info/1178/10111.htm"></a></div>
+        </li>
+        <li><a href="https://jwc.xjtu.edu.cn/info/1178/10112.htm" target="_blank"><img src="images/20260507011.jpg" width="1200" height="400"></a>
+          <div class="txt"><a href="https://jwc.xjtu.edu.cn/info/1178/10112.htm"></a></div>
+        </li>
+        <li><a href="#" target="_blank"><img src="images/20260422012.jpg" width="1200" height="400"></a>
+          <div class="txt"><a href="#"></a></div>
+        </li>
+        <li><a href="https://sris.xjtu.edu.cn/" target="_blank"><img src="images/20260323011.jpg" width="1200" height="400"></a>
+          <div class="txt"><a href="https://sris.xjtu.edu.cn/"></a></div>
+        </li>
+        <li><a href="http://news.xjtu.edu.cn/xwzt1/bdzt/xkxl.htm" target="_blank"><img src="images/11111223.png" width="1200" height="400"></a>
+          <div class="txt"><a href="http://news.xjtu.edu.cn/xwzt1/bdzt/xkxl.htm"></a></div>
+        </li>
+        <li><a href="http://news.xjtu.edu.cn/info/1033/222496.htm" target="_blank"><img src="images/20250605001.jpeg" width="1200" height="400"></a>
+          <div class="txt"><a href="http://news.xjtu.edu.cn/info/1033/222496.htm"></a></div>
+        </li>
+      </ul>
+    </div>
+    
+    <!-- 下面是前/后按钮代码，如果不需要删除即可 --> 
+    <a class="prev" href="javascript:void(0)"></a> <a class="next" href="javascript:void(0)"></a> </div>
+  <script type="text/javascript">
+        jQuery(".hdp").slide({mainCell:".bd ul",autoPlay:true});
+        </script> </DIV>
+<DIV class="con">
+<DIV class="dhlm zy190611 menulink">
+<UL>
+<LI><A class="hidelink" href="#" target="_blank"><SPAN><IMG src="img/zy01.png" width="53" height="53"></SPAN> <B>传承与荣光</B></A> <UL>
+    <LI style="width:47%;"><a href="http://dwzzb.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12407)">学习党的二十大</a></li>
+    <LI style="width:47%;"><a href="http://zsjlx.xjtu.edu.cn/" title="总书记来校专题网" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12500)">总书记来校专题网</a></li>
+    <LI style="width:47%;"><a href="http://xjtudj.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12406)">党建学习平台</a></li>
+    <LI style="width:47%;"><a href="http://xq.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12409)">西迁精神专题网</a></li>
+    <LI style="width:47%;"><a href="http://jdxqmuseum.xjtu.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12430)">西迁博物馆</a></li>
+    <LI style="width:47%;"><a href="http://wmw.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12461)">交大文明网</a></li>
+    <LI style="width:47%;"><a href="http://zhibo6.xjtu.edu.cn/vod-show?tags=0_16" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12600)">大先生系列话剧</a></li>
+    <LI style="width:47%;"><a href="http://szwb.xjtu.edu.cn" title="数字文博平台" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12630)">数字文博平台</a></li>
+</UL></LI>
+<LI><A class="hidelink" href="#" target="_blank"><SPAN><IMG src="img/zy02.png" width="53" height="53"></SPAN> <B>招生与培养</B></A> <UL>
+    <LI><a href="index/zsw.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12392)">招生网</a></li>
+    <LI><a href="http://job.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12570)">就业网</a></li>
+    <LI><a href="http://xgbg.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12390)">新港报告</a></li>
+    <LI><a href="http://gongpai.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12394)">公派留学</a></li>
+    <LI><a href="http://sie.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12391)">来华留学</a></li>
+    <LI><a href="http://syxt.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12393)">思源学堂</a></li>
+    <LI><a href="http://ispace.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12472)">思源学习空间</a></li>
+    <LI><a href="https://jwxt.xjtu.edu.cn/" title="本科教务系统" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12650)">本科教务系统</a></li>
+    <LI><a href="https://agent.xjtu.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12783)">“交晓智”平台</a></li>
+</UL></LI>
+<LI><A class="hidelink" href="#" target="_blank"><SPAN><IMG src="img/zy03.png" width="53" height="53"></SPAN> <B>科研与人才</B></A> <UL>
+    <LI><a href="http://equip.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12396)">大仪共享</a></li>
+    <LI><a href="http://stdmis.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12397)">科研系统</a></li>
+    <LI><a href="http://hr.xjtu.edu.cn/zoxxlbye.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1017" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12398)">人才招聘</a></li>
+</UL></LI>
+<LI><A class="hidelink" href="#" target="_blank"><SPAN><IMG src="img/zy04.png" width="53" height="53"></SPAN> <B>发展与展望</B></A> <UL>
+    <LI><a href="https://xjtu155.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12793)">“十五五”建言献策</a></li>
+    <LI><a href="cxgzx.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12400)">进军创新港</a></li>
+    <LI><a href="http://tszs.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12399)">它山之石</a></li>
+</UL></LI>
+<LI><A class="hidelink" href="#" target="_blank"><SPAN><IMG src="img/zy05.png" width="53" height="53"></SPAN> <B>信息与服务</B></A> <UL>
+    <LI><a href="https://xajdb.xjtu.edu.cn/pcindex.jsp" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12640)">西安交大报</a></li>
+    <LI><a href="http://vpn.xjtu.edu.cn/" title="校园VPN" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12561)">校园VPN</a></li>
+    <LI><a href="http://xxgk.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12401)">信息公开</a></li>
+    <LI><a href="http://vi.xjtu.edu.cn/" title="学校标识" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12560)">学校标识</a></li>
+    <LI><a href="http://cfsp.xjtu.edu.cn/" title="中央财政科技政策专栏" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12402)">财政专栏</a></li>
+    <LI><a href="http://one2020.xjtu.edu.cn/EIP/edu/education/schoolcalendar/showCalendar.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12405)">交大日历</a></li>
+    <LI><a href="https://sec.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12403)">安管平台</a></li>
+    <LI><a href="http://bbs.xjtu.edu.cn/" title="思源BBS" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12625)">思源BBS</a></li>
+    <LI><a href="http://zhibo6.xjtu.edu.cn/" title="思源直播" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12670)">思源直播</a></li>
+</UL></LI></UL></DIV></DIV>
+<STYLE type="text/css">
+
+.menulink ul li ul {display: none;width:100%;}
+.menulink ul li ul li {height:28px;padding:0;width:50%;float:left;text-align:left;}
+.menulink ul li ul li a {line-height:28px;display:block;font-size:12px;padding-left:12px;}
+.menulink ul li:hover ul {display:block; position:absolute; width:200px; bottom:77px; left:0px; background:rgba(13,89,167,0.7); color:#fff;z-index:9;}
+.menulink ul li:hover ul li:hover a {background:#fff; color:#000;}
+</STYLE>
+
+<DIV class="con">
+<DIV class="jdyw"><script language="javascript" src="/system/resource/js/centerCutImg.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script>
+<div class="ywpic">
+      <p><a href="https://h.xinhuaxmt.com/vh512/share/13041620?docid=13041620&newstype=1001&d=1352637&channel=weixin"><img src="/__local/B/75/7A/C543DFDFCF1D5DBF279CD5292CF_6D423CBB_A95E9.png" width="280" height="185"></a></p>
+      <p><a href="https://h.xinhuaxmt.com/vh512/share/13041620?docid=13041620&newstype=1001&d=1352637&channel=weixin">习近平：传承弘扬西迁精神聚焦国家重大战略需求 为建设教育强国科技强国...</a></p>
+    </div>
+<script>_showDynClickBatch(['dynclicks_u12_2234020'],[2234020],"wbnews", 1151962237)</script>
+<div class="ywlb">
+      <div class="ywlm">
+        <ul>
+          <li class="lmmc">交大要闻</li>
+          <li><a href="http://news.xjtu.edu.cn/index.htm" target="_blank">进入新闻网</a></li>
+        </ul>
+      </div>
+      <div class="plb">
+        <ul>
+<li>
+<img src="images/icon_news.gif">
+
+
+<a href="http://news.xjtu.edu.cn/info/1033/232035.htm" target="_blank">西安交大推动哲学社会科学高质量发展</a> </li>
+
+<li>
+<img src="images/icon_news.gif">
+
+
+<a href="http://news.xjtu.edu.cn/info/1033/232175.htm" target="_blank">西安交大与陕投集团共建产业创新平台</a> </li>
+
+<li>
+<img src="images/icon_news.gif">
+
+
+<a href="http://news.xjtu.edu.cn/info/1033/232119.htm" target="_blank">十三连冠！西安交大再登中国研究生创新实践大赛贡献力榜首</a> </li>
+
+<li>
+<img src="images/icon_news.gif">
+
+
+<a href="http://news.xjtu.edu.cn/info/1033/232105.htm" target="_blank">【强基向新】徐宗本：数学是创新的源头活水和关键生产力</a> </li>
+
+<li>
+<img src="images/icon_news.gif">
+
+
+<a href="http://news.xjtu.edu.cn/info/1033/232166.htm" target="_blank">【博创风采】绿氢攻坚：解锁氢能产业高效发展密码</a> </li>
+
+<li>
+<img src="images/icon_news.gif">
+
+
+<a href="http://news.xjtu.edu.cn/info/1033/232165.htm" target="_blank">西安交大教师程卓林的博士学位论文入选2026年中国电工技...</a> </li>
+
+<li>
+<img src="images/icon_news.gif">
+
+
+<a href="http://news.xjtu.edu.cn/info/1033/232157.htm" target="_blank">西安交大学子在第十二届全国大学生机械创新设计大赛陕西...</a> </li>
+
+<li>
+<img src="images/icon_news.gif">
+
+
+<a href="http://news.xjtu.edu.cn/info/1033/232153.htm" target="_blank">【科技日报】西安交大叶凯团队：基因组“折叠术”揭示生...</a> </li>
+
+        </ul>
+      </div>
+    </div><script>_showDynClickBatch(['dynclicks_u13_2234327','dynclicks_u13_2234370','dynclicks_u13_2234355','dynclicks_u13_2234351','dynclicks_u13_2234366','dynclicks_u13_2234365','dynclicks_u13_2234362','dynclicks_u13_2234360'],[2234327,2234370,2234355,2234351,2234366,2234365,2234362,2234360],"wbnews", 1151962237)</script>
+
+<DIV class="tzgg">
+<DIV class="hd">
+<UL>
+<LI class="s1 on"><A href="http://meeting.xjtu.edu.cn/" target="_blank">学术信息</A> </LI>
+<LI class="s2"><A href="http://oa.xjtu.edu.cn/#" target="_blank">通知公告</A> </LI>
+<LI class="s3"><A href="http://news.xjtu.edu.cn/mtjd/mtjd.htm" target="_blank">媒体交大</A> </LI></UL></DIV>
+<DIV class="bd">
+<UL>
+
+
+
+
+
+<li>
+            <div class="time" style="width: 75px;">
+<div class="bg1" style="width: 75px;">
+              
+              <p class="yue">2026-05-15</p>
+</div>
+            </div>
+            <div class="bt1"><a href="http://meeting.xjtu.edu.cn/lecturenotice/6955.htm" target="_blank">Identity and Difference: The two nece...</a></div>
+          </li>
+
+<li>
+            <div class="time" style="width: 75px;">
+<div class="bg1" style="width: 75px;">
+              
+              <p class="yue">2026-05-14</p>
+</div>
+            </div>
+            <div class="bt1"><a href="http://meeting.xjtu.edu.cn/lecturenotice/6963.htm" target="_blank">周惠久论坛——Revealing morphological...</a></div>
+          </li>
+
+<li>
+            <div class="time" style="width: 75px;">
+<div class="bg1" style="width: 75px;">
+              
+              <p class="yue">2026-05-14</p>
+</div>
+            </div>
+            <div class="bt1"><a href="http://meeting.xjtu.edu.cn/lecturenotice/6964.htm" target="_blank">周惠久论坛——From Conventional Therm...</a></div>
+          </li>
+
+<li>
+            <div class="time" style="width: 75px;">
+<div class="bg1" style="width: 75px;">
+              
+              <p class="yue">2026-05-13</p>
+</div>
+            </div>
+            <div class="bt1"><a href="http://meeting.xjtu.edu.cn/lecturenotice/6960.htm" target="_blank">岛屿循环经济何以必要？——社会代谢风...</a></div>
+          </li>
+
+<li>
+            <div class="time" style="width: 75px;">
+<div class="bg1" style="width: 75px;">
+              
+              <p class="yue">2026-05-12</p>
+</div>
+            </div>
+            <div class="bt1"><a href="http://meeting.xjtu.edu.cn/lecturenotice/6962.htm" target="_blank">周惠久论坛——Laser Additive Manufact...</a></div>
+          </li>
+<script>_showDynClickBatch(['dynclicks_u14_2234273','dynclicks_u14_2234285','dynclicks_u14_2234284','dynclicks_u14_2234274','dynclicks_u14_2234277'],[2234273,2234285,2234284,2234274,2234277],"wbnews", 1151962237)</script>
+</UL>
+<UL>
+<li>
+            <div class="time">
+<div class="bg">
+              
+              <p class="yue">05-15</p>
+</div>
+            </div>
+            <div class="bt"><a href="https://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SPPRQZS" target="_blank">实践教学工作坊 “一院一品”系列活动——走...</a></div>
+          </li>
+
+<li>
+            <div class="time">
+<div class="bg">
+              
+              <p class="yue">05-14</p>
+</div>
+            </div>
+            <div class="bt"><a href="https://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SPSTVRP" target="_blank">教师教学发展中心教学工作坊——AI赋能教学...</a></div>
+          </li>
+
+<li>
+            <div class="time">
+<div class="bg">
+              
+              <p class="yue">05-13</p>
+</div>
+            </div>
+            <div class="bt"><a href="https://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SPSWURQ" target="_blank">关于2026年享受政府特殊津贴人员拟推荐人选...</a></div>
+          </li>
+
+<li>
+            <div class="time">
+<div class="bg">
+              
+              <p class="yue">05-12</p>
+</div>
+            </div>
+            <div class="bt"><a href="https://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SPSVQUW" target="_blank">关于西安交通大学第十二届“十大学术新人”...</a></div>
+          </li>
+
+<li>
+            <div class="time">
+<div class="bg">
+              
+              <p class="yue">05-11</p>
+</div>
+            </div>
+            <div class="bt"><a href="https://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SPSPPSS" target="_blank">关于举办第九届“科技 人文 社会”新时代重...</a></div>
+          </li>
+<script>_showDynClickBatch(['dynclicks_u15_2234328','dynclicks_u15_2234329','dynclicks_u15_2234330','dynclicks_u15_2234331','dynclicks_u15_2234332'],[2234328,2234329,2234330,2234331,2234332],"wbnews", 1151962237)</script>
+</UL>
+<UL>
+<li>
+            <div class="time">
+<div class="bg">
+              
+              <p class="yue">05-20</p>
+</div>
+            </div>
+            <div class="bt"><a href="http://news.xjtu.edu.cn/info/1014/232168.htm" target="_blank">【光明日报】西安交通大学机械工程学院：党...</a></div>
+          </li>
+
+<li>
+            <div class="time">
+<div class="bg">
+              
+              <p class="yue">05-20</p>
+</div>
+            </div>
+            <div class="bt"><a href="http://news.xjtu.edu.cn/info/1014/232151.htm" target="_blank">科技日报】西安交大张锦英教授团队取得新突...</a></div>
+          </li>
+
+<li>
+            <div class="time">
+<div class="bg">
+              
+              <p class="yue">05-19</p>
+</div>
+            </div>
+            <div class="bt"><a href="http://news.xjtu.edu.cn/info/1014/232138.htm" target="_blank">【科技日报】西安交大叶凯团队：基因组“折...</a></div>
+          </li>
+
+<li>
+            <div class="time">
+<div class="bg">
+              
+              <p class="yue">05-18</p>
+</div>
+            </div>
+            <div class="bt"><a href="http://news.xjtu.edu.cn/info/1014/232040.htm" target="_blank">【陕西新闻联播】报道西安交大学生合唱团：...</a></div>
+          </li>
+
+<li>
+            <div class="time">
+<div class="bg">
+              
+              <p class="yue">05-15</p>
+</div>
+            </div>
+            <div class="bt"><a href="http://news.xjtu.edu.cn/info/1014/232005.htm" target="_blank">【中国科学报】他们为上千物种绘制演化图谱 ...</a></div>
+          </li>
+<script>_showDynClickBatch(['dynclicks_u16_2234369','dynclicks_u16_2234368','dynclicks_u16_2234367','dynclicks_u16_2234339','dynclicks_u16_2234338'],[2234369,2234368,2234367,2234339,2234338],"wbnews", 1151962237)</script>
+</UL></DIV></DIV><script type="text/javascript">
+     jQuery(".tzgg").slide({});
+        </script></DIV></DIV>
+<DIV class="cond" style="height: 595px;padding-top: 20px">
+<DIV class="txp">
+<DIV class="slideTxtBox clearfix" style="border-bottom: #dedede 1px solid">
+<DIV class="hd fl">
+<UL>
+<LI><A class="bg1" href="http://news.xjtu.edu.cn/rcpy.htm" target="_blank"></A></LI></UL></DIV>
+<DIV class="bd fl">
+<DIV class="cont"><ul>
+<li>
+<h1><a href="https://news.xjtu.edu.cn/info/1003/231995.htm" target="_blank">教育部高等学校能源动力类专业新一届教学指导委员会启动会暨战略性新兴...</a></h1>
+<h3><a href="https://news.xjtu.edu.cn/info/1003/231995.htm" target="_blank"><img src="/__local/F/0D/8E/871FD37268139F4B6E449E939AB_97CC5216_2D039.jpg?e=.jpg" width="291" height="97"></a></h3>
+
+</li>
+<li>
+<h1><a href="https://news.xjtu.edu.cn/info/1003/231951.htm" target="_blank">西安交大两项案例入选教育部首批高等教育智能体和数字教育“走出去”典...</a></h1>
+<h3><a href="https://news.xjtu.edu.cn/info/1003/231951.htm" target="_blank"><img src="/__local/9/15/15/9F4FFA2DC6EBF27C58682333085_48C9EC91_85D0.jpg" width="291" height="97"></a></h3>
+
+</li>
+<li class="last">
+<h1><a href="http://news.xjtu.edu.cn/info/1219/231914.htm" target="_blank">数智时代的社会结构变迁与理论创新：中国式现代化与  社会学理论创新第...</a></h1>
+<h3><a href="http://news.xjtu.edu.cn/info/1219/231914.htm" target="_blank"><img src="/__local/8/17/FB/58B9C59C9C1ABC6FB5BF5585FDD_2DE9EC5A_127D2.jpg" width="291" height="97"></a></h3>
+
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u17_2234322','dynclicks_u17_2234307','dynclicks_u17_2234299'],[2234322,2234307,2234299],"wbnews", 1151962237)</script>
+</DIV></DIV></DIV>
+<DIV class="slideTxtBox clearfix" style="border-bottom: #dedede 1px solid">
+<DIV class="hd fl">
+<UL>
+<LI><A class="bg2" href="http://news.xjtu.edu.cn/kxyj.htm" target="_blank"></A></LI></UL></DIV>
+<DIV class="bd fl">
+<DIV class="cont"><ul>
+<li>
+<h1><a href="https://news.xjtu.edu.cn/info/1004/232025.htm" target="_blank">西安交大靳立团队两篇论文发表于Acta Materialia 在高性能电子陶瓷材料...</a></h1>
+
+
+<h3><a href="https://news.xjtu.edu.cn/info/1004/232025.htm" target="_blank"><img src="/__local/1/31/F1/FFE081E8E65FA3B7A3CB95434F8_65B15630_1B24B.png?e=.png" width="291" height="97"></a></h3>
+
+</li>
+<li>
+<h1><a href="https://news.xjtu.edu.cn/info/1004/232002.htm" target="_blank">人文学院教师张志伟在中文哲学高水平期刊《哲学研究》发表文章</a></h1>
+<h2>日常物质事物是我们在日常生活和实践中打交道的对象，它们的存在构成日常思维的本体论。关于它们，有两个基本的形而上学问题：它们的跨时间同一性和本体论地位。传统上，这两个问题通常被当...</h2>
+
+
+
+
+</li>
+<li class="last">
+<h1><a href="https://news.xjtu.edu.cn/info/1004/231973.htm" target="_blank">西安交大实验动物中心在代谢相关脂肪性肝病研究中取得重要进展</a></h1>
+<h2>当前，代谢功能障碍相关脂肪性肝炎（MASH）全球疾病负担沉重，且仍在加重。近日，西安交大实验动物中心刘恩岐教授/屈鹏祥副教授团队联合密西根大学、北京大学、复旦大学、香港大学等团队，在...</h2>
+
+
+
+
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u18_2234325','dynclicks_u18_2234319','dynclicks_u18_2234310'],[2234325,2234319,2234310],"wbnews", 1151962237)</script>
+</DIV></DIV></DIV>
+<DIV class="slideTxtBox clearfix" style="padding-bottom: 0px;padding-top: 0px;padding-left: 0px;margin: 0px;padding-right: 0px">
+<DIV class="hd fl">
+<UL>
+<LI><A class="bg3" href="http://news.xjtu.edu.cn/gjjl.htm" target="_blank"></A></LI></UL></DIV>
+<DIV class="bd fl">
+<DIV class="cont"><ul>
+<li>
+<h1><a href="https://news.xjtu.edu.cn/info/1005/232018.htm" target="_blank">哈萨克斯坦人民大会直属青年大会代表团访问西安交大</a></h1>
+<h3><a href="https://news.xjtu.edu.cn/info/1005/232018.htm" target="_blank"><img src="/__local/E/06/7E/2FF5EF6404779BD6A31784E4E20_ECB62880_81C3.jpg" width="291" height="97"></a></h3>
+
+</li>
+<li>
+<h1><a href="https://news.xjtu.edu.cn/info/1005/231288.htm" target="_blank">澳大利亚南昆士兰大学副校长一行来访西安交大</a></h1>
+<h3><a href="https://news.xjtu.edu.cn/info/1005/231288.htm" target="_blank"><img src="/__local/3/59/16/34E3FD822831F531F9C4A3604C7_20402F8B_8B2A.jpg" width="291" height="97"></a></h3>
+
+</li>
+<li class="last">
+<h1><a href="https://news.xjtu.edu.cn/info/1005/231233.htm" target="_blank">西安交大代表团赴香港三所大学访问交流并联合举办工作坊及国际学术会议</a></h1>
+<h3><a href="https://news.xjtu.edu.cn/info/1005/231233.htm" target="_blank"><img src="/__local/8/3E/02/749B2679D219CD6A83BF24E3180_C9ECEE5C_DC0B.jpg?e=.jpg" width="291" height="97"></a></h3>
+
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u19_2234321','dynclicks_u19_2234160','dynclicks_u19_2234139'],[2234321,2234160,2234139],"wbnews", 1151962237)</script>
+</DIV>
+<DIV class="cont"><ul>
+<li>
+<h1><a href="http://news.xjtu.edu.cn/info/1009/125101.htm" target="_blank">西安交大获得第九届全国大学生机械创新设计大赛10项一等奖 获奖数居全国...</a></h1>
+<h3><a href="http://news.xjtu.edu.cn/info/1009/125101.htm" target="_blank"><img src="/__local/F/20/AE/9E9F88C1CCF32E3D5D2DA6C7872_CC0B4757_E8B4.png" width="291" height="97"></a></h3>
+
+<h2>2020“中铁工业杯”第九届全国大学生机械创新设计大赛决赛于11月20日至22日在西南交通大学举行，西安交大共有17项作品入围决赛，取得全国一等奖10项、二等奖7项，并有1项作品推选进入“中国...</h2>
+
+
+</li>
+<li>
+<h1><a href="http://news.xjtu.edu.cn/info/1009/125089.htm" target="_blank">保卫处联合创新港微型消防站、国际教育学院开展消防疏散演练</a></h1>
+<h3><a href="http://news.xjtu.edu.cn/info/1009/125089.htm" target="_blank"><img src="/__local/E/0D/79/A5E72F7F16A875368CE557EBEC6_D2701E42_CA9B.png" width="291" height="97"></a></h3>
+
+<h2>为进一步提高消防安全工作水平，强化留学生消防安全意识，提高师生对初期火灾的应急疏散处置能力和自救能力，11月18日下午，保卫处联合创新港微型消防站、国际教育学院、新大正物业在创新港...</h2>
+
+
+</li>
+<li class="last">
+<h1><a href="http://news.xjtu.edu.cn/info/1009/124863.htm" target="_blank">交大学子在中国大学生方程式大赛中荣获佳绩</a></h1>
+<h3><a href="http://news.xjtu.edu.cn/info/1009/124863.htm" target="_blank"><img src="/__local/2/C4/E7/A8C9DDD44B1430E69685DF309AE_F2CD8BA5_12838.png" width="291" height="97"></a></h3>
+
+<h2></h2>
+
+
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u20_2214957','dynclicks_u20_2214955','dynclicks_u20_2214917'],[2214957,2214955,2214917],"wbnews", 1151962237)</script>
+</DIV></DIV></DIV><script type="text/javascript">jQuery(".slideTxtBox").slide();</script></DIV>
+<DIV class="bgp" style="height: 572px">
+<DIV class="bgzdh"><ul>
+<li class="d1"><i></i><a href="http://oa.xjtu.edu.cn" target="_blank">办公自动化</a> </li>
+<li class="d2"><i></i><a href="https://ywtb.xjtu.edu.cn/dataService/H5/fenliu/index.html" target="_blank">一网通办</a> </li>
+<li class="d3"><i></i><a href="https://jwxt.xjtu.edu.cn/" target="_blank">本科教务系统</a> </li>
+<li class="d4"><i></i><a href="http://gr.xjtu.edu.cn/" target="_blank">教师个人主页</a> </li>
+<li class="d5"><i></i><a href="http://webmail.xjtu.edu.cn/" target="_blank">教师邮箱</a> </li>
+<li class="d6"><i></i><a href="http://stu.xjtu.edu.cn/" target="_blank">学生邮箱</a> </li>
+<li class="d7"><i></i><a href="http://info.xjtu.edu.cn/" target="_blank">综合信息服务</a> </li>
+<li class="d8"><i></i><a href="http://xjtudj.edu.cn" target="_blank">党建学习平台</a> </li>
+<li class="d9"><i></i><a href="http://xldxx.xjtu.edu.cn" target="_blank">校领导信箱</a> </li>
+<li class="d10"><i></i><a href="https://FINPortal.xjtu.edu.cn/FINPortal/" target="_blank">财务服务平台</a> </li>
+<li class="d11"><i></i><a href="http://tec.xjtu.edu.cn/" target="_blank">教师平台</a> </li>
+<li class="d12"><i></i><a href="http://m.xjtu.edu.cn" target="_blank">移动交通大学</a> </li>
+<li class="d13"><i></i><a href="http://stdmis.xjtu.edu.cn" target="_blank">科研系统</a> </li>
+<li class="d14"><i></i><a href="http://ims.xjtu.edu.cn" target="_blank">外事服务平台</a> </li>
+<li class="d15"><i></i><a href="http://hrms.xjtu.edu.cn" target="_blank">人事系统</a> </li>
+<li class="d16"><i></i><a href="http://fusion.xjtu.edu.cn" target="_blank">学科交叉平台</a> </li>
+<li class="d17"><i></i><a href="http://jdfw.xjtu.edu.cn/" target="_blank">法务合同系统</a> </li>
+</ul></DIV></DIV></DIV>
+<DIV class="con">
+<DIV class="piclink">    <a href="http://zsjlx.xjtu.edu.cn"><img src="images/1234444.png" width="169" height="63"></a> <a href="http://xq.xjtu.edu.cn/"><img src="images/170-2.jpg" width="169" height="63"></a> <a href="http://std.xjtu.edu.cn/"><img src="images/170-1.jpg" width="169" height="63"></a> <a href="http://wmw.xjtu.edu.cn/"><img src="images/17/09/04/1mi2amdixo/wmjd.png" width="169" height="63"></a> <a href="https://agent.xjtu.edu.cn/"><img src="images/weixintupian_20250508095325.jpg" width="169" height="63"></a> <a href="http://video.xjtu.edu.cn/" class="last"><img src="images/2023ysp620250716.png" width="169" height="63"></a> </DIV></DIV>
+<DIV style="height: 25px;width: 1200px;background: #fff;margin: 0px auto"></DIV>
+<DIV class="foot">
+<DIV class="foot-top">
+<DIV class="foot-link">
+<DL>  <dt><a href="#" style="font-size: 20px;font-weight:  bold;">传承与荣光</a></dt>
+   <dd><a target="“_blank”" href="http://dwzzb.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12407)">学习党的二十大</a></dd>
+
+   <dd><a target="“_blank”" href="http://zsjlx.xjtu.edu.cn/" title="总书记来校专题网" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12500)">总书记来校专题网</a></dd>
+
+   <dd><a target="“_blank”" href="http://xjtudj.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12406)">党建学习平台</a></dd>
+
+   <dd><a target="“_blank”" href="http://xq.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12409)">西迁精神专题网</a></dd>
+
+   <dd><a target="“_blank”" href="http://jdxqmuseum.xjtu.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12430)">西迁博物馆</a></dd>
+
+   <dd><a target="“_blank”" href="http://wmw.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12461)">交大文明网</a></dd>
+
+   <dd><a target="“_blank”" href="http://zhibo6.xjtu.edu.cn/vod-show?tags=0_16" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12600)">大先生系列话剧</a></dd>
+
+   <dd><a target="“_blank”" href="http://szwb.xjtu.edu.cn" title="数字文博平台" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12630)">数字文博平台</a></dd>
+
+</DL>
+<DL>  <dt><a href="#" style="font-size: 20px;font-weight:  bold;">招生与培养</a></dt>
+   <dd><a target="“_blank”" href="index/zsw.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12392)">招生网</a></dd>
+
+   <dd><a target="“_blank”" href="http://job.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12570)">就业网</a></dd>
+
+   <dd><a target="“_blank”" href="http://xgbg.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12390)">新港报告</a></dd>
+
+   <dd><a target="“_blank”" href="http://gongpai.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12394)">公派留学</a></dd>
+
+   <dd><a target="“_blank”" href="http://sie.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12391)">来华留学</a></dd>
+
+   <dd><a target="“_blank”" href="http://syxt.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12393)">思源学堂</a></dd>
+
+   <dd><a target="“_blank”" href="http://ispace.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12472)">思源学习空间</a></dd>
+
+   <dd><a target="“_blank”" href="https://jwxt.xjtu.edu.cn/" title="本科教务系统" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12650)">本科教务系统</a></dd>
+
+   <dd><a target="“_blank”" href="https://agent.xjtu.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12783)">“交晓智”平台</a></dd>
+
+</DL>
+<DL>  <dt><a href="#" style="font-size: 20px;font-weight:  bold;">科研与人才</a></dt>
+   <dd><a target="“_blank”" href="http://equip.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12396)">大仪共享</a></dd>
+
+   <dd><a target="“_blank”" href="http://stdmis.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12397)">科研系统</a></dd>
+
+   <dd><a target="“_blank”" href="http://hr.xjtu.edu.cn/zoxxlbye.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1017" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12398)">人才招聘</a></dd>
+
+</DL>
+<DL>  <dt><a href="#" style="font-size: 20px;font-weight:  bold;">发展与展望</a></dt>
+   <dd><a target="“_blank”" href="https://xjtu155.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12793)">“十五五”建言献策</a></dd>
+
+   <dd><a target="“_blank”" href="cxgzx.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12400)">进军创新港</a></dd>
+
+   <dd><a target="“_blank”" href="http://tszs.xjtu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12399)">它山之石</a></dd>
+
+</DL>
+<DL>  <dt><a href="#" style="font-size: 20px;font-weight:  bold;">信息与服务</a></dt>
+   <dd><a target="“_blank”" href="https://xajdb.xjtu.edu.cn/pcindex.jsp" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12640)">西安交大报</a></dd>
+
+   <dd><a target="“_blank”" href="http://vpn.xjtu.edu.cn/" title="校园VPN" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12561)">校园VPN</a></dd>
+
+   <dd><a target="“_blank”" href="http://xxgk.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12401)">信息公开</a></dd>
+
+   <dd><a target="“_blank”" href="http://vi.xjtu.edu.cn/" title="学校标识" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12560)">学校标识</a></dd>
+
+   <dd><a target="“_blank”" href="http://cfsp.xjtu.edu.cn/" title="中央财政科技政策专栏" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12402)">财政专栏</a></dd>
+
+   <dd><a target="“_blank”" href="http://one2020.xjtu.edu.cn/EIP/edu/education/schoolcalendar/showCalendar.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12405)">交大日历</a></dd>
+
+   <dd><a target="“_blank”" href="https://sec.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12403)">安管平台</a></dd>
+
+   <dd><a target="“_blank”" href="http://bbs.xjtu.edu.cn/" title="思源BBS" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12625)">思源BBS</a></dd>
+
+   <dd><a target="“_blank”" href="http://zhibo6.xjtu.edu.cn/" title="思源直播" onclick="_addDynClicks(&#34;wburl&#34;, 1151962237, 12670)">思源直播</a></dd>
+
+</DL></DIV>
+<DIV class="foot-icon">
+<DIV class="weibo">    <a><img src="images/2020072111.png" width="35" height="35">
+<div class="ewm"><img src="images/20251229175616_1_82.png" width="150" height="260"></div>
+</a>
+<a><img src="images/18/01/23/1ay37aq43t/icon_r_1.png" width="35" height="35">
+<div class="ewm"><img src="images/25/20250910.jpg"></div>
+</a>
+<a><img src="images/18/01/23/1ay37aq43t/icon_r_2.png" width="35" height="35">
+</a>
+<a><img src="images/18/01/23/1ay37aq43t/icon_r_3.png" width="35" height="35">
+<div class="ewm"><img src="img/weix_1.jpg"></div>
+</a>
+<a><img src="images/18/01/23/1ay37aq43t/icon_r_4.png" width="35" height="35">
+<div class="ewm"><img src="images/ttewm_1.jpg"></div>
+</a>
+</DIV></DIV></DIV>
+<DIV class="banquan"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p><span style="font-size: 9pt">地址：陕西省西安市咸宁西路28号 邮编：710049</span></p><p><span style="font-size: 9pt">版权所有：西安交通大学 站点建设与维护：<a href="http://nic.xjtu.edu.cn/" target="_blank" test-decoration="none"><span style="color:#ffffff">网络信息中心</span></a>&nbsp;&nbsp;<span style="color:#ffffff"> </span><a href="https://beian.miit.gov.cn/#/Integrated/index" test-decoration="none"><span style="color:#ffffff">陕ICP备06008037号-5</span></a></span>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/__local/D/02/89/DC0A46FC5B15B3363FFA78CF6C7_C267B386_4B38.png" style="margin-bottom: -2px;height: 15px;width: 15px" />&nbsp;<a href="https://beian.mps.gov.cn/#/query/webSearch?code=61010302001223" rel="noreferrer" target="_blank"><span style="color:#ffffff">陕公网安备61010302001223</span></a></p></DIV></DIV>
+
+</BODY></HTML>

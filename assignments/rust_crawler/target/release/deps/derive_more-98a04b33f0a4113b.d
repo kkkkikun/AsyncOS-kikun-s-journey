@@ -1,0 +1,10 @@
+/home/kikun/School/opencamp-project/assignments/rust_crawler/target/release/deps/derive_more-98a04b33f0a4113b.d: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/lib.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/syn_compat.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/utils.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/add_assign_like.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/add_helpers.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/add_like.rs
+
+/home/kikun/School/opencamp-project/assignments/rust_crawler/target/release/deps/libderive_more-98a04b33f0a4113b.so: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/lib.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/syn_compat.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/utils.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/add_assign_like.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/add_helpers.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/add_like.rs
+
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/lib.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/syn_compat.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/utils.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/add_assign_like.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/add_helpers.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.20/src/add_like.rs:

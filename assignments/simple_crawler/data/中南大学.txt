@@ -1,0 +1,2778 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+    <meta name="renderer" content="webkit" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <title>中南大学</title><META Name="keywords" Content="中南大学" />
+
+    <meta name="description" content="" />
+    
+    
+    <link rel="stylesheet" href="cssindex/style20251222.css" />
+    <script src="jsindex/bd.js"></script>
+    <script src="jsindex/ie6.js"></script>
+    <script src="jsindex/lib030501.js"></script>
+    <script type="text/javascript" src="jsindex/selectivizr.js"></script>
+    <link rel="stylesheet" type="text/css" href="cssindex/index.vsb.css">
+    
+
+    <style>
+        @font-face {
+            font-family: 'BEBAS-REGULAR';
+src: url(fonts/BEBAS-REGULAR.TTF) format('opentype')
+        }
+
+       .row-a3 .cont * {
+            font-family: 'BEBAS-REGULAR' !important;}
+
+
+
+        #layeru88 {
+            z-index: 4 !important;
+            left: 0;
+            right: auto;}
+
+        #adu0 {
+            z-index: 9999 !important;}
+
+        .fbanner {
+            z-index: 4 !important;
+            top: 28% !important;
+            position: fixed;}
+
+        .banner .pic .btit {
+            position: absolute;
+            left: 0;
+            right: 380px;
+            bottom: 50px;
+            line-height: 1;
+            padding-left: 40px;
+            font-size: 30px;
+            color: #fff;
+            display: block !important;}
+
+        .banner .slick-dots {
+            background: none;
+            left: auto;
+            right: 100px;
+            width: auto;
+            height: auto;
+            bottom: 50px;
+            display: block !important;}
+
+        .banner .slick-dots li {
+            margin: 0;}
+
+        .banner .slick-dots li button {
+            margin: 0 10px;
+            font-family: Arial;
+            cursor: pointer;
+            vertical-align: middle;
+            display: inline-block;
+            width: auto;
+            height: auto;
+            font-size: 14px;
+            line-height: 1;
+            text-indent: 0;
+            background: none;
+            color: #fff;}
+
+        .banner .slick-dots li.slick-active button {
+            font-size: 22px;
+            background: none;}
+
+        .banner .slick-dots li button:after {
+            content: "";
+            border-top: 1px solid #fff;
+            display: inline-block;
+            vertical-align: middle;
+            width: 0px;
+            margin-left: 5px;
+            transition: all 0.5s ease-out 0s;}
+
+        .banner .slick-dots li.slick-active button:after {
+            width: 60px;}
+
+        .banner .pic:before {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            height: 80px;
+            background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));}
+
+        .ul-txt-q4 {
+            height: auto;
+            overflow: hidden;}
+
+        .ul-txt-q4 .con {
+            overflow: visible;}
+
+        .row-a2 .cont {
+            overflow: visible;}
+
+        .ul-txt-q4 li {
+            float: left !important;
+            margin-bottom: 0 !important;}
+
+        .ul-txt-q4 h3 {
+            font-weight: bold;
+            color: #0852a2;}
+
+        .ul-txt-q4 li .news_imgs {
+            background-color: #fff;
+            box-shadow: 0 6px 20px 0 rgb(0 63 136 / 30%);
+            padding-top: 60%;
+            position: relative;
+            overflow: hidden;
+            margin-bottom: 20px;}
+
+        .ul-txt-q4 li .news_imgs img {
+            bottom: 0;
+            height: auto;
+            left: 0;
+            margin: auto;
+            max-width: 100%;
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 100%;
+            transition: all .4s ease-in-out;}
+
+        .ul-txt-q4 li:hover .news_imgs img {
+            transform: scale(1.1);}
+
+        .ul-txt-q4 .info span {
+            font-size: 16px;
+            color: #343434;}
+
+        .ul-txt-q4 .slick-arrow {
+            background-position: 50%;
+            background-repeat: no-repeat;
+            background-size: 20px;
+            border-radius: 50%;
+            height: 50px;
+            left: auto;
+            margin-top: -30px;
+            right: 0;
+            top: 0;
+            transform: rotate(0deg);
+            transition: all .6s ease-out;
+            width: 50px;
+            text-indent: 999rem;
+            overflow: hidden;
+            border: 1px solid #999;
+            position: absolute;
+            top: -50px;
+            right: 130px;}
+
+        .ul-txt-q4 .slick-arrow.slick-prev {
+            background: #fff url(images/prev_8696c40de55c9c5595cf.svg) center no-repeat;
+            right: 200px;}
+
+        .ul-txt-q4 .slick-arrow.slick-next {
+            background: #fff url(images/next_a20a84f6754a2009b7a0.svg) center no-repeat;}
+
+        .ul-txt-q4 .slick-arrow:hover {
+            transform: rotate(1turn);
+            border: 1px solid #264ca4;}
+
+        .dis0 {
+            opacity: 0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: -1;}
+
+        @media only screen and (max-width: 1440px) {
+            .ul-txt-q4 .slick-arrow {
+                top: -30px;}
+        }
+
+        @media only screen and (max-width: 767px) {
+            .ul-txt-q4 .slick-arrow {
+                top: -20px;
+                right: 40px;
+                height: 34px;
+                width: 34px;}
+
+            .ul-txt-q4 .slick-arrow.slick-prev {
+                right: 80px;}
+        }
+
+
+        @media screen and (max-width: 1300px) {
+            .banner .pic .btit {
+                font-size: 20px;}
+
+            .banner .slick-dots {
+                bottom: 45px;
+                right: 50px;}
+        }
+
+        @media screen and (max-width: 800px) {
+            .banner .pic .btit {
+                bottom: 10px;
+                line-height: 1.5;
+                right: 70px;
+                font-size: 14px;
+                padding-left: 18px;}
+
+            .banner .slick-dots {
+                bottom: 10px;
+                right: 0px;
+                display: none !important;}
+        }
+
+        @media only screen and (max-width: 767px) {
+            #adu0 img {
+                width: 80px;
+                height: 138px;
+                background-size: 100%;}
+
+            .fbanner {
+                z-index: 4 !important;
+                top: 4% !important;
+                position: fixed;
+                display: none;}
+        }
+
+
+        .banner,
+        .banner .pic {
+            height: calc(100vh - 110px);}
+
+        @media only screen and (max-width: 1920px) {
+
+            .banner,
+            .banner .pic {
+                height: calc(100vh - 110px);}
+        }
+
+        @media only screen and (max-width: 1000px) {
+
+            .banner,
+            .banner .pic {
+                height: 43.125vw;}
+
+            .fbanner {
+                z-index: 4 !important;
+                top: 10% !important;
+                position: fixed;
+                display: none;}
+        }
+    </style>
+
+
+
+    <script language="JavaScript">
+
+        function imgClose(id) {
+            document.getElementById(id).style.display = 'none';
+        }
+
+
+    </script>
+
+<head><!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230747a475c52505742000000004055 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1004,'/index.jsp',-1,1681206034)</script>
+</head><body class="index">
+
+
+       
+   
+   
+   
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>   
+</SCRIPT>
+
+    <div class="fbanner">
+             
+     
+     
+     
+<br>     
+     
+<SCRIPT language="JavaScript">     
+    function imageCloseu1(id,id2)     
+    {     
+        document.getElementById(id).style.display = 'none';  
+          
+        document.getElementById(id2).style.display = 'none';  
+             
+    }     
+</SCRIPT>     
+  
+<DIV id="layeru1" style="Z-INDEX:2;left:0px;POSITION:absolute; TOP:20px">    
+    <table border="0" cellpadding="0" cellspacing="0">     
+<tr>  
+        <td>     
+            </td></tr>     
+</table>     
+</div>  
+<DIV id="layer2u1" style="Z-INDEX:2;right:0px;POSITION:absolute; TOP:20px">     
+    <table border="0" cellpadding="0" cellspacing="0">     
+        <tr>  
+        <td>     
+            </td></tr>     
+       </table>     
+</div>   
+
+    </div>
+
+    <div class="fright" id="layeru88">
+            
+    </div>
+
+    <!-- 头部 -->
+    <div class="header">
+        <div class="soBox" id="ss_pc">
+            <div class="so">
+                <script type="text/javascript">
+    function _nl_ys_check_pc(){
+        var keyword = document.getElementById('showkeycode270842').value;
+        if( keyword.trim()==null||keyword.trim()=="" ){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey270842").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey270842").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey270842").value = base64.encode(document.getElementById("lucenenewssearchkey270842").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode270842"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1004" method="post" id="au3a" name="au3a" onsubmit="return _nl_ys_check_pc()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey270842" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype270842" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope270842" name="searchScope" value="0">
+
+ 
+ <input type="text" name="showkeycode" id="showkeycode270842" class="inp" style="color:#fff;" />
+ <input type="image" class="sub-btn" src="images/i-so.png" />
+ 
+ 
+ 
+</form>
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+            </div>
+
+
+            <div class="so qm">
+                <script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode271198').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey271198").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey271198").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey271198").value = base64.encode(document.getElementById("lucenenewssearchkey271198").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode271198"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1004" method="post" id="au4a" name="au4a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey271198" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype271198" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope271198" name="searchScope" value="1">
+  <input type="text" class="inp" name="showkeycode" id="showkeycode271198" />
+ <input type="submit" class="sub-btn" value="搜索">
+
+</form>
+
+            </div>
+
+
+            <a href="javascript:;" class="close"></a>
+        </div>
+        <a href="javascript:void(0);" class="so-btn"></a>
+        <span class="menuBtn"></span>
+        <div class="wp">
+            <div class="top fix">
+                <div class="top-l">
+                    <script language="javascript" src="/system/resource/js/openlink.js"></script><a href="jsfl/xs.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69647)">学生</a>      
+                    
+<a href="jsfl/jzg.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69648)">教职工</a>      
+                    
+<a href="jsfl/wlxs.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69649)">未来学生</a>      
+                    
+<a href="jsfl/xyxd.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69650)">校友校董</a>      
+                    
+<a href="https://rsc.csu.edu.cn/rczp.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68869)" target="_blank" class="a2">招聘</a>      
+                    
+
+                </div>
+                <div class="top-r">
+                    <div class="ll">
+                        <a href="https://my.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69928)" target="_blank" class="a1" style="margin-right: 16px;">信息门户</a>    
+                        
+<a href="http://lib.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68868)" target="_blank" class="a1">图书馆</a>    
+                        
+
+                    </div>
+
+
+
+
+                    <dl>
+                        <dt><a>教育机构<i><img src="images/i-down1.png" alt=""></i></a></dt>
+                        <dd style="width:415px;">
+                            
+  <a href="https://clj.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69205)" target="_blank">人文学院</a>   
+
+  <a href="http://sfl.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69206)" target="_blank">外国语学院</a>   
+
+  <a href="http://art.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69207)" target="_blank">建筑与艺术学院</a>   
+
+  <a href="http://bs.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69208)" target="_blank">商学院</a>   
+
+  <a href="http://law.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69209)" target="_blank">法学院</a>   
+
+  <a href="http://ps.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69210)" target="_blank">马克思主义学院</a>   
+
+  <a href="http://csuspa.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69211)" target="_blank">公共管理学院</a>   
+
+  <a href="http://math.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69212)" target="_blank">数学与统计学院</a>   
+
+  <a href="http://wl.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69213)" target="_blank">物理学院</a>   
+
+  <a href="http://ccce.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69214)" target="_blank">化学化工学院</a>   
+
+ <div style="width:100%;float:left;">
+ 
+ <a href="http://cmee.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69215)" target="_blank" style="width:auto;">机电工程学院</a>     
+ 
+
+ <a href="http://lari.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69646)" target="_blank" style="width:auto;">（轻合金研究院</a>  
+
+ <a href="http://saa.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69229)" target="_blank" style="width:auto;">航空航天技术研究院）</a>    
+</div>
+
+  <a href="http://energy.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69217)" target="_blank">能源科学与工程学院</a>   
+
+  <a href="http://mse.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69218)" target="_blank">材料科学与工程学院</a>   
+
+  <a href="http://pmri.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69219)" target="_blank">粉末冶金研究院</a>   
+
+  <a href="http://stte.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69220)" target="_blank">交通运输工程学院</a>   
+
+  <a href="http://civil.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69221)" target="_blank">土木工程学院</a>   
+
+  <a href="http://smse.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69222)" target="_blank">冶金与环境学院</a>   
+
+  <a href="http://gip.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69223)" target="_blank">地球科学与信息物理学院</a>   
+
+  <a href="http://srse.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69224)" target="_blank">资源与安全工程学院</a>   
+
+  <a href="http://mpb.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69225)" target="_blank">资源加工与生物工程学院</a>   
+
+  <a href="http://soa.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69226)" target="_blank">自动化学院</a>   
+
+ <div style="width:50%;float:left;">
+ 
+ <a href="http://cse.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69227)" target="_blank" style="width:auto;">计算机学院</a>    
+
+ <a href="https://bdi.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69630)" target="_blank" style="width:auto;">(大数据研究院)</a>    
+</div>
+
+  <a href="https://ei.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 71179)" target="_blank">电子信息学院</a>   
+
+  <a href="http://sports.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69230)" target="_blank">体育教研部</a>   
+
+  <a href="http://jcyxy.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69231)" target="_blank">湘雅基础医学院</a>   
+
+  <a href="http://sph.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69232)" target="_blank">湘雅公共卫生学院</a>   
+
+  <a href="https://xynursing.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69233)" target="_blank">湘雅护理学院</a>   
+
+  <a href="http://xykqyy.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69234)" target="_blank">湘雅口腔医学院</a>   
+
+  <a href="http://yxy.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69235)" target="_blank">湘雅药学院</a>   
+
+  <a href="http://life.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69236)" target="_blank">生命科学学院</a>   
+
+  <a href="https://dii.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 70835)" target="_blank">邓迪国际学院</a>   
+
+  <a href="https://ngce.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 71279)" target="_blank">国家卓越工程师学院</a>   
+
+                        </dd>
+                    </dl>
+                    <dl style="    margin-left: 5px;">
+                        <dt><a>研究机构<i><img src="images/i-down1.png" alt=""></i></a></dt>
+                        <dd><a href="http://hpcm.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69874)" target="_blank">高性能复杂制造国家重点实验室</a>      
+                            
+<a href="http://sklpm.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69875)" target="_blank">粉末冶金国家重点实验室</a>      
+                            
+<a href="http://zjsgczx.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69876)" target="_blank">重金属污染防治国家工程技术研究中心</a>      
+                            
+<a href="https://ncrcgdxy.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69877)" target="_blank">国家老年疾病临床医学研究中心</a>      
+                            
+<a title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69878)" target="_blank" style="cursor:default;">国家精神心理疾病临床医学研究中心</a>      
+                            
+<a href="http://ncrc.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69879)" target="_blank">国家代谢性疾病临床医学研究中心</a>      
+                            
+<a href="http://www.nercsc.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69880)" target="_blank">人类干细胞国家工程研究中心</a>      
+                            
+<a href="http://pmri.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69881)" target="_blank">粉末冶金国家工程研究中心</a>      
+                            
+<a href="https://bdi.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69882)" target="_blank">医疗大数据应用技术国家工程实验室</a>      
+                            
+<a href="http://rnmlab.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69883)" target="_blank">低碳有色冶金国家工程研究中心</a>      
+                            
+<a href="http://hsrlab.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69884)" target="_blank">高速铁路建造技术国家工程研究中心</a>      
+                            
+<a title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69885)" target="_blank" style="cursor:default;">药物临床评价技术国家地方联合工程实验室</a>      
+                            
+<a href="https://www.xyeyy.com/5/38/58/index.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69886)" target="_blank">精神疾病诊疗技术国家地方联合工程实验室</a>      
+                            
+<a href="https://xyproteomics.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69887)" target="_blank">卫健委肿瘤蛋白质组学重点实验室</a>      
+                            
+<a href="https://stte.csu.edu.cn/gd2018/index.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69888)" target="_blank">轨道交通列车安全保障技术国家地方联合工程研究中心</a>      
+                            
+<a href="https://zyxh.csu.edu.cn/cxpt/ysjszyxhlygjdflhgcyjzx/zxjj.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69889)" target="_blank">有色金属资源循环利用国家地方联合工程研究中心</a>      
+                            
+<a href="https://lari.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69890)" target="_blank">有色金属先进结构材料与制造协同创新中心</a>      
+                            
+<a href="https://lari.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69892)" target="_blank">国家高性能铝材工程化与创新能力建设平台</a>      
+                            
+
+                        </dd>
+                    </dl>
+                    
+  <a href="http://en.csu.edu.cn" class="lang" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68874)" target="_blank">English</a>
+                   
+
+                </div>
+            </div>
+            <div class="logo qm">
+                
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm">
+                    <img src="images/logo.png" alt="" class="img1">
+                    <img src="images/logo2.png" alt="" class="img2">
+</a>
+            </div>
+            <div class="nv fix">
+                <div class="nav nv-l">
+                    <ul>
+
+
+
+<li class="zjzn">
+                            <div class="v1"><a href="zjzn.htm">走进中南</a><i></i></div>
+                          
+                            <div class="sub clearfix dh2">
+                                <dl class="clearfix">
+                                    <dd><a href="zjzn/xxgk.htm"><i></i>学校概况</a></dd>
+                                    
+                                    <dd><a href="zjzn/lsyg.htm"><i></i>历史沿革</a></dd>
+                                    
+                                    <dd><a href="zjzn/lrld/zndx.htm"><i></i>历任领导</a></dd>
+                                    
+                                    <dd><a href="zjzn/xxld.htm"><i></i>现任领导</a></dd>
+                                    
+                                    <dd><a href="zjzn/jgsz.htm"><i></i>机构设置</a></dd>
+                                    
+                                    <dd><a href="zjzn/sjzn.htm"><i></i>数据中南</a></dd>
+                                    
+                                    <dd><a href="zjzn/xxzc.htm"><i></i>学校章程</a></dd>
+                                    
+                                    <dd><a href="zjzn/xxbs/xm.htm"><i></i>学校标识</a></dd>
+                                    
+                                    <dd><a href="zjzn/znyx/a2026.htm"><i></i>印象中南</a></dd>
+                                    
+                                </dl>
+                                <div class="navpic"><a href=""><img src="images/01zoujinzhongnan-caijian.png" alt=""></a></div>
+                            </div>
+ </li>
+
+
+
+
+
+<li>
+                            <div class="v1"><a href="jyjx.htm">教育教学</a><i></i></div>
+                          
+                            <div class="sub clearfix dh3">
+                                <dl class="clearfix">
+                                    <dd><a href="https://bksy.csu.edu.cn" target="_blank"><i></i>本科生教育</a></dd>
+                                    
+                                    <dd><a href="http://gra.csu.edu.cn" target="_blank"><i></i>研究生教育</a></dd>
+                                    
+                                    <dd><a href="https://intl.csu.edu.cn/zwb.htm" target="_blank"><i></i>留学生教育</a></dd>
+                                    
+                                    <dd><a href="https://cea.csu.edu.cn/" target="_blank"><i></i>继续教育</a></dd>
+                                    
+                                </dl>
+                                <div class="navpic"><a href=""><img src="images/02jiaoyujiaoxue-caijian.png" alt=""></a></div>
+                            </div>
+ </li>
+
+
+
+
+
+<li>
+                            <div class="v1"><a href="xyxk1.htm">学院学科</a><i></i></div>
+                          
+                            <div class="sub clearfix dh4">
+                                <dl class="clearfix">
+                                    <dd><a href="xyxk1/ejxy.htm"><i></i>二级学院</a></dd>
+                                    
+                                    <dd><a href="xyxk1/xkzy.htm"><i></i>学科专业</a></dd>
+                                    
+                                </dl>
+                                <div class="navpic"><a href=""><img src="images/03xueyuanxueke-caijian.png" alt=""></a></div>
+                            </div>
+ </li>
+
+
+
+
+
+<li>
+                            <div class="v1"><a href="szdw3/lyys.htm">师资队伍</a><i></i></div>
+                          
+                            <div class="sub clearfix dh5">
+                                <dl class="clearfix">
+                                <dd><a href="szdw3/lyys.htm#abc"><i></i>两院院士</a></dd>
+                                    
+                                    <dd><a href="https://faculty.csu.edu.cn/" target="_blank"><i></i>教师个人主页</a></dd>
+                                    
+                                </dl>
+                                <div class="navpic"><a href=""><img src="images/04shiziduiwu-caijian.png" alt=""></a></div>
+                            </div>
+ </li>
+
+
+                    </ul>
+                </div>
+                <div class="logo">
+                    
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm">
+<img src="images/logo.png" class="lg1" alt="">
+<img src="images/logo-1.png" class="lg2" alt="">
+</a>
+                </div>
+                <div class="nav nv-r">
+                    <ul><li>
+                           <div class="v1"><a href="https://kxyjb.csu.edu.cn" target="_blank">科学研究</a><i></i></div>
+                            <div class="sub clearfix dh6">
+                                <dl class="clearfix">
+                                    <dd><a href="https://kxyjb.csu.edu.cn/index/tzgg.htm" target="_blank" target="_blank" style="text-align: center !important;"><i></i>科研通知</a></dd>
+                                    <dd><a href="https://kexie.csu.edu.cn/" target="_blank" target="_blank" style="text-align: center !important;"><i></i>科学技术协会</a></dd>
+                                    <dd><a href="https://kxyjb.csu.edu.cn/xswyh.htm" target="_blank" target="_blank" style="text-align: center !important;"><i></i>学术委员会</a></dd>
+                                    <dd><a href="https://kxyjb.csu.edu.cn/xfjs.htm" target="_blank" target="_blank" style="text-align: center !important;"><i></i>学风建设</a></dd>
+                                    <dd><a href="https://kxyjb.csu.edu.cn/xxgk/bszn.htm" target="_blank" target="_blank" style="text-align: center !important;"><i></i>科研信息公开</a></dd>
+                                    <dd><a href="https://journals.csu.edu.cn/" target="_blank" style="text-align: center !important;"><i></i>学术期刊</a></dd>
+                                </dl>
+                               <div class="navpic"><a href=""><img src="images/05kexueyanjiu-caijian.png" alt=""></a></div>
+                            </div>
+                        </li>
+<li>
+                           <div class="v1"><a href="zsjy.htm">招生就业</a><i></i></div>
+                            <div class="sub clearfix dh7">
+                                <dl class="clearfix">
+                                    <dd><a href="http://zhaosheng.csu.edu.cn" target="_blank" target="_blank" style="text-align: center !important;"><i></i>本科生招生</a></dd>
+                                    <dd><a href="https://yz.csu.edu.cn/" target="_blank" target="_blank" style="text-align: center !important;"><i></i>研究生招生</a></dd>
+                                    <dd><a href="https://intl.csu.edu.cn/zwb/lhlx.htm" target="_blank" target="_blank" style="text-align: center !important;"><i></i>留学生招生</a></dd>
+                                    <dd><a href="http://sce.csu.edu.cn/" target="_blank" target="_blank" style="text-align: center !important;"><i></i>继续教育招生</a></dd>
+                                    <dd><a href="https://career.csu.edu.cn" target="_blank" target="_blank" style="text-align: center !important;"><i></i>就业信息网</a></dd>
+                                    <dd><a href="http://chinadxscy.csu.edu.cn" target="_blank" target="_blank" style="text-align: center !important;"><i></i>中国大学生创业网</a></dd>
+                                </dl>
+                               <div class="navpic"><a href=""><img src="images/06zhaoshengjiuye-caijian.png" alt=""></a></div>
+                            </div>
+                        </li>
+<li>
+                           <div class="v1"><a target="_blank" href="http://iecd.csu.edu.cn/index.htm">合作交流</a><i></i></div>
+                            <div class="sub clearfix dh8">
+                                <dl class="clearfix">
+                                    <dd><a href="https://iecd.csu.edu.cn/" target="_blank" style="text-align: center !important;"><i></i>国际合作与交流</a></dd>
+                                    <dd><a href="https://gnhz.csu.edu.cn/" target="_blank" style="text-align: center !important;"><i></i>国内合作</a></dd>
+                                    <dd><a href="https://iecd.csu.edu.cn/gatsw.htm" target="_blank" style="text-align: center !important;"><i></i>港澳台事务</a></dd>
+                                </dl>
+                               <div class="navpic"><a href=""><img src="images/07hezuojiaoliu-caijian.png" alt=""></a></div>
+                            </div>
+                        </li>
+<li>
+                           <div class="v1"><a href="xstd.htm">学生天地</a><i></i></div>
+                            <div class="sub clearfix dh9">
+                                <dl class="clearfix">
+                                    <dd><a href="http://xgw.csu.edu.cn" target="_blank" target="_blank" style="text-align: center !important;"><i></i>学生工作网</a></dd>
+                                    <dd><a href="http://54sh.csu.edu.cn" target="_blank" target="_blank" style="text-align: center !important;"><i></i>升华网</a></dd>
+                                    <dd><a href="http://chinadxscy.csu.edu.cn" target="_blank" target="_blank" style="text-align: center !important;"><i></i>中国大学生创业网</a></dd>
+                                </dl>
+                               <div class="navpic"><a href=""><img src="images/11xueshengtiandi.png" alt=""></a></div>
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+
+            <div class="nv nav-m">
+                <div class="cont">
+                    <div class="hd-t">
+                        <div class="lg"><a href=""><img src="images/logo3.png" alt="" /></a></div>
+                        <div class="rr">
+                            <a href="http://en.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69905)">
+<i style="background-image: url(/images/iconq4.png);"></i>
+EN
+</a>
+                    
+
+                        </div>
+                    </div>
+                    <ul class="nav">
+                        <li>
+ <div class="v1">
+ <a href="zjzn.htm" title="走进中南">走进中南</a>
+ </div>
+</li>
+<li>
+ <div class="v1">
+ <a href="jyjx.htm" title="教育教学">教育教学</a>
+ </div>
+</li>
+<li>
+ <div class="v1">
+ <a href="xyxk1.htm" title="学院学科">学院学科</a>
+ </div>
+</li>
+<li>
+ <div class="v1">
+ <a href="szdw3/lyys.htm" title="师资队伍">师资队伍</a>
+ </div>
+</li>
+<li>
+ <div class="v1">
+ <a href="https://kxyjb.csu.edu.cn" title="科学研究" target="_blank">科学研究</a>
+ </div>
+</li>
+<li>
+ <div class="v1">
+ <a href="zsjy.htm" title="招生就业">招生就业</a>
+ </div>
+</li>
+<li>
+ <div class="v1">
+ <a href="http://iecd.csu.edu.cn/index.htm" title="合作交流">合作交流</a>
+ </div>
+</li>
+<li>
+ <div class="v1">
+ <a href="xstd.htm" title="学生天地">学生天地</a>
+ </div>
+</li>
+
+
+                    </ul>
+                    <div class="bot">
+                        <div class="link">
+                            <a href="http://oaapp.csu.edu.cn/con/list?TableName=ZNDX_ZHBG_GGTZ" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69906)">校内通知</a><em style="    margin-left: 5px;">|</em>         
+<a href="http://oaapp.csu.edu.cn/con/list?TableName=ZXGW" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69907)">校内公文</a><em style="    margin-left: 5px;">|</em>         
+<a href="http://oaapp.csu.edu.cn/con/list?TableName=ZNDX_ZHBG_ZHYB" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69908)">每周会议</a><em style="    margin-left: 5px;">|</em>         
+<a href="index/xndh.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69934)">校内导航</a>         
+
+                        </div>
+                        <div class="link" style="margin-bottom:0px;">
+                            <a href="ksdh/cywz.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69909)">常用网站</a><em style="    margin-left: 5px;">|</em>
+                    
+<a href="ksdh/cyxt.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69910)">常用系统</a><em style="    margin-left: 5px;">|</em>
+                    
+<a href="ksdh/cyxx.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69911)">常用信息</a><em style="    margin-left: 5px;">|</em>
+                    
+<a href="ksdh/cylj.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69912)">常用链接</a>
+                    
+
+                        </div>
+                    </div>
+                    <div class="bot">
+                        <div class="link">
+                            <a href="jsfl/xs.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69913)">学生</a><em style="    margin-left: 5px;">|</em>
+                    
+<a href="jsfl/jzg.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69914)">教职工</a><em style="    margin-left: 5px;">|</em>
+                    
+<a href="jsfl/wlxs.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69915)">未来学生</a><em style="    margin-left: 5px;">|</em>
+                    
+<a href="jsfl/xyxd.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69916)">校友校董</a><em style="    margin-left: 5px;">|</em>
+                    
+<a href="https://rsc.csu.edu.cn/rczp.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69917)">招聘</a><em style="    margin-left: 5px;">|</em>
+                    
+<a href="http://lib.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69918)">图书馆</a>
+                    
+
+                        </div>
+                        <div class="link" style="margin-bottom:0px;">
+                            <a href="https://mail.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69919)">邮箱</a><em style="     margin-left: 5px;">|</em>
+                    
+<a href="https://my.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69920)">信息门户</a>
+                    
+
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 头部 -->
+    <!-- banner -->
+    <div class="banner">
+        <div class="slider">
+                 
+            
+<div class="slick-slide">
+
+                <a class="pic" target="_blank" style="background-image: url(images/weixintupian_20260430100055_3405_151.jpg);">
+                <span class="btit" style="display:none;"></span>
+                </a>
+            <a href="zjzn/znyx/a2026.htm" class="a2">更多></a>
+            </div>
+            
+<div class="slick-slide">
+
+                <a class="pic" target="_blank" style="background-image: url(images/weixintupian_20260519113808_46_642.jpg);">
+                <span class="btit" style="display:none;"></span>
+                </a>
+            <a href="zjzn/znyx/a2026.htm" class="a2">更多></a>
+            </div>
+            
+<div class="slick-slide">
+
+                <a class="pic" target="_blank" style="background-image: url(images/weixintupian_20260424075456_508_515.png);">
+                <span class="btit" style="display:none;"></span>
+                </a>
+            <a href="zjzn/znyx/a2026.htm" class="a2">更多></a>
+            </div>
+            
+<div class="slick-slide">
+
+                <a class="pic" target="_blank" style="background-image: url(images/banner/shigandandang.png);">
+                <span class="btit" style="display:none;"></span>
+                </a>
+            <a href="zjzn/znyx/a2026.htm" class="a2">更多></a>
+            </div>
+            
+
+        </div>
+    </div>
+    <!-- banner -->
+    <!-- 内容 -->
+    <div class="main">
+        <!-- 中南要闻 -->
+        <div class="row-a1" style="background-image: url(images/bg-q1.jpg);">
+            <div class="wp">
+                <div class="g-tit1 wow fadeInUp">
+                    <a href="https://news2.csu.edu.cn" class="more" target="_blank"><i></i>+更多</a>
+                    <a href="https://news2.csu.edu.cn" class="more more2"><i></i></a>
+                    <h3>中南要闻</h3>
+                </div>
+                <div class="box">
+                    <div class="m-picTxt1 wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s">
+                        <script language="javascript" src="/system/resource/js/centerCutImg.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="slider">
+                            
+<div class="item">
+   <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131616" class="con" target="_blank">
+                                <div class="pic"><img src="https://news2.csu.edu.cn/sp/common/file/download/?id=443ef7a44bd4445eb786131320ab4d8d" alt=""></div>
+                                    <div class="txt">
+                                        <h3>“创青春”中国青年创新创业周在中南大学开幕</h3>
+                                        <span>2026-05-19</span>
+                                    </div>
+                                </a>
+                            </div>
+                            
+<div class="item">
+   <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131606" class="con" target="_blank">
+                                <div class="pic"><img src="https://news2.csu.edu.cn/sp/common/file/download/?id=53fb1a108fd74959a0d6d42879b7ccee" alt=""></div>
+                                    <div class="txt">
+                                        <h3>中南大学与四川省人民政府签署战略合作协议</h3>
+                                        <span>2026-05-19</span>
+                                    </div>
+                                </a>
+                            </div>
+                            
+<div class="item">
+   <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131486" class="con" target="_blank">
+                                <div class="pic"><img src="https://news2.csu.edu.cn/sp/common/file/download/?id=46e19edfe6d849ca9fdeae93086f8764" alt=""></div>
+                                    <div class="txt">
+                                        <h3>中南大学召开学院及附属医院“十五五”规划汇报会</h3>
+                                        <span>2026-04-30</span>
+                                    </div>
+                                </a>
+                            </div>
+                            
+<div class="item">
+   <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131439" class="con" target="_blank">
+                                <div class="pic"><img src="https://news2.csu.edu.cn/sp/common/file/download/?id=5c2f3837e2a549be86b3bc8a6e59ddce" alt=""></div>
+                                    <div class="txt">
+                                        <h3>沈晓明调研中南大学相关实验室</h3>
+                                        <span>2026-04-28</span>
+                                    </div>
+                                </a>
+                            </div>
+                            
+<div class="item">
+   <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131326" class="con" target="_blank">
+                                <div class="pic"><img src="https://news2.csu.edu.cn/sp/common/file/download/?id=1077c06202884812a35b35d89ccf565f" alt=""></div>
+                                    <div class="txt">
+                                        <h3>中南大学罗湘杭团队在《细胞》发表代谢性疾病原创研究…</h3>
+                                        <span>2026-04-23</span>
+                                    </div>
+                                </a>
+                            </div>
+                            
+</div><script>_showDynClickBatch(['dynclicks_u21_107979','dynclicks_u21_107980','dynclicks_u21_107988','dynclicks_u21_107846','dynclicks_u21_107900'],[107979,107980,107988,107846,107900],"wbnews", 1681206034)</script>
+
+                    </div>
+                    <ul class="p-list1 wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">
+                        <li class="li1">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131616" class="con" title="“创青春”中国青年创新创业周在中南大学开幕" target="_blank">
+                                <h3>“创青春”中国青年创新创业周在中南大学开幕</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-19</span>
+                            </a>
+</li>                        
+<li class="li2">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131606" class="con" title="中南大学与四川省人民政府签署战略合作协议" target="_blank">
+                                <h3>中南大学与四川省人民政府签署战略合作协议</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-19</span>
+                            </a>
+</li>                        
+<li class="li3">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131605" class="con" title="校党委理论学习中心组：以正确政绩观引领学校高质量发展" target="_blank">
+                                <h3>校党委理论学习中心组：以正确政绩观引领学校高质量发展</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-18</span>
+                            </a>
+</li>                        
+<li class="li4">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131595" class="con" title="习近平就推动哲学社会科学高质量发展作出的重要指示在中南大学引发热议   " target="_blank">
+                                <h3>习近平就推动哲学社会科学高质量发展作出的重要指示在中南大学引发热议   </h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-17</span>
+                            </a>
+</li>                        
+<li class="li5">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131594" class="con" title="【学习】习近平就推动哲学社会科学高质量发展作出重要指示" target="_blank">
+                                <h3>【学习】习近平就推动哲学社会科学高质量发展作出重要指示</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-17</span>
+                            </a>
+</li>                        
+<li class="li6">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131593" class="con" title="校长李建成走访魏桥集团  深化校企协同发展" target="_blank">
+                                <h3>校长李建成走访魏桥集团  深化校企协同发展</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-17</span>
+                            </a>
+</li>                        
+<li class="li7">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131592" class="con" title="中南大学与中国电信集团签署战略合作框架协议" target="_blank">
+                                <h3>中南大学与中国电信集团签署战略合作框架协议</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-16</span>
+                            </a>
+</li>                        
+<li class="li8">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131591" class="con" title="【学习】习近平：做强做优做大实体经济" target="_blank">
+                                <h3>【学习】习近平：做强做优做大实体经济</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-15</span>
+                            </a>
+</li>                        
+<script>_showDynClickBatch(['dynclicks_u22_107979','dynclicks_u22_107980','dynclicks_u22_107942','dynclicks_u22_107981','dynclicks_u22_107908','dynclicks_u22_107906','dynclicks_u22_107982','dynclicks_u22_107904'],[107979,107980,107942,107981,107908,107906,107982,107904],"wbnews", 1681206034)</script>
+
+                    </ul>
+                    <ul class="p-list1 qm wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">
+<li class="li1">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131616" class="con">
+                                <h3>“创青春”中国青年创新创业周在中南大学开</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-19</span>
+                            </a>
+                        </li>
+                        
+<li class="li1">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131606" class="con">
+                                <h3>中南大学与四川省人民政府签署战略合作协议</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-19</span>
+                            </a>
+                        </li>
+                        
+<li class="li1">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131605" class="con">
+                                <h3>校党委理论学习中心组：以正确政绩观引领学</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-18</span>
+                            </a>
+                        </li>
+                        
+<li class="li1">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131595" class="con">
+                                <h3>习近平就推动哲学社会科学高质量发展作出的</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-17</span>
+                            </a>
+                        </li>
+                        
+<li class="li1">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131594" class="con">
+                                <h3>【学习】习近平就推动哲学社会科学高质量发</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-17</span>
+                            </a>
+                        </li>
+                        
+<li class="li1">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131593" class="con">
+                                <h3>校长李建成走访魏桥集团  深化校企协同发展</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-17</span>
+                            </a>
+                        </li>
+                        
+<li class="li1">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131592" class="con">
+                                <h3>中南大学与中国电信集团签署战略合作框架协</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-16</span>
+                            </a>
+                        </li>
+                        
+<li class="li1">
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131591" class="con">
+                                <h3>【学习】习近平：做强做优做大实体经济</h3>
+                                <span class="date"><img src="images/img5.png" alt="">2026-05-15</span>
+                            </a>
+                        </li>
+                        
+</ul><script>_showDynClickBatch(['dynclicks_u23_107979','dynclicks_u23_107980','dynclicks_u23_107942','dynclicks_u23_107981','dynclicks_u23_107908','dynclicks_u23_107906','dynclicks_u23_107982','dynclicks_u23_107904'],[107979,107980,107942,107981,107908,107906,107982,107904],"wbnews", 1681206034)</script>
+
+                </div>
+            </div>
+        </div>
+        
+        <div class="content adcont">
+                <div class="wp">
+                    <div class="g-tit2 wow fadeInUp ztwz">
+                        <a href="index/ztzl.htm" class="more" target="_blank"><i></i>+更多</a>
+                        <a href="index/ztzl.htm" class="more more2"><i></i></a>
+                        <h3><span>专题专栏</span></h3>
+                    </div>
+                    <div><ul class="list11 flex wow fadeInUp">
+            <li>
+            <div class="li">
+                <a href="https://news2.csu.edu.cn/sp/#/news/zt?id=26" class="a" title="树立和践行正确政绩观学习教育" target="_blank">
+                    <div class="imgBox trans">
+                        <div class="img"><img src="/__local/B/61/DF/6A365FCCEFBA9794A06E2DEAF3B_91131A64_94F9.jpg" alt=""></div>
+                    </div>
+                    <div class="txt flex">
+                        <h4><br></h4>
+                    </div>
+                </a>
+            </div>
+        </li>
+        <li>
+            <div class="li">
+                <a href="https://fkc.csu.edu.cn/swwfzghzt.htm" class="a" title="&quot;十五五&quot;规划专题网" target="_blank">
+                    <div class="imgBox trans">
+                        <div class="img"><img src="/__local/F/23/66/0E7A5DA6E6A3144C25659ADACFC_E3DC1BF8_29CE.jpg" alt=""></div>
+                    </div>
+                    <div class="txt flex">
+                        <h4><br></h4>
+                    </div>
+                </a>
+            </div>
+        </li>
+        <li>
+            <div class="li">
+                <a href="https://news2.csu.edu.cn/sp/#/news/zt?id=27" class="a" title="深入学习贯彻习近平总书记来校视察重要指示精神" target="_blank">
+                    <div class="imgBox trans">
+                        <div class="img"><img src="/__local/5/A3/39/6C7026C11B48E924C5A1755A49D_5A697B7D_A659.jpg" alt=""></div>
+                    </div>
+                    <div class="txt flex">
+                        <h4><br></h4>
+                    </div>
+                </a>
+            </div>
+        </li>
+        <li>
+            <div class="li">
+                <a href="http://jgzfpj.csu.edu.cn" class="a" title="中南大学机关作风评价" target="_blank">
+                    <div class="imgBox trans">
+                        <div class="img"><img src="/__local/8/0A/DE/AD001E189C19A3DC5434BC0B8A5_67AE4484_2730.jpg" alt=""></div>
+                    </div>
+                    <div class="txt flex">
+                        <h4><br></h4>
+                    </div>
+                </a>
+            </div>
+        </li>
+</ul>
+
+<script>_showDynClickBatch(['dynclicks_u24_11246','dynclicks_u24_11131','dynclicks_u24_11245','dynclicks_u24_11130'],[11246,11131,11245,11130],"wbnews", 1681206034)</script>
+</div>
+                </div>
+            </div>
+        
+        
+         <div class="adrow1">
+            <div class="wp">
+                <div class="g-tit2 wow fadeInUp">
+                    <a href="index/xsky.htm" class="more" target="_blank"><i></i>+更多</a>
+                    <a href="index/xsky.htm" class="more more2"><i></i></a>
+                    <h3><span>学术科研</span></h3>
+                </div>
+
+                <div class="adrow1-c">
+                    <div class="adrow1-l">
+                        <div class="slick">
+                            <ul>
+   <li>
+                                    <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131574" target="_blank">
+                                        <div class="info">
+                                            <h3>《央视新闻》从“天空之眼”到“迷你肾脏” 天舟十号搭载的特殊“太空快递”揭秘</h3>
+                                            <span>2026.05.13</span>
+                                            <p>中央广播电视总台</p>
+                                        </div>
+                                    </a>
+                                </li>
+   <li>
+                                    <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131563" target="_blank">
+                                        <div class="info">
+                                            <h3>湘雅三医院泌尿外科成功开展达芬奇机器人复杂输尿管修复手术</h3>
+                                            <span>2026.05.12</span>
+                                            <p>红网</p>
+                                        </div>
+                                    </a>
+                                </li>
+   <li>
+                                    <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131558" target="_blank">
+                                        <div class="info">
+                                            <h3>湘雅二医院心血管外科研究成果登上国际顶尖医学期刊</h3>
+                                            <span>2026.05.11</span>
+                                            <p>中国日报网</p>
+                                        </div>
+                                    </a>
+                                </li>
+   <li>
+                                    <a href="https://news.sciencenet.cn/htmlpaper/2026/5/2026571323152150136.shtm" target="_blank">
+                                        <div class="info">
+                                            <h3>中南大学蔺永诚团队重磅成果：一种集成微观组织演变与宏观应力应变响应的统一本构模型及其在航空发动机涡轮盘锻件成形中的应用，助力高端装备制造 | MDPI Materials</h3>
+                                            <span>2026.05.08</span>
+                                            <p>科学网</p>
+                                        </div>
+                                    </a>
+                                </li>
+</ul><script>_showDynClickBatch(['dynclicks_u25_107927','dynclicks_u25_107931','dynclicks_u25_107932','dynclicks_u25_107933'],[107927,107931,107932,107933],"wbnews", 1681206034)</script>
+
+                            <div class="pub-arrow pub-arrow1">
+                                <div class="pub-arrow-l"></div>
+                                <div class="pub-arrow-r"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="adrow1-r"><div class="slick"><ul>
+   <li>
+                                    <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131574" target="_blank">
+                                        <div class="pics">
+                                            <div style="background-image: url(/__local/F/49/0B/5744B3C89EF0A5CFCFA4F495176_A4A76393_8E02A.png);"></div>
+                                        </div>
+                                    </a>
+                                </li>
+   <li>
+                                    <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131563" target="_blank">
+                                        <div class="pics">
+                                            <div style="background-image: url(/__local/7/51/F5/66A1D7A0ED4B96349F1C2FFDC4A_D0943EB0_147853.png);"></div>
+                                        </div>
+                                    </a>
+                                </li>
+   <li>
+                                    <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131558" target="_blank">
+                                        <div class="pics">
+                                            <div style="background-image: url(/__local/6/CC/9A/AD26994B44215C91CF351229465_ABC411E3_1DD9C.png);"></div>
+                                        </div>
+                                    </a>
+                                </li>
+   <li>
+                                    <a href="https://news.sciencenet.cn/htmlpaper/2026/5/2026571323152150136.shtm" target="_blank">
+                                        <div class="pics">
+                                            <div style="background-image: url(/__local/B/EA/DB/B5C00398967152759805B213F51_736EA0AE_1DB9C.png);"></div>
+                                        </div>
+                                    </a>
+                                </li>
+</ul></div><script>_showDynClickBatch(['dynclicks_u26_107927','dynclicks_u26_107931','dynclicks_u26_107932','dynclicks_u26_107933'],[107927,107931,107932,107933],"wbnews", 1681206034)</script>
+</div>
+                </div>
+
+                <div class="adrow1-list"><ul>
+                        <li>
+                            <a href="https://m.voc.com.cn/xhn/news/202605/32671390.html" target="_blank">
+                                <span>05/18</span>
+                                <p>“AI筛药”有多神？10年缩至3年！湘雅博士团队在湘硬核创业</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131577" target="_blank">
+                                <span>05/14</span>
+                                <p>中南大学战略空天与重大装备关键材料及构件创新团队：青春接力 材料报国</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131575" target="_blank">
+                                <span>05/13</span>
+                                <p>数智赋能：推动全民阅读高质量发展</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131572" target="_blank">
+                                <span>05/13</span>
+                                <p>改写全球心脏外科搭桥决策</p>
+                            </a>
+                        </li>
+</ul><script>_showDynClickBatch(['dynclicks_u27_107927','dynclicks_u27_107931','dynclicks_u27_107932','dynclicks_u27_107933','dynclicks_u27_107928','dynclicks_u27_107926','dynclicks_u27_107929','dynclicks_u27_107930'],[107927,107931,107932,107933,107928,107926,107929,107930],"wbnews", 1681206034)</script>
+</div>
+
+
+            </div>
+        </div>
+        
+        
+        
+        <!-- 学术讲座 -->
+        <div class="row-a2" style="background-image: url(images/bg-q4.jpg);">
+
+
+            <div class="content">
+                <div class="wp">
+                    <div class="g-tit2 wow fadeInUp">
+                        <a href="https://news2.csu.edu.cn/sp/#/news/mt" class="more" target="_blank"><i></i>+更多</a>
+                        <a href="https://news2.csu.edu.cn/sp/#/news/mt" class="more more2"><i></i></a>
+                        <h3><span>媒体中南</span></h3>
+                    </div>
+                    <div class="admtzn wow fadeInUp"><ul>
+    <li>
+        <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131628" target="_blank">
+            <div class="pics-box">
+                <img src="https://news2.csu.edu.cn/sp/common/file/download/?id=65461d7ae1644079bd593bfb137f0d7b" alt="">
+            </div>
+            <div class="info">
+                <h3>全国首家省级警医联动医学救援和培训中心落户湘雅医院</h3>
+                <div><span>2026-05-20</span></div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131601" target="_blank">
+            <div class="pics-box">
+                <img src="https://news2.csu.edu.cn/sp/common/file/download/?id=200321f0eae74d24a39ea3d640954319" alt="">
+            </div>
+            <div class="info">
+                <h3>在会“思考”的城市拥抱更美好的生活</h3>
+                <div><span>2026-05-18</span></div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131578" target="_blank">
+            <div class="pics-box">
+                <img src="https://news2.csu.edu.cn/sp/common/file/download/?id=ff1a8ebff756441eb0b97b1c3f4426c3" alt="">
+            </div>
+            <div class="info">
+                <h3>湖南全力救治浏阳华盛烟花厂爆炸事故伤员 已有29名伤员出院</h3>
+                <div><span>2026-05-14</span></div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131574" target="_blank">
+            <div class="pics-box">
+                <img src="https://news2.csu.edu.cn/sp/common/file/download/?id=5026894452e748abbcfd388d77f1a977" alt="">
+            </div>
+            <div class="info">
+                <h3>《央视新闻》从“天空之眼”到“迷你肾脏” 天舟十号搭载的特殊“太…</h3>
+                <div><span>2026-05-13</span></div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://news2.csu.edu.cn/sp/#/news/info?id=131539" target="_blank">
+            <div class="pics-box">
+                <img src="https://news2.csu.edu.cn/sp/common/file/download/?id=fef2a86735654a839a0409f7bc36b334" alt="">
+            </div>
+            <div class="info">
+                <h3>《中南大学学报(自然科学版)》聚焦深空资源开发利用</h3>
+                <div><span>2026-05-08</span></div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://www.mgtv.com/b/821648/24387606.html?fpa=se&lastp=so_result" target="_blank">
+            <div class="pics-box">
+                <img src="https://news2.csu.edu.cn/sp/common/file/download/?id=2cfb957b597742f78f7f2092afb51e81" alt="">
+            </div>
+            <div class="info">
+                <h3>《湖南新闻联播》2026年“创青春”中国青年创新创业周在长沙开幕 阿…</h3>
+                <div><span>2026-05-20</span></div>
+            </div>
+        </a>
+    </li>
+</ul>
+
+<script>_showDynClickBatch(['dynclicks_u28_107986','dynclicks_u28_107953','dynclicks_u28_107899','dynclicks_u28_107893','dynclicks_u28_107871','dynclicks_u28_107987'],[107986,107953,107899,107893,107871,107987],"wbnews", 1681206034)</script>
+</div>
+                    
+                </div>
+            </div>
+        </div>
+        
+        
+        
+        <div class="adrow2" style="background-image: url(images/bg-adrow2.png); display: none;">
+            <div class="wp">
+                <div class="cont">
+                    <div class="wp">
+                        <div class="g-tit2 wow fadeInUp">
+                            <a href="xywh.htm" class="more" target="_blank"><i></i>+更多</a>
+                            <a href="xywh.htm" class="more more2"><i></i></a>
+                            <h3><span>活动通知</span></h3>
+                        </div>
+                        <div class="boxs wow fadeInUp" style="position: relative;z-index: 2;"><ul class="ul-txt-q4" id="xxsjz">
+                            
+<li class="item">
+    <a href="https://rsc.csu.edu.cn/info/1020/6264.htm" class="con" target="_blank">
+                <div class="news_imgs transition-all">
+                <img class="lazy" src="/__local/5/29/79/C7585F406AF15076937416EDF36_B3817857_69D53.png" width="734" height="490"></div>
+                                    <div class="txt">
+                                        <h3>数字经济时代中国国民经济核算体系面临的挑战、改革和创新</h3>
+                                        <div class="info">
+                                                <span><i style="background-image:url(images/i-q7.png)"></i>主讲人：清华大学经济管理学院 许宪春 教授</span>
+                                                <span><i style="background-image: url(images/i-q8.png);"></i>2025年11月27日 10:00-12:00</span>
+                                                <span><i style="background-image: url(images/i-q9.png);"></i>潇湘校区商学院江湾楼336晨星厅</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            
+<li class="item">
+    <a href="https://rsc.csu.edu.cn/info/1020/6244.htm" class="con" target="_blank">
+                <div class="news_imgs transition-all">
+                <img class="lazy" src="/__local/C/52/D9/1D19FE352B8C9F6D4B3280DFA97_0EDF6474_791C0.png" width="734" height="490"></div>
+                                    <div class="txt">
+                                        <h3>银行关联、信贷周期与债务违约风险</h3>
+                                        <div class="info">
+                                                <span><i style="background-image:url(images/i-q7.png)"></i>主讲人：北京大学光华管理学院 陆正飞 教授</span>
+                                                <span><i style="background-image: url(images/i-q8.png);"></i>2025年11月5日 10:30</span>
+                                                <span><i style="background-image: url(images/i-q9.png);"></i>潇湘校区商学院江湾楼203福达厅</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            
+<li class="item">
+    <a href="https://smse.csu.edu.cn/info/1012/6461.htm" class="con" target="_blank">
+                <div class="news_imgs transition-all">
+                <img class="lazy" src="" width="734" height="490"></div>
+                                    <div class="txt">
+                                        <h3>Past, Present and Future: Understanding Future Trends in Steel Production</h3>
+                                        <div class="info">
+                                                <span><i style="background-image:url(images/i-q7.png)"></i>主讲人：Alan W.Cramb 美国国家工程院院士</span>
+                                                <span><i style="background-image: url(images/i-q8.png);"></i>2025年10月28日 10:00</span>
+                                                <span><i style="background-image: url(images/i-q9.png);"></i>岳麓山校区科教南楼一楼会议室</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            
+
+</ul>
+
+<script>_showDynClickBatch(['dynclicks_u29_10523','dynclicks_u29_10414','dynclicks_u29_10351'],[10523,10414,10351],"wbnews", 1681206034)</script>
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 数据中南 -->
+        <div class="row-a3" style="background-image: url(images/bjtp-20251224.png);    background-size: 100% 100%;">
+        
+            <div class="adcon1">
+                <div class="wp">
+                    <div class="g-tit3 wow fadeInUp">
+                        <a href="index/xykd.htm" class="more" target="_blank"><i></i>+更多</a>
+                        <a href="index/xykd.htm" class="more more2"><i></i></a>
+                        <h3><span>校园看点</span></h3>
+                    </div>
+                    <ul class="wow fadeInUp">
+   <li>
+                            <a href="https://rsc.csu.edu.cn/info/1020/6325.htm" target="_blank">
+                                <div class="pics">
+                                    <div style="background-image: url(/__local/8/7E/A1/11D66CE73A784371C972DF837A7_7228C1CB_58135.png);"></div>
+                                </div>
+                                <h3>谢康教授：智能技术契约论</h3>
+                                <span class="tag1"></span>
+                            </a>
+                        </li>
+   <li>
+                            <a href="https://oa.csu.edu.cn/con/PDFPage?YWMC=ZNDX_ZHBG_GGTZ&JLNM=D80DEAB3DAC1413FA6163ADE667B05EC" target="_blank">
+                                <div class="pics">
+                                    <div style="background-image: url(/__local/9/50/13/6F0A9B6B763906494C2684B2FA9_0C71F451_17A3D.jpg);"></div>
+                                </div>
+                                <h3>“趁青春 去登山”2026年环岳麓山高校登山季</h3>
+                                <span class="tag2"></span>
+                            </a>
+                        </li>
+   <li class="big">
+                            <a href="https://xgw.csu.edu.cn/info/1004/16129.htm" target="_blank">
+                                <div class="pics">
+                                    <div style="background-image: url(/__local/9/39/E7/144423D64253C3DB9CCA833776F_719C9DDF_1099D.jpg);"></div>
+                                </div>
+                                <h3>全民国家安全教育日系列活动</h3>
+                                <span class="tag1"></span>
+                            </a>
+                        </li>
+   <li class="big">
+                            <a href="https://math.csu.edu.cn/info/1736/13798.htm" target="_blank">
+                                <div class="pics">
+                                    <div style="background-image: url(/__local/F/06/C4/C01F7756FCFDB38A49BE401EA4C_A258B0C2_C5BB0.png);"></div>
+                                </div>
+                                <h3>刘一峰教授：Gross-Zagier formula in 40years</h3>
+                                <span class="tag2"></span>
+                            </a>
+                        </li>
+   <li>
+                            <a href="https://gonghui.csu.edu.cn/info/1023/8056.htm" target="_blank">
+                                <div class="pics">
+                                    <div style="background-image: url(/__local/C/72/1F/CB652393FEC4F6C77BCF970299F_3CCF3454_6DD32.png);"></div>
+                                </div>
+                                <h3>妇女节限定美好</h3>
+                                <span class="tag1"></span>
+                            </a>
+                        </li>
+   <li>
+                            <a href="https://mp.weixin.qq.com/s/kVK_rZvH-6z-VmqtMN1oHA?from=singlemessage&scene=1&subscene=317&sessionid=1772667989&clicktime=1772671641&enterid=1772671641&ascene=1&fasttmpl_type=0&fast" target="_blank">
+                                <div class="pics">
+                                    <div style="background-image: url(/__local/A/B8/9D/AC4371BD91EB34B800280FB651F_4D93ABC8_ACEC.jpg);"></div>
+                                </div>
+                                <h3>“三八”国际劳动妇女节系列活动</h3>
+                                <span class="tag2"></span>
+                            </a>
+                        </li>
+</ul><script>_showDynClickBatch(['dynclicks_u30_107855','dynclicks_u30_107853','dynclicks_u30_107498','dynclicks_u30_11534','dynclicks_u30_11349','dynclicks_u30_11298'],[107855,107853,107498,11534,11349,11298],"wbnews", 1681206034)</script>
+
+                </div>
+            </div>
+            
+            <div class="adcon2">
+                <div class="wp">
+                    <div class="adcon2-c">
+                    
+                        <div class="adcon2-l wow fadeInUp"><div class="g-tit2 g-tcy wow fadeInUp">
+    <a href="index/gyzn.htm" class="more" target="_blank"><i></i>+更多</a>
+    <a href="index/gyzn.htm" class="more more2"><i></i></a>
+    <h3><span>光影中南</span></h3>
+</div>
+<ul>
+    <li>
+        <a href="info/1607/107469.htm" target="_blank" title="中南风物（14）" class="adcon2-item ">
+            <div class="pics">
+                <div style="background-image: url(/__local/3/02/DB/FC41944CE4E23078355276F649E_4C4DDC69_1FB6A.jpg);"></div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="info/1607/107468.htm" target="_blank" title="中南风物（13）" class="adcon2-item ">
+            <div class="pics">
+                <div style="background-image: url(/__local/2/5D/E7/E02B151297A1179B22D60D9E739_8237539B_21984.jpg);"></div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="info/1607/107467.htm" target="_blank" title="中南风物（12）" class="adcon2-item ">
+            <div class="pics">
+                <div style="background-image: url(/__local/B/FA/69/954D7F077D74B7223F9B8AFBF81_35B529B4_21362.jpg);"></div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="info/1607/107466.htm" target="_blank" title="中南风物（11）" class="adcon2-item ">
+            <div class="pics">
+                <div style="background-image: url(/__local/C/7F/E7/77FAB25002891B7FE20B053E4BE_57D1B836_23612.jpg);"></div>
+            </div>
+        </a>
+    </li>
+</ul><script>_showDynClickBatch(['dynclicks_u31_107469','dynclicks_u31_107468','dynclicks_u31_107467','dynclicks_u31_107466'],[107469,107468,107467,107466],"wbnews", 1681206034)</script>
+</div>
+                        
+                        <div class="adcon2-r wow fadeInUp" data-wow-duration=".5s">
+       <a href="info/1607/11558.htm" target="_blank" title="中南印象系列文化微视频：《中南交响乐团》" class="adcon2-item">
+           <div class="pics"><div style="background-image: url(/__local/9/C3/33/54D766BABC7FA33E8AE43AB0D2F_3B6B4BBE_9224C.png);"></div></div>
+       </a>
+</div><script>_showDynClickBatch(['dynclicks_u32_107469','dynclicks_u32_107468','dynclicks_u32_107467','dynclicks_u32_107466','dynclicks_u32_11558'],[107469,107468,107467,107466,11558],"wbnews", 1681206034)</script>
+
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        
+        
+            <div class="cont">
+                <div class="wp">
+                    <div class="g-tit2 wow fadeInUp" data-wow-duration=".5s">
+                        <a href="zjzn/sjzn.htm" class="more" target="_blank"><i></i>+更多</a>
+                        <a href="zjzn/sjzn.htm" class="more more2"><i></i></a>
+                        <h3><span>数据中南</span></h3>
+                    </div>
+                    <div class="m-imgtxt-q1 wow fadeInUp" id="m-imgtxt-q1" data-wow-duration=".5s">
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/4/4A/D4/1935C67DE2C042CBABBCA85731A_63C020CF_A37.png" class="img1" alt="">
+                                    <img src="images/new-pos1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>63919</h3>
+                                    <div class="ge">/人</div>
+                                </div>
+                            </div>
+                            <span>全日制在校学生<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/F/83/9C/B28F227D0A028071AA9DDCEA8BE_DCC8F8B9_6E1.png" class="img1" alt="">
+                                    <img src="images/new-pos2.png" class="img2" alt="">
+                                    </div>
+                                    <h3>317</h3>
+                                    <div class="ge">/万平方米</div>
+                                </div>
+                            </div>
+                            <span>占地面积<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/D/04/90/773FB3A790A15EA758EF017D2C6_77D3788B_625.png" class="img1" alt="">
+                                    <img src="images/new-pos3.png" class="img2" alt="">
+                                    </div>
+                                    <h3>5926</h3>
+                                    <div class="ge">/人</div>
+                                </div>
+                            </div>
+                            <span>在职教职工<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/D/CA/E2/A769E89DF93568A2EDE45B8E23F_E00BFBF7_87C.png" class="img1" alt="">
+                                    <img src="images/new-pos4.png" class="img2" alt="">
+                                    </div>
+                                    <h3>129</h3>
+                                    <div class="ge">/万平方米</div>
+                                </div>
+                            </div>
+                            <span>绿化面积<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a href="szdw3/lyys.htm" class="con">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/7/6B/DE/4A3A9049B3A8FBA2CE720CA3F35_B849FE0A_85C.png" class="img1" alt="">
+                                    <img src="images/new-pos5.png" class="img2" alt="">
+                                    </div>
+                                    <h3>16</h3>
+                                    <div class="ge">/人</div>
+                                </div>
+                            </div>
+                            <span>两院院士<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/5/62/3D/7E9B2E229B0F0B617D3A9EADA41_E0F143BE_8E8.png" class="img1" alt="">
+                                    <img src="images/new-pos6.png" class="img2" alt="">
+                                    </div>
+                                    <h3>102.33</h3>
+                                    <div class="ge">/亿元</div>
+                                </div>
+                            </div>
+                            <span>固定资产<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/1/59/71/947D76E01E432018A30146DD538_9B29E1ED_662.png" class="img1" alt="">
+                                    <img src="images/new-pos7.png" class="img2" alt="">
+                                    </div>
+                                    <h3>2</h3>
+                                    <div class="ge">/人</div>
+                                </div>
+                            </div>
+                            <span>全国教书育人楷模<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/5/74/ED/C589E55839BB42DBC60E039F245_16F973C9_527.png" class="img1" alt="">
+                                    <img src="images/new-pos8.png" class="img2" alt="">
+                                    </div>
+                                    <h3>572.87</h3>
+                                    <div class="ge">/万册</div>
+                                </div>
+                            </div>
+                            <span>图书实体藏量<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/D/20/6B/DCE190E5E95FB23A718D02C2BB1_BB5C85A4_AC7.png" class="img1" alt="">
+                                    <img src="images/new-pos9.png" class="img2" alt="">
+                                    </div>
+                                    <h3>641.99</h3>
+                                    <div class="ge">/万册</div>
+                                </div>
+                            </div>
+                            <span>电子图书<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/2/A1/54/152ADD860B89075C61F26576FF2_2FC95BD4_7C7.png" class="img1" alt="">
+                                    <img src="images/new-pos10.png" class="img2" alt="">
+                                    </div>
+                                    <h3>4</h3>
+                                    <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>附属医院<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/6/B9/95/46583589450C38D65F77F7FF364_AEF5BDAE_858.png" class="img1" alt="">
+                                    <img src="images/new-pos11.png" class="img2" alt="">
+                                    </div>
+                                    <h3>3</h3>
+                                    <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>全国高校黄大年式教师团队<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/5/9E/5E/031DAA2C28A2F1AD06FDD643634_127CF8A4_8F6.png" class="img1" alt="">
+                                    <img src="images/new-pos12.png" class="img2" alt="">
+                                    </div>
+                                    <h3>104</h3>
+                                    <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>本科专业<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/2/D4/1E/17C31F733095C332A5B31D7E67C_751ED9C0_605.png" class="img1" alt="">
+                                    <img src="images/new-pos13.png" class="img2" alt="">
+                                    </div>
+                                    <h3>32</h3>
+                                    <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>博士后科研流动站<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/B/DF/46/566515D8D6CD10653D8DFC23536_5DFF0278_910.png" class="img1" alt="">
+                                    <img src="images/new-pos14.png" class="img2" alt="">
+                                    </div>
+                                    <h3>48</h3>
+                                    <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>一级学科<br>硕士学位授权点</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/5/20/A7/9333E04A5D7551E9831A90C01DA_18A311D3_9F5.png" class="img1" alt="">
+                                    <img src="images/new-pos15.png" class="img2" alt="">
+                                    </div>
+                                    <h3>44</h3>
+                                    <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>一级学科<br>博士学位授权点</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/4/52/04/481DCBA58F8DD29ADBC2B7220E1_DBC7E660_881.png" class="img1" alt="">
+                                    <img src="images/new-pos16.png" class="img2" alt="">
+                                    </div>
+                                    <h3>33</h3>
+                                    <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>国家级科研基地<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/B/AB/EE/8528349670214CC8F0FFA815125_E70BF94A_F70.png" class="img1" alt="">
+                                    <img src="images/new-pos17.png" class="img2" alt="">
+                                    </div>
+                                    <h3>273</h3>
+                                    <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>省、部级科技创新平台<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/9/29/81/8640B9B469681612A9FEFED867F_0A15666E_526.png" class="img1" alt="">
+                                    <img src="images/new-pos18.png" class="img2" alt="">
+                                    </div>
+                                    <h3>44</h3>
+                                    <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>省、部级科学研究基地<br></span>
+                
+                        </a>
+                   
+                    </div>
+                    
+</div>
+<div class="m-imgtxt-q1 wow fadeInUp" id="m-imgtxt-q2" data-wow-duration=".5s">
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/4/4A/D4/1935C67DE2C042CBABBCA85731A_63C020CF_A37.png" class="img1" alt="">
+                                    <img src="images/pic-q2-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>63919 </h3> <div class="ge">/人</div>
+                                </div>
+                            </div>
+                            <span>全日制在校学生</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/F/83/9C/B28F227D0A028071AA9DDCEA8BE_DCC8F8B9_6E1.png" class="img1" alt="">
+                                    <img src="images/pic-q3-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>317 </h3> <div class="ge">/万平方米</div>
+                                </div>
+                            </div>
+                            <span>占地面积</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/D/04/90/773FB3A790A15EA758EF017D2C6_77D3788B_625.png" class="img1" alt="">
+                                    <img src="images/pic-q4-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>5926 </h3> <div class="ge">/人</div>
+                                </div>
+                            </div>
+                            <span>在职教职工</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/D/CA/E2/A769E89DF93568A2EDE45B8E23F_E00BFBF7_87C.png" class="img1" alt="">
+                                    <img src="images/pic-q5-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>129 </h3> <div class="ge">/万平方米</div>
+                                </div>
+                            </div>
+                            <span>绿化面积</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a href="szdw3/lyys.htm" class="con">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/7/6B/DE/4A3A9049B3A8FBA2CE720CA3F35_B849FE0A_85C.png" class="img1" alt="">
+                                    <img src="images/pic-q6-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>16 </h3> <div class="ge">/人</div>
+                                </div>
+                            </div>
+                            <span>两院院士</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/5/62/3D/7E9B2E229B0F0B617D3A9EADA41_E0F143BE_8E8.png" class="img1" alt="">
+                                    <img src="images/pic-q7-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>102.33 </h3> <div class="ge">/亿元</div>
+                                </div>
+                            </div>
+                            <span>固定资产</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/1/59/71/947D76E01E432018A30146DD538_9B29E1ED_662.png" class="img1" alt="">
+                                    <img src="images/pic-q8-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>2 </h3> <div class="ge">/人</div>
+                                </div>
+                            </div>
+                            <span>全国教书育人楷模</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/5/74/ED/C589E55839BB42DBC60E039F245_16F973C9_527.png" class="img1" alt="">
+                                    <img src="images/pic-q9-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>572.87 </h3> <div class="ge">/万册</div>
+                                </div>
+                            </div>
+                            <span>图书实体藏量</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/D/20/6B/DCE190E5E95FB23A718D02C2BB1_BB5C85A4_AC7.png" class="img1" alt="">
+                                    <img src="images/pic-q10-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>641.99 </h3> <div class="ge">/万册</div>
+                                </div>
+                            </div>
+                            <span>电子图书</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/2/A1/54/152ADD860B89075C61F26576FF2_2FC95BD4_7C7.png" class="img1" alt="">
+                                    <img src="images/pic-q11-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>4 </h3> <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>附属医院</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/6/B9/95/46583589450C38D65F77F7FF364_AEF5BDAE_858.png" class="img1" alt="">
+                                    <img src="images/pic-q12-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>3 </h3> <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>全国高校黄大年式教师团队</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/5/9E/5E/031DAA2C28A2F1AD06FDD643634_127CF8A4_8F6.png" class="img1" alt="">
+                                    <img src="images/pic-q13-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>104 </h3> <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>本科专业</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/2/D4/1E/17C31F733095C332A5B31D7E67C_751ED9C0_605.png" class="img1" alt="">
+                                    <img src="images/pic-q14-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>32 </h3> <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>博士后科研流动站</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/B/DF/46/566515D8D6CD10653D8DFC23536_5DFF0278_910.png" class="img1" alt="">
+                                    <img src="images/pic-q15-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>48 </h3> <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>一级学科</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/5/20/A7/9333E04A5D7551E9831A90C01DA_18A311D3_9F5.png" class="img1" alt="">
+                                    <img src="images/pic-q16-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>44 </h3> <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>一级学科</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/4/52/04/481DCBA58F8DD29ADBC2B7220E1_DBC7E660_881.png" class="img1" alt="">
+                                    <img src="images/pic-q17-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>33 </h3> <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>国家级科研基地</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/B/AB/EE/8528349670214CC8F0FFA815125_E70BF94A_F70.png" class="img1" alt="">
+                                    <img src="images/pic-q18-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>273 </h3> <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>省、部级科技创新平台</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+<div class="item">
+
+
+      <a class="con" style="cursor:default;">
+                        
+                        
+                            <div class="top">
+                                <div class="txt">
+                                    <div class="pic">
+                                    <img src="/__local/9/29/81/8640B9B469681612A9FEFED867F_0A15666E_526.png" class="img1" alt="">
+                                    <img src="images/pic-q19-1.png" class="img2" alt="">
+                                    </div>
+                                    <h3>44 </h3> <div class="ge">/个</div>
+                                </div>
+                            </div>
+                            <span>省、部级科学研究基地</span>
+                
+                        </a>
+                   
+                    </div>
+                    
+</div><script>_showDynClickBatch(['dynclicks_u33_10772','dynclicks_u33_10766','dynclicks_u33_10773','dynclicks_u33_10767','dynclicks_u33_10774','dynclicks_u33_10768','dynclicks_u33_10775','dynclicks_u33_10769','dynclicks_u33_10770','dynclicks_u33_10771','dynclicks_u33_10776','dynclicks_u33_10777','dynclicks_u33_10778','dynclicks_u33_10779','dynclicks_u33_10780','dynclicks_u33_10781','dynclicks_u33_10782','dynclicks_u33_10783'],[10772,10766,10773,10767,10774,10768,10775,10769,10770,10771,10776,10777,10778,10779,10780,10781,10782,10783],"wbnews", 1681206034)</script>
+
+                    <span class="s1">更新时间：2025年3月</span>
+                </div>
+            </div>
+            
+            
+            
+        
+        </div>
+        <style>
+            .ztwz h3 span {
+                color: #0852a2;}
+
+            @media only screen and (max-width: 767px) {
+                .ztwz h3 span {
+                    color: #0852a2;}
+            }
+        </style>
+        <!-- 右侧浮窗 -->
+        <div class="fright">
+            <ul>
+                
+<li class="li1"><a href="http://oa.csu.edu.cn/con/ggtz" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68875)" target="_blank">
+<i class="i1"></i>校内通知
+</a>
+    
+</li>
+                
+<li class="li2"><a href="http://oa.csu.edu.cn/con/zxgw" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68876)" target="_blank">
+<i class="i2"></i>校内公文
+</a>
+    
+</li>
+                
+<li class="li3"><a href="http://oa.csu.edu.cn/con/mzhy" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68877)" target="_blank">
+<i class="i3"></i>每周会议
+</a>
+    
+</li>
+                
+<li class="li4"><a href="http://oa.csu.edu.cn/con/hdjb" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68878)" target="_blank">
+<i class="i4"></i>中大信息
+</a>
+    
+</li>
+                
+<li class="li5"><a href="https://mail.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68867)" target="_blank">
+<i class="i5"></i>中南邮箱
+</a>
+    
+</li>
+                
+<li class="li6"><a href="https://my.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68866)" target="_blank">
+<i class="i6"></i>信息门户
+</a>
+    
+</li>
+                
+<li class="li7"><a href="https://ehall.csu.edu.cn/v2/site/index" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69651)" target="_blank">
+<i class="i7"></i>办事大厅
+</a>
+    
+</li>
+                
+</ul>
+<span class="down"><i></i></span>
+        </div>
+    </div>
+    <!-- 内容 -->
+    <!-- 底部 -->
+    <div class="footer" id="cywz">
+        <div class="fd-con">
+            <div class="wp">
+                <div class="fd-link">
+                    <dl>
+                        <dt><em style="background-image: url(images/i-q17.png);"></em>常用网站<i></i></dt>
+                        <dd><div class="down">
+                                
+<a href="index/xndh.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69337)" style="width:25%;">校内导航</a>
+                    
+<a href="https://xxgk.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69338)" target="_blank" style="width:25%;">信息公开网</a>
+                    
+<a href="https://xyh.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69339)" target="_blank" style="width:25%;">校友总会</a>
+                    
+<a href="https://csuef.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69340)" target="_blank" style="width:25%;">教育基金会</a>
+                    
+<a href="http://news.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69341)" target="_blank" style="width:25%;">中南新闻网</a>
+                    
+<a href="https://journals.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69342)" style="width:25%;">学术期刊</a>
+                    
+<a href="http://sp.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69355)" style="width:25%;">中南大学科技园</a>
+                    
+<a href="https://bksy.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69345)" target="_blank" style="width:25%;">本科生院</a>
+                    
+<a href="http://gra.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69346)" target="_blank" style="width:25%;">研究生院</a>
+                    
+<a href="https://kxyjb.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69347)" target="_blank" style="width:25%;">科学研究部</a>
+                    
+<a href="https://sports.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69348)" target="_blank" style="width:25%;">阳光体育</a>
+                    
+<a href="http://lib.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69349)" target="_blank" style="width:25%;">图 书 馆</a>
+                    
+<a href="https://dag.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69350)" target="_blank" style="width:25%;">档 案 馆</a>
+                    
+<a href="https://xysm.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69351)" target="_blank" style="width:25%;">湘雅医学院</a>
+                    
+<a href="https://csru.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69352)" target="_blank" style="width:25%;">铁道校区</a>
+                    
+<a href="https://hqbzb.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69353)" target="_blank" style="width:25%;">后勤服务</a>
+                    
+<a href="http://czzx.csu.edu.cn/csustatic/index.html" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69356)" target="_blank" style="width:25%;">采购与招标管理中心</a>
+                    
+<a href="zjzn/jgsz.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69354)" style="width:25%;">附属医院</a>
+                    
+</div>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt><em style="background-image: url(images/i-q18.png);"></em>常用系统<i></i></dt>
+                        <dd><div class="down">
+                                
+<a href="http://faculty.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68884)" target="_blank" style="width:25%;">教师个人主页</a>    
+                                
+<a href="https://mail.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68886)" target="_blank" style="width:25%;">邮件系统</a>    
+                                
+<a href="http://oa.csu.edu.cn/WebServer/MailBoxNew/Index.aspx?tp=02" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68887)" target="_blank" style="width:25%;">党委信箱</a>    
+                                
+<a href="http://oa.csu.edu.cn/WebServer/MailBoxNew/Index.aspx?tp=01" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68888)" target="_blank" style="width:25%;">校长信箱</a>    
+                                
+<a href="http://ecard.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68889)" target="_blank" style="width:25%;">校园卡电子服务大厅</a>    
+                                
+<a href="http://hpc.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68890)" target="_blank" style="width:25%;">高性能计算</a>    
+                                
+<a href="http://csujwc.its.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68891)" target="_blank" style="width:25%;">本科教务管理系统</a>    
+                                
+<a href="http://gms.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68892)" target="_blank" style="width:25%;">研究生教育管理系统</a>    
+                                
+<a href="https://kyxt.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68894)" target="_blank" style="width:25%;">科研管理及大数据服务平台</a>    
+                                
+<a href="http://cwpt.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 70805)" target="_blank" style="width:25%;">财务网上服务平台</a>    
+                                
+<a href="http://award.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68895)" target="_blank" style="width:25%;">奖助学金系统</a>    
+                                
+<a href="http://hr.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68896)" target="_blank" style="width:25%;">人事综合管理信息系统</a>    
+                                
+<a href="http://oa.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68897)" target="_blank" style="width:25%;">公文协同平台</a>    
+                                
+<a href="https://czgl.csu.edu.cn/login.htm" title="采招系统" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69634)" target="_blank" style="width:25%;">采招系统</a>    
+                                
+<a href="http://202.197.71.173/asset" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68901)" target="_blank" style="width:25%;">资产管理平台</a>    
+                                
+<a href="http://202.197.61.27:8088" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68902)" target="_blank" style="width:25%;">仪器设备竞价</a>    
+                                
+<a href="https://yxxt.csu.edu.cn/zhxgptweb/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68903)" target="_blank" style="width:25%;">新生自助服务系统</a>    
+                                
+<a href="http://lxxt.its.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68904)" target="_blank" style="width:25%;">数字离校系统</a>    
+                                
+<a href="http://zhhq.csu.edu.cn/stu/repairHome.html" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68905)" target="_blank" style="width:25%;">后勤零修平台</a>    
+                                
+<a href="https://ehall.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68906)" target="_blank" style="width:25%;">网上办事服务大厅</a>    
+                                
+<a href="http://jgzfpj.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68907)" target="_blank" style="width:25%;">机关作风评价</a>    
+                                
+<a href="https://ygfw.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68908)" target="_blank" style="width:25%;">阳光服务</a>    
+                                
+<a href="http://equip.csu.edu.cn/" title="中南大学大型仪器共享平台" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 70824)" target="_blank" style="width:25%;">大仪共享平台</a>    
+                                
+<a href="https://ms.csu.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 71184)" style="width:25%;">正版软件服务平台</a>    
+                                
+<a href="https://certverify.csu.edu.cn/verify/#/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 71254)" target="_blank" style="width:25%;">可信电子文档验证平台</a>    
+                                
+</div>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt><em style="background-image: url(images/i-q19.png);"></em>常用信息<i></i></dt>
+                        <dd><div class="down">
+                                
+<a href="info/1050/5129.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69291)">常用电话</a>     
+                                
+<a href="info/1050/11578.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69292)" target="_blank">班车时刻表</a>     
+                                
+<a href="https://www.chsi.com.cn/xlcx/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69294)" target="_blank">学历证书查询</a>     
+                                
+<a href="https://zgyy.csu.edu.cn/dxsyb.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69295)" target="_blank">大学生医保</a>     
+                                
+<a href="https://libdb.csu.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69296)" target="_blank">图书馆数字资源</a>     
+                                
+<a href="#" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69297)">MIT课件镜像</a>     
+                                
+<a href="http://iecd.csu.edu.cn/lxhw/gpxm.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69298)" target="_blank">公派研究生</a>     
+                                
+<a href="http://www.xzgjj.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69300)" target="_blank">住房公积金</a>     
+                                
+<a href="info/1050/1215.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69301)">作息时间表</a>     
+                                
+<a href="info/1050/10891.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 71341)">2025-2026学年第二学期校历</a>     
+                                
+<a href="info/1050/9903.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69302)">2025-2026学年第一学期校历</a>     
+                                
+<a href="https://nic.csu.edu.cn/info/1011/1001.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69304)" target="_blank">网络信息通信故障受理电话</a>     
+                                
+<a href="https://nic.csu.edu.cn/info/1068/1544.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 69305)" target="_blank">信息与网络中心申请表</a>     
+                                
+</div>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt><em style="background-image: url(images/i-q20.png);"></em>常用链接<i></i></dt>
+                        <dd><div class="down">
+                                
+<a href="http://www.gov.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68910)" target="_blank" style="width:25%;">中国政府网</a>     
+                                
+<a href="http://www.hunan.gov.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68911)" target="_blank" style="width:25%;">湖南省人民政府</a>     
+                                
+<a href="http://www.moe.gov.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68912)" target="_blank" style="width:25%;">教育部</a>     
+                                
+<a href="http://www.nhc.gov.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68913)" target="_blank" style="width:25%;">卫生健康委员会</a>     
+                                
+<a href="http://www.miit.gov.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68914)" target="_blank" style="width:25%;">工业和信息化部</a>     
+                                
+<a href="http://www.most.gov.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68915)" target="_blank" style="width:25%;">科学技术部</a>     
+                                
+<a href="http://www.nra.gov.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68916)" target="_blank" style="width:25%;">国家铁路局</a>     
+                                
+<a href="http://www.cas.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68917)" target="_blank" style="width:25%;">中国科学院</a>     
+                                
+<a href="http://www.cae.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68918)" target="_blank" style="width:25%;">中国工程院</a>     
+                                
+<a href="http://www.nsfc.gov.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68919)" target="_blank" style="width:25%;">自然科学基金会</a>     
+                                
+<a href="http://zwfw-new.hunan.gov.cn/hnzwfw/1/index.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68920)" target="_blank" style="width:25%;">湖南政务服务网</a>     
+                                
+<a href="https://www.harvard.edu" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68921)" target="_blank" style="width:25%;">哈佛大学</a>     
+                                
+<a href="http://www.yale.edu" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68922)" target="_blank" style="width:25%;">耶鲁大学</a>     
+                                
+<a href="https://www.tsinghua.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68923)" target="_blank" style="width:25%;">清华大学</a>     
+                                
+<a href="https://www.pku.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68924)" target="_blank" style="width:25%;">北京大学</a>     
+                                
+<a href="http://www.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 68925)" target="_blank" style="width:25%;">中国教育科研网</a>     
+                                
+<a href="https://ggfw.rst.hunan.gov.cn/business-pc-ui/#/homepage" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1681206034, 71344)" target="_blank" style="width:25%;">创业在湘</a>     
+                                
+</div>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+        <div class="fd-adds fix">
+            <div class="wp">
+                <div class="fd-txt">
+                    <div class="fd-logo">
+                            
+<a href="http://www.csu.edu.cn/" title=""><img src="images/fd-txt1.png" alt="" onclick="_addDynClicks(&#34;wbimage&#34;, 1681206034, 59402)"></a>
+
+
+                    </div>
+                    <div class="addr">
+                        <script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p><span>通信地址: 湖南省长沙市麓山南路932号</span><span>邮政编码: 410083</span></p> 
+<p><span>校内电话查询: 0731-88876114</span> 意见反馈邮箱：<a href="mailto:homepage@csu.edu.cn" style="text-decoration: none;">homepage@csu.edu.cn</a></p>
+                    </div>
+                </div>
+                <div class="fd-shre">
+                                                <a href="javascript::" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1681206034, 59403)" target="_blank">
+                        <img src="images/a1.png" alt="" class="img1">
+                        <div class="ma "><img src="images/wb3.jpg" alt=""></div>
+                    </a>
+                    
+                        <a href="javascript::" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1681206034, 59405)" target="_blank">
+                        <img src="images/a2.png" alt="" class="img1">
+                        <div class="ma "><img src="images/wb4.jpg" alt=""></div>
+                    </a>
+                    
+                        <a href="https://wxxy.csu.edu.cn/wap/application/index" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1681206034, 59404)" target="_blank">
+                        <img src="images/a3.png" alt="" class="img1">
+                        <div class="ma sjma"><img src="images/other/zhongnanExing20221123.png" alt=""></div>
+                    </a>
+                    
+
+                </div>
+            </div>
+        </div>
+        <div class="fd-copy">
+            <!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<div class="wp"><p><span><a href="http://beian.miit.gov.cn/" target="_blank">湘ICP备05005659号-1</a></span> &nbsp;<img src="/__local/5/8F/55/C5C8E4301344D9C5FB4A98075C1_529E1676_2B87.png?e=.png" width="20" height="22" border="0" vspace="0" hspace="0" title="" alt="" style="width: 20px;vertical-align: bottom;margin-right: 5px;" /><a href="https://beian.mps.gov.cn/#/query/webSearch?code=43010402001565" rel="\" target="\">湘公网安备43010402001565</a> &nbsp;<span>湘教QS3-200505-00020</span> &nbsp; <a href="http://www.csu.edu.cn">中南大学</a>版权所有</p></div>
+        </div>
+
+
+    </div>
+    <!-- 底部 -->
+    <a href="javascript:void(0);" class="g-top"></a>
+    <link rel="stylesheet" href="cssindex/animate.css">
+    <script type="text/javascript" src="jsindex/wow.min.js"></script>
+    <script type="text/javascript">
+        new WOW().init();
+    </script>
+    <link rel="stylesheet" href="cssindex/slick.css">
+    
+    <link rel="stylesheet" type="text/css" href="cssindex/addstyle.css">
+    
+    <script src="jsindex/slick.min.js"></script>
+     <script>
+        new WOW().init();
+        // banner
+        $('.banner .slider').slick({
+            dots: true,
+            arrows: false,
+            autoplay: true,
+            slidesToShow: 1,
+            autoplaySpeed: 5000,
+            pauseOnHover: true,
+            fade: true,
+            cssEase: 'linear'
+        });
+        $('.p-list1.qm').slick({
+            rows: 4,
+            dots: true,
+            arrows: false,
+            autoplay: true,
+            slidesToShow: 1,
+            autoplaySpeed: 10000,
+            pauseOnHover: true,
+            fade: true,
+            cssEase: 'linear'
+        });
+        // 中南要闻
+        $('.m-picTxt1 .slider').slick({
+            dots: true,
+            arrows: false,
+            autoplay: true,
+            slidesToShow: 1,
+            autoplaySpeed: 10000,
+            pauseOnHover: true
+        });
+        // 学术讲座
+        $('#m-txt-q1').slick({
+            dots: true,
+            arrows: false,
+            autoplay: false,
+            slidesToShow: 3,
+            slidesToScroll: 3,
+            autoplaySpeed: 10000,
+            pauseOnHover: true
+        });
+        $('#m-txt-q2').slick({
+            rows: 3,
+            dots: true,
+            arrows: false,
+            autoplay: false,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplaySpeed: 10000,
+            pauseOnHover: true
+        });
+        // 数据中南
+        $('#m-imgtxt-q1').slick({
+            rows: 2,
+            dots: true,
+            arrows: false,
+            autoplay: true,
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            autoplaySpeed: 10000,
+            pauseOnHover: true
+        });
+        $('#m-imgtxt-q2').slick({
+            rows: 2,
+            dots: true,
+            arrows: false,
+            autoplay: true,
+            slidesToShow: 3,
+            slidesToScroll: 3,
+            autoplaySpeed: 10000,
+            pauseOnHover: true,
+            responsive: [
+                {
+                    breakpoint: 350,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                }
+            ]
+        });
+        $('#m-img-q1 .slider').slick({
+            dots: false,
+            arrows: false,
+            autoplay: false,
+            slidesToShow: 5,
+            slidesToScroll: 1,
+            autoplaySpeed: 10000,
+            pauseOnHover: true
+        });
+        $('#m-img-q2 .slider').slick({
+            rows: 2,
+            dots: false,
+            arrows: true,
+            autoplay: false,
+            slidesToShow: 2,
+            slidesToScroll: 2,
+            autoplaySpeed: 10000,
+            pauseOnHover: true
+        });
+        // 侧边
+        setTimeout(function () {
+            $(".fright").addClass('on')
+        }, 10000)
+        $(".fright .down").click(function () {
+            $(this).parent('.fright').toggleClass('on');
+        })
+        $(".fright .li7 a").click(function () {
+            $(".fd-link dl").eq(0).find("dd").slideDown();
+            $(".fd-link dl").eq(0).addClass('on');
+        })
+
+        $('#xxsjz').slick({
+            arrows: true,
+            autoplay: false,
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            autoplaySpeed: 10000,
+            pauseOnHover: true,
+            responsive: [
+                {
+                    breakpoint: 767,
+                    settings: {
+                        slidesToShow: 1,
+                    }
+                }
+            ]
+        });
+        $('#xyhdtz').slick({
+            arrows: true,
+            autoplay: false,
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            autoplaySpeed: 10000,
+            pauseOnHover: true,
+            responsive: [
+                {
+                    breakpoint: 767,
+                    settings: {
+                        slidesToShow: 1,
+                    }
+                }
+            ]
+        });
+    </script>
+
+ <script src="jsindex/addjs.js"></script>
+
+</body>
+
+</html>

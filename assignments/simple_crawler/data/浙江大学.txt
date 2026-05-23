@@ -1,0 +1,1531 @@
+<!doctype html><html data-sui-app-version="3.0.85" data-sui-app-buildtime="2026/5/9 17:48:24" lang="zh-CN" translate="no"><head><meta charset="UTF-8"/><meta name="renderer" content="webkit"/><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>
+<link type="text/css" href="/_upload/site/1/style/1/1.css" rel="stylesheet"/>
+<link type="text/css" href="/_upload/site/02/4e/590/style/526/526.css" rel="stylesheet"/>
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteId="590"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link rel="shortcut icon" href="/_upload/tpl/0b/bf/3007/template3007/favicon.ico" type="image/ico"/><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/><meta http-equiv="Pragma" content="no-cache"/><meta http-equiv="Expires" content="0"/><meta name="viewport" content="width=device-width,user-scalable=0,initial-scale=1,minimum-scale=1,maximum-scale=1"/><title>浙江大学</title><meta name="keywords" content="浙江大学"/><meta name="description" content="浙江大学（Zhejiang University），简称“浙大”，位于浙江省杭州市，是中华人民共和国教育部直属的综合性全国重点大学，位列国家“双一流”、“211工程”、“985工程”，是九校联盟（C9）、中国大学校长联谊会、环太平洋大学联盟..."/><script type="text/javascript">var ms_ie=!1,ua=window.navigator.userAgent,old_ie=ua.indexOf("MSIE "),new_ie=ua.indexOf("Trident/");(old_ie>-1||new_ie>-1)&&(ms_ie=!0),ms_ie&&(document.documentElement.className+=" ie",setTimeout(function(){window.top.location.href="browsers.html"},500));var main={}</script><script type="text/javascript">var __SUI_PUBLIC__="./"</script><link href="/_upload/tpl/0b/bf/3007/template3007/static/css/sui.c4f5120c.css" rel="stylesheet"><link href="/_upload/tpl/0b/bf/3007/template3007/static/css/main.882e210a.css" rel="stylesheet"><script defer="defer" src="/_upload/tpl/0b/bf/3007/template3007/static/js/sui.46440bd3.js"></script><script defer="defer" src="/_upload/tpl/0b/bf/3007/template3007/static/js/main.e7be3b07.js?v=1.2"></script></head><body><div class="none" frag="窗口01" portletmode="simpleSiteAttri"><script type="text/javascript">main._logo={href:"/main.htm",title:"返回浙江大学首页"}</script></div><div class="none" frag="窗口90" portletmode="simpleSiteAttri"><script type="text/javascript">main._siteAttri={copyright:"",tel:"",address:""}</script></div><div class="none" frag="窗口91"><script type="text/javascript">main._share = [  {
+                        id: '1',
+                        image: '/_upload/article/images/3d/17/1b13366e483089e8174c31eea620/1e22735d-7824-4cbc-8754-81345d92789c_s.png',
+                        image_hover: '/_upload/article/images/3d/17/1b13366e483089e8174c31eea620/1e22735d-7824-4cbc-8754-81345d92789c_s.png',
+                        subTitle: '/_upload/tpl/0b/bf/3007/template3007/images/wx.svg',
+                        title: '微信',
+                        desc:'',
+                        href: '/2023/0814/c76720a2875865/page.htm'
+                    },  {
+                        id: '2',
+                        image: '',
+                        image_hover: '',
+                        subTitle: '/_upload/tpl/0b/bf/3007/template3007/images/xl.svg',
+                        title: '微博',
+                        desc:'请点击进入浙江大学官方微博',
+                        href: 'http://weibo.com/u/1851755225'
+                    },  {
+                        id: '3',
+                        image: '',
+                        image_hover: '',
+                        subTitle: '/_upload/tpl/0b/bf/3007/template3007/images/xb.svg',
+                        title: '校报',
+                        desc:'请点击进入浙江大学校报电子版',
+                        href: 'http://zdxb.ihwrm.com/index/article/oldrelease.html'
+                    },  {
+                        id: '4',
+                        image: '/_upload/article/images/a6/19/63eed4e647c9aa121250038f3815/9e252854-d0e7-4f9e-a464-f3f9158901df_s.jpg',
+                        image_hover: '/_upload/article/images/a6/19/63eed4e647c9aa121250038f3815/9e252854-d0e7-4f9e-a464-f3f9158901df_s.jpg',
+                        subTitle: '/_upload/tpl/0b/bf/3007/template3007/images/xlun.svg',
+                        title: '新论',
+                        desc:'',
+                        href: '/2024/0220/c76720a2877909/page.htm'
+                    },  {
+                        id: '5',
+                        image: '/_upload/article/images/fa/7d/a6cfbc804b2c93dc1d67d3948e57/6162df9f-b03f-4e6b-8875-0869f73dc1ba_s.jpg',
+                        image_hover: '/_upload/article/images/fa/7d/a6cfbc804b2c93dc1d67d3948e57/6162df9f-b03f-4e6b-8875-0869f73dc1ba_s.jpg',
+                        subTitle: '/_upload/tpl/0b/bf/3007/template3007/images/rmh.svg',
+                        title: '人民号',
+                        desc:'',
+                        href: '/2024/0118/c76720a2875872/page.htm'
+                    },  {
+                        id: '6',
+                        image: '/_upload/article/images/34/d1/7bd53faa46baae3765d3ebbb595f/be6a4cca-8297-4cb3-9e88-26b12e30cd70_s.png',
+                        image_hover: '/_upload/article/images/34/d1/7bd53faa46baae3765d3ebbb595f/be6a4cca-8297-4cb3-9e88-26b12e30cd70_s.png',
+                        subTitle: '/_upload/tpl/0b/bf/3007/template3007/images/jyh.svg',
+                        title: '教育号',
+                        desc:'',
+                        href: '/2024/0118/c76720a2875875/page.htm'
+                    },  {
+                        id: '7',
+                        image: '',
+                        image_hover: '',
+                        subTitle: '/_upload/tpl/0b/bf/3007/template3007/images/xx2.svg',
+                        title: '学习强国',
+                        desc:'下载“学习强国”App,    关注“浙江大学”',
+                        href: '#'
+                    },  {
+                        id: '8',
+                        image: '/_upload/article/images/f8/92/9dec112e49d3bff873e79bf3a7c2/058c250a-d8c2-409a-8570-9830c7f0cdc1_s.png',
+                        image_hover: '/_upload/article/images/f8/92/9dec112e49d3bff873e79bf3a7c2/058c250a-d8c2-409a-8570-9830c7f0cdc1_s.png',
+                        subTitle: '/_upload/tpl/0b/bf/3007/template3007/images/dy.svg',
+                        title: '抖音',
+                        desc:'',
+                        href: '/2023/0814/c76720a2875880/page.htm'
+                    },  {
+                        id: '9',
+                        image: '/_upload/article/images/d9/b4/207cd2f1474d89c813e948e8d69b/d39c243b-e230-43db-bd95-bb58aea1182b_s.png',
+                        image_hover: '/_upload/article/images/d9/b4/207cd2f1474d89c813e948e8d69b/d39c243b-e230-43db-bd95-bb58aea1182b_s.png',
+                        subTitle: '/_upload/tpl/0b/bf/3007/template3007/images/bilibili.svg',
+                        title: '哔哩哔哩',
+                        desc:'',
+                        href: '/2023/0814/c76720a2875881/page.htm'
+                    },  {}
+                ];
+                main._share.pop()</script></div><div class="none" frag="窗口02"><script type="text/javascript">main._links  = [   { id: 'i1', name: '综合服务', href: 'https://zhfw.zju.edu.cn', open: '_blank' },  { id: 'i2', name: '校友', href: 'http://zuaa.zju.edu.cn/#/', open: '_blank' },  { id: 'i3', name: ' 捐赠', href: 'http://www.zuef.zju.edu.cn/', open: '_blank' },  { id: 'i4', name: ' 邮箱', href: 'https://mail.zju.edu.cn/', open: '_blank' },  { id: 'i5', name: ' 图书馆', href: 'https://libweb.zju.edu.cn/', open: '_blank' },  { id: 'i6', name: '人才招聘', href: 'http://talent.zju.edu.cn/', open: '_blank' },  { id: 'i7', name: '创新2030计划', href: 'http://www.innovation2030.zju.edu.cn/', open: '_self' },  { id: 'i8', name: ' 书记信箱', href: 'https://my.zju.edu.cn/_web/xwfw/sjxzxx2/index.jsp?_p=YXM9MSZwPTEmbT1OJg__&xflx=sjxx', open: '_blank' },  { id: 'i9', name: ' 校长信箱', href: 'https://my.zju.edu.cn/_web/xwfw/sjxzxx2/index.jsp?_p=YXM9MSZwPTEmbT1OJg__&xflx=xzxx', open: '_blank' },   ]</script></div><div class="none" frag="窗口03"><script type="text/javascript">main._navLinks = [   { id: 'i1', name: 'English', href: 'https://www.zju.edu.cn/english/', open: '_blank' },   ]</script></div><div class="none" frag="窗口1"><script type="text/javascript">main._menu = [   {
+                        id: 'i1',
+                        name: '首页',
+                        href: 'https://www.zju.edu.cn/',
+                        open: '_self',  },  {
+                        id: 'i2',
+                        name: '校情总览',
+                        href: 'https://www.zju.edu.cn/xxgk1/list.htm',
+                        open: '_self',  children: [  { 
+                                id: 'i2-1', 
+                                name: '学校概况',
+                                href: '/xxgk1/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-2', 
+                                name: '历史沿革',
+                                href: '/lsyg/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-3', 
+                                name: '历任领导',
+                                href: '/lrld/list.htm', 
+                                open: '_self',  children: [  { 
+                                id: 'i2-3-1', 
+                                name: '求是书院至浙江高等学校时期',
+                                href: '/qssyzzjgdxxsq/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-3-2', 
+                                name: '国立第三中山大学至国立浙江大学时期',
+                                href: '/gldszsdxzglzjdxsq/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-3-3', 
+                                name: '浙江大学时期',
+                                href: '/zjdxsq/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-3-4', 
+                                name: '原杭州大学（含浙江师范学院）历任校（院）长',
+                                href: '/yhzdxwhzjsfxywlrxwywz/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-3-5', 
+                                name: '原浙江农业大学（含浙江农学院）历任校（院）长',
+                                href: '/yzjnydxwhzjnxywlrxwywz/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-3-6', 
+                                name: '浙江医科大学（含浙江医学院）历任校（院）长',
+                                href: '/zjykdxwhzjyxywlrxwywz/list.htm', 
+                                open: '_self',  },  ]  },  { 
+                                id: 'i2-4', 
+                                name: '学校章程',
+                                href: '/xxzc/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-5', 
+                                name: '现任领导',
+                                href: '/xrld/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-6', 
+                                name: '学校标识',
+                                href: '/xxbs/list.htm', 
+                                open: '_self',  children: [  { 
+                                id: 'i2-6-1', 
+                                name: '校标',
+                                href: '/xb/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-6-2', 
+                                name: '校训',
+                                href: '/xx1/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-6-3', 
+                                name: '校歌',
+                                href: '/xg/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-6-4', 
+                                name: '校旗',
+                                href: '/xq_76978/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-6-5', 
+                                name: '校名',
+                                href: '/xm/list.htm', 
+                                open: '_self',  },  ]  },  { 
+                                id: 'i2-7', 
+                                name: '统计公报',
+                                href: '/tjgb/list.htm', 
+                                open: '_self',  children: [  { 
+                                id: 'i2-7-1', 
+                                name: '学生情况(单位:人)',
+                                href: '/xsqkwdwwrw/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-7-2', 
+                                name: '教职工情况(单位:人)',
+                                href: '/jzgqkwdwwrw/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-7-3', 
+                                name: '学科情况(单位:个)',
+                                href: '/xkqkwdwwgw/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-7-4', 
+                                name: '科研机构(单位:个)',
+                                href: '/kyjgwdwwgw/list.htm', 
+                                open: '_self',  },  ]  },  { 
+                                id: 'i2-8', 
+                                name: '信息公开',
+                                href: 'https://www.zju.edu.cn/xxgk/1684/list.htm', 
+                                open: '_blank',  children: [  { 
+                                id: 'i2-8-1', 
+                                name: '信息公开专栏首页',
+                                href: '/xxgkzlsy/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-2', 
+                                name: '信息公开事项清单',
+                                href: '/xxgksxqd/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-3', 
+                                name: '依申请公开',
+                                href: '/ysqgk/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-4', 
+                                name: '信息公开年度报告',
+                                href: 'https://www.zju.edu.cn/xxgk/1687/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-5', 
+                                name: '信息公开意见箱',
+                                href: 'https://www.zju.edu.cn/xxgk/1686/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-6', 
+                                name: '信息公开指南',
+                                href: '/xxgkzn/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-7', 
+                                name: '最新通知',
+                                href: 'https://webplus.zju.edu.cn/xxgk/1690/list.psp', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-8', 
+                                name: '重大制度意见征求与解读平台',
+                                href: 'http://my.zju.edu.cn/_web/xwfw/zdyjzd/index.html', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-9', 
+                                name: '规范性文件信息库',
+                                href: 'http://10.203.3.207:8080/xwfw/gfxwj/index.html?_p=YXM9MSZwPTEmbT1OJg__', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-10', 
+                                name: '责任清单',
+                                href: 'http://xwfw.zju.edu.cn/qingdan.php?qingdan=7', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-11', 
+                                name: '审批清单',
+                                href: 'http://xwfw.zju.edu.cn/qingdan.php?qingdan=8', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-12', 
+                                name: '服务清单',
+                                href: 'http://xwfw.zju.edu.cn/qingdan.php?qingdan=9', 
+                                open: '_self',  },  { 
+                                id: 'i2-8-13', 
+                                name: '教学信息公开',
+                                href: '	 http://ugrs.zju.edu.cn/redir.php?catalog_id=715900&object_id=1097684', 
+                                open: '_self',  },  ]  },  ]  },  {
+                        id: 'i3',
+                        name: '求是新闻',
+                        href: 'http://www.news.zju.edu.cn',
+                        open: '_blank',  },  {
+                        id: 'i4',
+                        name: '学校机构',
+                        href: 'https://www.zju.edu.cn/xxjg_76687/list.htm',
+                        open: '_self',  children: [  { 
+                                id: 'i4-1', 
+                                name: '学校机构',
+                                href: '/xxjg_76687/list.htm', 
+                                open: '_self',  children: [  { 
+                                id: 'i4-1-1', 
+                                name: '党群机构',
+                                href: '/dqjg/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i4-1-2', 
+                                name: '行政机构',
+                                href: '/xzjg/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i4-1-3', 
+                                name: '学术机构',
+                                href: '/xsjg/list.htm', 
+                                open: '_self',  },  ]  },  { 
+                                id: 'i4-2', 
+                                name: '学院（系）',
+                                href: '/xywxw/list.htm', 
+                                open: '_self',  children: [  { 
+                                id: 'i4-2-1', 
+                                name: '人文学部',
+                                href: '/rwxb_76786/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i4-2-2', 
+                                name: '社会科学学部',
+                                href: '/shkxxb_76787/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i4-2-3', 
+                                name: '理学部',
+                                href: '/lxb_76788/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i4-2-4', 
+                                name: '工学部',
+                                href: '/gxb_76789/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i4-2-5', 
+                                name: '信息学部',
+                                href: '/xxxb_76790/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i4-2-6', 
+                                name: '农业生命环境学部',
+                                href: '/nysmhjxb_76791/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i4-2-7', 
+                                name: '医药学部',
+                                href: '/yyxb_76792/list.htm', 
+                                open: '_self',  },  ]  },  { 
+                                id: 'i4-3', 
+                                name: '附属医院',
+                                href: '/fsyy/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i4-4', 
+                                name: '校区机构',
+                                href: '/xq_76690/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i4-5', 
+                                name: '直属单位',
+                                href: '/zsdw/list.htm', 
+                                open: '_self',  children: [  { 
+                                id: 'i4-5-1', 
+                                name: '详情',
+                                href: '/xq_77053/list.htm', 
+                                open: '_self',  },  ]  },  { 
+                                id: 'i4-6', 
+                                name: '全国重点实验室',
+                                href: '/qgzdsys/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i4-7', 
+                                name: '有关企业',
+                                href: '/ygqy/list.htm', 
+                                open: '_self',  children: [  { 
+                                id: 'i4-7-1', 
+                                name: '详情',
+                                href: '/xq_87635/list.htm', 
+                                open: '_self',  },  ]  },  { 
+                                id: 'i4-8', 
+                                name: '校设研究机构',
+                                href: '/xsyjjg/list.htm', 
+                                open: '_self',  },  ]  },  {
+                        id: 'i5',
+                        name: '教师队伍',
+                        href: '#',
+                        open: '_self',  children: [  { 
+                                id: 'i5-1', 
+                                name: '两院院士',
+                                href: 'http://talent.zju.edu.cn/zkyys/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i5-2', 
+                                name: '文科资深教授',
+                                href: 'http://talent.zju.edu.cn/wkzsjs/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i5-3', 
+                                name: '教育部教学名师',
+                                href: '/jybjxms/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i5-4', 
+                                name: '教师个人主页',
+                                href: 'https://person.zju.edu.cn/index/', 
+                                open: '_self',  },  { 
+                                id: 'i5-5', 
+                                name: '入职浙大',
+                                href: 'http://talent.zju.edu.cn/jxnc/list.htm', 
+                                open: '_self',  },  ]  },  {
+                        id: 'i6',
+                        name: '教育教学',
+                        href: '#',
+                        open: '_self',  children: [  { 
+                                id: 'i6-1', 
+                                name: '本科教育',
+                                href: 'https://ugrs.zju.edu.cn/main.htm', 
+                                open: '_self',  },  { 
+                                id: 'i6-2', 
+                                name: '研究生教育',
+                                href: 'http://www.grs.zju.edu.cn/', 
+                                open: '_self',  },  { 
+                                id: 'i6-3', 
+                                name: '国际教育',
+                                href: 'https://iczu.zju.edu.cn/', 
+                                open: '_self',  },  { 
+                                id: 'i6-4', 
+                                name: '继续教育',
+                                href: 'http://www.ce.zju.edu.cn/', 
+                                open: '_self',  },  ]  },  {
+                        id: 'i7',
+                        name: '科学研究',
+                        href: '#',
+                        open: '_self',  children: [  { 
+                                id: 'i7-1', 
+                                name: '科研基地',
+                                href: '#', 
+                                open: '_self',  children: [  { 
+                                id: 'i7-1-1', 
+                                name: '社会科学',
+                                href: 'https://rwsk.zju.edu.cn/jybzdyjjd/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i7-1-2', 
+                                name: '自然科学',
+                                href: 'http://rd.zju.edu.cn/1981/list.htm', 
+                                open: '_self',  },  ]  },  { 
+                                id: 'i7-2', 
+                                name: '科学技术研究院',
+                                href: 'http://rd.zju.edu.cn/', 
+                                open: '_self',  },  { 
+                                id: 'i7-3', 
+                                name: '社会科学研究院',
+                                href: 'https://rwsk.zju.edu.cn/', 
+                                open: '_self',  },  { 
+                                id: 'i7-4', 
+                                name: '技术转化研究院',
+                                href: 'http://www.itt.zju.edu.cn/', 
+                                open: '_self',  },  { 
+                                id: 'i7-5', 
+                                name: '农业技术推广中心',
+                                href: 'http://www.xnysyz.zju.edu.cn', 
+                                open: '_self',  },  { 
+                                id: 'i7-6', 
+                                name: '学术进展',
+                                href: 'http://ac.zju.edu.cn/', 
+                                open: '_self',  },  { 
+                                id: 'i7-7', 
+                                name: '学术期刊',
+                                href: 'http://www.journals.zju.edu.cn/', 
+                                open: '_self',  },  ]  },  {
+                        id: 'i8',
+                        name: '招生就业',
+                        href: '#',
+                        open: '_self',  children: [  { 
+                                id: 'i8-1', 
+                                name: '本科生招生',
+                                href: 'https://zdzsc.zju.edu.cn/', 
+                                open: '_self',  },  { 
+                                id: 'i8-2', 
+                                name: '研究生招生',
+                                href: 'http://www.grs.zju.edu.cn/yjszs/', 
+                                open: '_self',  },  { 
+                                id: 'i8-3', 
+                                name: '国际学生招生',
+                                href: 'https://iczu.zju.edu.cn/admissions', 
+                                open: '_self',  },  { 
+                                id: 'i8-4', 
+                                name: '就业指导服务',
+                                href: 'https://www.career.zju.edu.cn/jyxt/jyweb/webIndex.zf', 
+                                open: '_self',  },  ]  },  {
+                        id: 'i9',
+                        name: '合作交流',
+                        href: '#',
+                        open: '_self',  children: [  { 
+                                id: 'i9-1', 
+                                name: '校地合作',
+                                href: 'http://dfhz.zju.edu.cn/28629/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i9-2', 
+                                name: '校企合作',
+                                href: 'http://dfhz.zju.edu.cn/28630/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i9-3', 
+                                name: '国际合作',
+                                href: 'http://www.ir.zju.edu.cn/69634/list.psp', 
+                                open: '_self',  },  ]  },  {
+                        id: 'i10',
+                        name: '走进浙大',
+                        href: '/zjzd/list.htm',
+                        open: '_self',  children: [  { 
+                                id: 'i10-1', 
+                                name: '文化校园',
+                                href: 'http://www.zju.edu.cn/hlxywnew/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i10-2', 
+                                name: '云游浙大',
+                                href: 'http://www.news.zju.edu.cn/774/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i10-3', 
+                                name: '浙大图库',
+                                href: 'http://pic.zju.edu.cn/', 
+                                open: '_self',  },  { 
+                                id: 'i10-4', 
+                                name: '浙大印象',
+                                href: '/zdyx/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i10-5', 
+                                name: '校史馆',
+                                href: 'https://xsg.zju.edu.cn/', 
+                                open: '_self',  },  { 
+                                id: 'i10-6', 
+                                name: '科技馆',
+                                href: 'http://rd.zju.edu.cn/rdoffice/2023/0404/c75023a2737631/page.htm', 
+                                open: '_self',  },  { 
+                                id: 'i10-7', 
+                                name: '艺术与考古博物馆',
+                                href: 'https://zjumaa.zju.edu.cn/71813/list.htm', 
+                                open: '_self',  },  { 
+                                id: 'i10-8', 
+                                name: '公开课',
+                                href: 'https://course.zju.edu.cn/zh-cn/', 
+                                open: '_self',  },  ]  },   ]</script></div><div class="none" frag="窗口2"><script type="text/javascript">main._mbanner = [  {
+                        id: '1',
+                        image: '/_upload/article/images/8d/30/32a156a54630985d243f0b5def39/6ff929f8-42ce-492c-86ba-66e35c87268c.jpg',
+                        video:'',
+                        title: '0514 智绘江南 入画观澜',
+                        href: '#',
+                        open: '_blank'
+                    },  {
+                        id: '2',
+                        image: '/_upload/article/images/5b/21/db180b4941a6a2d734768045af41/0d0a45e5-5c23-4b0f-b7b5-09ffbd643e0e.jpg',
+                        video:'',
+                        title: '0511 数智领航 育见未来',
+                        href: 'https://mp.weixin.qq.com/s/mrf_KgQa__Ccrbzu0ewgXg',
+                        open: '_blank'
+                    },  {}
+                ];
+                main._mbanner.pop()</script></div><div class="none" frag="窗口11"><script type="text/javascript">main._newsJson11 = [  {
+                        id: '1',
+                        image: '/_upload/article/images/a5/3b/8beff30148d896e37438d870674a/f270b450-6047-4b9a-80f4-623ade286a6a_s.jpg',
+                        title: '校长马琰铭会见越南教育培训部副部长一行',
+                        text: JSON.stringify(`5月13日，浙江大学校长马琰铭院士会见越南教育培训部副部长黎郡（LêQuân）一行，双方围绕学生培养、教育管理人才培训等议题进行交流。马琰铭对黎郡一行来访表示欢迎，介绍了浙江大学发展情况以及对越南合作情况等。...`),
+                        time:'2026-05-19',
+                        href: '/2026/0520/c76679a3164521/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '2',
+                        image: '/_upload/article/images/6f/df/ce3f3d044edda9c7e8979946ca4b/f26c5b35-d81b-42b4-b1d1-54611ae4e4f0_s.jpg',
+                        title: '校长马琰铭会见世界银行及亚洲三国代表团',
+                        text: JSON.stringify(`5月13日，浙江大学校长马琰铭院士会见世界银行及吉尔吉斯斯坦、蒙古国、乌兹别克斯坦代表团一行，就推进数字教育领域合作举行会谈。马琰铭对代表团一行表示热烈欢迎，并介绍了学校发展情况。他表示，很高兴在2026世...`),
+                        time:'2026-05-19',
+                        href: '/2026/0519/c76679a3164105/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '3',
+                        image: '/_upload/article/images/a9/a9/176710a2451fb16eb9819cebbba9/bb96c536-9cde-4d68-b378-958aacb509d9_s.jpg',
+                        title: '浙江大学地球科学学院高质量发展大会暨纪念办学90周年活动举行',
+                        text: JSON.stringify(`5月16日，浙江大学地球科学学院高质量发展大会暨纪念办学90周年活动开幕式在紫金港校区举行。本次活动为期两天，将同步开展院士特邀报告、校友交流会、全国高校地学院长论坛等活动。校长马琰铭出席开幕式并致辞，副...`),
+                        time:'2026-05-18',
+                        href: '/2026/0518/c76679a3163413/page.htm',
+                        open: '_blank'
+                    },  {}
+                ];
+                main._newsJson11.pop()</script></div><div class="none" frag="窗口12"><script type="text/javascript">main._newsJson12 = [  {
+                        id: '1',
+                        image: '',
+                        title: '浙江大学召开党委常委会会议   学习贯彻习近平总书记就推动哲学社会科学高质量发展作出的重要指示精神',
+                        time:'2026-05-20',
+                        href: '/2026/0520/c76679a3164762/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '2',
+                        image: '',
+                        title: '浙江大学召开党委常委会会议传达学习习近平总书记在加强基础研究座谈会上的重要讲话精神',
+                        time:'2026-05-08',
+                        href: '/2026/0509/c76679a3160235/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '3',
+                        image: '/_upload/article/images/8e/c9/b90d4e744fcd800bf1e28ff01199/4f43e8aa-27e5-4584-a98c-7e9ad8890329_s.png',
+                        title: '浙江大学乡村振兴定点帮扶工作领导小组会议举行',
+                        time:'2026-04-30',
+                        href: '/2026/0430/c76679a3157465/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '4',
+                        image: '/_upload/article/images/35/3e/c84f2aa14c549147eae1f2e456a4/02e00316-e1cf-47b3-9d2d-8fbe0d3822a7_s.jpg',
+                        title: '校长马琰铭会见波恩大学校长一行',
+                        time:'2026-04-27',
+                        href: '/2026/0427/c76679a3156393/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '5',
+                        image: '/_upload/article/images/d3/32/a6ad0bb04a5285927f2c5914aa2c/8a66af01-f71d-4a05-9b8d-4458451d0e54_s.jpg',
+                        title: '校长马琰铭会见新加坡科技研究局主席一行',
+                        time:'2026-04-23',
+                        href: '/2026/0427/c76679a3156392/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '6',
+                        image: '/_upload/article/images/ee/cf/2d5bf3b141cf978f3af89dd93d9a/1f2bfa8a-b413-4741-864a-6e10dfcec7fd_s.jpg',
+                        title: '浙江大学基础交叉研究院（筹）两周年发展论坛举行',
+                        time:'2026-04-21',
+                        href: '/2026/0421/c76679a3154440/page.htm',
+                        open: '_blank'
+                    },  {}
+                ];
+                main._newsJson12.pop()</script></div><div class="none" frag="窗口13"><script type="text/javascript">main._newsJson13 = [  {
+                        id: '1',
+                        image: '',
+                        title: '在向前延伸的隧道里找到了事业方向',
+                        info: '人民日报',
+                        time:'2026-05-15',
+                        href: '/2026/0515/c76699a3162968/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '2',
+                        image: '',
+                        title: '培养拔尖创新人才，让学生从“会读书”到“会创造”',
+                        info: '新华社',
+                        time:'2026-05-12',
+                        href: '/2026/0514/c76699a3162742/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '3',
+                        image: '',
+                        title: '数字产业迈入提质升级新阶段',
+                        info: '光明日报',
+                        time:'2026-05-08',
+                        href: '/2026/0513/c76699a3162070/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '4',
+                        image: '',
+                        title: '浙江大学今年新增3个本科专业',
+                        info: '人民网',
+                        time:'2026-05-06',
+                        href: '/2026/0506/c76699a3158731/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '5',
+                        image: '',
+                        title: '没好好看日落，却托起生命的又一次“日出”',
+                        info: '人民日报',
+                        time:'2026-04-30',
+                        href: '/2026/0430/c76699a3157450/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '6',
+                        image: '',
+                        title: '这片海 等你扬帆',
+                        info: '光明日报',
+                        time:'2026-04-28',
+                        href: '/2026/0428/c76699a3156550/page.htm',
+                        open: '_blank'
+                    },  {}
+                ];
+                main._newsJson13.pop()</script></div><div class="none" frag="窗口31"><script type="text/javascript">main._newsJson31 = [  {
+                        id: '1',
+                        image: '/_upload/article/images/0c/70/b793f74743f495f14624d0103fc5/872e2f30-1ab9-4e6e-a792-018d6dd63e8f_s.jpg',
+                        title: '从1→10！浙大团队首次实现批量克隆牦牛',
+                        text: JSON.stringify(`4月27日，西藏牦牛全基因组选择与体细胞克隆复合育种技术成果在拉萨市当雄县发布。`),
+                        time:'2026-04-28',
+                        href: 'https://mp.weixin.qq.com/s/ypfGCaoTM8FJxjYIgFQmsA',
+                        open: '_blank'
+                    },  {
+                        id: '2',
+                        image: '/_upload/article/images/80/bd/499aadd24bb181ec5309095f5905/a6908374-ffe5-48d4-a889-8dce18087212_s.png',
+                        title: '不成瘾的新型小分子！浙大科研团队《细胞》新突破',
+                        text: JSON.stringify(`从唐朝《本草拾遗》中“令人心欢”和古罗马《药物论》中“外敷镇痛”的经验总结，到现代治疗情感障碍和疼痛的临床观察，大麻类药物在历史上的应用多与调节情绪、缓解疼痛相关。如何在保留其情绪调节与镇痛作用的同时...`),
+                        time:'2026-04-14',
+                        href: '/2026/0414/c76700a3151225/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '3',
+                        image: '/_upload/article/images/75/1c/05a0168e475d80078924f4e51ba4/e1a12694-9e93-44bf-8d70-5ffd264d0c59_s.jpg',
+                        title: '心衰治疗困局如何破？浙大团队《自然》发文有新解',
+                        text: JSON.stringify(`心脏，这台生命的“永动泵”，也可能有疲惫罢工的一天。当它收缩无力、舒张僵硬，就像一台年久失修的水泵，再也无法将足够的血液和氧气输送到全身，这就是心力衰竭。据世界卫生组织统计，全球目前有超6400万人正困于...`),
+                        time:'2026-04-09',
+                        href: '/2026/0409/c76700a3149449/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '4',
+                        image: '/_upload/article/images/3f/7b/7e66ab69456b8fa2acbab782bd1d/e06195bc-9672-4178-80c8-e37a4105017d_s.png',
+                        title: '集结《自然》！浙大、MIT、牛津……共探智能药物未来',
+                        text: JSON.stringify(`在精准医学时代，如何让药物更聪明、更“听话”地发挥作用？答案或许藏在一种名为“智能小型化给药器械”（Intelligent and miniaturized drug delivery devices，IMDDDs）的新兴技术中。`),
+                        time:'2026-03-26',
+                        href: 'https://mp.weixin.qq.com/s/VEkHnJ12-0Li7WwQVBAhew',
+                        open: '_blank'
+                    },  {}
+                ];
+                main._newsJson31.pop()</script></div><div class="none" frag="窗口41"><script type="text/javascript">main._newsJson41 = [  {
+                        id: '1',
+                        image: '/_upload/article/images/c5/40/7d45c84c46a186454511ed4bf21d/9afae2de-61aa-404b-a000-c0773c8ebab6_s.jpg',
+                        title: '程开甲',
+                        subTitle:'把自己的一切与祖国的国防科技事业紧密相连',
+                        time:'',
+                        href: 'http://www.news.zju.edu.cn/2021/0520/c24342a2376622/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '2',
+                        image: '/_upload/article/images/d2/86/3fb30d164bda9c4c8354da0c7321/6baf5813-baa1-462d-9560-0add05246df9_s.jpg',
+                        title: '林俊德',
+                        subTitle:'国士无双！他参加过我国所有核试验，一辈子隐姓埋名！',
+                        time:'',
+                        href: 'https://mp.weixin.qq.com/s/6wIwQ6_FW-5kepfpPsTpLw',
+                        open: '_blank'
+                    },  {
+                        id: '3',
+                        image: '/_upload/article/images/5b/0f/7077fa7d4696a73aca76a80e374e/327ab9cd-d5b0-4e72-8925-6218418d60c1_s.png',
+                        title: '陈薇',
+                        subTitle:'除了胜利，别无选择',
+                        time:'',
+                        href: 'http://www.news.zju.edu.cn/2021/0705/c749a2403263/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '4',
+                        image: '/_upload/article/images/24/0b/bef469584f2b8608269d74471d3c/7953fca1-da89-401e-8b16-36f373e1cb85_s.jpeg',
+                        title: '叶培建',
+                        subTitle:'用航天梦来托举中国梦',
+                        time:'',
+                        href: 'http://www.news.zju.edu.cn/2021/0714/c24342a2406108/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '5',
+                        image: '/_upload/article/images/c7/5d/92e73a724e7e86e6f86c010e7811/260709e2-bcc2-40ad-9b30-fabb685f4e63_s.jpg',
+                        title: '高铭暄',
+                        subTitle:'情系法治 桃李芬芳',
+                        time:'',
+                        href: 'http://www.news.zju.edu.cn/2021/0714/c24342a2406331/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '6',
+                        image: '/_upload/article/images/45/cc/768912514b8c96e261653f505e21/698129db-a778-4cce-a818-15c58d37fc40_s.jpg',
+                        title: '钱三强',
+                        subTitle:'科学没有国界，科学家却是有祖国的',
+                        time:'',
+                        href: 'http://www.news.zju.edu.cn/2021/0520/c24342a2376625/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '7',
+                        image: '/_upload/article/images/35/b6/5f92d6194cb1903ce038d16e9d1e/f7f2ce1b-c5db-4f91-8195-070ab089f044_s.jpg',
+                        title: '吴文俊',
+                        subTitle:'为中国数学争口气',
+                        time:'',
+                        href: 'http://www.news.zju.edu.cn/2021/0511/c24342a2359893/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '8',
+                        image: '/_upload/article/images/e0/56/8b712bbe4b09ba285360267195df/8971ba71-4974-4ad8-9969-1c204e36e0e9_s.jpg',
+                        title: '汪自强',
+                        subTitle:'农民不富，他不还乡',
+                        time:'',
+                        href: 'http://www.news.zju.edu.cn/2021/0930/c749a2427149/page.htm',
+                        open: '_blank'
+                    },  {}
+                ];
+                main._newsJson41.pop()</script></div><div class="none" frag="窗口411"><script type="text/javascript">main._newsJson411 = [  {
+                            id: '1',
+                            image: '/_upload/article/images/c5/40/7d45c84c46a186454511ed4bf21d/9afae2de-61aa-404b-a000-c0773c8ebab6_s.jpg',
+                            title: '程开甲',
+                            subTitle:'把自己的一切与祖国的国防科技事业紧密相连',
+                            time:'',
+                            href: 'http://www.news.zju.edu.cn/2021/0520/c24342a2376622/page.htm',
+                            colUrl:'/76701/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '2',
+                            image: '/_upload/article/images/d2/86/3fb30d164bda9c4c8354da0c7321/6baf5813-baa1-462d-9560-0add05246df9_s.jpg',
+                            title: '林俊德',
+                            subTitle:'国士无双！他参加过我国所有核试验，一辈子隐姓埋名！',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/6wIwQ6_FW-5kepfpPsTpLw',
+                            colUrl:'/76701/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '3',
+                            image: '/_upload/article/images/5b/0f/7077fa7d4696a73aca76a80e374e/327ab9cd-d5b0-4e72-8925-6218418d60c1_s.png',
+                            title: '陈薇',
+                            subTitle:'除了胜利，别无选择',
+                            time:'',
+                            href: 'http://www.news.zju.edu.cn/2021/0705/c749a2403263/page.htm',
+                            colUrl:'/76701/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '4',
+                            image: '/_upload/article/images/24/0b/bef469584f2b8608269d74471d3c/7953fca1-da89-401e-8b16-36f373e1cb85_s.jpeg',
+                            title: '叶培建',
+                            subTitle:'用航天梦来托举中国梦',
+                            time:'',
+                            href: 'http://www.news.zju.edu.cn/2021/0714/c24342a2406108/page.htm',
+                            colUrl:'/76701/list.htm',
+                            open: '_blank'
+                        },  {}
+                    ];
+                    main._newsJson411.pop()</script></div><div class="none" frag="窗口412"><script type="text/javascript">main._newsJson412 = [  {
+                            id: '1',
+                            image: '/_upload/article/images/0f/5d/ab9fe7d34483a5ba3b7d555599a3/1aca2ced-3467-4ebe-9612-83c7f7d2f994_s.png',
+                            title: '老师请假啦？原来他去……',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/DBtOzpzwsYpDw1iKY_BEiA',
+                            colUrl:'/szwylhg/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '2',
+                            image: '/_upload/article/images/a2/8e/2efdef1f41a09fe3493b5c073fe7/a7cb8b48-86cb-43be-acc8-ceff883fc43a_s.png',
+                            title: '中国↔德国，她是跨文化的“架桥者”！',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/susmb_rWg887Oqhj4TKtyQ',
+                            colUrl:'/szwylhg/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '3',
+                            image: '/_upload/article/images/ca/0a/5294802b43b7b148b3edd997a1eb/7c779166-135a-4fcf-9400-7f85bdb9621f_s.png',
+                            title: '1.6万次/年答疑交流，爱学习爱“傅妈”',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/tOIlYHdV5sDaz4ov9FEqJg',
+                            colUrl:'/szwylhg/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '4',
+                            image: '/_upload/article/images/6a/61/7cf87a434c0c90c437898e630463/191d10eb-1e5d-43d7-95c4-d348f1e111f3_s.png',
+                            title: '重回母校，他带来一张好课金名片',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/pgB4ghRh0uYjKhXdkQCFAA',
+                            colUrl:'/szwylhg/list.htm',
+                            open: '_blank'
+                        },  {}
+                    ];
+                    main._newsJson412.pop()</script></div><div class="none" frag="窗口413"><script type="text/javascript">main._newsJson413 = [  {
+                            id: '1',
+                            image: '/_upload/article/images/b8/86/c01612e04b189251486d27ee5b27/f9cc42cd-8837-497f-9021-6efe99c8f839_s.jpg',
+                            title: '在向前延伸的隧道里找到了事业方向',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://zupo.zju.edu.cn/2026/0515/c76699a3162968/page.htm',
+                            colUrl:'/xzwqcsg/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '2',
+                            image: '/_upload/article/images/85/f6/3a3ed50c45bd987362417b2803fe/7ce66eb9-596f-48a4-9639-541bfdf6508f_s.jpg',
+                            title: '实验室之外，他用行动点亮生命希望！',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/fCUmu-nsMePhXIq8OU12SA',
+                            colUrl:'/xzwqcsg/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '3',
+                            image: '/_upload/article/images/38/f6/bce1212e4768baf47eca8c89b229/fda25166-42de-41a9-8e87-f27f5a055ece_s.png',
+                            title: '能文能“舞”！她是全国百强顶尖舞者',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/3CIXPfH2Uto1IU-rF2PYmA',
+                            colUrl:'/xzwqcsg/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '4',
+                            image: '/_upload/article/images/af/4b/0bca0d0b4cec8a2ab51dbc4316b9/540db3dd-bff0-441b-850a-ea9fdb4562cf_s.png',
+                            title: '在浙大，像“过河卒”一般科研',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/hbOwCnEh4wGcA0qBVqukvQ',
+                            colUrl:'/xzwqcsg/list.htm',
+                            open: '_blank'
+                        },  {}
+                    ];
+                    main._newsJson413.pop()</script></div><div class="none" frag="窗口414"><script type="text/javascript">main._newsJson414 = [  {
+                            id: '1',
+                            image: '/_upload/article/images/0b/9a/9cd387c84474b1278b1cc943b29e/950df316-08c9-4680-a859-747a3dcbb529_s.png',
+                            title: '浙大工科生“熊爸”与《熊出没》的十二年',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/xtTpDva-cN4K_Cgr-9Iy8Q',
+                            colUrl:'/xywhqtg/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '2',
+                            image: '/_upload/article/images/48/c9/26958de14a3eabbc288b4532500b/d6a30274-2446-407c-8375-e7489fe4364e_s.png',
+                            title: '浙大校友梁文锋，2025《自然》十大人物！',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/E0aYX6n4itc67B1srqGGlg',
+                            colUrl:'/xywhqtg/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '3',
+                            image: '/_upload/article/images/44/3e/f24268f14197b229bafb4cfd23a1/d0c3d780-813d-432a-aa11-369e1f195c71_s.png',
+                            title: '打破垄断！浙大姑娘为杭州地铁装上“中国脑”',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/R6uL5n3kj5-pTk5Sa7FS8g',
+                            colUrl:'/xywhqtg/list.htm',
+                            open: '_blank'
+                        },  {
+                            id: '4',
+                            image: '/_upload/article/images/82/ad/7a5a3d9a4518a756f3c827d4bd3e/e4ff272a-1169-4a0e-892e-418081d3be19_s.png',
+                            title: '从浙大出发：他是核电站里的“神经科医生”',
+                            subTitle:'',
+                            time:'',
+                            href: 'https://mp.weixin.qq.com/s/dFtHr7PlcPUCe2rg2VSjrA',
+                            colUrl:'/xywhqtg/list.htm',
+                            open: '_blank'
+                        },  {}
+                    ];
+                    main._newsJson414.pop()</script></div><div class="none" frag="窗口51"><script type="text/javascript">main._newsJson51 = [  {
+                        id: '1',
+                        image: '/_upload/article/images/e1/8a/4a40c7b54a5d9fef1f66c9a00d85/56106ffd-0701-49ce-8a70-de59989b90ff_s.jpg',
+                        title: '百代标程——悦读宋韵展',
+                        fields1: '2022.11.25至2023.5.18',
+                        fields2: '浙江大学艺术与考古博物馆展厅四、三、二',
+                        time:'2024-01-30',
+                        href: '/2024/0130/c79822a2876556/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '2',
+                        image: '/_upload/article/images/96/1b/a905f01f45489dd6ff1bff6a011f/75cdf7be-7e63-44c4-9940-64ec335bac82_s.jpg',
+                        title: '启真化学论坛',
+                        fields1: '2024年1月12日15:30',
+                        fields2: '紫金港校区海纳苑5幢C100',
+                        time:'2024-01-11',
+                        href: '/2024/0130/c79822a2876557/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '3',
+                        image: '/_upload/article/images/f6/a6/0cb7b0434aaea55f74c045ae2a96/dec90cb3-c940-4e45-be9b-ae5159d945ac_s.jpg',
+                        title: '陈立心理科学前沿讲坛',
+                        fields1: '2024年1月12日15:00',
+                        fields2: '紫金港校区海纳苑3幢415会议室',
+                        time:'2024-01-11',
+                        href: '/2024/0130/c79822a2876558/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '4',
+                        image: '/_upload/article/images/54/a6/095d7bc447738f68eff17932a74b/9fe1951e-bc6b-460b-b27e-1709721722c8_s.jpg',
+                        title: '西塞山国际交流工作坊',
+                        fields1: '2024年1月25日19:30',
+                        fields2: '湖州市西塞山路819号南太湖新区科技创新综合体B1幢B211求是学术厅',
+                        time:'2024-01-24',
+                        href: '/2024/0130/c79822a2876744/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '5',
+                        image: '/_upload/article/images/78/57/74fba1b445c09b1c7a7791d0ef31/b95d2d50-ccf5-46e8-a6b0-9b12975a3332_s.png',
+                        title: '结构生物学前沿论坛',
+                        fields1: '2024年1月17日9:00',
+                        fields2: '浙江大学医学院综合楼205',
+                        time:'2024-01-16',
+                        href: '/2024/0130/c79822a2876761/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '6',
+                        image: '/_upload/article/images/3f/82/dd4082c04adfa036e87ce3c2290b/15a66a55-c657-4120-bb04-43d3b6a7da83_s.jpg',
+                        title: '医学免疫学前沿讲坛',
+                        fields1: '2024年1月24日10:00',
+                        fields2: '医学院综合楼705会议室',
+                        time:'2024-01-23',
+                        href: '/2024/0130/c79822a2876771/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '7',
+                        image: '/_upload/article/images/c6/91/955846de47bfa68be29f2dc02708/bead97e6-79c9-4914-962e-f3daffa2bf2f_s.jpg',
+                        title: '100 years of the Schur-Weyl Duality',
+                        fields1: '2024年1月27日10:00',
+                        fields2: '数学科学学院2楼报告厅',
+                        time:'2024-01-26',
+                        href: '/2024/0130/c79822a2876776/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '8',
+                        image: '/_upload/article/images/35/91/363ac75745d58dfe9d52db1dd08c/96301c3d-ed9c-442b-805e-277127974c6d_s.png',
+                        title: '“浙大东方论坛•亚洲文明” 系列讲座第8讲',
+                        fields1: '2023年12月29日（周五）14:30',
+                        fields2: '浙江大学图书馆主馆524',
+                        time:'2023-12-28',
+                        href: '/2024/0130/c79822a2876778/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '9',
+                        image: '/_upload/article/images/2b/ab/f28bd24e4dac8e8e46845f135411/dbc86175-66f1-4a53-9281-c5b20b205ec1_s.jpg',
+                        title: '青绿映丹霞——唐卡艺术与颜料材质展',
+                        fields1: '2023年11月10日起',
+                        fields2: '浙江大学艺术与考古博物馆展厅二特展区',
+                        time:'2024-01-03',
+                        href: '/2024/0130/c79822a2876779/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '10',
+                        image: '/_upload/article/images/59/07/6a09f2254ca9bf9a36a236aed043/4ddda79f-9d0a-4a4e-b8a1-acf105db82cf_s.jpg',
+                        title: '屏居佳器 ——周孝先、胡秀莲伉俪捐赠家具展',
+                        fields1: '2023年4月18日起',
+                        fields2: '浙江大学艺术与考古博物馆展厅三、一楼大走廊',
+                        time:'2023-12-01',
+                        href: '/2024/0130/c79822a2876780/page.htm',
+                        open: '_blank'
+                    },  {}
+                ];
+                main._newsJson51.pop()</script></div><div class="none" frag="窗口511"><script type="text/javascript">main._newsJson511 = [  {
+                        id: '1',
+                        colUrl: "/jzlt/list.htm",
+                        image: '/_upload/article/images/b8/45/51597ac641e391c84d75635fc29f/9bbee501-593b-43f6-a692-55ddb678a19f_s.png',
+                        title: '数学科学学院School Colloquium系列报告',
+                        fields1: '2026年5月22日16:30',
+                        fields2: '紫金港校区海纳苑2幢210报告厅',
+                        time:'2026-05-20',
+                        href: '/2026/0518/c79823a3163867/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '2',
+                        colUrl: "/jzlt/list.htm",
+                        image: '/_upload/article/images/b1/8d/14b275e64435a3eed4ae15a60c30/a6d4c1d4-10cd-4fe0-b79c-8d04d077468f_s.jpg',
+                        title: '书香浙大·开卷有益报告会 | 李飞：《学会提问》——在众声喧哗中，做清醒的独立思考者',
+                        fields1: '2026年5月22日（周五）14:00',
+                        fields2: '紫金港校区图书馆农医馆二楼报告厅',
+                        time:'2026-05-20',
+                        href: '/2026/0520/c79823a3164699/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '3',
+                        colUrl: "/jzlt/list.htm",
+                        image: '/_upload/article/images/cc/a1/4410830b468dacb5ad257c3d88d1/813c68d1-a046-419d-a489-eb3bb4e7c4fb_s.png',
+                        title: '数学科学学院School Colloquium系列报告',
+                        fields1: '2026年5月22日15:15',
+                        fields2: '紫金港校区海纳苑2幢210报告厅',
+                        time:'2026-05-20',
+                        href: '/2026/0518/c79823a3163860/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '4',
+                        colUrl: "/jzlt/list.htm",
+                        image: '/_upload/article/images/6b/ff/a452967a4b06a38e6eb58c987920/f8eb0600-d19f-4138-87c7-e324419d6b50_s.png',
+                        title: '求是海洋学术论坛2026年09期（总104期）',
+                        fields1: '2026年5月21日（周四）14:30',
+                        fields2: '舟山校区智海楼414',
+                        time:'2026-05-20',
+                        href: '/2026/0520/c79823a3164633/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '5',
+                        colUrl: "/jzlt/list.htm",
+                        image: '/_upload/article/images/07/06/fb4a379d4bf18bfda2c110285d40/1b6cd6c8-6b76-4551-8b6b-e2884dca07ea_s.png',
+                        title: '数学科学学院School Colloquium系列报告',
+                        fields1: '2026年5月22日13:30',
+                        fields2: '紫金港校区海纳苑2幢210报告厅',
+                        time:'2026-05-18',
+                        href: '/2026/0515/c79823a3163128/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '6',
+                        colUrl: "/jzlt/list.htm",
+                        image: '/_upload/article/images/cc/76/8c9f584848c79fa38e6f37d46c59/170c527a-cebd-479f-985f-9b6119ccd2bb_s.png',
+                        title: '管理学院求是科技讲座 | 基础研究引领颠覆性创新：实践与启示',
+                        fields1: '2026年5月16日（周六）18:45-21:00',
+                        fields2: '管理学院金色大厅',
+                        time:'2026-05-09',
+                        href: '/2026/0507/c79823a3159544/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '7',
+                        colUrl: "/jzlt/list.htm",
+                        image: '/_upload/article/images/b7/b3/b41960824a89bcc6818b845784f1/c7d3c3e9-46ad-4b48-8f83-f8defebeb292_s.png',
+                        title: '数学科学学院School Colloquium系列报告',
+                        fields1: '2026年5月15日16:15',
+                        fields2: '紫金港校区海纳苑2幢210报告厅',
+                        time:'2026-05-09',
+                        href: '/2026/0507/c79823a3159677/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '8',
+                        colUrl: "/jzlt/list.htm",
+                        image: '/_upload/article/images/b8/6f/0bd2e7c24ffaa3c4cec80bd0780d/dbccfeb7-de1f-4706-b2a5-11ce9be4d472_s.jpg',
+                        title: '地方、国族与世界——中国当代文学的“空间”想象',
+                        fields1: '2026年5月14日 19:30',
+                        fields2: '图书信息楼C座405会议室',
+                        time:'2026-05-15',
+                        href: '/2026/0515/c79823a3162999/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '9',
+                        colUrl: "/jzlt/list.htm",
+                        image: '/_upload/article/images/f4/01/ff85433a428fae89b710e73d8806/3afd3c59-4889-48a8-bd8f-0e0cc4d80aad_s.jpg',
+                        title: '“中华民族共同体”与“人类命运共同体”哲理沉思',
+                        fields1: '2026年5月14日 19:00—20:00',
+                        fields2: '浙江大学紫金港西区成均苑9幢公共管理学院大楼112',
+                        time:'2026-05-15',
+                        href: '/2026/0515/c79823a3162997/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '10',
+                        colUrl: "/jzlt/list.htm",
+                        image: '/_upload/article/images/11/83/921fc29a4fbc9bda0133c8b5d6fe/9e8f59f8-0542-4b2f-ae1e-aa155b2db777_s.png',
+                        title: '数学科学学院School Colloquium系列报告',
+                        fields1: '2026年5月15日15:00',
+                        fields2: '紫金港校区海纳苑2幢210报告厅',
+                        time:'2026-05-09',
+                        href: '/2026/0506/c79823a3158491/page.htm',
+                        open: '_blank'
+                    },  {}
+                ];
+                main._newsJson511.pop()</script></div><div class="none" frag="窗口512"><script type="text/javascript">main._newsJson512 = [  {
+                        id: '1',
+                        colUrl: "/whzc/list.htm",
+                        image: '/_upload/article/images/3c/8a/03f7ead7401fb8921d962e6f75ca/ba74d6c6-4fab-4b03-97b4-d3bd93a47069_s.jpg',
+                        title: '惟求其是——浙江大学教风学风精品档案文献系列展（一）',
+                        fields1: '2026年5月20日',
+                        fields2: '浙江大学图书馆主馆一楼展厅',
+                        time:'2026-05-19',
+                        href: '/2026/0519/c79824a3164006/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '2',
+                        colUrl: "/whzc/list.htm",
+                        image: '/_upload/article/images/db/d3/059797e142369a25f6844ec28aae/80529bcc-127a-4e41-873c-f1105ad66d47_s.jpg',
+                        title: '窑火·瓷韵——亚洲古代陶瓷技艺的交流',
+                        fields1: '2026年5月15日—9月15日',
+                        fields2: '浙江大学艺术与考古博物馆展厅二、展厅三',
+                        time:'2026-05-15',
+                        href: '/2026/0515/c79824a3163001/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '3',
+                        colUrl: "/whzc/list.htm",
+                        image: '/_upload/article/images/93/da/5e09c85e41a2875ddf381b4b3d70/fe84d756-cf56-438c-b455-f4cde73b38ba_s.jpg',
+                        title: '流动的遗产——丝绸之路上的技艺、信仰与生活',
+                        fields1: '2026年5月15日—5月30日',
+                        fields2: '浙江大学艺术与考古博物馆一楼长廊',
+                        time:'2026-05-15',
+                        href: '/2026/0515/c79824a3163000/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '4',
+                        colUrl: "/whzc/list.htm",
+                        image: '/_upload/article/images/1d/98/3b01e7b2440d9b0e95f956da8df6/8cca6a3c-731f-4b06-9145-a07cc7c9600a_s.jpg',
+                        title: '印象江南——人工智能辅助创作（AIAC）油画展',
+                        fields1: '2026年5月9日-2026年8月8日(9:00-17:00)',
+                        fields2: '浙江大学校友企业总部经济园C1北文化艺术展厅',
+                        time:'2026-05-11',
+                        href: '/2026/0511/c79824a3161266/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '5',
+                        colUrl: "/whzc/list.htm",
+                        image: '/_upload/article/images/29/f1/972659654b0d83d9471c4d4e4710/c9dbd978-8111-4f77-b5d8-08581fa80907_s.jpg',
+                        title: '艺域同辉—亚洲文明的艺术回响',
+                        fields1: '2026年4月28日',
+                        fields2: '浙江大学图书馆基础馆一楼大厅',
+                        time:'2026-04-28',
+                        href: '/2026/0428/c79824a3156574/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '6',
+                        colUrl: "/whzc/list.htm",
+                        image: '/_upload/article/images/29/d0/013ec9ee47759cff3559aee46675/cedbe7f6-713c-4ab8-bc82-03051a46964d_s.jpg',
+                        title: '法兰西文心与阅读之光——法国名人名家手稿珍品展',
+                        fields1: '2026年4月17日—5月15日',
+                        fields2: '紫金港校区图书馆主馆展厅',
+                        time:'2026-04-24',
+                        href: '/2026/0424/c79824a3155690/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '7',
+                        colUrl: "/whzc/list.htm",
+                        image: '/_upload/article/images/a0/c0/eb40a704420c86544659a868e0e5/0dcb5d7d-3768-405d-a26f-a2d91dee8d06_s.jpg',
+                        title: '印记浙大 印向未来',
+                        fields1: '2025年5月21日-10月30日',
+                        fields2: '浙江大学紫金港校区图书馆主馆一楼展厅',
+                        time:'2025-08-01',
+                        href: '/2025/0801/c79824a3072596/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '8',
+                        colUrl: "/whzc/list.htm",
+                        image: '/_upload/article/images/10/4f/71fc4f3b45e6b51e038e0dd672b3/db58f335-33ce-48b0-b5f3-5a8db6b9798e_s.png',
+                        title: '浙江大学地球科学博物馆',
+                        fields1: '周三至周日9:00-17:00，16:45停止入馆，周一周二闭馆。',
+                        fields2: '浙江大学紫金港校区海纳苑1幢1楼',
+                        time:'2025-07-21',
+                        href: '/2025/0721/c79824a3070748/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '9',
+                        colUrl: "/whzc/list.htm",
+                        image: '/_upload/article/images/3c/e4/270beca0458bb934ea15625e1912/ff588873-2510-413d-84d7-f0953f52b95d_s.jpg',
+                        title: '盛世修典——“中国历代绘画大系”成果展·元画专题展',
+                        fields1: '2025年7月1日——',
+                        fields2: '浙江大学艺术与考古博物馆',
+                        time:'2025-07-21',
+                        href: '/2025/0721/c79824a3070747/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '10',
+                        colUrl: "/whzc/list.htm",
+                        image: '/_upload/article/images/a3/b2/50bf7bcd4b48814e3aaf5cf0d101/aadf72fe-70cd-4a0a-9094-de5a4344d388_s.jpg',
+                        title: '物理世界  求是人生——李政道先生纪念展',
+                        fields1: '2025年5月21日',
+                        fields2: '浙江大学紫金港校区基础图书馆一楼大厅',
+                        time:'2025-08-08',
+                        href: '/2025/0805/c79824a3073114/page.htm',
+                        open: '_blank'
+                    },  {}
+                ];
+                main._newsJson512.pop()</script></div><div class="none" frag="窗口513"><script type="text/javascript">main._newsJson513 = [  {
+                        id: '1',
+                        colUrl: "/tyhd/list.htm",
+                        image: '/_upload/article/images/82/0c/e1efc1ab49d5bfa8e8be81f2d590/4008db13-116b-427d-98a4-858d415e3193_s.png',
+                        title: '越剧诞生120周年纪念暨浙江大学学生越剧社2026年度大戏《梁祝》',
+                        fields1: '2026年6月7日 18:30',
+                        fields2: '紫金港校区剧场',
+                        time:'2026-05-15',
+                        href: '/2026/0515/c79825a3163003/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '2',
+                        colUrl: "/tyhd/list.htm",
+                        image: '/_upload/article/images/70/f2/8cf1deac4db9898f3a8be037bf10/d7b972df-0817-4212-83d4-de9cfce55493_s.png',
+                        title: '浙江大学2026年“三好杯”体育舞蹈比赛',
+                        fields1: '2026年6月6日',
+                        fields2: '浙江大学紫金港校区亚运会热身馆篮球馆',
+                        time:'2026-05-15',
+                        href: '/2026/0514/c79825a3162288/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '3',
+                        colUrl: "/tyhd/list.htm",
+                        image: '/_upload/article/images/76/7b/72395045454baaa4e625e25d30d9/cb1ca816-5307-4876-b072-1ecf8750d57f_s.png',
+                        title: '浙江大学2026年“三好杯”操舞比赛',
+                        fields1: '2026年6月5日',
+                        fields2: '浙江大学紫金港校区亚运会热身馆',
+                        time:'2026-05-15',
+                        href: '/2026/0514/c79825a3162287/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '4',
+                        colUrl: "/tyhd/list.htm",
+                        image: '/_upload/article/images/9f/9e/4e56d10d481f90548b906716bf06/6d00a337-7d21-42b7-9e6c-ae41c8efda02_s.png',
+                        title: '浙江大学2026年“三好杯”高尔夫比赛',
+                        fields1: '2026年5月23日-2026年5月24日',
+                        fields2: '安中室外高尔夫球场、室内高尔夫模拟器球馆',
+                        time:'2026-05-15',
+                        href: '/2026/0514/c79825a3162289/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '5',
+                        colUrl: "/tyhd/list.htm",
+                        image: '/_upload/article/images/8c/b2/a95edcdb44b99ec7bbdaea3999b3/d8f4dde2-07a9-4af7-ae9c-1866c19914e6_s.png',
+                        title: '浙江大学2026年“三好杯”桥牌比赛',
+                        fields1: '2026年5月16日、17日，5月23日、24日',
+                        fields2: '浙江大学紫金港校区风雨操场桥牌室',
+                        time:'2026-05-15',
+                        href: '/2026/0514/c79825a3162290/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '6',
+                        colUrl: "/tyhd/list.htm",
+                        image: '/_upload/article/images/f6/20/1692ec514ac6b6ac9b74eb41ef1d/5f44f559-f410-4754-9dc8-988c51f58d2b_s.png',
+                        title: '文琴键盘乐团纪念拉威尔诞辰150周年音乐会',
+                        fields1: '2025年5月31日19:30',
+                        fields2: '紫金港剧场',
+                        time:'2025-06-03',
+                        href: '/2025/0530/c79825a3057441/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '7',
+                        colUrl: "/tyhd/list.htm",
+                        image: '/_upload/article/images/a4/52/51271f8f4ae3a61cd40670fc5682/9626a19f-e64c-4461-a2af-82dd73a788fa_s.jpg',
+                        title: '槐序筝声——浙江大学文琴民族乐团灵蹊筝团成立音乐会',
+                        fields1: '2025年5月30日16:00',
+                        fields2: '西1-105',
+                        time:'2025-06-01',
+                        href: '/2025/0530/c79825a3057447/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '8',
+                        colUrl: "/tyhd/list.htm",
+                        image: '/_upload/article/images/39/a2/62e62a1942e7b9ecb0a6b02000d2/5019e26e-779d-4a34-9d15-00e2d2125c8c_s.jpg',
+                        title: '浙江大学第三届校园音乐节暨消防嘉年华',
+                        fields1: '2025年5月31日',
+                        fields2: '东田径场',
+                        time:'2025-06-01',
+                        href: '/2025/0530/c79825a3057446/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '9',
+                        colUrl: "/tyhd/list.htm",
+                        image: '/_upload/article/images/6f/66/3159769a4a22990146933283eb3f/e2d7704f-ac49-4349-96ef-2112d16e8f9a_s.png',
+                        title: '浙江大学2025年水上运动会',
+                        fields1: '2025年5月24日',
+                        fields2: '启真湖',
+                        time:'2025-05-06',
+                        href: '/2025/0530/c79825a3057443/page.htm',
+                        open: '_blank'
+                    },  {
+                        id: '10',
+                        colUrl: "/tyhd/list.htm",
+                        image: '/_upload/article/images/a9/4f/2aa25b514771993d2f0fbd7bc465/ddd69297-6bd0-4346-bcbd-c6858ea56ec1_s.jpg',
+                        title: '浙江大学2024年运动会',
+                        fields1: '2024年10月18-19日',
+                        fields2: '紫金港校区田径场',
+                        time:'2024-09-18',
+                        href: '/2024/0918/c79825a2963542/page.htm',
+                        open: '_blank'
+                    },  {}
+                ];
+                main._newsJson513.pop()</script></div><div class="none" frag="窗口71"><script type="text/javascript">main._newsJson71 = [  {
+                        id: '1',
+                        image: '/_upload/article/images/3b/ff/cbb02a7f4d46a09c9af288ad78dc/53daf27e-77c5-4633-8a89-8c796039bacb_s.jpg',
+                        title: '校地合作',
+                        time:'2024-01-17',
+                        href: 'http://dfhz.zju.edu.cn/28629/list.htm',
+                        open: '_blank'
+                    },  {
+                        id: '2',
+                        image: '/_upload/article/images/ea/e0/8798570043bea3167a6f6674d973/cf0fe46a-6b89-42f2-9c09-d73938cdca74_s.jpg',
+                        title: '校企合作',
+                        time:'2024-01-17',
+                        href: 'http://dfhz.zju.edu.cn/28630/list.htm',
+                        open: '_blank'
+                    },  {
+                        id: '3',
+                        image: '/_upload/article/images/fd/12/a0ac79a444ee89e6cf0db09963be/f624ab3b-c303-4cc8-83ca-2419222a2b89_s.jpg',
+                        title: '国际合作',
+                        time:'2024-01-17',
+                        href: 'http://www.ir.zju.edu.cn/69634/list.htm',
+                        open: '_blank'
+                    },  {}
+                ];
+                main._newsJson71.pop()</script></div><div class="none" frag="窗口81"><!-- No Data --></div><div class="none" frag="窗口811"><script type="text/javascript">main._linkData = [   {
+                    id: 'i1',
+                    colId: '91513',
+                    title: '树立和践行正确政绩观',
+                    image: '/_upload/column/65/79/91513/picture.jpg',
+                    href: 'http://www.news.zju.edu.cn/slhjxzqzjg/list.htm',
+                    open: '_blank'
+                    },  {
+                    id: 'i2',
+                    colId: '91514',
+                    title: '教育强国 浙大何为',
+                    image: '/_upload/column/65/7a/91514/picture.jpg',
+                    href: 'http://www.news.zju.edu.cn/jyqgzdhw/list.htm',
+                    open: '_blank'
+                    },  {
+                    id: 'i3',
+                    colId: '91515',
+                    title: '创新创业看浙大',
+                    image: '/_upload/column/65/7b/91515/picture.jpg',
+                    href: 'http://www.news.zju.edu.cn/cxcykzd/list.htm',
+                    open: '_blank'
+                    },  {
+                    id: 'i4',
+                    colId: '91516',
+                    title: '文脉千秋 盛世修典',
+                    image: '/_upload/column/65/7c/91516/picture.jpg',
+                    href: 'http://www.news.zju.edu.cn/wmqqssxd/list.htm',
+                    open: '_blank'
+                    },   {}
+                ];
+                main._linkData.pop()</script></div><div class="none" frag="窗口812"><script type="text/javascript">main._linkNews1 = [  {
+                        id: "1",
+                        colName: "树立和践行正确政绩观",
+                        title: '牢记嘱托、实干笃行！今年的学习教育浙大这样做',
+                        text: '树立和践行正确政绩观学习教育启动部署以来，浙江大学严格对标中央部署，坚持立党为公、为民造福、科学决策...',
+                        image: '',
+                        time: '2026-05-13',
+                        href: 'https://mp.weixin.qq.com/s/3otTu2-Mb1xT_l1meA-mAQ',
+                        open: '_blank'
+                        },  {
+                        id: "2",
+                        colName: "树立和践行正确政绩观",
+                        title: '【中国教育报】以正确政绩观干事创业 加快建设教育强国',
+                        text: '共产党人干事业、创政绩，为的是造福人民。按照党中央统一部署，今年在全党开展树立和践行正确政绩观学习教...',
+                        image: '',
+                        time: '2026-04-07',
+                        href: '/2026/0407/c91513a3148661/page.htm',
+                        open: '_blank'
+                        },  {
+                        id: "3",
+                        colName: "树立和践行正确政绩观",
+                        title: '竺可桢教育思想对浙大人树立和践行正确政绩观的启示',
+                        text: '在“十五五”规划开局、全党树立和践行正确政绩观的时代背景下，回答好“政绩为谁而树、树什么样的政绩、靠...',
+                        image: '',
+                        time: '2026-04-07',
+                        href: 'https://mp.weixin.qq.com/s/Y7VhqA0QXfOAceldobtjWg',
+                        open: '_blank'
+                        },  {
+                        id: "4",
+                        colName: "树立和践行正确政绩观",
+                        title: '【中国社会科学报】以正确政绩观领航定向',
+                        text: '新春之际，党中央作出开展树立和践行正确政绩观学习教育的重大决策部署。全国哲学社会科学界闻令而动、迅速...',
+                        image: '',
+                        time: '2026-03-31',
+                        href: '/2026/0403/c91513a3147934/page.htm',
+                        open: '_blank'
+                        },  {}
+                ];
+                main._linkNews1.pop()</script></div><div class="none" frag="窗口813"><script type="text/javascript">main._linkNews2 = [  {
+                        id: "1",
+                        colName: "教育强国 浙大何为",
+                        title: '何为高质量发展？这十年，浙大以实干作答！',
+                        text: '习近平总书记近日就推动哲学社会科学高质量发展作出重要指示，强调新征程上，要以新时代中国特色社会主义思想为指导，坚持和加强党的全面领导，深化党的创新理论体系化学理化研究阐释，加快构建中国哲学社会科学自主知识体系，更好回答中国之问、世界之问、人民之问、时代之问，努力开创哲学社会科学高质量发展新局面，为中国式现代化建设贡献更多智慧和力量。',
+                        image: '',
+                        time: '2026-05-17',
+                        href: 'https://mp.weixin.qq.com/s/T0H_Wv-Gpt7-NB1UWgo-zw',
+                        open: '_blank'
+                        },  {
+                        id: "2",
+                        colName: "教育强国 浙大何为",
+                        title: '浙大出品！新成果+5',
+                        text: '5月9日，浙江大学“自主知识体系丛书·案例系列”首批5本成果在杭州发布。',
+                        image: '',
+                        time: '2026-05-09',
+                        href: 'https://mp.weixin.qq.com/s/s8TJYkckhETWBDXele_ybw',
+                        open: '_blank'
+                        },  {
+                        id: "3",
+                        colName: "教育强国 浙大何为",
+                        title: '最高奖项，浙大+2！',
+                        text: '日前，国家新闻出版署公布了第六届中国出版政府奖获奖名单，我校“中国历代绘画大系”项目、《敦煌文献语言大词典》荣获图书奖。',
+                        image: '',
+                        time: '2026-04-14',
+                        href: 'https://mp.weixin.qq.com/s/Fv3rNMQ9FPHtMF5Rd0RPBg',
+                        open: '_blank'
+                        },  {
+                        id: "4",
+                        colName: "教育强国 浙大何为",
+                        title: '浙大学子交出300+创新方案',
+                        text: '4月3日下午，浙江大学第十八届“蒲公英”创新大赛冠军争夺赛在紫金港校区成章楼金色大厅落下帷幕。',
+                        image: '',
+                        time: '2026-04-04',
+                        href: 'https://mp.weixin.qq.com/s/pIyP3HZzU-PBkHod1vRicg',
+                        open: '_blank'
+                        },  {}
+                ];
+                main._linkNews2.pop()</script></div><div class="none" frag="窗口814"><script type="text/javascript">main._linkNews3 = [  {
+                        id: "1",
+                        colName: "创新创业看浙大",
+                        title: '两天四响！创新创造，何以浙大？',
+                        text: '4月16日，恒道科技、思格新能源两家浙大校友企业联袂登陆资本市场，扎根国家战略产业，以硬核技术站稳全球...',
+                        image: '',
+                        time: '2026-04-20',
+                        href: 'https://mp.weixin.qq.com/s/q2hfVFh-a7sfJ-79iKHYhg?scene=1&click_id=31',
+                        open: '_blank'
+                        },  {
+                        id: "2",
+                        colName: "创新创业看浙大",
+                        title: '浙大学子交出300+创新方案！',
+                        text: '春风有信，创意无尽。创新是人类进步的源泉。青年是创新的重要生力军',
+                        image: '',
+                        time: '2026-04-04',
+                        href: 'https://mp.weixin.qq.com/s/pIyP3HZzU-PBkHod1vRicg',
+                        open: '_blank'
+                        },  {
+                        id: "3",
+                        colName: "创新创业看浙大",
+                        title: '【中国教育报】孕育一片“雨林”，让创新不断迸发',
+                        text: '日前，英国《自然》杂志网站发布2025年度十大科学人物榜单，中国人工智能企业深度求索（DeepSeek）创始人梁...',
+                        image: '',
+                        time: '2025-12-15',
+                        href: '/2025/1217/c91515a3122155/page.htm',
+                        open: '_blank'
+                        },  {
+                        id: "4",
+                        colName: "创新创业看浙大",
+                        title: '【人民日报】服务平台如何搭建？让“会读书”的人“会创造”',
+                        text: '最近，浙江大学在校外举办了多场师生调研交流活动，主题是创新创业。京津冀、长三角、大湾区……调研团队走...',
+                        image: '',
+                        time: '2025-10-19',
+                        href: '/2025/1019/c91515a3093353/page.htm',
+                        open: '_blank'
+                        },  {}
+                ];
+                main._linkNews3.pop()</script></div><div class="none" frag="窗口815"><script type="text/javascript">main._linkNews4 = [  {
+                        id: "1",
+                        colName: "文脉千秋 盛世修典",
+                        title: '用AI迎节气｜画中岁时·冬至',
+                        text: '用AI迎节气｜画中岁时·冬至',
+                        image: '',
+                        time: '2025-12-21',
+                        href: 'https://app.xinhuanet.com/news/article.html?articleId=88cf4b68341f298a26e63c841441a4a5&timestamp=88461',
+                        open: '_blank'
+                        },  {
+                        id: "2",
+                        colName: "文脉千秋 盛世修典",
+                        title: '奋进的中国 我们的“十四五”',
+                        text: '奋进的中国 我们的“十四五”',
+                        image: '',
+                        time: '2025-11-02',
+                        href: 'https://app.cctv.com/special/m/livevod/index.html?guid=89cdd37562ec4ad284905cfb20c8b882&vtype=2&vsetId=VSET1j4oqf57rpguh0u4ds5jb8',
+                        open: '_blank'
+                        },  {
+                        id: "3",
+                        colName: "文脉千秋 盛世修典",
+                        title: '“中国历代绘画大系”开启南美洲巡展',
+                        text: '“中国历代绘画大系”开启南美洲巡展',
+                        image: '',
+                        time: '2025-11-02',
+                        href: 'http://wap.cztv.com/articles/index.html?pubId=2595676',
+                        open: '_blank'
+                        },  {
+                        id: "4",
+                        colName: "文脉千秋 盛世修典",
+                        title: '千年丹青 互鉴共享',
+                        text: '19日，“中国历代绘画大系”国际学术研讨会在杭州举行。艺术、文化、科技、哲学等研究领域近80位海内外专家学者齐聚一堂，围绕中国古代绘画艺术的审美意境与文明传承等议题，展开学术交流与研讨。　　研讨会现场，“中国历代绘画大系”图目系列之《明代绘画卷》、《清代绘画卷》、《先秦汉唐画全集》第3至第6卷等相关成果出版亮相。同时，由浙江大学、杭州全息智能技术研究院、浙大城市学院等联合研发的“中国传统绘画大模型”首次...',
+                        image: '',
+                        time: '2025-10-21',
+                        href: '/2025/1021/c91516a3093941/page.htm',
+                        open: '_blank'
+                        },  {}
+                ];
+                main._linkNews4.pop()</script></div><div class="none" frag="窗口82"><script type="text/javascript">main._shoolAdress = [  {
+                        name: '紫金港',
+                        children: [
+                            { name: '地址', text: '地址：杭州市西湖区余杭塘路866号' },
+                            { name: '邮编', text: '邮编：310058' },
+                            { name: '电话', text: '电话：0571-87951111' },
+                            { name: '邮箱', text: '邮箱：zupo@zju.edu.cn' }
+                        ]
+                    },  {
+                        name: '玉泉',
+                        children: [
+                            { name: '地址', text: '地址：杭州市西湖区浙大路38号' },
+                            { name: '邮编', text: '邮编：310027' },
+                            { name: '电话', text: '电话：0571-87953136' },
+                            { name: '邮箱', text: '邮箱：yqzju@zju.edu.cn' }
+                        ]
+                    },  {
+                        name: '西溪',
+                        children: [
+                            { name: '地址', text: '地址：浙江省杭州天目山路148号' },
+                            { name: '邮编', text: '邮编：310028' },
+                            { name: '电话', text: '电话：0571-88273256' },
+                            { name: '邮箱', text: '邮箱：xxxq07@zju.edu.cn' }
+                        ]
+                    },  {
+                        name: '华家池',
+                        children: [
+                            { name: '地址', text: '地址：浙江省杭州市江干区凯旋路268号' },
+                            { name: '邮编', text: '邮编：310029' },
+                            { name: '电话', text: '电话：0571-86971103' },
+                            { name: '邮箱', text: '邮箱：hjcxq@zju.edu.cn' }
+                        ]
+                    },  {
+                        name: '之江',
+                        children: [
+                            { name: '地址', text: '地址：杭州市西湖区之江路51号' },
+                            { name: '邮编', text: '邮编：310058' },
+                            { name: '电话', text: '电话：0571-86592765' },
+                            { name: '邮箱', text: '邮箱：lzm7260@zju.edu.cn' }
+                        ]
+                    },  {
+                        name: '舟山',
+                        children: [
+                            { name: '地址', text: ' 地址：浙江省舟山市定海区浙大路1号' },
+                            { name: '邮编', text: ' 邮编：316021' },
+                            { name: '电话', text: ' 电话：0580-2092277' },
+                            { name: '邮箱', text: '邮箱：ocean@zju.edu.cn' }
+                        ]
+                    },  {
+                        name: '海宁',
+                        children: [
+                            { name: '地址', text: '地址：浙江省海宁市海州东路718号' },
+                            { name: '邮编', text: '邮编：314400' },
+                            { name: '电话', text: '电话：0571-87572104' },
+                            { name: '邮箱', text: '邮箱：office.intl@intl.zju.edu.cn' }
+                        ]
+                    },  {}
+                ];
+                main._shoolAdress.pop()</script></div><div id="root"></div></body></html>
+ <img src="/_visitcount?siteId=590&type=1&columnId=32642" style="display:none" width="0" height="0"/>

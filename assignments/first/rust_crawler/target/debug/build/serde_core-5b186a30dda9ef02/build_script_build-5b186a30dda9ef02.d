@@ -1,0 +1,5 @@
+/home/kikun/School/opencamp-project/assignments/first/rust_crawler/target/debug/build/serde_core-5b186a30dda9ef02/build_script_build-5b186a30dda9ef02.d: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_core-1.0.228/build.rs
+
+/home/kikun/School/opencamp-project/assignments/first/rust_crawler/target/debug/build/serde_core-5b186a30dda9ef02/build_script_build-5b186a30dda9ef02: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_core-1.0.228/build.rs
+
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_core-1.0.228/build.rs:

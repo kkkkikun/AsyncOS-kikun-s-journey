@@ -1,0 +1,11 @@
+/home/kikun/School/opencamp-project/assignments/rust_crawler/target/release/deps/ciborium_ll-ef168b648435d1db.d: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/lib.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/dec.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/enc.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/hdr.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/seg.rs
+
+/home/kikun/School/opencamp-project/assignments/rust_crawler/target/release/deps/libciborium_ll-ef168b648435d1db.rlib: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/lib.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/dec.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/enc.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/hdr.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/seg.rs
+
+/home/kikun/School/opencamp-project/assignments/rust_crawler/target/release/deps/libciborium_ll-ef168b648435d1db.rmeta: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/lib.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/dec.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/enc.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/hdr.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/seg.rs
+
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/lib.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/dec.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/enc.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/hdr.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ciborium-ll-0.2.2/src/seg.rs:

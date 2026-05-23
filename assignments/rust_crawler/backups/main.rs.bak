@@ -1,0 +1,77 @@
+use std::{thread, time::Duration};
+
+fn main() {
+    // test 1
+    // let school_name = String::from("北京大学");
+    // let value = school_name.clone();
+    // println!("{}", school_name);
+
+    // let handle = thread::spawn(move || {
+    //     print!("正在下载: {}", value);
+    // });
+
+    // println!("{}", school_name);
+
+    // handle.join().unwrap();
+
+    
+    // test 1 extend
+    // let shcool_name = String::from("北京大学");
+
+    // let _handle = thread::spawn(move || {
+    //     // 睡两秒，模拟延迟
+    //     thread::sleep(Duration::from_secs(2));
+    //     print!("子线程{}下载完成！\n", shcool_name);
+    // });
+
+    // print!("主线程准备退出\n");
+    // // _handle.join().unwrap();
+    // print!("退出！\n");
+
+
+
+    // test 2
+    // let schools: Vec<&str> = vec!["清华大学", "北京大学", "复旦大学"];
+
+    // let mut handles: Vec<thread::JoinHandle<()>> = vec![];
+
+    // for school in schools {
+    //     let download_task = move || {
+    //         println!("线程 {:?} 启动：开始模拟下载 {} 的首页...\n", thread::current().id(), school);
+    //     };
+
+    //     let handle: thread::JoinHandle<()> = thread::spawn(download_task);
+
+    //     handles.push(handle);
+    // }
+
+    // for handle in handles {
+    //     handle.join().unwrap();
+    // }
+
+
+
+    // test 3
+    // let good_target_url = "https://god_url.com";
+    // let bad_target_url = "http://bad_url.com";
+
+    // match simulate_download(good_target_url) {
+    //     Ok(_) => print!("{}下载并保存成功\n", good_target_url),
+    //     Err(e) => print!("{}下载发生错误{}\n", good_target_url, e)
+    // }
+
+    // match simulate_download(bad_target_url) {
+    //     Ok(_) => print!("{}下载并保存成功\n", bad_target_url),
+    //     Err(e) => print!("{}下载发生错误{}\n", bad_target_url, e)
+    // }
+
+}
+
+// fn simulate_download(url: &str) -> Result<(), String> {
+//     if url.starts_with("https://") {
+//         print!("成功连接到：{}\n", url);
+//         Ok(())
+//     } else {
+//         Err(format!("不合法地址：{}，必须以 https:// 开头\n", url))
+//     }
+// }

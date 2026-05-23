@@ -1,0 +1,3702 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="author" content="dsp" />
+    <title>天津大学</title><meta name="pageType" content="1">
+<meta name="pageTitle" content="天津大学">
+<META Name="keywords" Content="天津大学,官网,中文,天大,北洋大学,北洋" />
+
+    <link rel="stylesheet" href="newfiles/style/animate.min.css">
+    <link rel="stylesheet" href="newfiles/style/slick.css">
+    <link rel="stylesheet" href="newfiles/style/slick-theme.css">
+    <link rel="stylesheet" href="newfiles/style/reset.css">
+    <link rel="stylesheet" href="newfiles/style/public.css">
+    <link rel="stylesheet" href="newfiles/style/f.css">
+    <link rel="stylesheet" href="newfiles/style/index.css">
+    <link rel="stylesheet" href="newfiles/style/index_media.css">
+    <script>
+ 
+        function isIE() {
+            return !!document.documentMode; // IE特有属性
+        }
+        
+        // 使用示例
+        if (isIE()) {
+            alert("浏览器版本过低，请升级或更换浏览器（谷歌、火狐等）")
+            var str = "你的浏览器版本太低了,请更新更高版本";
+            var str2 = "推荐使用:<a href='' target='_blank' style='color:blue;display:inline-block'>谷歌</a>,"
+                + "<a href='' target='_blank' style='color:blue;display:inline-block'>火狐</a>,"
+                + "其他双核极速模式";
+            document.writeln("<pre style='text-align:center;color:#fff;background-color:#0cc; height:100%;border:0;position:fixed;top:0;left:0;width:100%;z-index:1234;font-size:28px !important;'>" +
+                "<h2 style='padding-top:200px;margin:0;line-height:35px;font-size:28px;'><strong>" + str + "<br/></strong></h2><h2>" +
+                str2 + "</h2><h2 style='margin:0;line-height:35px;font-size:28px;'><strong>如果你的使用的是双核浏览器,请切换到极速模式访问<br/></strong></h2></pre>");
+            document.execCommand("Stop");
+           
+        }
+    </script>
+
+    
+
+<!--Announced by Visual SiteBuilder 9-->
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e004657505a5742000400054652 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,2111843594)</script>
+</head>
+
+<body>
+    <!-- pc 顶部 导航 -->
+    <div class="b-top">
+        <div class="t-search-zzc"></div>
+        <div class="t-search"><!-- 3.1.3版本 -->
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><script language="javascript" src="/system/resource/vue/vue.js"></script><script language="javascript" src="/system/resource/vue/bluebird.min.js"></script><script language="javascript" src="/system/resource/vue/axios.js"></script><script language="javascript" src="/system/resource/vue/polyfill.js"></script><script language="javascript" src="/system/resource/vue/token.js"></script><LINK href="/system/resource/vue/static/element/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/vue/static/element/index.js"></script><script language="javascript" src="/system/resource/vue/static/public.js"></script><script language="javascript" src="/system/resource/openapp/search/js/containsHtmlTags.js"></script><script language="javascript" src="/system/resource/openapp/search/layui/layui.js"></script><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="stylesheet" href="/system/resource/openapp/search/layui/css/layui.css" />
+
+<div id="divu0"></div>
+<script type="text/html" id="htmlu0">
+    <div id="appu0" >
+        <div >
+            <input type="text" class="qwss" placeholder="请输入关键词" autocomplete=off onkeyup="keyUpFunu0(event)"/>
+            <div class="search-btn">
+                <input class="tj" name="submit_button" type="button" value="" onclick="onSubmitu0()"/>
+            </div>
+        </div>        
+    </div>
+</script>
+
+<script>
+   var appElementu0 = document.querySelector("#appu0");
+   if (appElementu0 && appElementu0.__vue__) {
+
+   } else {
+      $("#divu0").html($("#htmlu0").text());
+      var appOwner = "2111843594";   
+      var urlPrefix = "/aop_component/";
+      var ifLogin="false";
+      var token = ifLogin=='true'?gettoken(10, true).trim():'tourist';
+      if (containsHtmlTags(token) || !token) { 
+         token = 'tourist';
+      }
+      jQuery.support.cors = true;
+      $.ajaxSetup({
+        beforeSend: function (request, settings) {
+            request.setRequestHeader("Authorization", token);
+            request.setRequestHeader("owner", appOwner);
+        }
+      });
+      var queryInfou0 = {
+        query: {
+            keyWord: "",//搜索关键词
+            owner: appOwner,
+            token: token,
+            urlPrefix: urlPrefix,
+            lang:"i18n_zh_CN"
+        },
+        isError: false
+      };
+      function keyUpFunu0(e){
+        var theEvent = e || window.event;
+        var keyCode = theEvent.keyCode || theEvent.which || theEvent.charCode;
+        if(keyCode == 13){
+          onSubmitu0();
+        }
+      };
+
+      function onSubmitu0(e) {
+        queryInfou0.query.keyWord= $("#appu0  .qwss").val();
+        
+        var url = "/aop_views/search/modules/resultpc/soso.html";      
+        if ("10" == "1" || "10" == "2") {
+           url = "" + url;
+        }
+        var query = queryInfou0.query;
+        if (url.indexOf("?") > -1) {
+            url = url.split("?")[0];
+        }
+        if (query.keyWord) {
+            var query = new Base64().encode(JSON.stringify(query));
+            window.open(url + "?query=" + query);
+        } else {
+            alert("请填写搜索内容")
+        }
+      };
+   }
+</script></div>
+    </div>
+    <div class="head pc hide">
+        <div class="head-top w1520">
+            <div class="logo">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm">
+    <img class="logo1" src="images/tjulogo.png" alt="天津大学中文官方网站2025">
+</a>
+
+</div>
+            <div class="h-right">
+                <div class="h-link"><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script>    <a href="td/ks.htm" title="" target="_blank" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99174)">考生</a>
+    <span>|</span>                
+    <a href="td/xs.htm" title="" target="_blank" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99172)">学生</a>
+    <span>|</span>                
+    <a href="td/jzg.htm" title="" target="_blank" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99173)">教职工</a>
+    <span>|</span>                
+    <a href="http://alumni.tju.edu.cn/" title="" target="_blank" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99175)">校友</a>
+    <span>|</span>                
+    <div>
+    
+    <a href="javascript:;">Language</a>
+    <dl>
+        <dd><a href="http://en.tju.edu.cn" target="_blank">ENGLISH</a></dd>
+        <dd><a href="http://es.tju.edu.cn" target="_blank">Español</a></dd>
+        <dd><a href="http://fr.tju.edu.cn" target="_blank">Français</a></dd>
+        <dd><a href="http://ja.tju.edu.cn" target="_blank">日本語</a></dd>
+        <dd><a href="http://ko.tju.edu.cn" target="_blank">한국어</a></dd>
+        <dd><a href="http://de.tju.edu.cn" target="_blank">Deutsch</a></dd>
+        <dd><a href="http://ru.tju.edu.cn" target="_blank">Pусский</a></dd>
+    </dl>
+    </div>
+    <a class="search-switch head-search"><img src="newfiles/images/icon-search.png" alt=""></a></div>
+
+                <div class="nav"><ul class="">
+            <li>
+            <a href="tdgk.htm" target="_blank">天大概况</a>
+                <div class="ejnav">
+                    <div class="pics">
+                        <div class="pic">
+                                <img src="2025new/img/nav_tiandagaikuang.jpg" alt="天大概况">
+                        </div>
+                    </div>
+                    <ul>
+                            <li><a href="tdgk/xxjj.htm">学校简介</a></li>
+                            <li><a href="tdgk/xrld.htm">现任领导</a></li>
+                            <li><a href="tdgk/ljzxr.htm">历届掌校人</a></li>
+                            <li><a href="tdgk/tdbs.htm">天大标识</a></li>
+                            <li><a href="tdgk/tdpg.htm">天大品格</a></li>
+                            <li><a href="tdgk/fzmb.htm">发展目标</a></li>
+                            <li><a href="tdgk/lsyg.htm">历史沿革</a></li>
+                            <li><a href="tdgk/tjsj.htm">统计数据</a></li>
+                            <li><a href="tdgk/jgsz.htm">机构设置</a></li>
+                            <li><a href="tdgk/tdxq.htm">天大校区</a></li>
+                    </ul>
+                </div>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/" target="_blank" class="no_sub">天大新闻</a>
+        </li>
+        <li>
+            <a href="zsjy.htm">招生就业</a>
+                <div class="ejnav">
+                    <div class="pics">
+                        <div class="pic">
+                                <img src="2025new/img/nav_zhaoshengjiuye.jpg" alt="招生就业">
+                        </div>
+                    </div>
+                    <ul>
+                            <li><a href="zsjy.htm#zsjy02">本科生招生</a></li>
+                            <li><a href="zsjy.htm#zsjy03">研究生招生</a></li>
+                            <li><a href="gjjl/hzbx.htm">合作办学招生</a></li>
+                            <li><a href="zsjy.htm#zsjy04">留学生招生</a></li>
+                            <li><a href="zsjy/jzxx.htm">奖助信息</a></li>
+                            <li><a href="zsjy/xly.htm">夏令营</a></li>
+                            <li><a href="zsjy.htm#zsjy07">就业情况</a></li>
+                    </ul>
+                </div>
+        </li>
+        <li>
+            <a href="xy_b_.htm" class="no_sub">学院（部）</a>
+        </li>
+        <li>
+            <a href="jyjx.htm">教育教学</a>
+                <div class="ejnav">
+                    <div class="pics">
+                        <div class="pic">
+                                <img src="2025new/img/nav_jiaoyujiaoxue.jpg" alt="教育教学">
+                        </div>
+                    </div>
+                    <ul>
+                            <li><a href="jyjx.htm#jyjx01">师资队伍</a></li>
+                            <li><a href="http://oaa.tju.edu.cn/" target="_blank">本科生教育</a></li>
+                            <li><a href="http://gs.tju.edu.cn/" target="_blank">研究生教育</a></li>
+                            <li><a href="http://sdce.tju.edu.cn/" target="_blank">继续教育</a></li>
+                            <li><a href="http://sie.tju.edu.cn/" target="_blank">留学生教育</a></li>
+                    </ul>
+                </div>
+        </li>
+        <li>
+            <a href="kxyj.htm">科学研究</a>
+                <div class="ejnav">
+                    <div class="pics">
+                        <div class="pic">
+                                <img src="2025new/img/ny-kexueyanjiu-1.png" alt="科学研究">
+                        </div>
+                    </div>
+                    <ul>
+                            <li><a href="kxyj.htm#kxyj01">科研机构</a></li>
+                            <li><a href="kxyj.htm#kxyj02">科研合作</a></li>
+                            <li><a href="kxyj.htm#kxyj03">科研服务</a></li>
+                            <li><a href="kxyj.htm#kxyj04">学术前沿</a></li>
+                            <li><a href="kxyj/xsqk.htm">学术期刊</a></li>
+                    </ul>
+                </div>
+        </li>
+        <li>
+            <a href="xywh.htm">校园文化</a>
+                <div class="ejnav">
+                    <div class="pics">
+                        <div class="pic">
+                                <img src="2025new/img/nav_xiaoyuanwenhua.jpg" alt="校园文化">
+                        </div>
+                    </div>
+                    <ul>
+                            <li><a href="xywh.htm#xywh_id1">文化故事</a></li>
+                            <li><a href="xywh.htm#xywh_id2" target="_blank">校史文脉</a></li>
+                            <li><a href="xywh/xyfg.htm">校园风光</a></li>
+                            <li><a href="xywh/xysh.htm">校园生活</a></li>
+                            <li><a href="xywh.htm#xywh_id5">社会责任</a></li>
+                            <li><a href="xywh.htm#xywh_id5">文化研究</a></li>
+                    </ul>
+                </div>
+        </li>
+        <li>
+            <a href="gjjl.htm">国际交流</a>
+                <div class="ejnav">
+                    <div class="pics">
+                        <div class="pic">
+                                <img src="2025new/img/ny-guojijiaoliu.png" alt="国际交流">
+                        </div>
+                    </div>
+                    <ul>
+                            <li><a href="gjjl/hzbx.htm">合作办学</a></li>
+                            <li><a href="gjjl.htm#gjjl01">国际认证</a></li>
+                            <li><a href="gjjl/kzxy.htm">孔子学院</a></li>
+                            <li><a href="gjjl/gjkyhz.htm">国际科研合作</a></li>
+                    </ul>
+                </div>
+        </li>
+</ul></div>
+            </div>
+        </div>
+    </div>
+    <div class="head2 pc">
+        <div class="head-top w1520">
+            <div class="logo">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm">
+    <img class="logo1" src="images/tjulogo.png" alt="天津大学中文官方网站2025">
+</a>
+
+</div>
+            <div class="h-right">
+                <div class="h-link">    <a href="td/ks.htm" title="" target="_blank" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99174)">考生</a>
+    <span>|</span>         
+    <a href="td/xs.htm" title="" target="_blank" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99172)">学生</a>
+    <span>|</span>         
+    <a href="td/jzg.htm" title="" target="_blank" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99173)">教职工</a>
+    <span>|</span>         
+    <a href="http://alumni.tju.edu.cn/" title="" target="_blank" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99175)">校友</a>
+    <span>|</span>         
+  <div>
+    
+    <a href="javascript:;">Language</a>
+    <dl>
+    <dl>
+        <dd><a href="http://en.tju.edu.cn" target="_blank">ENGLISH</a></dd>
+        <dd><a href="http://es.tju.edu.cn" target="_blank">Español</a></dd>
+        <dd><a href="http://fr.tju.edu.cn" target="_blank">Français</a></dd>
+        <dd><a href="http://ja.tju.edu.cn" target="_blank">日本語</a></dd>
+        <dd><a href="http://ko.tju.edu.cn" target="_blank">한국어</a></dd>
+        <dd><a href="http://de.tju.edu.cn" target="_blank">Deutsch</a></dd>
+        <dd><a href="http://ru.tju.edu.cn" target="_blank">Pусский</a></dd>
+    </dl>
+    </div>
+<a class="search-switch head-search"><img src="newfiles/images/icon-search.png" alt=""></a></div>
+
+                <div class="nav"><ul class="">
+    <li>
+        <a href="tdgk.htm" target="_blank">天大概况</a>
+            <div class="ejnav">
+                <div class="pics">
+                    <div class="pic">
+                            <img src="2025new/img/nav_tiandagaikuang.jpg" alt="天大概况">
+                    </div>
+                </div>
+                <ul>
+                        <li><a href="tdgk/xxjj.htm">学校简介</a></li>
+                        <li><a href="tdgk/xrld.htm">现任领导</a></li>
+                        <li><a href="tdgk/ljzxr.htm">历届掌校人</a></li>
+                        <li><a href="tdgk/tdbs.htm">天大标识</a></li>
+                        <li><a href="tdgk/tdpg.htm">天大品格</a></li>
+                        <li><a href="tdgk/fzmb.htm">发展目标</a></li>
+                        <li><a href="tdgk/lsyg.htm">历史沿革</a></li>
+                        <li><a href="tdgk/tjsj.htm">统计数据</a></li>
+                        <li><a href="tdgk/jgsz.htm">机构设置</a></li>
+                        <li><a href="tdgk/tdxq.htm">天大校区</a></li>
+                </ul>
+            </div>
+    </li>
+    <li>
+        <a href="http://news.tju.edu.cn/" target="_blank" class="no_sub">天大新闻</a>
+    </li>
+    <li>
+        <a href="zsjy.htm">招生就业</a>
+            <div class="ejnav">
+                <div class="pics">
+                    <div class="pic">
+                            <img src="2025new/img/nav_zhaoshengjiuye.jpg" alt="招生就业">
+                    </div>
+                </div>
+                <ul>
+                        <li><a href="zsjy.htm#zsjy02">本科生招生</a></li>
+                        <li><a href="zsjy.htm#zsjy03">研究生招生</a></li>
+                        <li><a href="gjjl/hzbx.htm">合作办学招生</a></li>
+                        <li><a href="zsjy.htm#zsjy04">留学生招生</a></li>
+                        <li><a href="zsjy/jzxx.htm">奖助信息</a></li>
+                        <li><a href="zsjy/xly.htm">夏令营</a></li>
+                        <li><a href="zsjy.htm#zsjy07">就业情况</a></li>
+                </ul>
+            </div>
+    </li>
+    <li>
+        <a href="xy_b_.htm" class="no_sub">学院（部）</a>
+    </li>
+    <li>
+        <a href="jyjx.htm">教育教学</a>
+            <div class="ejnav">
+                <div class="pics">
+                    <div class="pic">
+                            <img src="2025new/img/nav_jiaoyujiaoxue.jpg" alt="教育教学">
+                    </div>
+                </div>
+                <ul>
+                        <li><a href="jyjx.htm#jyjx01">师资队伍</a></li>
+                        <li><a href="http://oaa.tju.edu.cn/" target="_blank">本科生教育</a></li>
+                        <li><a href="http://gs.tju.edu.cn/" target="_blank">研究生教育</a></li>
+                        <li><a href="http://sdce.tju.edu.cn/" target="_blank">继续教育</a></li>
+                        <li><a href="http://sie.tju.edu.cn/" target="_blank">留学生教育</a></li>
+                </ul>
+            </div>
+    </li>
+    <li>
+        <a href="kxyj.htm">科学研究</a>
+            <div class="ejnav">
+                <div class="pics">
+                    <div class="pic">
+                            <img src="2025new/img/ny-kexueyanjiu-1.png" alt="科学研究">
+                    </div>
+                </div>
+                <ul>
+                        <li><a href="kxyj.htm#kxyj01">科研机构</a></li>
+                        <li><a href="kxyj.htm#kxyj02">科研合作</a></li>
+                        <li><a href="kxyj.htm#kxyj03">科研服务</a></li>
+                        <li><a href="kxyj.htm#kxyj04">学术前沿</a></li>
+                        <li><a href="kxyj/xsqk.htm">学术期刊</a></li>
+                </ul>
+            </div>
+    </li>
+    <li>
+        <a href="xywh.htm">校园文化</a>
+            <div class="ejnav">
+                <div class="pics">
+                    <div class="pic">
+                            <img src="2025new/img/nav_xiaoyuanwenhua.jpg" alt="校园文化">
+                    </div>
+                </div>
+                <ul>
+                        <li><a href="xywh.htm#xywh_id1">文化故事</a></li>
+                        <li><a href="xywh.htm#xywh_id2" target="_blank">校史文脉</a></li>
+                        <li><a href="xywh/xyfg.htm">校园风光</a></li>
+                        <li><a href="xywh/xysh.htm">校园生活</a></li>
+                        <li><a href="xywh.htm#xywh_id5">社会责任</a></li>
+                        <li><a href="xywh.htm#xywh_id5">文化研究</a></li>
+                </ul>
+            </div>
+    </li>
+    <li>
+        <a href="gjjl.htm">国际交流</a>
+            <div class="ejnav">
+                <div class="pics">
+                    <div class="pic">
+                            <img src="2025new/img/ny-guojijiaoliu.png" alt="国际交流">
+                    </div>
+                </div>
+                <ul>
+                        <li><a href="gjjl/hzbx.htm">合作办学</a></li>
+                        <li><a href="gjjl.htm#gjjl01">国际认证</a></li>
+                        <li><a href="gjjl/kzxy.htm">孔子学院</a></li>
+                        <li><a href="gjjl/gjkyhz.htm">国际科研合作</a></li>
+                </ul>
+            </div>
+    </li>
+</ul>
+
+</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 移动端导航 -->
+    <div class="top wap">
+        <div class="wap-menu">
+            <img src="newfiles/images/menu.png" class="menu" alt="">
+            <img src="newfiles/images/close.png" class="close-menu" alt="">
+        </div>
+    </div>
+    <div class="wap m-head">
+        <div class="m-logo">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm">
+    <img src="images/tjulogo.png" alt="天津大学中文官方网站2025">
+</a>
+
+</div>
+        <div class="m-nav">
+            <div class="m-tlink">    <a href="td/ks.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99174)">考生</a>          
+    <a href="td/xs.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99172)">学生</a>          
+    <a href="td/jzg.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99173)">教职工</a>          
+    <a href="http://alumni.tju.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99175)">校友</a>          
+
+<div></div>
+<a href="http://en.tju.edu.cn">ENGLISH</a>
+        <a href="http://es.tju.edu.cn">Español</a>
+        <a href="http://fr.tju.edu.cn">Français</a>
+        <a href="http://ja.tju.edu.cn">日本語</a>
+        <a href="http://ko.tju.edu.cn">한국어</a>
+        <a href="http://de.tju.edu.cn">Deutsch</a>
+        <a href="http://ru.tju.edu.cn">Pусский</a>
+</div>
+            <div class="m-search"><!-- 3.1.3版本 -->
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="stylesheet" href="/system/resource/openapp/search/layui/css/layui.css" />
+
+<div id="divu9"></div>
+<script type="text/html" id="htmlu9">
+    <div id="appu9" class="jdjs_app">
+        <div >
+            <input type="text" class="qwss" placeholder="请输入内容" autocomplete=off onkeyup="keyUpFunu9(event)"/>
+            <input class="tj" name="submit_button" type="button" value="" onclick="onSubmitu9()"/>
+        </div>        
+    </div>
+</script>
+
+<script>
+   var appElementu9 = document.querySelector("#appu9");
+   if (appElementu9 && appElementu9.__vue__) {
+
+   } else {
+      $("#divu9").html($("#htmlu9").text());
+      var appOwner = "2111843594";   
+      var urlPrefix = "/aop_component/";
+      var ifLogin="false";
+      var token = ifLogin=='true'?gettoken(10, true).trim():'tourist';
+      if (containsHtmlTags(token) || !token) { 
+         token = 'tourist';
+      }
+      jQuery.support.cors = true;
+      $.ajaxSetup({
+        beforeSend: function (request, settings) {
+            request.setRequestHeader("Authorization", token);
+            request.setRequestHeader("owner", appOwner);
+        }
+      });
+      var queryInfou9 = {
+        query: {
+            keyWord: "",//搜索关键词
+            owner: appOwner,
+            token: token,
+            urlPrefix: urlPrefix,
+            lang:"i18n_zh_CN"
+        },
+        isError: false
+      };
+      function keyUpFunu9(e){
+        var theEvent = e || window.event;
+        var keyCode = theEvent.keyCode || theEvent.which || theEvent.charCode;
+        if(keyCode == 13){
+          onSubmitu9();
+        }
+      };
+
+      function onSubmitu9(e) {
+        queryInfou9.query.keyWord= $("#appu9  .qwss").val();
+        
+        var url = "/aop_views/search/modules/resultpc/soso.html";      
+        if ("10" == "1" || "10" == "2") {
+           url = "" + url;
+        }
+        var query = queryInfou9.query;
+        if (url.indexOf("?") > -1) {
+            url = url.split("?")[0];
+        }
+        if (query.keyWord) {
+            var query = new Base64().encode(JSON.stringify(query));
+            window.open(url + "?query=" + query);
+        } else {
+            alert("请填写搜索内容")
+        }
+      };
+   }
+</script></div>
+            <ul class="">    <li>
+        <a href="index.htm">首页</a><span></span>
+            <ul>
+                    <li>
+                        <a href="index/bysj.htm">北洋数据</a>
+                    </li>
+                    <li>
+                        <a href="index/qxtd.htm">求学天大</a>
+                    </li>
+                    <li>
+                        <a href="index/tdrw.htm">天大人物</a>
+                    </li>
+                    <li>
+                        <a href="index/tdrj.htm">天大日记</a>
+                    </li>
+                    <li>
+                        <a href="index/xstd.htm">学术天大</a>
+                    </li>
+            </ul>
+    </li>
+    <li>
+        <a href="tdgk.htm" target="_blank">天大概况</a><span></span>
+            <ul>
+                    <li>
+                        <a href="tdgk/xxjj.htm">学校简介</a>
+                    </li>
+                    <li>
+                        <a href="tdgk/xrld.htm">现任领导</a>
+                    </li>
+                    <li>
+                        <a href="tdgk/ljzxr.htm">历届掌校人</a>
+                    </li>
+                    <li>
+                        <a href="tdgk/tdbs.htm">天大标识</a>
+                    </li>
+                    <li>
+                        <a href="tdgk/tdpg.htm">天大品格</a>
+                    </li>
+                    <li>
+                        <a href="tdgk/fzmb.htm">发展目标</a>
+                    </li>
+                    <li>
+                        <a href="tdgk/lsyg.htm">历史沿革</a>
+                    </li>
+                    <li>
+                        <a href="tdgk/tjsj.htm">统计数据</a>
+                    </li>
+                    <li>
+                        <a href="tdgk/jgsz.htm">机构设置</a>
+                    </li>
+                    <li>
+                        <a href="tdgk/tdxq.htm">天大校区</a>
+                    </li>
+            </ul>
+    </li>
+    <li>
+        <a href="http://news.tju.edu.cn/" target="_blank">天大新闻</a>
+    </li>
+    <li>
+        <a href="zsjy.htm">招生就业</a><span></span>
+            <ul>
+                    <li>
+                        <a href="zsjy.htm#zsjy02">本科生招生</a>
+                    </li>
+                    <li>
+                        <a href="zsjy.htm#zsjy03">研究生招生</a>
+                    </li>
+                    <li>
+                        <a href="gjjl/hzbx.htm">合作办学招生</a>
+                    </li>
+                    <li>
+                        <a href="zsjy.htm#zsjy04">留学生招生</a>
+                    </li>
+                    <li>
+                        <a href="zsjy/jzxx.htm">奖助信息</a>
+                    </li>
+                    <li>
+                        <a href="zsjy/xly.htm">夏令营</a>
+                    </li>
+                    <li>
+                        <a href="zsjy.htm#zsjy07">就业情况</a>
+                    </li>
+            </ul>
+    </li>
+    <li>
+        <a href="xy_b_.htm">学院（部）</a>
+    </li>
+    <li>
+        <a href="jyjx.htm">教育教学</a><span></span>
+            <ul>
+                    <li>
+                        <a href="jyjx.htm#jyjx01">师资队伍</a>
+                    </li>
+                    <li>
+                        <a href="http://oaa.tju.edu.cn/" target="_blank">本科生教育</a>
+                    </li>
+                    <li>
+                        <a href="http://gs.tju.edu.cn/" target="_blank">研究生教育</a>
+                    </li>
+                    <li>
+                        <a href="http://sdce.tju.edu.cn/" target="_blank">继续教育</a>
+                    </li>
+                    <li>
+                        <a href="http://sie.tju.edu.cn/" target="_blank">留学生教育</a>
+                    </li>
+            </ul>
+    </li>
+    <li>
+        <a href="kxyj.htm">科学研究</a><span></span>
+            <ul>
+                    <li>
+                        <a href="kxyj.htm#kxyj01">科研机构</a>
+                    </li>
+                    <li>
+                        <a href="kxyj.htm#kxyj02">科研合作</a>
+                    </li>
+                    <li>
+                        <a href="kxyj.htm#kxyj03">科研服务</a>
+                    </li>
+                    <li>
+                        <a href="kxyj.htm#kxyj04">学术前沿</a>
+                    </li>
+                    <li>
+                        <a href="kxyj/xsqk.htm">学术期刊</a>
+                    </li>
+            </ul>
+    </li>
+    <li>
+        <a href="xywh.htm">校园文化</a><span></span>
+            <ul>
+                    <li>
+                        <a href="xywh.htm#xywh_id1">文化故事</a>
+                    </li>
+                    <li>
+                        <a href="xywh.htm#xywh_id2" target="_blank">校史文脉</a>
+                    </li>
+                    <li>
+                        <a href="xywh/xyfg.htm">校园风光</a>
+                    </li>
+                    <li>
+                        <a href="xywh/xysh.htm">校园生活</a>
+                    </li>
+                    <li>
+                        <a href="xywh.htm#xywh_id5">社会责任</a>
+                    </li>
+                    <li>
+                        <a href="xywh.htm#xywh_id5">文化研究</a>
+                    </li>
+            </ul>
+    </li>
+    <li>
+        <a href="gjjl.htm">国际交流</a><span></span>
+            <ul>
+                    <li>
+                        <a href="gjjl/hzbx.htm">合作办学</a>
+                    </li>
+                    <li>
+                        <a href="gjjl.htm#gjjl01">国际认证</a>
+                    </li>
+                    <li>
+                        <a href="gjjl/kzxy.htm">孔子学院</a>
+                    </li>
+                    <li>
+                        <a href="gjjl/gjkyhz.htm">国际科研合作</a>
+                    </li>
+            </ul>
+    </li>
+<div class="clear"></div>
+
+</ul>
+        </div>
+    </div>
+    
+    
+    <script src="newfiles/js/jquery.js"></script>
+    <script src="newfiles/js/wow.min.js"></script>
+    <script src="newfiles/js/slick.js"></script>
+    <script src="newfiles/js/public.js"></script>
+    <script src="newfiles/js/waypoints.js"></script>
+    <script src="newfiles/js/countup.js"></script>
+    <script src="newfiles/js/jquery.easing.js"></script>
+    <script src="newfiles/js/jquery.mousewheel.js"></script>
+    <script src="newfiles/js/f.js"></script>
+    <script src="newfiles/js/gsap-latest-beta.min.js"></script>
+    <script src="newfiles/js/ScrollTrigger.min.js"></script>
+
+    <div class="banner">    <div class="slick">
+            <div>
+            <a href="https://zhuanti.tju.edu.cn/srxxgchxjs/index.htm" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012664)">
+                <img src="images/zhuyedatubanner1002.jpg" alt="">
+            </a>
+        </div>
+        <div>
+            <a href="https://news.tju.edu.cn/zt/zskzslhjxzqzjgxxjy.htm" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1013121)">
+                <img src="images/weixintupian_20260302150931_978_74_fuben.jpg" alt="">
+            </a>
+        </div>
+        <div>
+            <a href="https://mp.weixin.qq.com/s/j310cd10ULZuwlj1G7-TnA" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1013449)">
+                <img src="newfiles/images/weixintupian_20260502194151_1474_31.png" alt="">
+            </a>
+        </div>
+        <div>
+            <a href="https://mp.weixin.qq.com/s/nEiW40ftkp00rj3SiX2QSg" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1013197)">
+                <img src="images/weixintupian_20260409181302_447_29.jpg" alt="">
+            </a>
+        </div>
+        <div>
+            <a href="https://mp.weixin.qq.com/s/yCoYYW7-qE1pTqG6TvftNQ" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1013142)">
+                <img src="images/weixintupian_20260312114702_197_99_fuben.jpg" alt="">
+            </a>
+        </div>
+        <div>
+            <a href="https://mp.weixin.qq.com/s/HI-dpyZ5INVy29VczK2YmQ" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1013119)">
+                <img src="images/mncjnew.png" alt="">
+            </a>
+        </div>
+</div>
+
+
+<div class="banner-next">
+    <a href="sygush.htm">了解更多</a>
+    <img src="newfiles/images/banner-next.png" alt="下一张">
+</div>
+
+</div>
+
+    <div class="rr"><i></i></div>
+
+    <div class="body_r">
+        <div class="body_rscroll">
+            <div class="home1 screen">
+                <div class="home1-c">
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/centerCutImg.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="home1-l">
+    <div class="itit itit-w">
+        <div class="itit-text">
+            <div>
+                <p>TJU DATA</p>
+                <h3>北洋 · 数据</h3>
+                <b></b>
+            </div>
+        </div>
+        <div class="home-more" style="display:none;">
+            <a href="index/bysj.htm">更多</a>
+        </div>
+    </div>
+</div>
+<div class="home1-r">
+    <div class="slick">
+        <div>
+            <ul>
+                <li>
+                    <div>
+                        <a href="javascript:;">
+                            <div class="info">
+                                <b class="cnum">6482</b><span>人</span>
+                            </div>
+                            <p>博士研究生</p>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <a href="javascript:;">
+                            <div class="pics"><img src="newfiles/images/home1-icon1.png" alt=""></div>
+                        </a>
+                    </div>
+                </li>
+            
+                <li>
+                    <div>
+                        <a href="javascript:;">
+                            <div class="info">
+                                <b class="cnum">40277</b><span>人</span>
+                            </div>
+                            <p>全日制在校生</p>
+                        </a>
+                    </div>
+                </li>
+            
+                <li>
+                    <div>
+                        <a href="javascript:;">
+                            <div class="info">
+                                <b class="cnum">13</b><span>人</span>
+                            </div>
+                            <p>两院院士</p>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <a href="javascript:;">
+                            <div class="pics"><img src="newfiles/images/home1-icon2.png" alt=""></div>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <a href="javascript:;">
+                            <div class="pics"><img src="newfiles/images/home1-icon3.png" alt=""></div>
+                        </a>
+                    </div>
+                </li>
+            
+                <li>
+                    <div>
+                        <a href="javascript:;">
+                            <div class="info">
+                                <b class="cnum">19103</b><span>人</span>
+                            </div>
+                            <p>本科生</p>
+                        </a>
+                    </div>
+                </li>
+            
+                <li>
+                    <div>
+                        <a href="javascript:;">
+                            <div class="info">
+                                <b class="cnum">14692</b><span>人</span>
+                            </div>
+                            <p>硕士研究生</p>
+                        </a>
+                    </div>
+                </li>
+            
+                <li>
+                    <div>
+                        <a href="javascript:;">
+                            <div class="info">
+                                <b class="cnum">1895</b><span>年</span>
+                            </div>
+                            <p>中国第一所现代大学诞生</p>
+                        </a>
+                    </div>
+                </li>
+            
+            </ul>
+        </div>
+    </div>
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u12_75092','dynclicks_u12_75082','dynclicks_u12_75072','dynclicks_u12_75062','dynclicks_u12_75052','dynclicks_u12_75042'],[75092,75082,75072,75062,75052,75042],"wbnews", 2111843594)</script>
+</div>
+            </div>
+
+            <div class="home2 screen">
+                <div class="home2-c">
+                    <div class="home2-l">
+                        <div class="itit itit-w">
+                            <div class="itit-text">
+                                <div>
+                                    <p>TJU PERSONAGE</p>
+                                    <h3>北洋 · 人物</h3>
+                                    <b></b>
+                                </div>
+                            </div>
+                            <div class="home-more">
+                                <a href="xywh/whgs/zxrdgs.htm">更多</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="home2-r">
+
+
+
+
+
+<div class="slick">
+    <div>
+        <ul>
+                        <li>
+                <a href="info/1105/1480.htm" target="_blank">
+                    <div class="pics">
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5MRWC7Um62nzCsMQ7lsLlW7M7UbM4vqaUzGDLRTRUml8LRv0gihFp2hmCIa0USyaLkhRUYh7olUDLmf7Lz9PMNCiUmLDnNlYMRvaMR-iMzTFM478UNUbUmfFLlUsLNLJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                        </div>
+                        <div class="pic-info">
+                            <h3>盛宣怀</h3>
+                            <p>（1844～1916）</p>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <div>
+                            <p>非常之世，必有非常之人走非常之路，成非常之业，进而对社会发展起着新的促进作用。盛宣怀不仅是中国近代轮、电、矿、路四大产业的创办者，也为中国近代高等教育的发展做出了杰出贡献。作为官僚买办，他在天津为官20多年，对天津的社会进步和经济发展做出了不可磨灭的成就，他在天津创办了中国近代的第一所大学—北洋大学(天津大学)，开创了中国高等教育之先河，他创办了中国第一家电信企业—天津电报局，开创了中国电信的新纪元。盛宣怀(...</p>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="info/1105/1479.htm" target="_blank">
+                    <div class="pics">
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5M49CsU4CYLl7YLQmGYn7-Dn7UsnNCqsLzn7U4QkoRTfU4N0gihFp2hmCIa0okh2M1yaLShRM4TkUmQRoR-aLmQ7Mm-soRnfoz62nzLDo7rFLNn2MRWRnlVFLz9Dn7UJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                        </div>
+                        <div class="pic-info">
+                            <h3>丁家立</h3>
+                            <p>（1857～1930）</p>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <div>
+                            <p>王文韶奏折中向光绪皇帝推荐的北洋大学堂的总教习就是“美国人丁家立”。因为北洋大学堂是中国近代建立的第一所现代性质的大学，此前没有中国人办过大学，教育、教学如何管理，只有请具有经验的外国教育家来做。丁家立(Charles Daniel Tenney)，美籍著名教育家。1857年生于美国波士敦城。他在美国达特茅斯大学（Dartmauth University）毕业后，进入欧柏林大学研究院(Oberlin University Postgradnate School)，获得神学硕士学位。1882年丁家立来华，...</p>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="info/1105/1478.htm" target="_blank">
+                    <div class="pics">
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5L7lCZU8U4MmLaUQmCPMNnknRf2LNQqfo7LbnNlYL8rkM8-0gihFp2hmCIa0MkhfnkhfnSybLmNZMz9iozMRMzvZL8LDn7QkUmGZnzLsnmTFolW2UNLaUmrFLzNao7CJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                        </div>
+                        <div class="pic-info">
+                            <h3>王劭廉</h3>
+                            <p>（1866~1936）</p>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <div>
+                            <p>王劭廉（1866-1936），字少泉，天津人，祖居天津市河东，是中国近代著名教育家。王劭廉毕业于北洋水师学堂，毕业后被派往英国深造，学习造船工程。学成回国之后，仍返回北洋水师学堂任教，教授数学、英文等课程。后任教于北洋大学堂。1906年（清光绪三十二年）北洋大学堂总教习丁家立辞职，由王劭廉接任，总教习改称教务提调。王劭廉从1906年担任教务提调到1914年离开北洋大学，在北洋大学掌校9个年头，这是北洋大学堂治校办学之权由外国人手中归于中国人之始。...</p>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            </ul>
+            <ul>
+            <li>
+                <a href="info/1105/1477.htm" target="_blank">
+                    <div class="pics">
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5M7WC7L4ffoRlYnQmlDUNLDLl7inmQqfMl-8Mz7PL4-Yn770gihFp2hmCIa0okyPnkh2nkyDU4CbozLYMRrfLmrRU4vYol78LmNYnz9PM4rFM4-4Mz-sMNrFnzUYUYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png);"></div>
+                        </div>
+                        <div class="pic-info">
+                            <h3>赵天麟</h3>
+                            <p>（1886~1938）</p>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <div>
+                            <p>赵天麟是我国近代著名的爱国教育家。1904年入北洋大学法律系学习，1906年留学美国哈佛大学法律科，后获法律博士学位，1914年被任命为国立北洋大学校长。赵天麟执掌北洋大学六年，继承和发扬了北洋大学严谨求实的校风，并提炼出“实事求是”的校训，一直延续至今，为北洋大学的建设和发展做出了杰出的贡献。赵天麟，字君达，1886年7月16日出生于天津梁家嘴，其家是该地方历史上颇有名望的四个家族之一。赵天麟少年聪敏，性格沉静，自幼喜爱读书。...</p>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="info/1105/1476.htm" target="_blank">
+                    <div class="pics">
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5LR9CaU8-Zo77DMQz6fnNQfMRCio7LqsLlLZo7LboRUio770gihFp2hmCIa0LSyPM1hRoky8nm7sM7nRnm-bU4NbnzNYMlCanmAVMm6kL7rFLzUbUlUDLmAFUmGsnSbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png);"></div>
+                        </div>
+                        <div class="pic-info">
+                            <h3>李书田</h3>
+                            <p>（1900~1988）</p>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <div>
+                            <p>李书田，字耕砚，河北省卢龙县新房子村现已划归为昌黎县人；1900年2月10日，出生于当地的名门世家；1917年考入国立北洋大学预科，1919年升入本科。他在校时的学期成绩、学年成绩、毕业成绩均独占鳌头，在北洋传为佳话。1923年，他以优异成绩毕业，荣膺“中国斐陶斐励学会会员”，并考取了官费赴美康乃尔大学研究生院深造，继续攻读土木工程专业。在康乃尔大学，他各科平均成绩在99.5分以上，成绩之优为中国派遣留学生以来的第一人。...</p>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="info/1105/1475.htm" target="_blank">
+                    <div class="pics">
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5oRNCYM4TfnzGDnQlUDLzUbnz78MmWqfoRGiMNCPLl-YMz70gihFp2hmCIa0UYy8U1yYU1yaMNrfM7WkoRC8U4Q2UmGiL4-aozn2LmrVU4MFL7M7MRLaMmfFnRl4UYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png);"></div>
+                        </div>
+                        <div class="pic-info">
+                            <h3>冯熙运</h3>
+                            <p>（1886~1951）</p>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <div>
+                            <p>冯熙运，字仲文，我国实业家、文史学家。1886年生于天津冯氏望族。冯自幼聪慧勤学，在家塾读书，后因为目睹国难，有志于西学。1905年考入北洋大学堂，攻读法律。1907年由北洋大学堂派送，远渡重洋，赴美留学，同行中还有马寅初等人。到美后，冯熙运先入哈佛法律系，毕业后考入芝加哥大学研究院，先后获得法学学士和法学博士学位。1911年学成归国，曾任直隶省检察厅检察官，因不善于官场应酬而辞职，转而应聘北洋大学教书，与同为留美学习法律的赵天麟同事。...</p>
+                        </div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u13_1480','dynclicks_u13_1479','dynclicks_u13_1478','dynclicks_u13_1477','dynclicks_u13_1476','dynclicks_u13_1475'],[1480,1479,1478,1477,1476,1475],"wbnews", 2111843594)</script>
+</div>
+                </div>
+            </div>
+
+            <div class="home3 screen">
+
+
+
+
+
+<div class="home3-c">
+    <div class="home3-l">
+        <div class="itit itit-w">
+            <div class="itit-text">
+                <div>
+                    <p>TJU HISTORY</p>
+                    <h3>北洋 · 史苑</h3>
+                    <b></b>
+                </div>
+            </div>
+            <div class="home-more">
+                <a href="tdgk/lsyg.htm">更多</a>
+            </div>
+        </div>
+    </div>
+    <div class="home3-r">
+        <div class="slick">
+            <ul>
+                <li>
+                    <a href="info/1040/1158.htm" target="_blank">
+                        <div class="cnum"><b>一八九五</b></div>
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5UzfCkozT7MmAfnQRN8MzvbnlLZMlnq7nln2MmrknzT7Mm90gihFp2hmCIa0MSh2okyPL1hVUzMVMzCanNl4nmQfnzMkM8-YnR6RUmCiLlQFozWfLzl4LlWFolVkL1b/v2rjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpeg);"></div>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <h3>中国第一所现代大学</h3>
+                            <p>1895年，天津海关道盛宣怀上书，禀请光绪皇帝设立北洋大学堂，10月2日，光绪皇帝下旨钦准。我国近代自己创办的第一所现代大学诞生</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="info/1040/1157.htm" target="_blank">
+                        <div class="cnum"><b>一九零零</b></div>
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5ozfCRMzNinRNZLQNlboRTRM8Qknl7qboRWkoRA2oR7Yn7-0gihFp2hmCIa0Mkh2MkhRn1y4Mm7PozVVLzr2MNUPUzN8M8LPMNrVnRL8M8nFMzfVL8LsL8nFUz9ZLkb/v2rjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpeg);"></div>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <h3>中国第一张大学文凭（钦字第一号）</h3>
+                            <p>1899年，北洋大学第一届学生毕业。1900年，由北洋通商大臣堂裕颁发“钦字壹号”即中国第一张大学毕业文凭，获得者是法科学生王宠惠</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="info/1040/1156.htm" target="_blank">
+                        <div class="cnum"><b>一九零零</b></div>
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5oR9C4LzlDLm67UQN7Yn77ZnzlaUmlqDU8WfL7QfozlPMz90gihFp2hmCIa0okybMYyPMYhfMlCYUzrVUl7DL7-sLNW7UzVVnzlbnR-PMzQFLmGDLl7PM7WFozWfLkb/v2rjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpeg);"></div>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <h3>北洋大学堂被迫停办</h3>
+                            <p>1900年，八国联军攻占天津，北洋大学堂校舍被德军占据，学堂被迫停办</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="info/1040/1155.htm" target="_blank">
+                        <div class="cnum"><b>一九零三</b></div>
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5n7nCfUl78U8U8MQRWkLRNZollbUNWqfozAkU4LPLllYozG0gihFp2hmCIa0USysLkyiUSh7M4MkU4Q7oR6kMz7sL7C4LlLPozV7nmUiozQFnmCYolCbnzrFo7U8L1b/v2rjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpeg);"></div>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <h3>校址迁至天津西沽武库</h3>
+                            <p>1903年4月，北洋大学堂在西沽武库新校址复校</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="info/1040/1154.htm" target="_blank">
+                        <div class="cnum"><b>一九零三</b></div>
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5ozQCRol74Mll8oQzvYLznVL4-DL8lqPnlQ7oRNiMRGYL4v0gihFp2hmCIa0oShkU1h7okhRL7UbMmQkMRC4nzUsMz62nl-sL4UiLNrkU8rFMmUbnzT2L4VFUlnkLkb/v2rjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpeg);"></div>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <h3>北洋大学堂第一批毕业生留学美国</h3>
+                            <p>1903年，北洋大学堂选派第一批毕业生留学美国</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="info/1040/1153.htm" target="_blank">
+                        <div class="cnum"><b>一九一零</b></div>
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5ozVC2M4LPoll8MQmU8oln2L7rfM7UqDUlQ2UmLDnNUZo7U0gihFp2hmCIa0MkyZM1hRnSyDMRnkMzTknNWko7LYUm7DMN7DMRVknmQ7UmfFMNnkMm9aM46FL8lYn1b/v2rjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpeg);"></div>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <h3>北洋大学学生冯熙敏获殿试第一名</h3>
+                            <p>1910年，宣统皇帝御批会考全国毕业生，并进行殿试嘉奖，北洋大学土木工程学门学生冯熙敏，获会考第一名</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="info/1040/1152.htm" target="_blank">
+                        <div class="cnum"><b>一九一二</b></div>
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5UzvCiL4UbnNUiMQ8CPMmTVM4TfMNLqan7UZUzGaL8CYLzU0gihFp2hmCIa0USyDMkyiMSysUl7aU874n7MkU4-8M4vaUl7aU4TkUzA2nRfFn7-PL8M7nlVFUz9PM1b/v2rjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpeg);"></div>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <h3>北洋大学堂改称北洋大学校</h3>
+                            <p>1912年，北洋大学堂依据国民政府教育部令改称北洋大学校</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="info/1040/1151.htm" target="_blank">
+                        <div class="cnum"><b>一九一三</b></div>
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5M4nC7Lz6RoRLanQmvPL7CYLm7bLmCqPU49sUl7iL4CZUNC0gihFp2hmCIa0nkybUYyDoky8UzrfL7C4n7nfMNlbnR6kLRVfMRNsLNLbnmfFnl7YnRQRM4QFUzlPokb/v2rjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpeg);"></div>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <h3>北洋大学校奉令改称国立北洋大学</h3>
+                            <p>1913年，北洋大学校奉令改称国立北洋大学</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="info/1040/1150.htm" target="_blank">
+                        <div class="cnum"><b>一九一五</b></div>
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5MzWCfL4LbM8QkUQNlYLmNiUNr2UmQqkMmAVnNl8Lm6RM490gihFp2hmCIa0LkysMYhfokybUl-bnNCaMz67nRWRM8VRU8QkUzGZLRLPozMFLllaLzNDnlMFMzL8oSb/v2rjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpeg);"></div>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <h3>赵天麟校长颁布校训：“实事求是”</h3>
+                            <p>1915年，赵天麟校长颁布校训：“实事求是”</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="info/1040/1149.htm" target="_blank">
+                        <div class="cnum"><b>一九二零</b></div>
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5nzlCiMmNZLm7DnQNCDMlVfoRVfMm-qZMRN8Lz9YLz-iLzl0gihFp2hmCIa0U1hRMYhVLYhVoRCZMzLbUNrfLz-iLRvaUm9ZnRT7MRr2UznFoRvboz-YLmQFoz6kokb/v2rjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpeg);"></div>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <h3>北洋大学进入专办工科时代</h3>
+                            <p>1920年，北洋大学法科停办（法科调入北京大学），改为专办工科</p>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u14_1158','dynclicks_u14_1157','dynclicks_u14_1156','dynclicks_u14_1155','dynclicks_u14_1154','dynclicks_u14_1153','dynclicks_u14_1152','dynclicks_u14_1151','dynclicks_u14_1150','dynclicks_u14_1149'],[1158,1157,1156,1155,1154,1153,1152,1151,1150,1149],"wbnews", 2111843594)</script>
+</div>
+
+            <div class="home4 screen">
+                <div class="home4-c">
+                    <div class="home4-l">
+                        <div class="itit">
+                            <div class="itit-text">
+                                <div>
+                                    <p>TJU DIARY</p>
+                                    <h3>天大 · 日记</h3>
+                                    <b></b>
+                                </div>
+                            </div>
+                            <div class="home-more">
+                                <a href="javascript:;">更多</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="home4-r">
+                        <div class="home4-rl"><div class="home4-rlpic">
+    <div class="pic">
+        <div style="background-image: url(newfiles/images/home4-pic.jpg);"></div>
+    </div>
+</div>
+
+<div class="hdate-mouth">
+    <div class="hdate-list">
+        <ul>
+                <li class="on"><a href="index/tdrj/yy.htm">一月</a></li>
+                <li><a href="index/tdrj/ey.htm">二月</a></li>
+                <li><a href="index/tdrj/sy.htm">三月</a></li>
+                <li><a href="index/tdrj/sy1.htm">四月</a></li>
+                <li><a href="index/tdrj/wy.htm">五月</a></li>
+                <li><a href="index/tdrj/ly.htm">六月</a></li>
+                <li><a href="index/tdrj/qy.htm">七月</a></li>
+                <li><a href="index/tdrj/by.htm">八月</a></li>
+                <li><a href="index/tdrj/jy.htm">九月</a></li>
+                <li><a href="index/tdrj/sy2.htm">十月</a></li>
+                <li><a href="index/tdrj/syy.htm">十一月</a></li>
+                <li><a href="index/tdrj/sey.htm">十二月</a></li>
+        </ul>
+    </div>
+</div>
+
+</div>
+                        <div class="home4-rr">
+                            <div class="hdata-rlist">
+                                <div class="slick">
+                                    <ul>
+
+
+
+
+
+    <li class="on">
+        <a href="info/4412/76282.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>1月5日</h3>
+            <p>1912年1月5日，年仅30岁的北洋大学知名校友法科毕业生中国第一张大学文凭的获得者王宠惠经孙中山提名，被正式任命为南京临时政府外交总长。民国时期，王宠惠一直身居政坛要职，抗战时期任战时国家权力中枢（国防最高委员会）秘书长。他是中国第一位海牙国际法庭大法官。在华盛顿会议上为中国成功收回胶济铁路和山东主权进行了有理、有力、有节的斗争；开罗会议上，为中国收回台湾提供了法律保证。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4412/76272.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>1月4日</h3>
+            <p>1946年1月，国民政府决定恢复国立北洋大学。抗战胜利后，在以杰出校友王宠惠为代表的各界校友的努力下，国立北洋大学终于在天津西沽“复员”。“三工联理”的学校陆续回到西沽旧址复核。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4412/76262.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>1月3日</h3>
+            <p>1936年1月3日，时任陕西省政府主席的邵力子向国民政府行政院提议将国立北洋工学院西移至西安，以之为西北地区大学之基本。此前邵力子也曾向行政院建议“请将北平四所大学迁移一所进陕”，用以“作高深之培养”，“应事实上之需要”。此举可追溯为北洋工学院迁陕办学的源头。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4412/76252.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>1月2日</h3>
+            <p>1936年1月2日，由北洋工学院学生担任团长的“平津南下扩大宣传团”四团从天津出发，沿平汉路南下，深入到农村扩大抗日宣传。扩大宣传团由平津学生组成，多为“一二·九”爱国运动中的积极分子。四团由北洋工学院、河北法商学院组成。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4412/76242.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>1月1日</h3>
+            <p>1947年1月1日，北洋大学学生因抗议美军暴行，会同其他在津院校学生举行了声势浩大的游行示威，选派代表面见时任天津市长递交抗议书，并向美军驻津司令部表示抗议。“美国佬滚回家去”、“严惩美军暴徒”的愤怒呼声震撼津门上空，众多师生联合签名拒绝美国救济援助。</p>
+        </a>
+    </li>
+
+
+<script>_showDynClickBatch(['dynclicks_u16_76282','dynclicks_u16_76272','dynclicks_u16_76262','dynclicks_u16_76252','dynclicks_u16_76242'],[76282,76272,76262,76252,76242],"wbnews", 2111843594)</script>
+</ul>
+                                    <ul>
+
+
+
+
+
+    <li class="on">
+        <a href="info/4422/76302.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>2月2日</h3>
+            <p>1937年2月，北洋工学院院长李书田拟具《国立北洋大学筹备缘起及分期完成计划》，计划由八个阶段将彼时的北洋工学院逐步建设成为具有基本文理学院与工、医、法三个专门学术职业学院之综合大学，从而恢复“北洋大学”之称谓。北洋大学筹委会第一次会议审议通过了此计划，并由主任委员王宠惠递交国民政府。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4422/76292.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>2月1日</h3>
+            <p>1948年2月1日，我国近代水利事业的开拓者、水利学家张含英正式就任北洋大学校长，全校师生欢欣鼓舞，乘车到火车站欢迎张含英校长的到来。张含英来校不久，教育部拨来教育经费，北洋学府重现生机。</p>
+        </a>
+    </li>
+
+
+<script>_showDynClickBatch(['dynclicks_u17_76302','dynclicks_u17_76292'],[76302,76292],"wbnews", 2111843594)</script>
+</ul>
+                                    <ul>
+
+
+
+
+
+    <li class="on">
+        <a href="info/4432/76332.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>3月7日</h3>
+            <p>2010年3月7日，教育部和天津市人民政府共同签署了《教育部天津市人民政府共建天津大学、南开大学新校区框架协议》。按照协议，天南大新校区建设由教育部、天津市及两校共同筹资，教育部和天津市将加大支持力度。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4432/76342.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>3月6日</h3>
+            <p>1919年3月6日，北洋大学校长、爱国教育家赵天麟呈请直隶省长发还北洋大学旧址博文书院。博文书院于1900年庚子之乱时为德军所占，后有德国侨民在该地建立德华学校。第一次世界大战后，德国作为战败国在天津的租界被收回，侨民被遣送回国。赵天麟校长因此呈文要求将博文书院旧址发还。3月15日，直隶省长曹锐对此事进行了批复。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4432/76322.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>3月2日</h3>
+            <p>1896年3月，天津大学堂在上海《申报》、《新闻报》登招考天津大学堂学生“告白”，昭告社会各界，学堂招收学生情况以及对考生的要求。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4432/76312.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>3月1日</h3>
+            <p>1932年3月1日，天津市中等以上学校学生组成抗日救国会，为督促政府及地方军事当局，立即出兵收复东北失地，发表《告华北民众书》。</p>
+        </a>
+    </li>
+
+
+<script>_showDynClickBatch(['dynclicks_u18_76332','dynclicks_u18_76342','dynclicks_u18_76322','dynclicks_u18_76312'],[76332,76342,76322,76312],"wbnews", 2111843594)</script>
+</ul>
+                                    <ul>
+
+
+
+
+
+    <li class="on">
+        <a href="info/4442/76712.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>4月6日</h3>
+            <p>1949年4月，北洋大学在西沽原址正式开学复课，“准备负担起建设新中国的任务”。天津解放前夕，在中共北洋大学地下党组织领导下，北洋师生坚决护校，仪器设备、图书资料等完整无损。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4442/76702.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>4月5日</h3>
+            <p>1948年4月5日，北大、清华、北平师院、南开、北洋、燕京、中法等华北七大学校发表《发饥饿反迫害罢课宣言》，抗议政府当局非法查禁华北学联，迫害学生；要求提高教育经费，提高教职员工待遇，给予国立学校学生全面公费，补助私立大中学校经费，增设奖学金。1986年4月5日，国务院总理李鹏视察天津大学，为学校题词“实事求是，以严治校”。2005年4月5日，中共中央政治局常委、全国政协主席贾庆林到天津大学视察。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4442/76692.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>4月4日</h3>
+            <p>1948年，国民党反动派严厉镇压学生运动，下令查禁由平津9所大学学生组建的华北学联。1948年4月4日，北洋大学自治会邀请各校来校春游“看桃花”，并召开群众集会，展开反迫害斗争，保护华北学联。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4442/76682.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>4月3日</h3>
+            <p>1938年4月3日，国民政府行政院第350次会议通过了《平津沪地区专科以上学校整理方案》，令国立西安临时大学改名为国立西北联合大学。《方案》规定：“国立北平大学、国立北平师范大学及国立北洋工学院，现为发展西北高等教育，提高边省文化起见，拟令该校院逐渐向西北陕甘一带移布，并改称为国立西北联合大学。”</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4442/76672.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>4月2日</h3>
+            <p>1948年4月2日，北大、清华、北平师院、中法大学、燕京、南开、北洋七校学生代表为反对查禁华北学联及逮捕学生，到北平请愿要求收回查禁华北学联的命令。请愿无结果。1997年4月2日，天津大学召开“211工程”建设项目实施启动动员大会。从此，天津大学以学科建设为龙头，以人才培养、科学研究为主线，以队伍建设为保障的“211工程”建设全面启动。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4442/76662.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>4月1日</h3>
+            <p>2008年4月1日，天津大学航空航天研究院正式成立。该研究院的成立为发挥天津大学强势学科的交叉优势，培养适应我国“空天”事业发展的高端科技人才提供了条件。</p>
+        </a>
+    </li>
+
+
+<script>_showDynClickBatch(['dynclicks_u19_76712','dynclicks_u19_76702','dynclicks_u19_76692','dynclicks_u19_76682','dynclicks_u19_76672','dynclicks_u19_76662'],[76712,76702,76692,76682,76672,76662],"wbnews", 2111843594)</script>
+</ul>
+                                    <ul>
+
+
+
+
+
+    <li class="on">
+        <a href="info/4452/76762.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>5月5日</h3>
+            <p>1936年5月，北洋学生参加天津学生反对日本增兵华北的抗日救亡大示威。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4452/76752.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>5月4日</h3>
+            <p>1919年5月4日，五四运动爆发，北洋大学师生走上街头积极参加反帝反封建运动。5日，北洋大学学生发出三份电报声援北京学生。6日，北洋大学致电巴黎和会中国专使，望其力持到底，不获所愿，不签合约。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4452/76742.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>5月3日</h3>
+            <p>2013年5月，位于天津西沽的北洋大学堂原址成为全国重点文物保护单位。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4452/76732.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>5月2日</h3>
+            <p>1938年5月2日，国立西北联合大学（由西迁入陕的国立北洋工学院、国立北平大学、国立北平师范大学和北平研究院合组的西安临时大学更名而来）陕西省城固县正式开学，下设6个学院，23个系。国立西北联合大学在保存中华民族文化命脉的同时，肩负起开发西北地区经济及教育的使命。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4452/76722.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>5月1日</h3>
+            <p>1935年5月，北洋工学院院务会议修正通过的《国立北洋工学院学则》，充分体现了对学生的严格要求及宁缺毋滥的精神。此学则共分9章53条51款。</p>
+        </a>
+    </li>
+
+
+<script>_showDynClickBatch(['dynclicks_u20_76762','dynclicks_u20_76752','dynclicks_u20_76742','dynclicks_u20_76732','dynclicks_u20_76722'],[76762,76752,76742,76732,76722],"wbnews", 2111843594)</script>
+</ul>
+                                    <ul>
+
+
+
+
+
+    <li class="on">
+        <a href="info/4462/76522.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月18日</h3>
+            <p>1947年6月18日，国际奥委会在斯德哥尔摩举行的第40次会议，在北洋大学杰出校友、中国第一位国际奥委会委员王正廷的极力推荐下，董守义被选为国际奥委会委员。董守义为发展新中国奥林匹克运动和我国国际奥委会合法席位的恢复作出了贡献。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76512.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月17日</h3>
+            <p>2015年6月17日，值天津大学纪念张太雷诞辰117周年之际，天津大学法学院成立。至此，天津大学（北洋大学）1895建校时设立的四学门之一，我国最早的法学高等教育专业，在经历120周年风雨后，得以重建。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76502.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月16日</h3>
+            <p>1929年6月16日，天津北洋同学会成立，这是北洋大学最早的校友会。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76492.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月15日</h3>
+            <p>2014年6月15日，天津大学药学院名誉院长沈家祥院士捐资100万，设立“沈家祥教育基金”，资助药学院师生开展创新性研究。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76482.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月14日</h3>
+            <p>2009年6月，天津大学冯骥才文学艺术研究院建设的我国第一家非物质文化遗产保护数据中心——中国民间文化遗产抢救工程文献数据库面世。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76472.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月13日</h3>
+            <p>1937年6月13日北洋工学院院长李书田完成《写给全国同学》一文，号召北洋同学勉力添建母校礼堂、体育馆及教授住宅。文中精要地指出了北洋办学的首要任务，“我们现在办学，第一要注重学生的精神训练。第二，要竭力延罗教授人才。第三,要撙节一般用费，特别省出大量的校款用于充实设备。第四,待校舍不敷用时，正需要勉力添建。”</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76462.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月12日</h3>
+            <p>1945年6月，国民政府教育部令泰顺北洋工学院归并浙江英士大学，因遭到学院师生的抵制，未果。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76452.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月11日</h3>
+            <p>1949年6月，华北人民政府设立华北高等教育委员会，原属天津军事管制委员会文化教育部领导的北洋大学、南开大学归华北人民政府高等教育委员会领导，由天津市军管会文教部指导和管理。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76442.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月10日</h3>
+            <p>1934年6月10日，国立北洋工学院奉教育部令，设立理工研究所，下设化学部、地质学部、工程材料部、土木工程部、矿冶工程部、机械工程部、电机工程部、飞机工程部等8个研究部门。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76432.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月9日</h3>
+            <p>1984年6月9日，国务院批复教育部《关于在部分全国重点高等院校试办研究生院的请示报告》，天津大学获批成为首批二十二所试点的重点院校之一。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76422.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月8日</h3>
+            <p>1935年6月8日，北洋工学院自制无线电发报小型机试验成功。自制的无线电发报小型机重不足十磅，出力仅二瓦特，经试验声音宏大，可正常工作。它的研制成功标志着北洋的无线电研究事业迈上新台阶。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76412.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月7日</h3>
+            <p>1906年6月7日，北洋大学堂总教习、美籍教育家丁家立（Charles Daniel Tenney）带领北洋大学堂学生40余人由天津启程取道上海赴美留学，开创了中国高等教育史上整班出国研修的先例。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76402.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月6日</h3>
+            <p>2005年6月6日，经过中国集邮总公司中国邮政总局批准，教育部认可的天津大学 “中国著名高等院校纪念封”公开向社会发行。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76392.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月5日</h3>
+            <p>1911年（宣统三年）6月5日，直隶总督陈夔龙上奏折《奏为请奖北洋大学堂办学出力各员事折》，阐述北洋大学办学之不易及现已取得之成就，奏请给奖于北洋大学出力各员，获准。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76382.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月4日</h3>
+            <p>1997年6月4日，以北洋著名校友、我国早期无产阶级革命家张太雷的名字命名的奖学金在天津大学设立。由张太雷烈士的亲属捐资10万元，用以奖励优秀学生党、团员以及张太雷荣誉班集体奖获得者。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76372.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月3日</h3>
+            <p>1934年6月3日,天津《益世报》报道：“北洋工学院招收二百五十名新生。本市河北国立北洋工学院，为培养工程技术人才起见，以最低之教育经费，造就大多数的工程人才，特于下学期招收本一新生二百五十名，计土木工程八十名，机械工程四十五名，采冶工程四十五名，电机械工程四十名，建筑工程四十名，并于本市、北平、上海三处，分别招考。”</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76362.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月2日</h3>
+            <p>1951年6月2日，中央教育部部长马叙伦签发教育部（51）高三字第533号文件，决定将北洋大学与河北工学院合并，自1951年8月1日起正式成立新校，校名拟定为天津大学。1993年6月2日，系统工程专家李光泉任天津大学校长。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4462/76352.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>6月1日</h3>
+            <p>1927年6月1日，由北洋大学学生会主办的《北洋周刊》创刊号发行。其目的在于：“刊物是要随便谈谈我们的所学和说一说我们自己要说的话，是要把资格最老、名望最著的北洋毫不隐蔽地、赤裸裸地实写出来，以供社会上欲明了北洋者参考。”</p>
+        </a>
+    </li>
+
+
+<script>_showDynClickBatch(['dynclicks_u21_76522','dynclicks_u21_76512','dynclicks_u21_76502','dynclicks_u21_76492','dynclicks_u21_76482','dynclicks_u21_76472','dynclicks_u21_76462','dynclicks_u21_76452','dynclicks_u21_76442','dynclicks_u21_76432','dynclicks_u21_76422','dynclicks_u21_76412','dynclicks_u21_76402','dynclicks_u21_76392','dynclicks_u21_76382','dynclicks_u21_76372','dynclicks_u21_76362','dynclicks_u21_76352'],[76522,76512,76502,76492,76482,76472,76462,76452,76442,76432,76422,76412,76402,76392,76382,76372,76362,76352],"wbnews", 2111843594)</script>
+</ul>
+                                    <ul>
+
+
+
+
+
+    <li class="on">
+        <a href="info/4472/76572.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>7月5日</h3>
+            <p>1957年7月5日，《人民日报》发表了北洋著名校友，中国当代经济学家、教育学家、人口学家马寅初根据在浙江、上海等地进行的人口调查和我国国情总结出来的科学预见——《新人口论》。马寅初于1903年考入北洋大学矿冶学门，后经北洋大学选派公费赴美留学，改修经济学，先后获得耶鲁大学经济学硕士学位和哥伦比亚大学经济学博士学位，对我国的经济、教育及人口方面贡献卓著。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4472/76562.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>7月4日</h3>
+            <p>1952年7月起，全国高校开始了大规模的院系调整。经过此次院系调整，天津大学化工、建筑等学科虽然得到了加强，大批传统的优势学科被调出，比如整个理学院以及工学院中具有50多年历史的采矿系、地质系和冶金系，它们充实和建立了一批大学，哺育了蹒跚起步的新中国高等教育。天津大学从一所理工结合的大学，转变为新型的多科性工业大学，是当时全国规模最大的多科性工业大学之一。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4472/76552.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>7月3日</h3>
+            <p>1914年，由北洋大学法律学门乙班毕业生贾文范翻译的中译本《罗马法》出版，是现存我国第一部《罗马法》翻译著作。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4472/76542.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>7月2日</h3>
+            <p>1934年夏，民国教育部据视察报告，对北洋工学院飞机发动机制造研究，多有所奖勉，并令设法成立航空工程学系。1935年9月，国民政府教育部批准国立北洋工学院机械工程系设立航空工程组。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4472/76532.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>7月1日</h3>
+            <p>1928年7月，南北统一，试行北平大学区制，国立北洋大学与平津各大学一道归并北平大学，改称国立北平大学第二工学院。</p>
+        </a>
+    </li>
+
+
+<script>_showDynClickBatch(['dynclicks_u22_76572','dynclicks_u22_76562','dynclicks_u22_76552','dynclicks_u22_76542','dynclicks_u22_76532'],[76572,76562,76552,76542,76532],"wbnews", 2111843594)</script>
+</ul>
+                                    <ul>
+
+
+
+
+
+    <li class="on">
+        <a href="info/4482/76602.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>8月3日</h3>
+            <p>1939年8月，国民政府教育部部长陈立夫提请行政院审议创办西康高等学校，行政院批准在西昌创办国立西康技艺专科学校。国民政府教育部聘请李书田博士为该校筹备主任，嗣复聘为校长。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4482/76592.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>8月2日</h3>
+            <p>2013年8月2日，党的群众路线教育实践活动开展期间，教育部部长、党组书记袁贵仁来到天津大学，听取学校对教育部“四风”方面的意见，听取了天津大学党委书记刘建平作关于天津大学开展党的群众路线教育实践活动进展情况的报告。他说：天津大学是中国第一所大学、是当代中国最好的大学之一。在天津大学118年的发展历程中，积累了丰富的历史底蕴。特别是改革开放以来，在国家和天津市的支持下，锐意改革，成绩突出。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4482/76582.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>8月1日</h3>
+            <p>1985年8月1日天津大学为纪念著名校友张太雷烈士，在新落成的北洋广场建立张太雷烈士半身铜像，铜像底座四周镌刻着徐向前、聂荣臻、胡耀邦的题词。张太雷(1898—1927)，江苏常州人。1915年入北洋大学预科。1916年入北洋大学法科。中国共产党早期的重要领导人之一，中国社会主义青年团的创始人之一和青年运动的卓越领导人。1927年12月，担任广州起义总指挥，不幸牺牲，时年29岁。母校天津大学保存了他于1920年6月获得的毕业证书。</p>
+        </a>
+    </li>
+
+
+<script>_showDynClickBatch(['dynclicks_u23_76602','dynclicks_u23_76592','dynclicks_u23_76582'],[76602,76592,76582],"wbnews", 2111843594)</script>
+</ul>
+                                    <ul>
+
+
+
+
+
+    <li class="on">
+        <a href="info/4492/76642.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>9月4日</h3>
+            <p>1923年9月4日，北洋大学新宿舍落成。北洋大学原校址位于天津北运河畔大营门博文书院旧址。1900年，八国联军入侵津京，学堂校舍为敌兵所霸占，设备、文档案卷遭毁坏，学校被迫停办， 1903年4月于西沽武库正式复课，学生宿舍原系武库改称，设施欠佳，1923年夏始建筑大楼一幢用于学生宿舍。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4492/76632.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>9月3日</h3>
+            <p>1984年9月，天津大学试行优异生选拔制度，综合培养优秀学生，以适应面向现代化、面向世界、面向未来的人才培养要求。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4492/76622.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>9月2日</h3>
+            <p>1934年9月2日，《北洋周刊》刊登《国立北洋工学院工科研究所招考研究生简章》。</p>
+        </a>
+    </li>
+    <li>
+        <a href="info/4492/76612.htm" target="_blank">
+            <span>2025年06月16日</span>
+            <h3>9月1日</h3>
+            <p>1919年9月1日，北洋大学添设工科冶金学门，其设备经常费用均自法科节省项下动支。由此，采矿冶金学门分为采矿与冶金两学门。</p>
+        </a>
+    </li>
+
+
+<script>_showDynClickBatch(['dynclicks_u24_76642','dynclicks_u24_76632','dynclicks_u24_76622','dynclicks_u24_76612'],[76642,76632,76622,76612],"wbnews", 2111843594)</script>
+</ul>
+                                    <ul>
+
+
+
+
+
+
+
+
+</ul>
+                                    <ul>
+
+
+
+
+
+
+
+
+</ul>
+                                    <ul>
+
+
+
+
+
+
+
+
+</ul>
+                                </div>
+                            </div>
+                            <div class="pubarr2">
+                                <div class="parr-prev"></div>
+                                <div class="parr-next"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="home5 screen">
+                <div class="home5-c">    <div class="home5-l">
+    <div class="itit itit-w">
+        <div class="itit-text">
+            <div>
+                <p>TJU COLLECTION</p>
+                <h3>北洋 · 馆藏</h3>
+                <b></b>
+            </div>
+        </div>
+        <div class="home-more" style="display:none;">
+            <a href="javascript:;">更多</a>
+        </div>
+    </div>
+</div>
+<div class="home5-r">
+    <div class="home5-rl">
+                    <div class="home5-rlt">
+                <div class="pic">
+                    <div style="background-image: url(newfiles/images/home5-pic1.jpg);"></div>
+                </div>
+                <a href="https://home.lib.tju.edu.cn/" class="home-link">
+                    <h3>图书馆</h3>
+                </a>
+            </div>
+            <div class="home5-rlb">
+                <div class="pic">
+                    <div style="background-image: url(newfiles/images/home5-pic2.jpg);"></div>
+                </div>
+                <ul>
+                    <li></li>
+                <a href="https://fjcxy.tju.edu.cn/" class="home-link">
+                    <h3>冯骥才文学艺术研究院</h3>
+                </a>
+                </ul>
+            </div>
+        </div>
+        <div class="home5-rr">
+            <div class="home5-rrt">
+                <div class="pic">
+                    <div style="background-image: url(newfiles/images/home5-pic3.jpg);"></div>
+                </div>
+                <a href="https://dag.tju.edu.cn/" class="home-link">
+                    <h3>档案馆</h3>
+                </a>
+            </div>
+            <div class="home5-rrb">
+                <div class="pic">
+                    <div style="background-image: url(newfiles/images/home5-pic4.jpg);"></div>
+                </div>
+                <a href="https://wk.lib.tju.edu.cn/" class="home-link">
+                    <h3>天大文库</h3>
+                </a>
+            </div>
+    </div>
+</div></div>
+            </div>
+        </div>
+        <div class="ll"><a>首页</a></div>
+        <div class="nav_b icony">
+            <div class="list">
+                <div class="item now "><span>数据</span></div>
+                <div class="item"><span>人物</span></div>
+                <div class="item"><span>史苑</span></div>
+                <div class="item"><span>天大日记</span></div>
+                <div class="item"><span>馆藏</span></div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="index">
+
+        <div class="s1">
+            <div class="w1520">
+                <div class="s1-c md">
+                    <div class="s1-l">
+                        <div class="itit"><div class="itit-text">
+    <div class="wow fadeInLeft">
+        <p>TJU News</p>
+        <h3>天大要闻</h3>
+        <b></b>
+    </div>
+    <ul class="hd">
+        <li class="on wow fadeInUp"><a href="">综合新闻</a></li>
+        <li class="wow fadeInUp"><a href="">学术科研</a></li>
+        <li class="wow fadeInUp"><a href="">人才培养</a></li>
+        <li class="wow fadeInUp"><a href="">校园时讯</a></li>
+    </ul>
+</div>
+
+<div class="itit-more wow fadeInUp">
+    <a href="http://news.tju.edu.cn/" target="" class="on">查看更多</a>
+    <a href="https://news.tju.edu.cn/xw/xsky.htm" target="">查看更多</a>
+    <a href="https://news.tju.edu.cn/xw/rcpy.htm" target="">查看更多</a>
+    <a href="https://news.tju.edu.cn/xw/xysx.htm" target="">查看更多</a>
+</div></div>
+                    </div>
+                    <div class="s1-r bd">
+                        <div class="on">
+
+
+
+
+
+<ul class="wow fadeInUp">
+            <li>
+            <a href="info/1028/80382.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5oRlCaUl-sMm9iUQzUbnRWfU8l8oz7q4Lm7DUm9boRC8oRN0gihFp2hmCIa0n1yDokyDMShRLzA2MmLZUNWRLlU8L8WVoRfkn77inl78L4AFolWRLm-4nznFL4nfU4NJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>习近平给天津大学全体师生回信强调 聚焦国家重大战略需求提高人才培养质量 更好服务经济社会发展</h3>
+                    <span>2025.10.02</span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1003/597649.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5nmnCkMmWfnlLioQ7LaLlVfnR-Zn77q4olLbLznRL4WfUl-0gihFp2hmCIa0MYyZLkysokyDM7VfnlW7U4vDnz9YLz7bU4GiLNWVMm7bnz6FU4AVo7lbnmAFMNrVLl7Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                </div>
+                <div class="info">
+                    <h3>科创中国 天大有个“宣怀方案”——写在天开园运行三周年</h3>
+                    <span>2026.05.19</span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1003/597369.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5MzrCkMmAfMRNYMQzGZU4CaU4CPM4Gq4nmNsU49sUlV7Mm90gihFp2hmCIa0oShfUSyPMYybolLDMlM7U8n2nNCbMmWknRVVU8-sLmUZLmTFnRWRMzAkLmWFLmnRMzNJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>"津彩国际·多元共融"2026年天津市外国留学生文艺展演暨天津大学第十六届国际文化节圆满举行</h3>
+                    <span>2026.05.16</span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="info/1028/86292.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5Ll-C8MmnRLNV7MQlLinmUsLN-4M47qZM4GsLN7bMmGPnmN0gihFp2hmCIa0oky8L1yiokyZMRnVoRnknmA7nRGZM7lboRLPnNMfLzNDLzrFUzUaolLiozTFL4LaMRvJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>做有用的研究 讲有趣的故事——天大教授杨全红荣获全国五一劳动奖章</h3>
+                    <span>2026.04.29</span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1003/594439.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5ozvCin7lbUzGDoQzUPLl7ZLz9aLzLqiLzUPU4vaUlWknR70gihFp2hmCIa0LSyYn1ybLSyDM4UZnNnRnR-iL4AfnllPnNUDnN-sMRvbMzMFLN7iolUZMzVFLzTfMNCJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>天津大学斩获3金1银！第三届全国大学生职业规划大赛总决赛举行  ​</h3>
+                    <span>2026.04.25</span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="info/1028/85912.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5nllCbo7n7L8L8UQ4lDMzWfMRGbLzCq8nm67UN-bnz6kUNU0gihFp2hmCIa0UYyDMYyPU1yinl7aLl7snlr7U8Q7LmNinzL8MzlZnzVfUzAFLmf2L7VRnRnFLzN4LRlJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                </div>
+                <div class="info">
+                    <h3>天津大学第十届教职工代表大会 工会第十八次会员代表大会胜利召开</h3>
+                    <span>2026.04.18</span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+</ul>
+
+<script>_showDynClickBatch(['dynclicks_u30_80382','dynclicks_u30_86712','dynclicks_u30_86652','dynclicks_u30_86292','dynclicks_u30_86192','dynclicks_u30_85912'],[80382,86712,86652,86292,86192,85912],"wbnews", 2111843594)</script>
+</div>
+                        <div>
+
+
+
+
+
+<ul class="wow fadeInUp">
+            <li>
+            <a href="http://news.tju.edu.cn/info/1012/598209.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5Lm-CsMmTfLR9DnQzGYU4n7LzAfnRWqkU4f2UmUiL47bLll0gihFp2hmCIa0okhVM1y4UShkU8Q7LzvbnmM7U87aozGbUzN8olUYUm7Yo7QFU4WfU8-sM46FLmMfnRlJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>“聚力前沿 共筑未来”——天津市生物材料学会成立大会在天津大学召开</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1012/598249.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5U4UCYnNlPLmlPMQzv8MmAVn7CDLRfqVozMRL7CbolVRUm70gihFp2hmCIa0M1yPn1hkokyiU49iU8WRU4v4LmlbUlCZnmv8MmNsM7UYozMFMmW7MzrfLNQFL8Cso77Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                </div>
+                <div class="info">
+                    <h3>天津大学地科院译注《构造地貌学》出版：以地貌为线索，读懂构造—气候—地表过程</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1012/596349.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5nRWCVM8CPM8nknQmM2oRLbLR7YLN7q4nRVVnl-aU4NPnzC0gihFp2hmCIa0MYyiLShRnky8nzUaL47ioR9YLNWVozGYozr2L4-YUzlaUlQFUll4U8C4n7VFozUDLkbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png);"></div>
+                </div>
+                <div class="info">
+                    <h3>Angew：天津大学分子+研究院孔令俊副研究员电催化 CO₂捕集-转化一体化，高效实现胺类N-甲基化</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1003/596259.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5nzCCbnNnkM7-YnQmGDoR9iL4lYLllqiMllZUNQkolU4L770gihFp2hmCIa0MYhVU1hknkyiL7UYLmCsM4VRnRCbLRGPLzGDMzfVL4nknRVFU8CsMmW2nR6FL4W2nzNJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>25秒升温至550℃！天津大学研制出新型高温储热材料</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1012/596229.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5nzNCaU4v8Ml-PMQzQ7UzVkMmCZLmCqaol-8U47sUllbUNU0gihFp2hmCIa0LkysUShkM1yDUmCsoR6RnNUPollZoR-ZoRGaL7LaU8W2L7nFnRAVnNV2Mm6FLz-4Uz9Jqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>世界读书日，共话马球情——天津大学《马球视界》《POLO IN CHINA》新书在阿根廷驻华大使馆首发</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1012/596239.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5Lm7C4n7lZozT2UQmUaMNn7Lzn7nRLqPL77YnzG4nRWRUzC0gihFp2hmCIa0M1hRLYhRMSyPMRGsoRUZnmrVozvboR9anz7YoRLaUmlDUzfFn7V2o7lPnzrFLzVVMm-Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                </div>
+                <div class="info">
+                    <h3>环境学院王灿教授团队在Nature Water发文：揭示城市化对全球污水处理设施微生物生态系统影响新机制</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+</ul>
+
+<script>_showDynClickBatch(['dynclicks_u31_86742','dynclicks_u31_86782','dynclicks_u31_86502','dynclicks_u31_86492','dynclicks_u31_86452','dynclicks_u31_86462'],[86742,86782,86502,86492,86452,86462],"wbnews", 2111843594)</script>
+</div>
+                        <div>
+
+
+
+
+
+<ul class="wow fadeInUp">
+            <li>
+            <a href="http://news.tju.edu.cn/info/1013/598229.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5olrC2nRLPnmvioQzNbLlCPolVRMzUqbUm-iMmV2UmAkUNL0gihFp2hmCIa0U1hkLYhfn1h2o7LYLzVfMzVRUlLZoRnRozQfMlCZLm67M4rFM4GDozT7nmrFLNlaL4vJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>走进百卅天大 点燃青春梦想 安徽省鹏程中学师生来访天津大学开展研学交流</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1013/598259.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5MRNCiUNMkL7QVUQzNiL4N4UNLYozrqRMRvDM4GYL7VVMN-0gihFp2hmCIa0UYhkMShkn1yPMznko7VfnmQRnN7Zoz-ZU4GZU4C8LRv8oRVFU8L8M4T7nNQFLmMVU4vJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                </div>
+                <div class="info">
+                    <h3>【笔尖藏丘壑，厚“记”可致远】微电子学院优秀比例、作业、实验报告评选展示活动顺利收官</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1013/596799.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5LRACknlliMlQkMQl-4U4NsnzrkUmnqkLRQVMl-ZoR9aozC0gihFp2hmCIa0UYy4M1hVUYybMlCYUzf7Lz-PUmMko7U8Uz-sU4vZU8lsnNVFMNlsLlr7LRfFLlr2UN7Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                </div>
+                <div class="info">
+                    <h3>天津大学地科院与新华中学共建拔尖创新人才贯通培养项目</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1013/596549.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5UlCCYnzU8oRlbnQzCbLm6RMNLiMN7qbLlCYM87YoRQ2M4N0gihFp2hmCIa0UYyYLYyPLkhfLlUsL4vPL4Cbnz9PUz-aUz-ZMRN8ozU8MlQFLzQ7LN74LRTFM7MkoRNJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>机械工程学院召开本科生学风建设工作推动会</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1013/596289.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5LlnCfLzNaL4WVMQRrRL7lDM4L8LNVqfLRMRMzU4MzvDUmL0gihFp2hmCIa0LSyaUSyYL1yaU4TVn7CDnN7YM8WkoRG4LNl8nzfRL4lPnNrFLzWfoRrfoRMFLmLsnl7Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                </div>
+                <div class="info">
+                    <h3>【以赛促学，以学强“芯”】微电子学院举办“华为杯”第九届中国研究生创“芯”大赛座谈会暨宣讲会</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1013/595929.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5UN7CZMm6RUl7PnQmGYUNWVnRLaU4Qq2nN7sUlUaozvbU4L0gihFp2hmCIa0okybnSh7n1hVnRvbL4NDMNnRM4GZoz6RU4TVMmCZoRCsM46FL8L4nlCPUmAFMmAkM87Jqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>热能・薪火奖学金首批颁发仪式顺利举行</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+</ul>
+
+<script>_showDynClickBatch(['dynclicks_u32_86762','dynclicks_u32_86792','dynclicks_u32_86592','dynclicks_u32_86532','dynclicks_u32_86482','dynclicks_u32_86332'],[86762,86792,86592,86532,86482,86332],"wbnews", 2111843594)</script>
+</div>
+                        <div>
+
+
+
+
+
+<ul class="wow fadeInUp">
+            <li>
+            <a href="http://news.tju.edu.cn/info/1690/598239.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5MNCCsUmC8M4rkUQzNZMz6VUNCsUzfq2nmGZLz78oRvaMNL0gihFp2hmCIa0MYybLShknkhRn7UbM4nVMNV7UNLbLR6fU4LbU4rfo7CDnzTFnz67UllYUm6FM4LPUNlJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>天津大学第三期青骨班开展调查研究专题学习与学员论坛活动</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1690/597899.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5nNUC8L8lbMRL4LQzM2LlWRnl-sL8CqbLmTRM4W7LRAfM4G0gihFp2hmCIa0LYhRnky4M1yZnzNiLN-Dnl-PU8CPMmCYMzNDM4CsM4T7MmVFLR-4LlV2LlVFMzrVoRlJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>数智赋能深化教学创新 成果共研助推范式升级——天津大学名师研习营“项目式课程开发设计与实施专题工作...</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1014/597949.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5nzrCVnRNbollaLQz-iUzNZM4MkU4-qPU4-bU8Q2oRNZnz70gihFp2hmCIa0Mkh7MYh7L1hknl-YMmn7M4W2M7CDL4UsM8liL49sMzMknRVFUl7bM4MRLlVFLmGYnNlJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>天津大学走进天津市第二新华中学与高三学子共度成人仪式</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1014/597469.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5MN7CPnRQfo7U8LQ4-sLR-io7-YMzTqfM4GPMNUPL7-PL4-0gihFp2hmCIa0LkhVMYyYoSyDMzvYLmGio7UYLRUPLmvDMz9DU8WRnR98U8MFnNQVMlnkL8rFM4GZnz9Jqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>天津大学体育部赴厦门大学、福建师范大学开展调研交流</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1700/597929.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5Ul7CZUmW2UN78nQlC8L874MmCPnR-q8MmCYo7UPL4Mkol70gihFp2hmCIa0nkh7n1y4MSyZMmV2U8lPnzl4LNQ7U4GYozLYnNCinR6RU8nFol74olWkMR6FLmlaUmUJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>树立和践行正确政绩观 服务集成电路事业发展</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://news.tju.edu.cn/info/1014/597919.htm" target="_blank">
+                <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5LmWCRoRLaolLPMQ4MRn7V2nzUPnNnqkMRLaLzG8oRlin7C0gihFp2hmCIa0L1yDoShRLSyiL467U4rfMmQ7Lmr7L7-PnNMRMNMRo7lZL7nFnN-bLRA2oznFLmrRUmUJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>中国联合国采购促进会宋嘉秘书长一行莅临我院调研交流</h3>
+                    <span></span>
+                    <div></div>
+                </div>
+            </a>
+        </li>
+</ul>
+
+<script>_showDynClickBatch(['dynclicks_u33_86772','dynclicks_u33_86672','dynclicks_u33_86732','dynclicks_u33_86662','dynclicks_u33_86702','dynclicks_u33_86692'],[86772,86672,86732,86662,86702,86692],"wbnews", 2111843594)</script>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="s2">
+
+
+
+
+
+<div class="w1520">
+    <div class="s2-c">
+        <div class="s2-l">
+            <div class="itit itit-r wow fadeInRight">
+                <div class="itit-text">
+                    <div>
+                        <p>In the Media</p>
+                        <h3>媒体天大</h3>
+                        <b></b>
+                    </div>
+                </div>
+                <div class="itit-more">
+                    <a href="https://news.tju.edu.cn/mtjj.htm" target="_blank">查看更多</a>
+                </div>
+            </div>
+        </div>
+        <div class="s2-r">
+            <ul>
+                                <li class="wow fadeInLeft" data-wow-delay=".5s">
+                    <a href="info/1030/86352.htm" target="_blank">
+                        <div class="pics"><img src="virtual_attach_file.vsb?afc=5nz-CPMlV7MznRMQl7DMRCaoRG4UmLqPU8C4nllPMRNZLNL0gihFp2hmCIa0LYh7MkyPMkhfMR9aMRW2M8UaMRMkMRvPLRvioz9bnlWRM7rFUNlanl78L4TFU8WfLkb/v2veo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.jpg" alt="【践行回信精神】《新华社》：他们在脑机接口技术前沿探索“三磅宇宙”的奥秘"></div>
+                        <div class="info">
+                            <h3>【践行回信精神】《新华社》：他们在脑机接口技术前沿探索“三磅宇宙”的奥秘</h3>
+                            <p>大脑，重量不过三磅，却拥有约860亿个神经元。它像一座“精密宇宙”，承载着人类的记忆与情感，也隐藏着许多未解的脑部疾病谜题。在微观又广袤的科研前沿领域，天津大学脑机交互与人机共融海河实验室（下文简称“脑机海河实验室”）的一群青年科研人员，潜心钻研、聚力攻关，助力人类治疗疾病，挖掘人体的健康潜能。科幻“照进”现实初次走进脑机海河实验室，总有一种“进入”科幻电影的“不真实感”——戴上脑电极帽，背上装有主控模块的设备包，“现在，请想象你的右手腕长出‘第六指’，试着用它去抓握。”实验室...</p>
+                        </div>
+                    </a>
+                </li>
+                <li class="wow fadeInLeft" data-wow-delay=".5s">
+                    <a href="info/1030/85662.htm" target="_blank">
+                        <div class="pics"><img src="virtual_attach_file.vsb?afc=5MzlCaM7lPU4WRoQRv8MzCsnR7sMzWqkLm-boRGsLlrfnl-0gihFp2hmCIa0MSyaUYh2MSy8MRGsnlVRMz9PL4vsUzfRLlr2nzGbnmlZMmVFM77sLNMfUlQFMzvZollJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="中国青年报头版：成长困惑快问快答 跨龄交流温暖治愈 小卡片上的人生对谈"></div>
+                        <div class="info">
+                            <h3>中国青年报头版：成长困惑快问快答 跨龄交流温暖治愈 小卡片上的人生对谈</h3>
+                            <p>中国青年报2026年04月12日01版“幸福是什么？”“拥有苹果的时候只想着苹果。”“不开心的时候怎么办？”“干点儿开心的事。”很难想象，给这些提问的大学生解答人生困惑的，竟是一群小学生。这个周末，这些有趣的问答小卡片在社交媒体火爆出圈。一组组看上去妙趣横生又富有哲思的问答，戳中了许多年轻人的心，有网友惊呼“一下子治好了自己的精神内耗”。这些火遍全网的问答小卡片出现在天津大学图书馆一楼的留言板上。这几天是2026年“天大·海棠季”校园开放日，天津大学图书馆举办了一场名为“人生困...</p>
+                        </div>
+                    </a>
+                </li>
+                <li class="wow fadeInLeft" data-wow-delay=".5s">
+                    <a href="info/1030/85022.htm" target="_blank">
+                        <div class="pics"><img src="virtual_attach_file.vsb?afc=5nlLCYo7CDL8CiLQlV7M7-sozl4LNLq4LzARUl-aLlCYozv0gihFp2hmCIa0U1hkMYyDLShVnl7YM467MlMVUz-iLzL8LzT2Mm-YUzU8MzTFMNUiolQ7LRMFMRG8nN-Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="法学院院长孙佑海在《人民日报》发文：做好新时代信访工作的根本遵循"></div>
+                        <div class="info">
+                            <h3>法学院院长孙佑海在《人民日报》发文：做好新时代信访工作的根本遵循</h3>
+                            <p>党的十八大以来，习近平总书记站在党和国家事业发展全局的战略高度，对信访工作作出一系列重要论述和重要指示批示，形成了习近平总书记关于加强和改进人民信访工作的重要思想，为做好新时代信访工作提供了根本遵循和行动指南。</p>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u34_86352','dynclicks_u34_85662','dynclicks_u34_85022'],[86352,85662,85022],"wbnews", 2111843594)</script>
+</div>
+
+        <div class="s3">
+
+
+
+
+
+<div class="w1520">
+    <div class="s3-c">
+        <div class="s3-l">
+            <div class="itit wow fadeInLeft">
+                <div class="itit-text">
+                    <div>
+                        <p>Campus Highlights</p>
+                        <h3>校园看点</h3>
+                        <b></b>
+                    </div>
+                </div>
+                <div class="itit-more">
+                    <a href="xsjz.htm" target="_blank">查看更多</a>
+                </div>
+            </div>
+        </div>
+        <div class="s3-r wow fadeInRight" data-wow-delay=".5s">
+            <ul>
+                <li>
+                    <a href="https://mp.weixin.qq.com/s/54wRayDA17ywNsAOf3WLmA" target="_blank">
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5LlCCPUz6VLN-8LQNVfM4U8LzVknNlqiMmNanRl8UlCPoR70gihFp2hmCIa0Lkh7LSyPoShVoz-ZLl7ao77Poz-aMmLZnmlsLmW2o7rkM8nFMz-PMRA7nlQFL8LaLkb/v2veo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.jpg);"></div>
+                            </div>
+                            <h4>学术讲座</h4>
+                        </div>
+                        <div class="info">
+                            <h3>健康饮水膜分离净化技术的创新思考</h3>
+                            <p class="time">5月9日（星期六）15：30</p>
+                            <p class="address">北洋园校区1895楼 A102</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://mp.weixin.qq.com/s/SpgR2SIuXMUPS1wqxYhQ6A" target="_blank">
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5o77CPnmffLzAVnQRGaU4-aUzVVLzrqkLzMfnNQ2LNQ7nNL0gihFp2hmCIa0okyiMkyYoSyZUz-4ozCsnRUaMRM2LRQfUlCbM8lZLRG8MzMFM8W2MRAfM8rFnm67USb/v2veo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.jpg);"></div>
+                            </div>
+                            <h4>学术讲座</h4>
+                        </div>
+                        <div class="info">
+                            <h3>我的父亲邓稼先</h3>
+                            <p class="time">4月20日（周一）14:00</p>
+                            <p class="address">卫津路校区大活学生活动中心一层报告厅</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://mp.weixin.qq.com/s/IxVgbkC1ukLmwAQusDU6sA" target="_blank">
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5nmfCfoz9DMmUaLQzr7UzUZozWkLzNqYMz7sLzn2M4r2U870gihFp2hmCIa0UYyZLkhVnkhkozLZnmWRnm-PnRNiU4VkU4N8M4A2L8CDU4nFMz7DUNQ7oRVFnzWRokbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png);"></div>
+                            </div>
+                            <h4>学术讲座</h4>
+                        </div>
+                        <div class="info">
+                            <h3>我国海洋石油工业创新实践与未来发展方向的思考</h3>
+                            <p class="time">4月14日 10：20</p>
+                            <p class="address">北洋园校区1895行政楼A102报告厅</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="info/1158/84832.htm" target="_blank">
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5ollCZnRviLRvDLQlMRnzVkMRC8ozVq7n7QkLmC4oRv4MmN0gihFp2hmCIa0MYhVMSyYL1h2M8l4Uz9PLlMVM7VkM46RLNl8LzWRM4VVnlWFMm-anmAVMmQFMzM2nSb/v2veo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.jpg);"></div>
+                            </div>
+                            <h4>学术讲座</h4>
+                        </div>
+                        <div class="info">
+                            <h3>北洋智算论坛 | 从传统智能到具身智能</h3>
+                            <p class="time">3月21日（周六）16:00-17:30</p>
+                            <p class="address">北洋园校区55教学楼B204会议室</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDg5NDE1MQ==&mid=2652437831&idx=1&sn=5a5de4d2bbad2730cfd9e5bd589b343d&chksm=bcd6a7e752e9e51d572688deb1eadb0440daf63d43d7128a120189814be8a5521ffcacdd51c1&mpshare=1&scene=1&srcid=01169OVy4HJODbqBfL9KKkTc&sharer_shareinfo" target="_blank">
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5U4TCfolLbLR7aoQzAVLm-aM7W7ozrqkUmvaLRMRMlV7M4v0gihFp2hmCIa0MYyDn1y4UYh2UmQfo77bLz6VLRWfnmf2ollbLlC4L494nmAFozV7nmUPM7nFLzv4nR-Jqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                            </div>
+                            <h4>通知公告</h4>
+                        </div>
+                        <div class="info">
+                            <h3>彭一刚先生纪念活动暨天津大学工程建筑学中心成立大会</h3>
+                            <p class="time">1月17日 8:30</p>
+                            <p class="address">科学图书馆二层报告厅</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://mp.weixin.qq.com/s/Z66B0gJec6wyuN7f0bkoSw" target="_blank">
+                        <div class="pics">
+                            <div class="pic">
+                                <div style="background-image: url(virtual_attach_file.vsb?afc=5nzNCioln7U49aMQml8Mzl4LRNYL8UqiMRn7MlU8L4LbLml0gihFp2hmCIa0UShfUSy4MSyaMN-bnzfVolCbUmW7nzL4LmCZn7CbM8linmAFnRQ2U4rkn7rFM4LioSb/v2veo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.jpg);"></div>
+                            </div>
+                            <h4>学术讲座</h4>
+                        </div>
+                        <div class="info">
+                            <h3>磐石——人工智能赋能科学研究的操作系统</h3>
+                            <p class="time">12月23日（周二）14:00</p>
+                            <p class="address">卫津路校区科图二层报告厅</p>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+            <div class="pubarr">
+                <div class="parr-prev"></div>
+                <div class="parr-next"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 扩展字段： 时间<time> 地点<address> -->
+
+<script>_showDynClickBatch(['dynclicks_u35_86552','dynclicks_u35_85842','dynclicks_u35_85712','dynclicks_u35_84832','dynclicks_u35_83832','dynclicks_u35_83092'],[86552,85842,85712,84832,83832,83092],"wbnews", 2111843594)</script>
+</div>
+
+        <div class="s4">
+            <div class="s4-bg wow fadeInUp"></div>
+            <div class="w1520">
+                <div class="s4-c">
+                    <div class="s4-l">
+
+
+
+
+
+<div class="s4-ll">
+    <div class="itit wow fadeInLeft">
+        <div class="itit-text">
+            <div>
+                <p>Academic</p>
+                <h3>学术天大</h3>
+                <b></b>
+            </div>
+        </div>
+        <div class="itit-more">
+            <a href="index/xstd.htm">查看更多</a>
+        </div>
+    </div>
+</div>
+<div class="s4-lr">
+        <div class="first-item wow fadeInUp">
+            <a href="https://news.tju.edu.cn/info/1012/593179.htm">
+                    <div class="pic" style="background-image: url(virtual_attach_file.vsb?afc=5MN-CaM4GsMRvPMQRrVozQkol78UmlqsUzT2MRL4MR9iLRL0gihFp2hmCIa0UShkoSyZU1yanzLYM4A2MmviM7LYM7MfnNLbLN-sM8UsnmMFnzAfM7QkMlnFL4viUSbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png);"></div>
+                <div class="info">
+                    <span>2026.04.20</span>
+                    <h3 class="titline"><i>天大海洋学院学生苏鑫以第一作者在Science Advances发表能量串级最新成果</i></h3>
+                </div>
+            </a>
+        </div>
+    <ul>
+        
+            <li class="wow fadeInUp">
+                <a href="https://news.tju.edu.cn/info/1012/591379.htm">
+                    <span>2026.04.04</span>
+                    <h3>预燃室湍流射流火焰引燃氨燃烧的研究取得创新进展</h3>
+                </a>
+            </li>
+        
+        
+            <li class="wow fadeInUp">
+                <a href="https://news.tju.edu.cn/info/1012/589859.htm">
+                    <span>2026.03.25</span>
+                    <h3>攻克碳捕集混合基质膜工业制造难题 “双碳”目标再添硬核技术支撑</h3>
+                </a>
+            </li>
+        
+        
+            <li class="wow fadeInUp">
+                <a href="https://news.tju.edu.cn/info/1003/587429.htm">
+                    <span>2026.03.12</span>
+                    <h3>新型二维材料MXene绿色制备获重要突破</h3>
+                </a>
+            </li>
+        
+    </ul>
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u36_85962','dynclicks_u36_85932','dynclicks_u36_85952','dynclicks_u36_84472'],[85962,85932,85952,84472],"wbnews", 2111843594)</script>
+</div>
+                    
+
+
+
+
+
+<div class="s4-r">
+<div class="s4-rl">
+    <div class="itit wow fadeInRight">
+        <div class="itit-text">
+            <div>
+                <p>Study at TJU</p>
+                <h3>求学天大</h3>
+                <b></b>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="s4-rr wow fadeInRight">
+    <ul>
+        <li>
+            <dl>
+                
+                                        <dd>
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5nRNCDMRAfMmr7UQ8M2L4CDnNQkL7UqZUzlsnz9PMlVfL8L0gihFp2hmCIa0nkyiMkyDnSyYUzvbM7lPoRffU474LzQ2n7-8Lllsoz7YnzrFn7LsnNV7L4AFLNWVMzLJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                        </div>
+                    </dd>
+                    <dd>
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5Mm6C7MmW2UNr2UQN-YU87anlVVM4Tq2L4AfMzAfL7CDL4C0gihFp2hmCIa0okhRMkysnkysoRnVU4UYLRCZnNWVL7lYLzNYMmMVM4C4L4WFU4LZUmvYLmVFLzC8MRlJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                        </div>
+                    </dd>
+               
+            </dl>
+            <div class="info">
+                <div class="text">
+                    <p>学校以“从未来到未来”的人才培养理念，精准把握未来对学科专业的新需求，超前研判未来对人才素养的新要求，重塑高等教育人才培养体系，提出“未来领军人才”画像，引导学生传承天大品格、厚植天大知识、淬炼天大思维、锻造天大能力。</p>
+                </div>
+                <div class="img">
+                    <dd>
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5U4UCZUNnfnz94UQ4TkLllPMRM2nl-qPUlCiMR67Lmnfnz70gihFp2hmCIa0UYysM1yYLkyDLNlZnzv4n7U4oRTRLz74MzGinmliLNlbUmfFozUiUzGiU4WFLzVRLm-Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                        </div>
+                    </dd>
+                </div>
+                <div class="itit-more">
+                    <a href="zsjy.htm" target="_blank">欢迎报考天津大学</a>
+                </div>
+            </div>
+                    
+        </li>
+
+    </ul>
+</div>
+</div><script>_showDynClickBatch(['dynclicks_u37_74962','dynclicks_u37_74952','dynclicks_u37_74942'],[74962,74952,74942],"wbnews", 2111843594)</script>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="s5" style="display:none;">
+
+
+
+
+
+<div class="s5-main">
+    <div class="s5-c">
+        <div class="itit itit-r itit-w wow fadeInRight">
+            <div class="itit-text">
+                <div>
+                    <p>Audio-Visual Center</p>
+                    <h3>视听天大</h3>
+                    <b></b>
+                </div>
+            </div>
+            <div class="itit-more">
+                <a href="">查看更多</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="bigimg">
+    <ul>
+    </ul>
+</div>
+<div class="smallimg">
+    <ul>
+    </ul>
+</div>
+
+
+</div>
+        <div class="s5">    <div class="s5-main">
+    <div class="s5-c">
+        <div class="itit itit-r itit-w wow fadeInRight">
+            <div class="itit-text">
+                <div>
+                    <p>AUDIOVISUAL TJU</p>
+                    <h3>视听天大</h3>
+                    <b></b>
+                </div>
+            </div>
+            <div class="itit-more" style="display:none;">
+                <a href="#">查看更多</a>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="bigimg">
+    <ul>
+                    <li>
+                <a href="xgmv2024.mp4" data-fancybox>
+                    <div class="pic">
+                        <div style="background-image: url(images/xgmv2024.jpg);"></div>
+                    </div>
+                    <div class="s5-text">
+                        <h3>天津大学校歌MV</h3>
+                        <p></p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="jishizhongwenban.mp4" data-fancybox>
+                    <div class="pic">
+                        <div style="background-image: url(images/ScreenShot_2026-04-17_154605_216.png);"></div>
+                    </div>
+                    <div class="s5-text">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="zaitiandaxiliezhisiji.mp4" data-fancybox>
+                    <div class="pic">
+                        <div style="background-image: url(images/fengmian2.png);"></div>
+                    </div>
+                    <div class="s5-text">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="76eb26d5014e170ab182bab3b7fac125.mp4" data-fancybox>
+                    <div class="pic">
+                        <div style="background-image: url(images/xxqgtdr.jpg);"></div>
+                    </div>
+                    <div class="s5-text">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </a>
+            </li>
+    </ul>
+</div>
+<div class="smallimg">
+    <ul>
+        <li>
+            <a href="javascript:;">
+                <div class="pic">
+                    <div style="background-image: url(images/xgmv2024.jpg);"></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="javascript:;">
+                <div class="pic">
+                    <div style="background-image: url(images/ScreenShot_2026-04-17_154605_216.png);"></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="javascript:;">
+                <div class="pic">
+                    <div style="background-image: url(images/fengmian2.png);"></div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="javascript:;">
+                <div class="pic">
+                    <div style="background-image: url(images/xxqgtdr.jpg);"></div>
+                </div>
+            </a>
+        </li>
+    </ul>
+</div></div>
+
+        <div class="s6">    <div class="w1520">
+    <div class="s6-c">
+        <div class="s6-l">
+            <div class="itit wow fadeInLeft">
+                <div class="itit-text">
+                    <div>
+                        <p>Special Features</p>
+                        <h3>专题网站</h3>
+                        <b></b>
+                    </div>
+                </div>
+                <div class="itit-more" style="display:none;">
+                    <a>查看更多</a>
+                </div>
+            </div>
+        </div>
+        <div class="s6-r">
+            <ul>
+                                    <li class="wow fadeInUp">
+                        <a href="https://zhuanti.tju.edu.cn/srxxgchxjs/index.htm" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012665)" target="_blank">
+                            <div class="pic">
+                                <div alt="深入学习贯彻习近平总书记给天津大学全体师生重要回信精神专题网站" style="background-image: url(images/zhuyedatubanner1002.jpg);"></div>
+                            </div>
+                            <div class="info">
+                                <h3>深入学习贯彻习近平总书记给天津大学全体师生重要回信精神专题网站</h3>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="wow fadeInUp">
+                        <a href="https://news.tju.edu.cn/zt/zskzslhjxzqzjgxxjy.htm" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1013165)" target="_blank">
+                            <div class="pic">
+                                <div alt="扎实开展树立和践行正确政绩观学习教育" style="background-image: url(images/weixintupian_20260302150931_978_74_fuben.jpg);"></div>
+                            </div>
+                            <div class="info">
+                                <h3>扎实开展树立和践行正确政绩观学习教育</h3>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="wow fadeInUp">
+                        <a href="https://news.tju.edu.cn/zt/srgczybxgdjsxxjy.htm" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012018)" target="_blank">
+                            <div class="pic">
+                                <div alt="深入贯彻中央八项规定精神学习教育" style="background-image: url(newfiles/images/zt/01shenruguanchezhongyangbaxiangguidingjingshenxuexijiaoyunew.jpg);"></div>
+                            </div>
+                            <div class="info">
+                                <h3>深入贯彻中央八项规定精神学习教育</h3>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="wow fadeInUp">
+                        <a href="https://130.tju.edu.cn/" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012019)" target="_blank">
+                            <div class="pic">
+                                <div alt="天津大学130周年校庆专题网站" style="background-image: url(newfiles/images/zt/tianjindaxue130zhounianxiaoqingzhuantiwangzhan.png);"></div>
+                            </div>
+                            <div class="info">
+                                <h3>天津大学130周年校庆专题网站</h3>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="wow fadeInUp">
+                        <a href="https://www.tju.edu.cn/djxxjy.htm" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012020)" target="_blank">
+                            <div class="pic">
+                                <div alt="天津大学党纪学习教育专题网站" style="background-image: url(newfiles/images/zt/tianjindaxuedangjixuexijiaoyuzhuantiwangzhan.png);"></div>
+                            </div>
+                            <div class="info">
+                                <h3>天津大学党纪学习教育专题网站</h3>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="wow fadeInUp">
+                        <a href="http://www.tju.edu.cn/ztjy.htm" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012021)" target="_blank">
+                            <div class="pic">
+                                <div alt="学习贯彻习近平新时代中国特色社会主义思想" style="background-image: url(newfiles/images/zt/xuexiguanchexijinpingxinshidaizhongguoteseshehuizhuyisixiang.jpg);"></div>
+                            </div>
+                            <div class="info">
+                                <h3>学习贯彻习近平新时代中国特色社会主义思想</h3>
+                            </div>
+                        </a>
+                    </li>
+            </ul>
+            <div class="pubarr ">
+                <div class="parr-prev"></div>
+                <div class="parr-next"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+        <div class="s7">
+            <div class="w1520">
+                <div class="s7-t">
+
+
+
+
+
+<div class="s7-tl">
+    <div class="itit itit-r itit-w wow fadeInRight">
+        <div class="itit-text">
+            <div>
+                <p>Partnership & Collaboration</p>
+                <h3>合作交流</h3>
+                <b></b>
+            </div>
+        </div>
+        <div class="itit-more">
+            <a href="kxyj/kyhz/qyhz.htm" target="_blank">查看更多</a>
+        </div>
+    </div>
+</div>
+<div class="s7-tr wow fadeInLeft">
+    <ul>
+        <li>
+            <a href="info/1064/77182.htm" target="_blank">
+                <div class="pics">
+                    <div class="pic">
+                        <div style="background-image: url(virtual_attach_file.vsb?afc=5Mm-CDLNUsLm62UQ4v8o77Znmr7o7QqRM8UYUzWfL4lanNC0gihFp2hmCIa0Lky4MYyiLkyDL4GinRLZoRWfoz9bLNl4nlLDMmUaLRQRnNMFoln2oz67LzVFo7QVLzLJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                    </div>
+                </div>
+                <div class="info">
+                    <h3>区域合作</h3>
+                    <div>
+                        <p>如何支撑国家发展战略，如何发挥学科优势，有针对性的服务区域经济发展是学校一直关心的关键问题。天津大学重视区域合作布局，围绕化工、建工、机械、自动化等优势学科领域，为地方支柱产业提供科技服务。天津大学落实国家发展战略，深入推进与地方的合作，已与20余个省、自治区及50余个市、区、县建立了全面合作关系。</p>
+                    </div>
+                    <b></b>
+                </div>
+            </a>
+        </li>
+    </ul>
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u41_77182'],[77182],"wbnews", 2111843594)</script>
+</div>
+                <div class="s7-b">
+
+
+
+
+
+<div class="s7-bl">
+    <div class="itit itit-w wow fadeInLeft">
+        <div class="itit-text">
+            <div>
+                <p>Global Engagement</p>
+                <h3>海外交流</h3>
+                <b></b>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="s7-br">
+    <ul class="wow fadeInRight">
+                    <li>
+                <a href="https://ico.tju.edu.cn/jlhz/qqhzhb/yz.htm" target="_blank">
+                    <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5U4MC2n7l4nNV7LQRW7LNCZMRCZn7UqiUl7sU8-PM4GaoRN0gihFp2hmCIa0MSy8L1yYLYhVLNCZnmL4o7VfnlUiLmrkUmTfUzCioRLPL8QFLm7bolM2L4AFLmf7nz9Jqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                    </div>
+                    
+                    <div class="info">
+                        <h3>全球合作伙伴</h3>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="https://ico.tju.edu.cn/jlhz/gjlm.htm" target="_blank">
+                    <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5nRLCZnmUDU46RUQNlPLNCsLR-YMm7qDL7n2nRl4Mm7YL870gihFp2hmCIa0U1yiMYyin1h7oRN8nmAVUmlsnzGZnmvZU4UZLNWRUzW2LmfFL8Cinz7so7WFL49PM4lJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                    </div>
+                    
+                    <div class="info">
+                        <h3>国际联盟</h3>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="https://ico.tju.edu.cn/xmxx/xsxm/xflxm/gjgpyjsxm.htm" target="_blank">
+                    <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5nzfC2L4GsoRNbMQzW2nzLYLRnkLzNqDoRUsMRQ7nzC8nzU0gihFp2hmCIa0LkhfM1yYn1h2U4UaU4CsUzl8U4r7L4WVMl-YnRNbozAfolrFUNMRM7WfnlVFMRWfo7lJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                    </div>
+                    
+                    <div class="info">
+                        <h3>项目信息</h3>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="gjjl/kzxy.htm" target="_blank">
+                    <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5U49CaL4Q2L4vDLQNl8ozvPUmUPLmLqbLm7snlUbU4Ciozv0gihFp2hmCIa0MSyPUShkM1hfM49YLNVko7CPMzLZnRCbMRl8MzQRMR-DUzVFL8UbUmAkMzMFLz-DoR-Jqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                    </div>
+                    
+                    <div class="info">
+                        <h3>孔子学院</h3>
+                    </div>
+                </a>
+            </li>
+    </ul>
+    <div class="pubarr">
+        <div class="parr-prev"></div>
+        <div class="parr-next"></div>
+    </div>
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u42_1413','dynclicks_u42_1412','dynclicks_u42_1411','dynclicks_u42_1178'],[1413,1412,1411,1178],"wbnews", 2111843594)</script>
+</div>
+            </div>
+        </div>
+
+        <div class="s8">
+
+
+
+
+
+<div class="w1520">
+    <div class="s8-c">
+        <div class="s8-l">
+            <div class="itit itit-r wow fadeInRight">
+                <div class="itit-text">
+                    <div>
+                        <p>TJU People</p>
+                        <h3>天大人物</h3>
+                        <b></b>
+                    </div>
+                </div>
+                <div class="itit-more">
+                    <a href="index/tdrw.htm" target="_blank">查看更多</a>
+                </div>
+            </div>
+        </div>
+        <div class="s8-r">
+            <ul>
+                <li>
+                    <a href="https://mp.weixin.qq.com/s/j310cd10ULZuwlj1G7-TnA">
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5nzlCYL4W7UN7bMQ8-PLN-snN-aUNlqsL4nkolVkLNlPM4N0gihFp2hmCIa0nkyiMYy4Mkh2L4GZo7VfnmnVn7VknNUioRGiUl7Yo7C4o7VFMmWVM4WfMRTFLmCboRNJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                        </div>
+                        <div class="info">
+                            <h3>全国表彰！辛苦了，天大人！</h3>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://news.tju.edu.cn/info/1003/592489.htm">
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5nzlCZLRV7nRf2MQN7sM4nkL8CaozUqYUlLiUNMVM7-bnR-0gihFp2hmCIa0LYh7M1hVUYyPM7WfozWVLm9PMzvsL8lYLNUsLlM2LznVM4fFU4LiU8W2nmAFL8UiozlJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                        </div>
+                        <div class="info">
+                            <h3>“蓝马甲”为北洋园海棠季绘就最暖底色</h3>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://mp.weixin.qq.com/s/l6YyujFGKT2phr6BfegS7g">
+                        <div class="pic">
+                            <div style="background-image: url(virtual_attach_file.vsb?afc=5ol7CbLz-aUNL4MQmUaMmM2oR9ZnmNqPL7LbU4ARUmrfoz70gihFp2hmCIa0oSyDUYyankyZLlUaoll4nNVfUlM2nzfkLznRoznRL4l4MlMFo7lDM87DMm6FLN7Dn7LJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                        </div>
+                        <div class="info">
+                            <h3>助力“双碳”目标！天大领衔新突破！</h3>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u43_86582','dynclicks_u43_85692','dynclicks_u43_85142'],[86582,85692,85142],"wbnews", 2111843594)</script>
+</div>
+
+        <div class="s9">
+            <div class="w1520">
+                <div class="s9-c">
+                    <div class="s9-l">
+                        <div class="itit wow fadeInLeft">
+                            <div class="itit-text">
+                                <div>
+                                    <p>Beauty of TJU</p>
+                                    <h3>大美天大</h3>
+                                    <b></b>
+                                </div>
+                            </div>
+
+                            <div class="itit-more">
+                                <a href="xywh/xyfg/tdhtj.htm" target="_blank">查看更多</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="s9-r md">
+                        <ul class="s9-rtit hd wow fadeInRight">
+                            <li class="on"><a href="xywh/xyfg/tdhtj.htm">校园风貌</a></li>
+                            <li style="display:none;"><a href="javascript:;">快捷入口</a></li>
+                        </ul>
+
+                        <div class="bd">
+                            <div class="s9-rslick1 on">
+
+
+
+
+
+<ul>
+            <li>
+            <a href="xywh/xyfg.htm" target="_blank">
+                <div class="pic">
+                    <div style="background-image: url(virtual_attach_file.vsb?afc=5oRAC7LmGaMzV2LQ7laL4GiL4CbLRUq8LRl8Mmv8LRUYUzv0gihFp2hmCIa0MSy8MYyYokhkMl-iUzW7ozNPLRQ7Ul-PL4NboRV2Uz-iLlVFnN7PoR7anmVFMR7iM8-Jqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>北洋大学堂</h3>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="xywh/xyfg.htm" target="_blank">
+                <div class="pic">
+                    <div style="background-image: url(virtual_attach_file.vsb?afc=5MNLC8n77ZMN-4oQzQfUznRUllaM4WqfnRvsLm-bMlL8LmU0gihFp2hmCIa0LYysUYy8LShRM4LaU4C8LRlbMlWfozV2n7-bo77PnRvbMR6FozCPLmlDnNQFL4UZnmUJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>大学生活动中心</h3>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="xywh/xyfg.htm" target="_blank">
+                <div class="pic">
+                    <div style="background-image: url(virtual_attach_file.vsb?afc=5nmGCYLzfRM7L4UQmviLmGaUlQVUzVqkMm-aM4UZL4N4MmL0gihFp2hmCIa0USy8MkhkMYhkMzLPUl7sLl7ZnzLYUz-iMRCPMzl8M8M7MRnFL4GPnlCDL4TFMlV7Mz9Jqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>第九教学楼</h3>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="xywh/xyfg.htm" target="_blank">
+                <div class="pic">
+                    <div style="background-image: url(virtual_attach_file.vsb?afc=5nmTCRo7rkozCZoQRL8U4TkL8UZLmTq2UzrkLm7ZLzTfU490gihFp2hmCIa0Lky8oSh7oSh2U4nknRQ2n7W7Um7YLN-YnRWVUmW2UmQRolVFozU8nNr2ozfFM77Zo7lJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>郑东图书馆</h3>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="xywh/xyfg.htm" target="_blank">
+                <div class="pic">
+                    <div style="background-image: url(virtual_attach_file.vsb?afc=5UmLC4L8LZLlQVnQRTfLRG8LzVVUNLq8U8CPoR74L77PUNL0gihFp2hmCIa0U1hfUSy4UYysLm9aMzA7LNCPM7r7LRCiMNQVMm-aUNVkLmfFn778oR7iMNVFL8n7L47Jqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>求是亭</h3>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="xywh/xyfg.htm" target="_blank">
+                <div class="pic">
+                    <div style="background-image: url(virtual_attach_file.vsb?afc=5n7-CiMm94UNQkUQzfVMmL4L7n7U8VqfnRGbU47sMz9ZUmU0gihFp2hmCIa0oSh2LSh2MYhRnRQfnRrfL7Q2UNWfL8W7LzNPMlWfLm9iUmMFL4QVL4r2ozfFLmLPUNLJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    <h3>卫津路校区东门</h3>
+                </div>
+            </a>
+        </li>
+</ul>
+<div class="pubarr">
+    <div class="parr-prev"></div>
+    <div class="parr-next"></div>
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u44_76222','dynclicks_u44_76212','dynclicks_u44_76202','dynclicks_u44_76192','dynclicks_u44_76182','dynclicks_u44_76172'],[76222,76212,76202,76192,76182,76172],"wbnews", 2111843594)</script>
+</div>
+                            <div class="s9-rslick2">
+                                <ul>
+                                    <li>
+                                        <a href="javascript:;">
+                                            <div class="pic">
+                                                <div style="background-image: url(newfiles/images/s9-rimg1.jpg);"></div>
+                                            </div>
+                                            <div class="info">
+                                                <h3>天大四季</h3>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:;">
+                                            <div class="pic">
+                                                <div style="background-image: url(newfiles/images/s9-rimg2.jpg);"></div>
+                                            </div>
+                                            <div class="info">
+                                                <h3>天大风物志</h3>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:;">
+                                            <div class="pic">
+                                                <div style="background-image: url(newfiles/images/s9-rimg3.jpg);"></div>
+                                            </div>
+                                            <div class="info">
+                                                <h3>天大海棠季</h3>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:;">
+                                            <div class="pic">
+                                                <div style="background-image: url(newfiles/images/s9-rimg4.jpg);"></div>
+                                            </div>
+                                            <div class="info">
+                                                <h3>师生摄影展精选</h3>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:;">
+                                            <div class="pic">
+                                                <div style="background-image: url(newfiles/images/s9-rimg1.jpg);"></div>
+                                            </div>
+                                            <div class="info">
+                                                <h3>天大四季</h3>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:;">
+                                            <div class="pic">
+                                                <div style="background-image: url(newfiles/images/s9-rimg2.jpg);"></div>
+                                            </div>
+                                            <div class="info">
+                                                <h3>天大风物志</h3>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <div class="pubarr">
+                                    <div class="parr-prev"></div>
+                                    <div class="parr-next"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="s10">
+            <div class="s10-main">
+                <div class="w1520">
+                    <div class="s10-c">
+                        <div class="s10-l">
+                            <div class="itit itit-r wowwow fadeInRight">
+                                <div class="itit-text">
+                                    <div>
+                                        <p>TJU on Social Media</p>
+                                        <h3>社交媒体上的我们</h3>
+                                        <b></b>
+                                    </div>
+                                </div>
+
+                                <div class="itit-more" style="display:none;">
+                                    <a href="javascript:;">查看更多</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="s10-r">
+                            <div class="s10-rl">
+
+
+
+
+
+<ul>
+            <li class="wowwow flipInX" data-wowwow-duration=".8s">
+            <a href="https://mp.weixin.qq.com/s/nEiW40ftkp00rj3SiX2QSg" target="_blank" class="s10-pubitem">
+                <div class="pic">
+                    <div style="background-image: url(virtual_attach_file.vsb?afc=5nNWC7Ml7PolliLQ4LioRV7Mz78L7lqinzM2U8LanmQkMmN0gihFp2hmCIa0L1hkLSh7LkyYM7UYnzrVLzlZL8VkMmLPMNrkUzLbolCPoRAFU467nmrfU8QFLmlaol7Jqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    
+                    
+                    
+                    
+                    <h3>海棠季开放日圆满收官！天大是一所怎样的大学？</h3>
+                </div>
+            </a>
+        </li>
+        <li class="wowwow flipInX" data-wowwow-duration=".8s">
+            <a href="https://mp.weixin.qq.com/s/Oe_YgLhMU9jP10qOiH7I6Q" target="_blank" class="s10-pubitem">
+                <div class="pic">
+                    <div style="background-image: url(virtual_attach_file.vsb?afc=5L4fC2oRGaU4AknQNn7MlCPUzvaMNLqZUNC4ozUDL47PUz-0gihFp2hmCIa0M1hfoSh7MYh7LR-bnRnRolL8nR7PMm62Ul7Zo7L8oRrfM4QFL462MNLbn7MFMmGYM7-Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png);"></div>
+                </div>
+                <div class="info">
+                    
+                    
+                    
+                    
+                    <h3>复试第一！上岸天大！</h3>
+                </div>
+            </a>
+        </li>
+</ul>
+
+<script>_showDynClickBatch(['dynclicks_u45_85682','dynclicks_u45_85132'],[85682,85132],"wbnews", 2111843594)</script>
+</div>
+                            <div class="s10-rr">
+                                <div class="group-media">    <ul>
+            <li class="wowwow fadeInRight" data-wowwow-delay=".0s">
+            <a href="javascript:;" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012022)">
+                <div class="icons">
+                    <img src="newfiles/images/group-media1.png" alt="">
+                    <img src="newfiles/images/group-media1-h.png" alt="">
+                </div>
+                <div class="group-ewm">
+                    <img src="newfiles/images/wechat_qr.jpg" alt="天津大学微信">
+                </div>
+            </a>
+        </li>
+        <li class="wowwow fadeInRight" data-wowwow-delay=".1s">
+            <a href="https://service.weibo.com/reg/loginindex.php?regbackurl=http%3A%2F%2Fweibo.com&backurl=http%3A%2F%2Fwidget.weibo.com%2Fstaticjs%" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012023)">
+                <div class="icons">
+                    <img src="newfiles/images/group-media2.png" alt="">
+                    <img src="newfiles/images/group-media2-h.png" alt="">
+                </div>
+            </a>
+        </li>
+        <li class="wowwow fadeInRight" data-wowwow-delay=".2s">
+            <a href="https://www.douyin.com/" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012024)">
+                <div class="icons">
+                    <img src="newfiles/images/group-media3.png" alt="">
+                    <img src="newfiles/images/group-media3-h.png" alt="">
+                </div>
+            </a>
+        </li>
+        <li class="wowwow fadeInRight" data-wowwow-delay=".3s">
+            <a href="https://www.peopleapp.com/author/2023057" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012025)">
+                <div class="icons">
+                    <img src="newfiles/images/group-media4.png" alt="">
+                    <img src="newfiles/images/group-media4-h.png" alt="">
+                </div>
+            </a>
+        </li>
+        <li class="wowwow fadeInRight" data-wowwow-delay=".4s">
+            <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAACXiPBpEovVTuCGmCCuheIWnD83Jj0W7IK6TGvg3ceV4/?source=m_redirect&wid=174416941455" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012027)">
+                <div class="icons">
+                    <img src="newfiles/images/group-media5.png" alt="">
+                    <img src="newfiles/images/group-media5-h.png" alt="">
+                </div>
+            </a>
+        </li>
+        <li class="wowwow fadeInRight" data-wowwow-delay=".5s">
+            <a href="https://c.m.163.com/news/sub/T1508759260965.html?spss=newsapp" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012026)">
+                <div class="icons">
+                    <img src="newfiles/images/group-media6.png" alt="">
+                    <img src="newfiles/images/group-media6-h.png" alt="">
+                </div>
+            </a>
+        </li>
+</ul>
+
+</div>
+
+                                <div class="s10-rr-list">
+
+
+
+
+
+<ul>
+            <li class="wowwow flipInX" data-wowwow-duration=".8s">
+            <a href="https://mp.weixin.qq.com/s/F84v9Kq5asWQ9bkUA6aV0w" class="s10-pubitem" target="_blank">
+                <div class="pic">
+                    <div style="background-image: url(virtual_attach_file.vsb?afc=5nR7CsMlWfMRAVUQ8CDUlWkL4TRL8MqknRf2nm7YMzfVMm70gihFp2hmCIa0okh2n1hVLYhfnRnknmGYnlWRLRV7M4NDUzMfo7WVMm94nmMFM47aLzvDMNMFL8-ZolLJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    
+                    
+                    
+                    
+                    <h3>天大美食广场，又上新！</h3>
+                    <span>2026.03.27</span>
+                </div>
+            </a>
+        </li>
+        <li class="wowwow flipInX" data-wowwow-duration=".8s">
+            <a href="https://mp.weixin.qq.com/s/FA5FupAD1tan00kYI02Qjw" class="s10-pubitem" target="_blank">
+                <div class="pic">
+                    <div style="background-image: url(virtual_attach_file.vsb?afc=5ozVCfM8l4LmL8LQ4ARnNUaL4MfLNlqZUzTkUmLiMmCDM8U0gihFp2hmCIa0LYhkn1yZM1hkUNl4LzW7n7MfoRl4M8VVMm7sLNn2LRAVUzTFM4n7L7WkMlMFLzQknmUJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg);"></div>
+                </div>
+                <div class="info">
+                    
+                    
+                    
+                    
+                    <h3>春分，在天大拥抱幸福！</h3>
+                    <span>2026.03.27</span>
+                </div>
+            </a>
+        </li>
+</ul>
+
+<script>_showDynClickBatch(['dynclicks_u47_85682','dynclicks_u47_85132','dynclicks_u47_85122','dynclicks_u47_85112'],[85682,85132,85122,85112],"wbnews", 2111843594)</script>
+</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="videobox">    
+
+   <video src="xgmv2024.mp4" muted="" loop="" poster="newfiles/images/fengmian.jpg" id="videoShow"></video>
+            
+
+</div>
+
+            <div class="s10-text">
+                <div class="w1520"><img src="newfiles/images/s10-ssqs.png" alt=""></div>
+            </div>
+            <div class="s10-svg">
+                <img src="newfiles/images/video_top.svg" alt="">
+            </div>
+            <div class="s10-btm">
+                <h4>兴学强国 实事求是</h4>
+                <h3> 严谨治学 爱国奉献 矢志创新</h3>
+            </div>
+
+            <div class="s10-bbg"><img src="newfiles/images/s10-bbg.png" alt=""></div>
+        </div>
+
+        <div class="s11">
+
+
+
+
+
+<div class="w1520">
+    <div class="s11-c">
+        <ul>
+                            <li class="wow flipInY">
+                    <a href="info/1044/1252.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5MRlCYUm9iMmCDLQ8r7U8LZL4Tfnz9qZozW7oRV7nRvaMmN0gihFp2hmCIa0LYhfUYy8okyYU4G4nmT7Lm62M7UbLmCDn7lZMRfkMl7sMzMFL7QVnNLPM4MFL8VkUlCJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="机械工程学院">
+                                <img src="/virtual_attach_file.vsb?afc=5MRlCYUm9iMmCDLQ8r7U8LZL4Tfnz9qZozW7oRV7nRvaMmN0gihFp2hmCIa0LYhfUYy8okyYU4G4nmT7Lm62M7UbLmCDn7lZMRfkMl7sMzMFL7QVnNLPM4MFL8VkUlCJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="机械工程学院">
+                           
+                        </div>
+                        <p>机械工程学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1251.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nmCCsM4UsM7UiLQNLPLRUPMz9PUNQqkMRCbU4LYMz62nl-0gihFp2hmCIa0nShfU1h7USh2ol74Mzr7LlCsM4GDUN7YMRUZn7r2ozf2LzMFU4N4Lm7ao7VFMRWfUYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="精密仪器与光电子工程学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nmCCsM4UsM7UiLQNLPLRUPMz9PUNQqkMRCbU4LYMz62nl-0gihFp2hmCIa0nShfU1h7USh2ol74Mzr7LlCsM4GDUN7YMRUZn7r2ozf2LzMFU4N4Lm7ao7VFMRWfUYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="精密仪器与光电子工程学院">
+                           
+                        </div>
+                        <p>精密仪器与光电子工程学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1250.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5n7nCfn77sM7UZMQl74MRGDUlL8M4Vq2MzvYMmNZnzfkLmv0gihFp2hmCIa0MSyaL1hfUSyiUzVVUlCYMlLDMlVVL4AknzCsM8laU8VRUznFMR98L47DMlQFL4l8nkbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="电气自动化与信息工程学院">
+                                <img src="/virtual_attach_file.vsb?afc=5n7nCfn77sM7UZMQl74MRGDUlL8M4Vq2MzvYMmNZnzfkLmv0gihFp2hmCIa0MSyaL1hfUSyiUzVVUlCYMlLDMlVVL4AknzCsM8laU8VRUznFMR98L47DMlQFL4l8nkbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="电气自动化与信息工程学院">
+                           
+                        </div>
+                        <p>电气自动化与信息工程学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1249.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5L7nC7U4LYMR7ZLQRnfMR-bUmT7oRlq4L4WRolnRUmLZMmU0gihFp2hmCIa0LYysLkysUSh7o7CZU4-8n7UYUzCsUzNsM4CanmUYMR-ZL8VFUzV2UNl4UmWFLm7PMmGJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="微电子学院">
+                                <img src="/virtual_attach_file.vsb?afc=5L7nC7U4LYMR7ZLQRnfMR-bUmT7oRlq4L4WRolnRUmLZMmU0gihFp2hmCIa0LYysLkysUSh7o7CZU4-8n7UYUzCsUzNsM4CanmUYMR-ZL8VFUzV2UNl4UmWFLm7PMmGJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="微电子学院">
+                           
+                        </div>
+                        <p>微电子学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1234.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5n77CDoz74nmCinQNLPMNlDnlMfUllq8nlVVUmUsMzGPLz90gihFp2hmCIa0UShkLkyYnkh7MR-YM7V7Ull4Mzn7M8Vkoz7YMml4L8Lsn7QFLN7bMz9iMzQFLmL8nNlJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg" alt="智能与计算学部-计算机科学与技术学院">
+                                <img src="/virtual_attach_file.vsb?afc=5n77CDoz74nmCinQNLPMNlDnlMfUllq8nlVVUmUsMzGPLz90gihFp2hmCIa0UShkLkyYnkh7MR-YM7V7Ull4Mzn7M8Vkoz7YMml4L8Lsn7QFLN7bMz9iMzQFLmL8nNlJqjfjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.jpg" alt="智能与计算学部-计算机科学与技术学院">
+                           
+                        </div>
+                        <p>智能与计算学部-计算机科学与技术学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/82252.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="智能与计算学部-网络安全学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="智能与计算学部-网络安全学院">
+                           
+                        </div>
+                        <p>智能与计算学部-网络安全学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/9356.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="智能与计算学部-人工智能学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="智能与计算学部-人工智能学院">
+                           
+                        </div>
+                        <p>智能与计算学部-人工智能学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/10147.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="智能与计算学部-软件学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="智能与计算学部-软件学院">
+                           
+                        </div>
+                        <p>智能与计算学部-软件学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1248.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5Lm7C8MRLYMmrRUQmU4UmMkUmA2LmUqaL4A7LllPLmNbol70gihFp2hmCIa0nkhVokh7M1yZLm9snzvaU4r7MmlYL4VVMzrVnz98UmWfnznFMzvaMz7sLR6FM77sU1baptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="建筑工程学院">
+                                <img src="/virtual_attach_file.vsb?afc=5Lm7C8MRLYMmrRUQmU4UmMkUmA2LmUqaL4A7LllPLmNbol70gihFp2hmCIa0nkhVokh7M1yZLm9snzvaU4r7MmlYL4VVMzrVnz98UmWfnznFMzvaMz7sLR6FM77sU1baptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="建筑工程学院">
+                           
+                        </div>
+                        <p>建筑工程学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1247.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5UmVCRMmlsLlMRMQ4UZMmT7Mm78nNnqfM4W7UmNsM4TVoz90gihFp2hmCIa0UYysMSysMSyanzQRL8C4nm7ZLznfLNUbnmNioRC4oz6RnNnFozG8Ll-YM4VFLzCsMN-Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="建筑学院">
+                                <img src="/virtual_attach_file.vsb?afc=5UmVCRMmlsLlMRMQ4UZMmT7Mm78nNnqfM4W7UmNsM4TVoz90gihFp2hmCIa0UYysMSysMSyanzQRL8C4nm7ZLznfLNUbnmNioRC4oz6RnNnFozG8Ll-YM4VFLzCsMN-Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="建筑学院">
+                           
+                        </div>
+                        <p>建筑学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1246.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nzMC2M7lZUNlbMQ4A7L8r2Uz78L47qiUz7iUmlPnlrVM8C0gihFp2hmCIa0oSysUYybnShVLl-PnzvaLmCDMRL8MmLiozWfLmNbMzNZLNnFUzW7MmvDUz6FMR9ZL1baptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="化工学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nzMC2M7lZUNlbMQ4A7L8r2Uz78L47qiUz7iUmlPnlrVM8C0gihFp2hmCIa0oSysUYybnShVLl-PnzvaLmCDMRL8MmLiozWfLmNbMzNZLNnFUzW7MmvDUz6FMR9ZL1baptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="化工学院">
+                           
+                        </div>
+                        <p>化工学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/10194.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="合成生物与生物制造学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="合成生物与生物制造学院">
+                           
+                        </div>
+                        <p>合成生物与生物制造学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1245.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nRLCaLlLbLRA2MQ7UDM4vDM7l8Uz-q8U4vPUzlZnzrfMRN0gihFp2hmCIa0n1yPLkh7L1hRolCaM8-8n7UanzQkLmV2nNCPL4CPL4NPL4QFnRlsMRMfMRMFMRlYUYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="材料科学与工程学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nRLCaLlLbLRA2MQ7UDM4vDM7l8Uz-q8U4vPUzlZnzrfMRN0gihFp2hmCIa0n1yPLkh7L1hRolCaM8-8n7UanzQkLmV2nNCPL4CPL4NPL4QFnRlsMRMfMRMFMRlYUYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="材料科学与工程学院">
+                           
+                        </div>
+                        <p>材料科学与工程学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1235.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5U4TCfMzlbM4MVLQlLYnNliM8r2nmVqfUlMVoRLZnm7sM8U0gihFp2hmCIa0MkhVMSybMYysM4W7U4WkozTRLRCbL7WRL8nVUmU8Lz-YUlrFMz7iUmV7MznFMRCiLYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="环境科学与工程学院">
+                                <img src="/virtual_attach_file.vsb?afc=5U4TCfMzlbM4MVLQlLYnNliM8r2nmVqfUlMVoRLZnm7sM8U0gihFp2hmCIa0MkhVMSybMYysM4W7U4WkozTRLRCbL7WRL8nVUmU8Lz-YUlrFMz7iUmV7MznFMRCiLYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="环境科学与工程学院">
+                           
+                        </div>
+                        <p>环境科学与工程学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1244.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5L7UCbUmN8MNVfMQRLYMNr7UN-Yo7-qYMlMVn7nVn7CYUmC0gihFp2hmCIa0MkyYMkh2Mky4oRCbLmfVnN-aL4GZLzCbMR9iL4LZM49bnNVFM4-4LNrRM7MFLmCiLkbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="管理与经济学部">
+                                <img src="/virtual_attach_file.vsb?afc=5L7UCbUmN8MNVfMQRLYMNr7UN-Yo7-qYMlMVn7nVn7CYUmC0gihFp2hmCIa0MkyYMkh2Mky4oRCbLmfVnN-aL4GZLzCbMR9iL4LZM49bnNVFM4-4LNrRM7MFLmCiLkbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="管理与经济学部">
+                           
+                        </div>
+                        <p>管理与经济学部</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/6722.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nzQC2L4vDU87YUQ47bnRlPM46RLmLqiLlU4MNlboR9bU8C0gihFp2hmCIa0UYyZU1yiU1hVUlUDMRGYLz6fUzfVnmGsLmTfLmfRnln2ozAFL4UDLml8LNWFL8rRUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="人文艺术学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nzQC2L4vDU87YUQ47bnRlPM46RLmLqiLlU4MNlboR9bU8C0gihFp2hmCIa0UYyZU1yiU1hVUlUDMRGYLz6fUzfVnmGsLmTfLmfRnln2ozAFL4UDLml8LNWFL8rRUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="人文艺术学院">
+                           
+                        </div>
+                        <p>人文艺术学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1239.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nRVC2U4NiM7lDoQzCiLR9Zo7QVM4VqkL87soRNYM7lso7C0gihFp2hmCIa0M1hVnSh2U1yinln7n7rRn7U8UzUPUz7PnRLaoz7Pnm7aU8nFLz6RLNlsolnFL4fkM4UJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="外国语学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nRVC2U4NiM7lDoQzCiLR9Zo7QVM4VqkL87soRNYM7lso7C0gihFp2hmCIa0M1hVnSh2U1yinln7n7rRn7U8UzUPUz7PnRLaoz7Pnm7aU8nFLz6RLNlsolnFL4fkM4UJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="外国语学院">
+                           
+                        </div>
+                        <p>外国语学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/75652.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5L8rCkU8QVMll8UQ46RL4UZM4CYM8LqDL4A7UlCPLln7Ll-0gihFp2hmCIa0oSyPUYhRMkhRoRUYMz9bnzUinmUPM8n2nzQVozL4nm-boRVFMNLbLNWRoz6FMRMRMSbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="法学院、纪检监察学院">
+                                <img src="/virtual_attach_file.vsb?afc=5L8rCkU8QVMll8UQ46RL4UZM4CYM8LqDL4A7UlCPLln7Ll-0gihFp2hmCIa0oSyPUYhRMkhRoRUYMz9bnzUinmUPM8n2nzQVozL4nm-boRVFMNLbLNWRoz6FMRMRMSbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="法学院、纪检监察学院">
+                           
+                        </div>
+                        <p>法学院、纪检监察学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1233.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5UzVCkUlUaM77aoQzviL4TfLzCYU8Uq8MN7aoz7DnznfU4U0gihFp2hmCIa0okhkLSyYLSyDL874M4-DnRlPL4-iMz-sL7rVM4l4nzL8MznFUzC8oR9aLmWFL8Cbokbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="马克思主义学院">
+                                <img src="/virtual_attach_file.vsb?afc=5UzVCkUlUaM77aoQzviL4TfLzCYU8Uq8MN7aoz7DnznfU4U0gihFp2hmCIa0okhkLSyYLSyDL874M4-DnRlPL4-iMz-sL7rVM4l4nzL8MznFUzC8oR9aLmWFL8Cbokbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="马克思主义学院">
+                           
+                        </div>
+                        <p>马克思主义学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1241.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nR9CPM8C4LRNaLQRLYUz-8LmCPL4NqZL4vsLRLZnzCsLmL0gihFp2hmCIa0LkhRMYhkoSyZU8n2o7QVL7U4LRV7nzCbnzLZLRMkoRf2LRrFnRrVMmvsozQFMzQkokbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="理学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nR9CPM8C4LRNaLQRLYUz-8LmCPL4NqZL4vsLRLZnzCsLmL0gihFp2hmCIa0LkhRMYhkoSyZU8n2o7QVL7U4LRV7nzCbnzLZLRMkoRf2LRrFnRrVMmvsozQFMzQkokbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="理学院">
+                           
+                        </div>
+                        <p>理学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1240.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5L7MC2MNUio7-4MQ4-aMNVVLzNDUmLqsnm7iUm-iMmWfUzv0gihFp2hmCIa0MkyDnkhfLky4Ml-Dnl74ozCDoznRnzGbL4GsUzNbL4r7nRMFUlLsnRfRnmnFMzUbMSbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="数学学院">
+                                <img src="/virtual_attach_file.vsb?afc=5L7MC2MNUio7-4MQ4-aMNVVLzNDUmLqsnm7iUm-iMmWfUzv0gihFp2hmCIa0MkyDnkhfLky4Ml-Dnl74ozCDoznRnzGbL4GsUzNbL4r7nRMFUlLsnRfRnmnFMzUbMSbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="数学学院">
+                           
+                        </div>
+                        <p>数学学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/2166.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5M4TC7oRGZMl7PnQmnVnz-4LRrVLRMq7Mmf2oRARM4lDM4-0gihFp2hmCIa0MSyiLYybMkhRMm9DMzCiUmNaM8lZLR9bMNnkoz94LNLsLR6Fo77sLzUYL8VFLmUZLzLJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="医学部-医学院">
+                                <img src="/virtual_attach_file.vsb?afc=5M4TC7oRGZMl7PnQmnVnz-4LRrVLRMq7Mmf2oRARM4lDM4-0gihFp2hmCIa0MSyiLYybMkhRMm9DMzCiUmNaM8lZLR9bMNnkoz94LNLsLR6Fo77sLzUYL8VFLmUZLzLJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="医学部-医学院">
+                           
+                        </div>
+                        <p>医学部-医学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1236.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5Ml-CsMmAVMm74MQNLiUzfVn7lsL7CqDUlWRM4QfMN7sU490gihFp2hmCIa0U1ybMSy4oSysLRrRozARM47sU4T2MlC8olVknN-aM8UPLRWFUmUbM467n7WFL47sUYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="医学部-药物科学与技术学院">
+                                <img src="/virtual_attach_file.vsb?afc=5Ml-CsMmAVMm74MQNLiUzfVn7lsL7CqDUlWRM4QfMN7sU490gihFp2hmCIa0U1ybMSy4oSysLRrRozARM47sU4T2MlC8olVknN-aM8UPLRWFUmUbM467n7WFL47sUYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="医学部-药物科学与技术学院">
+                           
+                        </div>
+                        <p>医学部-药物科学与技术学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1232.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5ozfC2Mz-iUmU8MQ4UZoRv8Ul-DL4-qbMmvZUzQ7Mz-aMlL0gihFp2hmCIa0L1hfMkhfLkyaLmLbnzWVLmCbUl-4MzL4MmUYL8-iU878MzTFUlMVM878UNVFMR7DMYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="医学部-生命科学学院">
+                                <img src="/virtual_attach_file.vsb?afc=5ozfC2Mz-iUmU8MQ4UZoRv8Ul-DL4-qbMmvZUzQ7Mz-aMlL0gihFp2hmCIa0L1hfMkhfLkyaLmLbnzWVLmCbUl-4MzL4MmUYL8-iU878MzTFUlMVM878UNVFMR7DMYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="医学部-生命科学学院">
+                           
+                        </div>
+                        <p>医学部-生命科学学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/9357.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5LlVCfUzL8MmWRnQzG8ozM7nmGaMzCqDUzQknlUbn7n2M4l0gihFp2hmCIa0okyiMSybUYybU4VfnlUYU8UPo7-8M47aUmWVU8CsU4v4o7MFM49DMz7PMmQFLm9bUmvJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="医学部-卫生应急学院">
+                                <img src="/virtual_attach_file.vsb?afc=5LlVCfUzL8MmWRnQzG8ozM7nmGaMzCqDUzQknlUbn7n2M4l0gihFp2hmCIa0okyiMSybUYybU4VfnlUYU8UPo7-8M47aUmWVU8CsU4v4o7MFM49DMz7PMmQFLm9bUmvJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="医学部-卫生应急学院">
+                           
+                        </div>
+                        <p>医学部-卫生应急学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1231.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nRGCin77YM8l8LQ8n7ollbMNL8U4NqsnmNbM8CaM4Linm-0gihFp2hmCIa0MSyZnSyZU1h7nNCiMzvZUm74MmNiL7lDLzNYMRlYMNlPLz6FLl78ozL4oRfFM7MkLkbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="海洋科学与技术学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nRGCin77YM8l8LQ8n7ollbMNL8U4NqsnmNbM8CaM4Linm-0gihFp2hmCIa0MSyZnSyZU1h7nNCiMzvZUm74MmNiL7lDLzNYMRlYMNlPLz6FLl78ozL4oRfFM7MkLkbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="海洋科学与技术学院">
+                           
+                        </div>
+                        <p>海洋科学与技术学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1227.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5o7rCRU8M7U4MknQNMVLm74nmU8L7rqfnRQ2Lmv8MzUinzN0gihFp2hmCIa0U1yiLSyDMShfUmL4M4CDozCDMzUPLRrRnzARUlCaLzCPo7QFUmviL4CDnRWFLmU4ozLJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="地球系统科学学院">
+                                <img src="/virtual_attach_file.vsb?afc=5o7rCRU8M7U4MknQNMVLm74nmU8L7rqfnRQ2Lmv8MzUinzN0gihFp2hmCIa0U1yiLSyDMShfUmL4M4CDozCDMzUPLRrRnzARUlCaLzCPo7QFUmviL4CDnRWFLmU4ozLJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="地球系统科学学院">
+                           
+                        </div>
+                        <p>地球系统科学学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/84282.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5MRWCVUzAkUmn2LQ4rRMmCDUmVfUNMqfUN-DUmT2UmU8nRN0gihFp2hmCIa0MSyPMYyYnkyPUNlZL4UPM4WVL77DozrRUmGbLRWRn778ozVFM8QRLmTRnzAFLzA7nmNJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="能源学院">
+                                <img src="/virtual_attach_file.vsb?afc=5MRWCVUzAkUmn2LQ4rRMmCDUmVfUNMqfUN-DUmT2UmU8nRN0gihFp2hmCIa0MSyPMYyYnkyPUNlZL4UPM4WVL77DozrRUmGbLRWRn778ozVFM8QRLmTRnzAFLzA7nmNJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="能源学院">
+                           
+                        </div>
+                        <p>能源学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/82262.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="未来技术学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="未来技术学院">
+                           
+                        </div>
+                        <p>未来技术学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1243.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5M7LC4oRMfUNLDoQ7MkUz9inmAfnmGq8MmNPnRMRMl7PLRC0gihFp2hmCIa0okybMkyPUSy4L4C8oRVVnlC8MmlbLznkU4MRo7QkMz-sLNMFM4TRozv8oz6FL467L1baptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="宣怀学院">
+                                <img src="/virtual_attach_file.vsb?afc=5M7LC4oRMfUNLDoQ7MkUz9inmAfnmGq8MmNPnRMRMl7PLRC0gihFp2hmCIa0okybMkyPUSy4L4C8oRVVnlC8MmlbLznkU4MRo7QkMz-sLNMFM4TRozv8oz6FL467L1baptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="宣怀学院">
+                           
+                        </div>
+                        <p>宣怀学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/75642.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="国家卓越工程师学院、国际工程师学院">
+                                <img src="/virtual_attach_file.vsb?afc=5nlWC2L4VfM7lDoQRlPL7U4ozv8nmTqfLzQVnRCZU4nRnRC0gihFp2hmCIa0LSy4UYyaokyDLRL4LNlsU4Q2Um62nzrfMzNPUmNbUmvPM7rFnzUDUmU4M8QFLzffUzUJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="国家卓越工程师学院、国际工程师学院">
+                           
+                        </div>
+                        <p>国家卓越工程师学院、国际工程师学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1237.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5Mz7C4MlrfUznfLQ46RMNLDU8QkMN-q4U4VfLmNanmM7M4v0gihFp2hmCIa0okh2LShRMSybLNU4o7CiMzlinmLaUmlaUl-8M4MRUllZL4rFMz7PolM7nlVFL8CbL1baptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="教育学院">
+                                <img src="/virtual_attach_file.vsb?afc=5Mz7C4MlrfUznfLQ46RMNLDU8QkMN-q4U4VfLmNanmM7M4v0gihFp2hmCIa0okh2LShRMSybLNU4o7CiMzlinmLaUmlaUl-8M4MRUllZL4rFMz7PolM7nlVFL8CbL1baptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="教育学院">
+                           
+                        </div>
+                        <p>教育学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/1230.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5LmTC2Lz74o7CbnQmlDM87bM8QRL4WqfnlLaLlWkolLiLl-0gihFp2hmCIa0MYy4nkysMYh7L7V2MzLZLzNbnlQfnm9YMmVfLlLYUzWVLmrFMmWRUmCbM7WFMRCZUYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="国际教育学院">
+                                <img src="/virtual_attach_file.vsb?afc=5LmTC2Lz74o7CbnQmlDM87bM8QRL4WqfnlLaLlWkolLiLl-0gihFp2hmCIa0MYy4nkysMYh7L7V2MzLZLzNbnlQfnm9YMmVfLlLYUzWVLmrFMmWRUmCbM7WFMRCZUYbaptveo4OeQsvYLR-igDTJQty0gzL0gzLJqdpnx&oid=2111843594&e=.png" alt="国际教育学院">
+                           
+                        </div>
+                        <p>国际教育学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/2167.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5L7UCsozvPn7Q2nQz7bnlLPMlMVMz-q4Lmf2M8-YozQ7L7L0gihFp2hmCIa0USh7oSyDoShkoRrknzL8oRrRoRrkLRQ7oRM7L7-sLz-YMmQFUm7DMzr2n7nFL4NPnz7Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="新媒体与传播学院">
+                                <img src="/virtual_attach_file.vsb?afc=5L7UCsozvPn7Q2nQz7bnlLPMlMVMz-q4Lmf2M8-YozQ7L7L0gihFp2hmCIa0USh7oSyDoShkoRrknzL8oRrRoRrkLRQ7oRM7L7-sLz-YMmQFUm7DMzr2n7nFL4NPnz7Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="新媒体与传播学院">
+                           
+                        </div>
+                        <p>新媒体与传播学院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/2253.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5U4WCVo7C4ozlaUQz67LlrkL7UsozQq2n7lZUzUZMRCDMzC0gihFp2hmCIa0UYyDMShfL1h2oRQVnR9bMmAkLz7inlW7U4U8L4GaL8rkL4TFoz9ZnNV7nlQFLzAkL77Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="分子+研究院">
+                                <img src="/virtual_attach_file.vsb?afc=5U4WCVo7C4ozlaUQz67LlrkL7UsozQq2n7lZUzUZMRCDMzC0gihFp2hmCIa0UYyDMShfL1h2oRQVnR9bMmAkLz7inlW7U4U8L4GaL8rkL4TFoz9ZnNV7nlQFLzAkL77Jv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="分子+研究院">
+                           
+                        </div>
+                        <p>分子+研究院</p>
+                    </a>
+                </li>
+                <li class="wow flipInY">
+                    <a href="info/1044/2254.htm" target="_blank">
+                        <div class="icons">
+                                <img src="virtual_attach_file.vsb?afc=5UNLCPLRWVoRn2nQRWkn7-ZnlWkoRWq7LmWVnRn2MmCbL4v0gihFp2hmCIa0M1hfMkyZU1y8M4UZU8L4LlliLlM2o7nVnzCioz98LRWRnmTFMzGaU4VRnRQFLzL8ozGJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="分子聚集态科学研究院">
+                                <img src="/virtual_attach_file.vsb?afc=5UNLCPLRWVoRn2nQRWkn7-ZnlWkoRWq7LmWVnRn2MmCbL4v0gihFp2hmCIa0M1hfMkyZU1y8M4UZU8L4LlliLlM2o7nVnzCioz98LRWRnmTFMzGaU4VRnRQFLzL8ozGJv2bjo4OeoD6sLmGYMShXptQ0gY84gY84gtA8pUpcc&oid=2111843594&e=.png" alt="分子聚集态科学研究院">
+                           
+                        </div>
+                        <p>分子聚集态科学研究院</p>
+                    </a>
+                </li>
+            
+        </ul>
+    </div>
+</div>
+
+<script>_showDynClickBatch(['dynclicks_u49_1252','dynclicks_u49_1251','dynclicks_u49_1250','dynclicks_u49_1249','dynclicks_u49_1234','dynclicks_u49_82252','dynclicks_u49_9356','dynclicks_u49_10147','dynclicks_u49_1248','dynclicks_u49_1247','dynclicks_u49_1246','dynclicks_u49_10194','dynclicks_u49_1245','dynclicks_u49_1235','dynclicks_u49_1244','dynclicks_u49_6722','dynclicks_u49_1239','dynclicks_u49_75652','dynclicks_u49_1233','dynclicks_u49_1241','dynclicks_u49_1240','dynclicks_u49_2166','dynclicks_u49_1236','dynclicks_u49_1232','dynclicks_u49_9357','dynclicks_u49_1231','dynclicks_u49_1227','dynclicks_u49_84282','dynclicks_u49_82262','dynclicks_u49_1243','dynclicks_u49_75642','dynclicks_u49_1237','dynclicks_u49_1230','dynclicks_u49_2167','dynclicks_u49_2253','dynclicks_u49_2254'],[1252,1251,1250,1249,1234,82252,9356,10147,1248,1247,1246,10194,1245,1235,1244,6722,1239,75652,1233,1241,1240,2166,1236,1232,9357,1231,1227,84282,82262,1243,75642,1237,1230,2167,2253,2254],"wbnews", 2111843594)</script>
+</div>
+
+
+        <div class="footer">
+            <div class="w1520">
+                <div class="foot-c">
+                    <div class="foot-l">
+                        <div class="foot-logo">    
+<a href="" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 2111843594, 1012681)"><img src="images/tjulogo.png" alt=""></a>
+
+</div>
+                        <div class="foot-info">
+                            <div class="foot-ewm">    <ul>
+            <li>
+            <div><img src="newfiles/images/wechat_qr.jpg" alt="官方微信号"></div>
+            <p>官方微信号</p>
+        </li>
+        <li>
+            <div><img src="images/weixintupian_20250616120450.jpg" alt="官方微博号"></div>
+            <p>官方微博号</p>
+        </li>
+</ul>
+
+</div>
+                            <div class="foot-text"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>地址：天津市南开区卫津路92号</p><p>邮编：300072</p><p><a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">津ICP备05004358号-1</a> <a href>津教备0316号</a> &nbsp; &nbsp; &nbsp; <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12010402000425" target="_blank">津公网安备 12010402000425号</a></p></div>
+                        </div>
+                    </div>
+                    <div class="foot-r"><div class="foot-link">
+<ul>
+            <li><a href="https://e.tju.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99253)">融合门户</a></li>
+        <li><a href="td/dhcx.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99255)">电话查询</a></li>
+        <li><a href="https://mail.tju.edu.cn/" title="电子邮件系统" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99342)">电子邮件系统</a></li>
+        <li><a href="https://xxgkw.tju.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99258)">信息公开</a></li>
+        <li><a href="kxyj/xsqk.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99259)">期刊中心</a></li>
+        <li><a href="http://www.lib.tju.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99260)">图书馆</a></li>
+        <li><a href="https://vpn.tju.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99343)">VPN服务</a></li>
+        <li><a href="https://news.tju.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99344)">新闻网</a></li>
+        <li><a href="https://vr.tju.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99345)">全景天大</a></li>
+        <li><a href="https://faculty.tju.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 2111843594, 99352)">教师个人主页</a></li>
+</ul>
+</div></div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <script>
+        $(function () {
+            new WOW().init();
+        })
+
+    </script>
+    <script src="newfiles/js/index.js"></script>
+
+
+
+
+
+</body>
+
+</html>

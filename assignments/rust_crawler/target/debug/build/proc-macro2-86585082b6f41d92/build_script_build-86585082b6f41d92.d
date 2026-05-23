@@ -1,0 +1,5 @@
+/home/kikun/School/opencamp-project/assignments/first/rust_crawler/target/debug/build/proc-macro2-86585082b6f41d92/build_script_build-86585082b6f41d92.d: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.106/build.rs
+
+/home/kikun/School/opencamp-project/assignments/first/rust_crawler/target/debug/build/proc-macro2-86585082b6f41d92/build_script_build-86585082b6f41d92: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.106/build.rs
+
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.106/build.rs:

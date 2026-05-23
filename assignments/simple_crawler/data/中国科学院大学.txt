@@ -1,0 +1,1858 @@
+<!doctype html>
+<html><head><meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0"> 
+<meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+<meta name="format-detection" content="telephone=no"> 
+<meta name="renderer" content="webkit"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+<title>中国科学院大学</title> 
+<link rel="stylesheet" href="css/swiper.css?v=1779211232555"> 
+<link rel="stylesheet" href="css/slick.css?v=1779211232555"> 
+<link rel="stylesheet" href="css/base.css?v=1779211232555"> 
+<link rel="stylesheet" href="css/codehim-clock.css?v=1779211232555"> 
+<link rel="stylesheet" href="css/common.css?v=1779211232555"> 
+<link rel="stylesheet" href="css/index.css?v=1779211232555"> 
+<link rel="stylesheet" href="css/theme.css?v=1779211232555"> 
+<link rel="shortcut icon" href="/publish/xww/images/icon1.png"> <!--[if IE 9]>
+<style>
+html{overflow-x:hidden;overflow-y:hidden;}
+</style>
+<i class="ie_bg"></i><div class="ie9tips"> <img src="images/logo.png" alt=""> <p>本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 <a href='http://browsehappy.osfipin.com/' target='_blank' style='text-decoration:underline'>更高的版本</a>！以获得更好的观看效果。</p>
+</div>
+<![endif]--><meta name="author" content="" /><meta name="description" content="" /><meta name="keywords" content="" /><link rel='shortcut icon' href=''><script type='text/javascript' src='/publish/gPublic/all.js?v=1779211232555'></script></head><body >
+<header class="header">
+  <div class="search_box">
+      <div class="close" onclick="$('.search_box').toggleClass('on')"></div>
+      <div class="ser">
+          <form class="search" name="dataForm" action="/cms/web/search/index.jsp" target="_blank" method="post"
+                accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+              <script type="text/javascript" src="/cms/web/search/token.jsp?v=1779211232555"></script>
+<!--                <input name="siteID" value="e0d3cca04cef416995e3bd2d1f9d8864" type="hidden">-->
+              <input class="notxt" value="" name="query" type="text" id="keywords"
+                     onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}"
+                     onclick="if(this.value==''){this.value='';this.form.keywords.style.color='#444'}">
+              <input class="notxt1 btn" name="Submit" type="submit" value="Search">
+          </form>
+      </div>
+  </div>
+  <a target="_blank" href="http://www.cas.ac.cn/" class="logo">
+      <img src="images/logo_01.png" class="logo1">
+      <img src="images/logo_02.png" class="logo2">
+  </a>
+  <a target="_blank" href="http://www.cas.ac.cn/" class="fix_logo">
+      <img src="images/logo_fix.png">
+  </a>
+  <div class="bg"></div>
+  <div class="top">
+      <div class="row">
+          <div class="lf">
+              <a target="_blank" href="https://sep.ucas.ac.cn/" class="fs16">信息门户</a>
+              <a target="_blank" href="https://onestop.ucas.ac.cn/" class="fs16">学生</a>
+              <a target="_blank" href="https://onestop.ucas.ac.cn/Staff.html" class="fs16">教工</a>
+              <a target="_blank" href="https://alumni.ucas.ac.cn/" class="fs16">校友</a>
+              <a target="_blank" href="https://admission.ucas.ac.cn/ShowArticle/newslist1/0659c1ad-c6df-4c2a-8c53-dacb1c2b69e8" class="fs16">考生</a>
+          </div>
+          <div class="rt">
+<a href="wzdt/index.htm" class="en fs16">网站地图</a>
+              <a href="https://english.ucas.ac.cn" class="en fs16">English Version</a>
+              <!-- <div class="ser_btn" onclick="$('.search_box').toggleClass('on')"></div> -->
+          </div>
+          <div class="clear"></div>
+      </div>
+      <div class="gp_m_logo"><a target="_blank" href="index.htm"><img src="images/moble_logo.png" alt=""></a></div>
+  </div>
+  <div class="wrapNav">
+      <nav class="nav row">
+          <ul class="lf_nav">
+              <li><a target="_blank" href="xxgk/index.htm">学校概况</a>
+                  <div class="subNav">
+                      <div class="subImg">
+                          <img src="images/2023-06/7b71a04329504943aac1cdf588e2ca31.jpg">
+                      </div>
+                      <dl class="subNavList">
+                          <dd><a target="_blank" href="xxgk/xxjj/index.htm">学校简介</a></dd>
+                          <dd><a target="_blank" href="xxgk/gltz/index.htm">学校章程</a></dd>
+                          <dd><a target="_blank" href="xxgk/xrld/index.htm">现任领导</a></dd>
+                          <dd><a target="_blank" href="xxgk/glzc/index.htm">管理支撑</a></dd>
+                          <dd><a target="_blank" href="xxgk/lsyg/index.htm">历史沿革</a></dd>
+                          <dd><a target="_blank" href="xxgk/lrld/index.htm">历任领导</a></dd>
+                          <dd><a target="_blank" href="xxgk/xqtj/index.htm">校情统计</a></dd>
+                          <dd><a target="_blank" href="https://onestop.ucas.edu.cn/home/info/6b9e95dc-5785-4eee-b25f-1f884698cfc3">标识系统</a></dd>
+                          <dd><a target="_blank" href="xxgk/xydy/index.htm">校园导游</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="zzjg/index.htm">组织机构</a>
+                  <div class="subNav">
+                      <div class="subImg">
+                          <img src="images/2023-02/4f7dde771a4742a5882732394718f998.png">
+                      </div>
+                      <dl class="subNavList">
+                          <dd><a target="_blank" href="zzjg/zljg/index.htm">治理机构</a></dd>
+                          <dd><a target="_blank" href="zzjg/yxzx/index.htm">院系中心</a></dd>
+                          <dd><a target="_blank" href="zzjg/pydw/index.htm">培养单位</a></dd>
+                          <dd><a target="_blank" href="xxgk/glzc/index.htm">管理支撑</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="szdw/index.htm">师资队伍</a>
+                  <div class="subNav">
+                      <div class="subImg">
+                          <img src="images/2023-10/370b625590a5456bb2ce53391796c8ff.jpg">
+                      </div>
+                      <dl class="subNavList">
+                          <dd><a target="_blank" href="szdw/lyys/index.htm">两院院士</a></dd>
+                          <dd><a target="_blank" href="szdw/jcqn/index.htm">杰出青年</a></dd>
+                          <dd><a target="_blank" href="szdw/zrjs/index.htm">专任教师</a></dd>
+                          <dd><a target="_blank" href="szdw/yjsds/index.htm">研究生导师</a></dd>
+                          <dd><a target="_blank" href="szdw/jyglgb/index.htm">教育管理干部</a></dd>
+                          <dd><a target="_blank" href="https://recruit.ucas.ac.cn/#/app/zgkxydx/ucas-recruit/zpwz">人才招聘</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="jyjx/index.htm">教育教学</a>
+                  <div class="subNav">
+                      <div class="subImg">
+                          <img src="images/2023-02/8014ce873b5c4694a3510cf0010846cf.png">
+                      </div>
+                      <dl class="subNavList">
+                          <dd><a target="_blank" href="jyjx/bksjy/index.htm">本科生教育</a></dd>
+                          <dd><a target="_blank" href="jyjx/yjsjy/index.htm">研究生教育</a></dd>
+                          <dd><a target="_blank" href="jyjx/gjhzpy/index.htm">国际合作培养</a></dd>
+                          <dd><a target="_blank" href="jyjx/jxjy/index.htm">继续教育</a></dd>
+                          <dd><a target="_blank" href="jyjx/lxsjy/index.htm">留学生教育</a></dd>
+                          <dd><a target="_blank" href="http://mooc.ucas.edu.cn/portal">国科大在线</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="kxyj/index.htm">科学研究</a>
+                  <div class="subNav">
+                      <div class="subImg">
+                          <img src="images/2023-02/76cd81b2e8a94effbf9e963f471c5cad.png">
+                      </div>
+                      <dl class="subNavList">
+                          <dd><a target="_blank" href="kxyj/kydt/index.htm">科研动态</a></dd>
+                          <dd><a target="_blank" href="kxyj/xsqk/index.htm">学术期刊</a></dd>
+                          <dd><a target="_blank" href="https://libvpn.ucas.ac.cn/https/77726476706e69737468656265737421fcfe43d23233694330098ae29b5b/">图书馆</a></dd>
+                      </dl>
+                  </div>
+              </li>
+          </ul>
+          <ul class="rt_nav">
+              <li><a target="_blank" href="zsjy/index.htm">招生就业</a>
+                  <div class="subNav">
+                      <div class="subImg">
+                          <img src="images/2023-02/b0ee40285583407cb45febbc60e07fc8.jpg">
+                      </div>
+                      <dl class="subNavList">
+                          <dd><a target="_blank" href="https://admission.ucas.ac.cn/">招生信息</a></dd>
+                          <dd><a target="_blank" href="zsjy/bkszs/index.htm">本科生招生</a></dd>
+                          <dd><a target="_blank" href="zsjy/yjszs/index.htm">研究生招生</a></dd>
+                          <dd><a target="_blank" href="zsjy/gjxszs/index.htm">留学生招生</a></dd>
+                          <dd><a target="_blank" href="zsjy/jyxx/index.htm">就业信息</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="hzjl/index.htm">合作交流</a>
+                  <div class="subNav">
+                      <div class="subImg">
+                          <img src="images/2025-09/64c3dcffed6045629825ed56f39646de.jpg">
+                      </div>
+                      <dl class="subNavList">
+                          <dd><a target="_blank" href="hzjl/gnhz/index.htm">国内合作</a></dd>
+                          <dd><a target="_blank" href="hzjl/gjhz/index.htm">国际合作</a></dd>
+                          <dd><a target="_blank" href="http://www.ucasef.cn/">教育基金会</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="xyshq/index.htm">校园生活</a>
+                  <div class="subNav">
+                      <div class="subImg">
+                          <img src="images/2023-09/gp_th_3d57ab89c5b84f9ea11c5e5e4663f8b3.jpg">
+                      </div>
+                      <dl class="subNavList">
+                          <dd><a target="_blank" href="https://duzhi.ucas.ac.cn/">笃志网</a></dd>
+                          <dd><a target="_blank" href="https://youth.ucas.ac.cn/index.php/zh-cn/">团学在线</a></dd>
+                          <dd><a target="_blank" href="https://service.ucas.ac.cn/">校园服务</a></dd>
+                          <dd><a target="_blank" href="https://gkder.ucas.ac.cn/">国科大社区</a></dd>
+                          <dd><a target="_blank" href="xyshq/jgzj/index.htm">教工之家</a></dd>
+                          <dd><a target="_blank" href="xyshq/jzlt/index.htm">讲座论坛</a></dd>
+                          <dd><a target="_blank" href="xyshq/xsst/index.htm">学生社团</a></dd>
+                          <dd><a target="_blank" href="xyshq/kjcx/index.htm">科技创新</a></dd>
+                          <dd><a target="_blank" href="xyshq/shsj/index.htm">社会实践</a></dd>
+                          <dd><a target="_blank" href="xyshq/zygy/index.htm">志愿公益</a></dd>
+                          <dd><a target="_blank" href="xyshq/tyhd/index.htm">体育活动</a></dd>
+                          <dd><a target="_blank" href="xyshq/wyhd/index.htm">文艺活动</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="xysh/index.htm">大学文化</a>
+                  <div class="subNav">
+                      <div class="subImg">
+                          <img src="images/2023-02/188a515ffd4f4a1383bd75ee6ca301a4.png">
+                      </div>
+                      <dl class="subNavList">
+                          <dd><a target="_blank" href="xysh/gkdxsd/index.htm">国科大新视点</a></dd>
+                          <dd><a target="_blank" href="xysh/gygkd/index.htm">光影国科大</a></dd>
+                          <dd><a target="_blank" href="xysh/xxsy/index.htm">校训释义</a></dd>
+                          <dd><a target="_blank" href="https://kexie.ucas.ac.cn/index.php/zh/">春分工程</a></dd>
+                          <dd><a target="_blank" href="https://glory.ucas.ac.cn/">中国科学院与“两弹一星”纪念馆</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="xxgk1/index.htm">信息公开</a>
+                  <div class="subNav">
+                      <div class="subImg">
+                          <img src="images/2025-09/3e1d4f1ec4e84961b9b226043f7e37ef.jpg">
+                      </div>
+                      <dl class="subNavList">
+                          <dd><a target="_blank" href="xxgk1/sx/index.htm">事项</a></dd>
+                          <dd><a target="_blank" href="xxgk1/ndbg/index.htm">年度报告</a></dd>
+                          <dd><a target="_blank" href="xxgk1/zdbf/index.htm">制度办法</a></dd>
+                          <dd><a target="_blank" href="xxgk1/lxwm/index.htm">联系我们</a></dd>
+                          <dd><a target="_blank" href="xxgk1/zxsq/index.htm">在线申请</a></dd>
+                          <dd><a target="_blank" href="xxgk1/jdts/index.htm">监督投诉</a></dd>
+                          <dd><a target="_blank" href="https://xzxx.ucas.ac.cn/">校长信箱</a></dd>
+                      </dl>
+                  </div>
+              </li>
+
+          </ul>
+          <div class="clear"></div>
+      </nav>
+  </div>
+
+  <div class="full_menu_btn" onclick="$('.header').toggleClass('full')"></div>
+  <div class="full_menu">
+      <div class="top">
+          <div class="lf">
+              <a target="_blank" href="https://sep.ucas.ac.cn/" class="fs16">信息门户</a>
+              <a target="_blank" href="https://onestop.ucas.ac.cn/" class="fs16">学生</a>
+              <a target="_blank" href="https://onestop.ucas.ac.cn/Staff.html" class="fs16">教工</a>
+              <a target="_blank" href="https://alumni.ucas.ac.cn/" class="fs16">校友</a>
+              <a target="_blank" href="https://admission.ucas.ac.cn/ShowArticle/newslist1/0659c1ad-c6df-4c2a-8c53-dacb1c2b69e8" class="fs16">考生</a>
+          </div>
+          <div class="rt">
+<a href="wzdt/index.htm" class="en fs16">网站地图</a>
+              <a href="https://english.ucas.ac.cn" class="en fs16">English Version</a>
+              <div class="ser_btn" onclick="$('.search_box').toggleClass('on')"></div>
+          </div>
+          <div class="clear"></div>
+      </div>
+      <nav class="nav full_nav">
+          <ul>
+              <li><a target="_blank" href="index.htm">首页</a></li>
+              <li><a target="_blank" href="xxgk/index.htm">学校概况</a>
+                  <div class="subNav2">
+                      <dl class="subNavList2">
+                          <dd><a target="_blank" href="xxgk/xxjj/index.htm">学校简介</a></dd>
+                          <dd><a target="_blank" href="xxgk/gltz/index.htm">学校章程</a></dd>
+                          <dd><a target="_blank" href="xxgk/xrld/index.htm">现任领导</a></dd>
+                          <dd><a target="_blank" href="xxgk/glzc/index.htm">管理支撑</a></dd>
+                          <dd><a target="_blank" href="xxgk/lsyg/index.htm">历史沿革</a></dd>
+                          <dd><a target="_blank" href="xxgk/lrld/index.htm">历任领导</a></dd>
+                          <dd><a target="_blank" href="xxgk/xqtj/index.htm">校情统计</a></dd>
+                          <dd><a target="_blank" href="https://onestop.ucas.edu.cn/home/info/6b9e95dc-5785-4eee-b25f-1f884698cfc3">标识系统</a></dd>
+                          <dd><a target="_blank" href="xxgk/xydy/index.htm">校园导游</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="zzjg/index.htm">组织机构</a>
+                  <div class="subNav2">
+                      <dl class="subNavList2">
+                          <dd><a target="_blank" href="zzjg/zljg/index.htm">治理机构</a></dd>
+                          <dd><a target="_blank" href="zzjg/yxzx/index.htm">院系中心</a></dd>
+                          <dd><a target="_blank" href="zzjg/pydw/index.htm">培养单位</a></dd>
+                          <dd><a target="_blank" href="xxgk/glzc/index.htm">管理支撑</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="szdw/index.htm">师资队伍</a>
+                  <div class="subNav2">
+                      <dl class="subNavList2">
+                          <dd><a target="_blank" href="szdw/lyys/index.htm">两院院士</a></dd>
+                          <dd><a target="_blank" href="szdw/jcqn/index.htm">杰出青年</a></dd>
+                          <dd><a target="_blank" href="szdw/zrjs/index.htm">专任教师</a></dd>
+                          <dd><a target="_blank" href="szdw/yjsds/index.htm">研究生导师</a></dd>
+                          <dd><a target="_blank" href="szdw/jyglgb/index.htm">教育管理干部</a></dd>
+                          <dd><a target="_blank" href="https://recruit.ucas.ac.cn/#/app/zgkxydx/ucas-recruit/zpwz">人才招聘</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="jyjx/index.htm">教育教学</a>
+                  <div class="subNav2">
+                      <dl class="subNavList2">
+                          <dd><a target="_blank" href="jyjx/bksjy/index.htm">本科生教育</a></dd>
+                          <dd><a target="_blank" href="jyjx/yjsjy/index.htm">研究生教育</a></dd>
+                          <dd><a target="_blank" href="jyjx/gjhzpy/index.htm">国际合作培养</a></dd>
+                          <dd><a target="_blank" href="jyjx/jxjy/index.htm">继续教育</a></dd>
+                          <dd><a target="_blank" href="jyjx/lxsjy/index.htm">留学生教育</a></dd>
+                          <dd><a target="_blank" href="http://mooc.ucas.edu.cn/portal">国科大在线</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="kxyj/index.htm">科学研究</a>
+                  <div class="subNav2">
+                      <dl class="subNavList2">
+                          <dd><a target="_blank" href="kxyj/kydt/index.htm">科研动态</a></dd>
+                          <dd><a target="_blank" href="kxyj/xsqk/index.htm">学术期刊</a></dd>
+                          <dd><a target="_blank" href="https://libvpn.ucas.ac.cn/https/77726476706e69737468656265737421fcfe43d23233694330098ae29b5b/">图书馆</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="zsjy/index.htm">招生就业</a>
+                  <div class="subNav2">
+                      <dl class="subNavList2">
+                          <dd><a target="_blank" href="https://admission.ucas.ac.cn/ShowArticle/newslist1/0659c1ad-c6df-4c2a-8c53-dacb1c2b69e8">招生信息</a></dd>
+                          <dd><a target="_blank" href="https://admission.ucas.ac.cn/">招生信息</a></dd>
+                          <dd><a target="_blank" href="zsjy/bkszs/index.htm">本科生招生</a></dd>
+                          <dd><a target="_blank" href="zsjy/yjszs/index.htm">研究生招生</a></dd>
+                          <dd><a target="_blank" href="zsjy/gjxszs/index.htm">留学生招生</a></dd>
+                          <dd><a target="_blank" href="http://job.ucas.ac.cn/">就业信息</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="hzjl/index.htm">合作交流</a>
+                  <div class="subNav2">
+                      <dl class="subNavList2">
+                          <dd><a target="_blank" href="hzjl/gnhz/index.htm">国内合作</a></dd>
+                          <dd><a target="_blank" href="hzjl/gjhz/index.htm">国际合作</a></dd>
+                          <dd><a target="_blank" href="http://www.ucasef.cn/">教育基金会</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="xyshq/index.htm">校园生活</a>
+                  <div class="subNav2">
+                      <dl class="subNavList2">
+                          <dd><a target="_blank" href="https://duzhi.ucas.ac.cn/">笃志网</a></dd>
+                          <dd><a target="_blank" href="https://youth.ucas.ac.cn/index.php/zh-cn/">团学在线</a></dd>
+                          <dd><a target="_blank" href="https://service.ucas.ac.cn/">校园服务</a></dd>
+                          <dd><a target="_blank" href="https://gkder.ucas.ac.cn/">国科大社区</a></dd>
+                          <dd><a target="_blank" href="xyshq/jgzj/index.htm">教工之家</a></dd>
+                          <dd><a target="_blank" href="xyshq/jzlt/index.htm">讲座论坛</a></dd>
+                          <dd><a target="_blank" href="xyshq/xsst/index.htm">学生社团</a></dd>
+                          <dd><a target="_blank" href="xyshq/kjcx/index.htm">科技创新</a></dd>
+                          <dd><a target="_blank" href="xyshq/shsj/index.htm">社会实践</a></dd>
+                          <dd><a target="_blank" href="xyshq/zygy/index.htm">志愿公益</a></dd>
+                          <dd><a target="_blank" href="xyshq/tyhd/index.htm">体育活动</a></dd>
+                          <dd><a target="_blank" href="xyshq/wyhd/index.htm">文艺活动</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="xysh/index.htm">大学文化</a>
+                  <div class="subNav2">
+                      <dl class="subNavList2">
+                          <dd><a target="_blank" href="xysh/gkdxsd/index.htm">国科大新视点</a></dd>
+                          <dd><a target="_blank" href="xysh/gygkd/index.htm">光影国科大</a></dd>
+                          <dd><a target="_blank" href="xysh/xxsy/index.htm">校训释义</a></dd>
+                          <dd><a target="_blank" href="https://kexie.ucas.ac.cn/index.php/zh/">春分工程</a></dd>
+                          <dd><a target="_blank" href="https://glory.ucas.ac.cn/">中国科学院与“两弹一星”纪念馆</a></dd>
+                      </dl>
+                  </div>
+              </li>
+              <li><a target="_blank" href="xxgk1/index.htm">信息公开</a>
+                  <div class="subNav2">
+                      <dl class="subNavList2">
+                          <dd><a target="_blank" href="xxgk1/sx/index.htm">事项</a></dd>
+                          <dd><a target="_blank" href="xxgk1/ndbg/index.htm">年度报告</a></dd>
+                          <dd><a target="_blank" href="xxgk1/zdbf/index.htm">制度办法</a></dd>
+                          <dd><a target="_blank" href="xxgk1/lxwm/index.htm">联系我们</a></dd>
+                          <dd><a target="_blank" href="xxgk1/zxsq/index.htm">在线申请</a></dd>
+                          <dd><a target="_blank" href="xxgk1/jdts/index.htm">监督投诉</a></dd>
+                          <dd><a target="_blank" href="https://xzxx.ucas.ac.cn/">校长信箱</a></dd>
+                      </dl>
+                  </div>
+              </li>
+
+          </ul>
+      </nav>
+
+  </div>
+
+  <!-- 移动端主导航 -->
+  <section class="mobile">
+      <div class="mobile-inner-header">
+          <div class="mobile-inner-header-icon mobile-inner-header-icon-out">
+              <span></span><span></span><span></span>
+              <i class="iconfont icon-caidan"></i>
+          </div>
+      </div>
+      <div class="mobile-inner-nav">
+          <div class="mobile_topNav gp-f16">
+              <a target="_blank" href="https://sep.ucas.ac.cn/">信息门户</a>
+              <a target="_blank" href="https://onestop.ucas.ac.cn/">学生</a>
+              <a target="_blank" href="https://onestop.ucas.ac.cn/Staff.html">教工</a>
+              <a target="_blank" href="https://alumni.ucas.ac.cn/">校友</a>
+              <a target="_blank" href="https://admission.ucas.ac.cn/ShowArticle/newslist1/0659c1ad-c6df-4c2a-8c53-dacb1c2b69e8">考生</a>
+              <a href="wzdt/index.htm" >网站地图</a>
+              <a href="https://english.ucas.ac.cn">English Version</a>
+          </div>
+          <ul>
+              <li><a target="_blank" href="xxgk/index.htm">学校概况</a><strong class="iconfont icon-fanhui"></strong>
+                  <dl class="mobile_subNav">
+                      <dd><a target="_blank" href="xxgk/xxjj/index.htm">学校简介</a></dd>
+                      <dd><a target="_blank" href="xxgk/gltz/index.htm">学校章程</a></dd>
+                      <dd><a target="_blank" href="xxgk/xrld/index.htm">现任领导</a></dd>
+                      <dd><a target="_blank" href="xxgk/glzc/index.htm">管理支撑</a></dd>
+                      <dd><a target="_blank" href="xxgk/lsyg/index.htm">历史沿革</a></dd>
+                      <dd><a target="_blank" href="xxgk/lrld/index.htm">历任领导</a></dd>
+                      <dd><a target="_blank" href="xxgk/xqtj/index.htm">校情统计</a></dd>
+                      <dd><a target="_blank" href="https://onestop.ucas.edu.cn/home/info/6b9e95dc-5785-4eee-b25f-1f884698cfc3">标识系统</a></dd>
+                      <dd><a target="_blank" href="xxgk/xydy/index.htm">校园导游</a></dd>
+                  </dl>
+              </li>
+              <li><a target="_blank" href="zzjg/index.htm">组织机构</a><strong class="iconfont icon-fanhui"></strong>
+                  <dl class="mobile_subNav">
+                      <dd><a target="_blank" href="zzjg/zljg/index.htm">治理机构</a></dd>
+                      <dd><a target="_blank" href="zzjg/yxzx/index.htm">院系中心</a></dd>
+                      <dd><a target="_blank" href="zzjg/pydw/index.htm">培养单位</a></dd>
+                      <dd><a target="_blank" href="xxgk/glzc/index.htm">管理支撑</a></dd>
+                  </dl>
+              </li>
+              <li><a target="_blank" href="szdw/index.htm">师资队伍</a><strong class="iconfont icon-fanhui"></strong>
+                  <dl class="mobile_subNav">
+                      <dd><a target="_blank" href="szdw/lyys/index.htm">两院院士</a></dd>
+                      <dd><a target="_blank" href="szdw/jcqn/index.htm">杰出青年</a></dd>
+                      <dd><a target="_blank" href="szdw/zrjs/index.htm">专任教师</a></dd>
+                      <dd><a target="_blank" href="szdw/yjsds/index.htm">研究生导师</a></dd>
+                      <dd><a target="_blank" href="szdw/jyglgb/index.htm">教育管理干部</a></dd>
+                      <dd><a target="_blank" href="https://recruit.ucas.ac.cn/#/app/zgkxydx/ucas-recruit/zpwz">人才招聘</a></dd>
+                  </dl>
+              </li>
+              <li><a target="_blank" href="jyjx/index.htm">教育教学</a><strong class="iconfont icon-fanhui"></strong>
+                  <dl class="mobile_subNav">
+                      <dd><a target="_blank" href="jyjx/bksjy/index.htm">本科生教育</a></dd>
+                      <dd><a target="_blank" href="jyjx/yjsjy/index.htm">研究生教育</a></dd>
+                      <dd><a target="_blank" href="jyjx/gjhzpy/index.htm">国际合作培养</a></dd>
+                      <dd><a target="_blank" href="jyjx/jxjy/index.htm">继续教育</a></dd>
+                      <dd><a target="_blank" href="jyjx/lxsjy/index.htm">留学生教育</a></dd>
+                      <dd><a target="_blank" href="http://mooc.ucas.edu.cn/portal">国科大在线</a></dd>
+                  </dl>
+              </li>
+              <li><a target="_blank" href="kxyj/index.htm">科学研究</a><strong class="iconfont icon-fanhui"></strong>
+                  <dl class="mobile_subNav">
+                      <dd><a target="_blank" href="kxyj/kydt/index.htm">科研动态</a></dd>
+                      <dd><a target="_blank" href="kxyj/xsqk/index.htm">学术期刊</a></dd>
+                      <dd><a target="_blank" href="https://libvpn.ucas.ac.cn/https/77726476706e69737468656265737421fcfe43d23233694330098ae29b5b/">图书馆</a></dd>
+                  </dl>
+              </li>
+              <li><a target="_blank" href="zsjy/index.htm">招生就业</a><strong class="iconfont icon-fanhui"></strong>
+                  <dl class="mobile_subNav">
+                      <dd><a target="_blank" href="https://admission.ucas.ac.cn/ShowArticle/newslist1/0659c1ad-c6df-4c2a-8c53-dacb1c2b69e8">招生信息</a></dd>
+                      <dd><a target="_blank" href="https://admission.ucas.ac.cn/">招生信息</a></dd>
+                      <dd><a target="_blank" href="zsjy/bkszs/index.htm">本科生招生</a></dd>
+                      <dd><a target="_blank" href="zsjy/yjszs/index.htm">研究生招生</a></dd>
+                      <dd><a target="_blank" href="zsjy/gjxszs/index.htm">留学生招生</a></dd>
+                      <dd><a target="_blank" href="http://job.ucas.ac.cn/">就业信息</a></dd>
+                  </dl>
+              </li>
+              <li><a target="_blank" href="hzjl/index.htm">合作交流</a><strong class="iconfont icon-fanhui"></strong>
+                  <dl class="mobile_subNav">
+                      <dd><a target="_blank" href="hzjl/gnhz/index.htm">国内合作</a></dd>
+                      <dd><a target="_blank" href="hzjl/gjhz/index.htm">国际合作</a></dd>
+                      <dd><a target="_blank" href="http://www.ucasef.cn/">教育基金会</a></dd>
+                  </dl>
+              </li>
+              <li><a target="_blank" href="xyshq/index.htm">校园生活</a><strong class="iconfont icon-fanhui"></strong>
+                  <dl class="mobile_subNav">
+                      <dd><a target="_blank" href="https://duzhi.ucas.ac.cn/">笃志网</a></dd>
+                      <dd><a target="_blank" href="https://youth.ucas.ac.cn/index.php/zh-cn/">团学在线</a></dd>
+                      <dd><a target="_blank" href="https://service.ucas.ac.cn/">校园服务</a></dd>
+                      <dd><a target="_blank" href="https://gkder.ucas.ac.cn/">国科大社区</a></dd>
+                      <dd><a target="_blank" href="xyshq/jgzj/index.htm">教工之家</a></dd>
+                      <dd><a target="_blank" href="xyshq/jzlt/index.htm">讲座论坛</a></dd>
+                      <dd><a target="_blank" href="xyshq/xsst/index.htm">学生社团</a></dd>
+                      <dd><a target="_blank" href="xyshq/kjcx/index.htm">科技创新</a></dd>
+                      <dd><a target="_blank" href="xyshq/shsj/index.htm">社会实践</a></dd>
+                      <dd><a target="_blank" href="xyshq/zygy/index.htm">志愿公益</a></dd>
+                      <dd><a target="_blank" href="xyshq/tyhd/index.htm">体育活动</a></dd>
+                      <dd><a target="_blank" href="xyshq/wyhd/index.htm">文艺活动</a></dd>
+                  </dl>
+              </li>
+              <li><a target="_blank" href="xysh/index.htm">大学文化</a><strong class="iconfont icon-fanhui"></strong>
+                  <dl class="mobile_subNav">
+                      <dd><a target="_blank" href="xysh/gkdxsd/index.htm">国科大新视点</a></dd>
+                      <dd><a target="_blank" href="xysh/gygkd/index.htm">光影国科大</a></dd>
+                      <dd><a target="_blank" href="xysh/xxsy/index.htm">校训释义</a></dd>
+                      <dd><a target="_blank" href="https://kexie.ucas.ac.cn/index.php/zh/">春分工程</a></dd>
+                      <dd><a target="_blank" href="https://glory.ucas.ac.cn/">中国科学院与“两弹一星”纪念馆</a></dd>
+                  </dl>
+              </li>
+              <li><a target="_blank" href="xxgk1/index.htm">信息公开</a><strong class="iconfont icon-fanhui"></strong>
+                  <dl class="mobile_subNav">
+                      <dd><a target="_blank" href="xxgk1/sx/index.htm">事项</a></dd>
+                      <dd><a target="_blank" href="xxgk1/ndbg/index.htm">年度报告</a></dd>
+                      <dd><a target="_blank" href="xxgk1/zdbf/index.htm">制度办法</a></dd>
+                      <dd><a target="_blank" href="xxgk1/lxwm/index.htm">联系我们</a></dd>
+                      <dd><a target="_blank" href="xxgk1/zxsq/index.htm">在线申请</a></dd>
+                      <dd><a target="_blank" href="xxgk1/jdts/index.htm">监督投诉</a></dd>
+                      <dd><a target="_blank" href="https://xzxx.ucas.ac.cn/">校长信箱</a></dd>
+                  </dl>
+              </li>
+
+          </ul>
+
+          <div class="mobile_search">
+              <form name="dataForm" class="search" action="/cms/web/search/index.jsp" target="_blank"
+                    method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+                  <script type="text/javascript" src="/cms/web/search/token.jsp?v=1779211232555"></script>
+<!--                    <input name="siteID" value="e0d3cca04cef416995e3bd2d1f9d8864" type="hidden">-->
+                  <input class="notxt" value="搜索" name="query" type="text" id="keywords"
+                         onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}"
+                         onclick="if(this.value==''){this.value='';this.form.keywords.style.color='#666'}">
+                  <input class="notxt1" name="Submit" type="submit" value="">
+              </form>
+          </div>
+
+      </div>
+  </section>
+</header>
+<!-- banner开始 -->
+<div class="wrap_banner">
+  <div class="Banner">
+      <!--<div class="arrow prev"></div>
+      <div class="arrow next"></div>-->
+      <div class="banner_dots"></div>
+      <div class="swiper-wrapper">
+          <!-- item -->
+              <div class="swiper-slide">
+                <a target="_blank" href="https://mp.weixin.qq.com/s/wQrCEnOJwKLGVbXFCzaiPw">
+              <span class="slick-img" style="background-image: url(images/2026-05/7cc4f8fe690f4f47a0951ee2fec3e099.jpg);"></span>
+                      <div class="title"></div>
+                  </a>
+                  <a target="_blank" href="sydt/index.htm" class="more fs14">更多</a>
+              </div>
+
+          <!-- item -->
+              <div class="swiper-slide">
+                <a target="_blank" href="https://mp.weixin.qq.com/s/agxB0a_D6DanHEYc4S6uig">
+              <span class="slick-img" style="background-image: url(images/2026-05/4fa0e45a945b42e1b8c1952042d50692.jpg);"></span>
+                      <div class="title"></div>
+                  </a>
+                  <a target="_blank" href="sydt/index.htm" class="more fs14">更多</a>
+              </div>
+
+          <!-- item -->
+              <div class="swiper-slide">
+                <a target="_blank" href="https://mp.weixin.qq.com/s/hqlUqRiDgZIcGjI9zkTHLQ">
+              <span class="slick-img" style="background-image: url(images/2026-05/93aaec0caf4544bb80c81ab4809be905.jpg);"></span>
+                      <div class="title">国科大首批体能舱正式揭幕启用</div>
+                  </a>
+                  <a target="_blank" href="sydt/index.htm" class="more fs14">更多</a>
+              </div>
+
+          <!-- item -->
+              <div class="swiper-slide">
+                <a target="_blank" href="https://news.ucas.ac.cn//zt/2026nzt/2026wmzgkddn/index.htm">
+              <span class="slick-img" style="background-image: url(images/2026-05/f2f61a6db00b449e843ac8cdd18379ec.jpg);"></span>
+                      <div class="title"></div>
+                  </a>
+                  <a target="_blank" href="sydt/index.htm" class="more fs14">更多</a>
+              </div>
+
+          <!-- item -->
+              <div class="swiper-slide">
+                <a target="_blank" >
+              <span class="slick-img" style="background-image: url(images/2026-05/5218be0f84c24750819f55c859e36e29.jpg);"></span>
+                      <div class="title">霞染雁栖 桥通山海</div>
+                  </a>
+                  <a target="_blank" href="sydt/index.htm" class="more fs14">更多</a>
+              </div>
+
+      </div>
+      <div class="banner_ser">
+          <div class="row">
+              <div class="wrap">
+                  <form class="search" name="dataForm" action="/cms/web/search/index.jsp" target="_blank"
+                        method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+                      <script type="text/javascript" src="/cms/web/search/token.jsp?v=1779211232555"></script>
+<!--                        <input name="siteID" value="e0d3cca04cef416995e3bd2d1f9d8864" type="hidden">-->
+                      <input class="notxt" value=" 快速搜索 University of Chinese Academy of Sciences" name="query" type="text" id="keywords"
+                             onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}"
+                             onclick="if(this.value==''){this.value='';this.form.keywords.style.color='#444'}">
+                      <input class="notxt1 btn" name="Submit" type="submit" value="Search">
+                  </form>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+<!-- banner结束 -->
+<div class="aside on hide">
+  <div class="clock-place"></div>
+  <div class="side_menu">
+      <div class="item">
+          <p>新闻聚焦</p>
+          <p>通知公告</p>
+          <p>媒体报道</p>
+      </div>
+      <div class="item">
+          <p>活动预告</p>
+      </div>
+      <div class="item">
+          <p>教学科研</p>
+      </div>
+      <div class="item">
+          <p>快速通道</p>
+      </div>
+      <div class="item">
+          <p>校园动态</p>
+          <p>培养单位</p>
+      </div>
+      <div class="item">
+          <p>教育教学</p>
+      </div>
+      <div class="item">
+          <p>国科大新视点</p>
+      </div>
+      <div class="item">
+          <p>光影国科大</p>
+      </div>
+      <div class="item">
+          <p>国科大数据</p>
+      </div>
+      <div class="item">
+          <p>专题栏目</p>
+      </div>
+      <div class="item">
+          <p>新媒体矩阵</p>
+      </div>
+  </div>
+  <div class="gotop"></div>
+  <div class="side_btn"></div>
+</div>
+<!--content开始-->
+<div class="content gp-clearFix">
+
+  <!-- mode01开始 -->
+  <div class="wrap_mode01 sideblock">
+      <div class="row ">
+          <div class="mode01">
+              <div class="lf">
+                  <div class="index_title index_title1">
+                      <a target="_blank" class="channel_link fs12" href="tz/index.htm">查看更多</a>
+                      <div class="channel_title fs24">通知公告</div>
+                  </div>
+                  <div class="index_01c ul-inline">
+                      <ul>
+                          <!-- <li><a target="_blank" class="item topping" href="https://www.ucas.ac.cn/tz/7da58663b08c43669ffbe60ad5e5aa05.htm">
+                              <div class="time fs18 lh30">03/05</div>
+                              <div class="title fs18 lh30x2"><span style="font-weight:bold;">巡 视 公 告</span></div>
+                          </a></li> -->
+                          <li><a target="_blank" class="item topping" href="tz/c2015544d790482dac21d36b8e97898f.htm">
+                              <div class="time fs18 lh30">05/13</div>
+                              <div class="title fs18 lh30x2">拟申请注销登记公告</div>
+                          </a></li>
+                          <li><a target="_blank" class="item topping" href="tz/5889942c1e9049dba834b7cbf0878c8e.htm">
+                              <div class="time fs18 lh30">05/09</div>
+                              <div class="title fs18 lh30x2">中国科学院大学关于2026年毕业典礼暨学位授予仪式报名工作的通知</div>
+                          </a></li>
+                          <li><a target="_blank" class="item topping" href="tz/1a587627bf6e4d09a42e6f2b9e657caf.htm">
+                              <div class="time fs18 lh30">04/28</div>
+                              <div class="title fs18 lh30x2">中国科学院大学前沿交叉科学学院2026年夏令营招募公告</div>
+                          </a></li>
+                          <li><a target="_blank" class="item topping" href="tz/a59043d24ea941cf8cfbf21830de9704.htm">
+                              <div class="time fs18 lh30">04/22</div>
+                              <div class="title fs18 lh30x2">讣 &nbsp; 告</div>
+                          </a></li>
+                          <li><a target="_blank" class="item topping" href="tz/db352dc6affc4ba5bbe4728b798cf5fb.htm">
+                              <div class="time fs18 lh30">03/26</div>
+                              <div class="title fs18 lh30x2">关于罗马萨皮恩扎大学学生交换项目报名工作的通知</div>
+                          </a></li>
+                          <!--                          <li><a target="_blank" class="item topping" href="tz/2023ndzgkxydxscxsjxljhsqznfb/index.htm">
+                              <div class="time fs18 lh30">06/15</div>
+                              <div class="title fs18 lh30x2">2023年度中国科学院大学生创新实践训练计划申请指南发布</div>
+                              </a></li>
+-->
+                      </ul>
+                  </div>
+              </div>
+              <div class="mid">
+                  <div class="index_01b ul-inline">
+                      <ul class="swiper-wrapper">
+                          <!-- <li class="swiper-slide"><div class="item">
+                              <a target="_blank" href="https://www.ucas.ac.cn/tz/7da58663b08c43669ffbe60ad5e5aa05.htm" class="img">
+                                <img src="https://www.ucas.ac.cn/images/2026-03/e4a178c515d64ed9bb8f2ae2f436a93c.jpg" >
+                              </a>
+                              <div class="bottom">
+                                  <a target="_blank"  class="tip fs24" href="xwjj/index.htm">新闻聚焦</a>
+                                  <a target="_blank" href="https://www.ucas.ac.cn/tz/7da58663b08c43669ffbe60ad5e5aa05.htm" class="title fs22 lh30x2">巡 视 公 告</a>
+                                  <div class="info fs14 lh22x2" style="text-align: left !important;">
+                                  </div>
+                              </div>
+                          </div></li> -->
+                          <li class="swiper-slide"><div class="item">
+                              <a target="_blank" href="https://news.ucas.ac.cn//ywsd/f9d0aef96c6747779aa58006205a96d4.htm" class="img">
+                                <img src="https://news.ucas.ac.cn/images/2026-05/c9e892da75ed4e90b13e8a04d61a75b0.jpg" >
+                              </a>
+                              <div class="bottom">
+                                  <a target="_blank"  class="tip fs24" href="xwjj/index.htm">新闻聚焦</a>
+                                  <a target="_blank" href="https://news.ucas.ac.cn//ywsd/f9d0aef96c6747779aa58006205a96d4.htm" class="title fs22 lh30x2">丁薛祥在中国科学院大学等单位调研基础研究</a>
+                                  <div class="info fs14 lh22x2" style="text-align: left !important;">
+                                      
+                                  </div>
+                              </div>
+                          </div></li>
+                          <li class="swiper-slide"><div class="item">
+                              <a target="_blank" href="https://mp.weixin.qq.com/s/iUxSiblGMfHgx8TwHiW7yA" class="img">
+                                <img src="https://news.ucas.ac.cn/images/2026-05/e408998ae8c543e19b2aabf71d61d719.png" >
+                              </a>
+                              <div class="bottom">
+                                  <a target="_blank"  class="tip fs24" href="xwjj/index.htm">新闻聚焦</a>
+                                  <a target="_blank" href="https://mp.weixin.qq.com/s/iUxSiblGMfHgx8TwHiW7yA" class="title fs22 lh30x2">国科大2026年本科招生宣传册发布</a>
+                                  <div class="info fs14 lh22x2" style="text-align: left !important;">
+                                      
+                                  </div>
+                              </div>
+                          </div></li>
+                          <li class="swiper-slide"><div class="item">
+                              <a target="_blank" href="https://news.ucas.ac.cn//ywsd/81538d8d2078433eb64cbb31911adacb.htm" class="img">
+                                <img src="https://news.ucas.ac.cn/images/2026-05/aabe052a36cb47d39401122bb0eb8703.jpg" >
+                              </a>
+                              <div class="bottom">
+                                  <a target="_blank"  class="tip fs24" href="xwjj/index.htm">新闻聚焦</a>
+                                  <a target="_blank" href="https://news.ucas.ac.cn//ywsd/81538d8d2078433eb64cbb31911adacb.htm" class="title fs22 lh30x2">国科大传达学习习近平总书记在加强基础研究座谈会上的重要讲话精神</a>
+                                  <div class="info fs14 lh22x2" style="text-align: left !important;">
+                                      
+                                  </div>
+                              </div>
+                          </div></li>
+                          <li class="swiper-slide"><div class="item">
+                              <a target="_blank" href="https://mp.weixin.qq.com/s/z6hZyI5ZTRTmQfs9_7VS1g" class="img">
+                                <img src="https://news.ucas.ac.cn/images/2026-05/4471f26492b94bfc8547d2917fa20f30.jpg" >
+                              </a>
+                              <div class="bottom">
+                                  <a target="_blank"  class="tip fs24" href="xwjj/index.htm">新闻聚焦</a>
+                                  <a target="_blank" href="https://mp.weixin.qq.com/s/z6hZyI5ZTRTmQfs9_7VS1g" class="title fs22 lh30x2">中国科学院大学新增2个本科专业（方向）</a>
+                                  <div class="info fs14 lh22x2" style="text-align: left !important;">
+                                      
+                                  </div>
+                              </div>
+                          </div></li>
+                          <li class="swiper-slide"><div class="item">
+                              <a target="_blank" href="https://mp.weixin.qq.com/s/8RXhUeiQYdm-Uo3SHHeiMA" class="img">
+                                <img src="https://news.ucas.ac.cn/images/2026-05/5049ec1dee3f4a6781f9ab80f93d66d0.jpg" >
+                              </a>
+                              <div class="bottom">
+                                  <a target="_blank"  class="tip fs24" href="xwjj/index.htm">新闻聚焦</a>
+                                  <a target="_blank" href="https://mp.weixin.qq.com/s/8RXhUeiQYdm-Uo3SHHeiMA" class="title fs22 lh30x2">国科大9位导师获全国五一劳动奖章</a>
+                                  <div class="info fs14 lh22x2" style="text-align: left !important;">
+                                      
+                                  </div>
+                              </div>
+                          </div></li>
+<li class="swiper-slide"><div class="item">
+                              <a target="_blank" href="2026zsxjqgx/index.htm" class="img">
+                                <img src="images/202604132207.jpg" >
+                              </a>
+                              <div class="bottom">
+                                  <a target="_blank"  class="tip fs24" href="2026zsxjqgx/index.htm">新闻聚焦</a>
+                                   <a target="_blank" href="2026zsxjqgx/index.htm" class="title fs22 lh30x2">【2026招生全国行】专题</a>
+                                  <div class="info fs14 lh22x2" style="text-align: center;">
+                                      国科大各省市招生组前往各地中学开展招生宣讲与交流座谈
+                                  </div> 
+                              </div>
+                          </div></li>
+                      </ul>
+                      <div class="dots"></div>
+                  </div>
+                  <a class="news_link fs18" href="https://news.ucas.ac.cn/">进入新闻网</a>
+              </div>
+              <div class="rt">
+                  <div class="index_title index_title1">
+                      <a target="_blank" class="channel_link fs12" href="mtbd/index.htm">查看更多</a>
+                      <div class="channel_title fs24">媒体报道</div>
+                  </div>
+                  <div class="index_01a ul-inline">
+                      <ul>
+                          <li><a target="_blank" class="item" href="https://xinwen.bjd.com.cn/content/s6a095bb4e4b0e45f3fd19b70.html">
+                              <!--<div class="tip fs12"> </div>-->
+                              <div class="title fs18 lh30x2">【北京日报】村里的年轻人｜把农田玩明白了，00后女孩儿在博士农场当起“CEO”</div>
+                          </a></li>
+                          <li><a target="_blank" class="item" href="https://education.news.cn/20260518/2ff4d8ea02184f428a510117a95212a4/c.html">
+                              <!--<div class="tip fs12"> </div>-->
+                              <div class="title fs18 lh30x2">【新华网】2026新华网高考情报局丨中国科学院大学：科研实践覆盖本科教育全程 星际航行学院首次招生</div>
+                          </a></li>
+                          <li><a target="_blank" class="item" href="http://edu.people.com.cn/n1/2026/0507/c1006-40715300.html">
+                              <!--<div class="tip fs12"> </div>-->
+                              <div class="title fs18 lh30x2">【人民网】中国科学院大学新增2个本科专业（方向）</div>
+                          </a></li>
+                          <li><a target="_blank" class="item" href="https://mp.weixin.qq.com/s/wbGTwyiairZgJ7qwP9yIWw">
+                              <!--<div class="tip fs12"> </div>-->
+                              <div class="title fs18 lh30x2">【人物】假如科技给她光明</div>
+                          </a></li>
+                          <li><a target="_blank" class="item" href="https://www.peopleapp.com/column/30052088851-500007482686">
+                              <!--<div class="tip fs12"> </div>-->
+                              <div class="title fs18 lh30x2">【人民日报】深入贯彻落实加强基础研究座谈会精神 全面提升基础研究水平和原始创新能力</div>
+                          </a></li>
+                      </ul>
+                  </div>
+              </div>
+              <!-- <div class="clear"></div> -->
+          </div>
+          <div class="ZtList">
+              <ul class="List">
+                  <li><a class="fs18" target="_blank" href="https://news.ucas.ac.cn/zt/2025nzt/swwzt/"><img src="images/2025-11/133b1a2ee8c24666b250dd22105402a5.jpg" alt=""></a></li>
+                  <li><a class="fs18" target="_blank" href="https://news.ucas.ac.cn//zt/2026nzt/slhjxzqzjgxxjy/index.htm"><img src="images/2026-04/7176e0fadbdf49e09da1042a69be864f.jpg" alt=""></a></li>
+                  <li><a class="fs18" target="_blank" href="https://news.ucas.ac.cn/zt/2024nzt/gkdsdsfztw/ldsr/index.htm"><img src="images/2025-12/d6cb3d65e5d04730a92281da575f1f73.jpg" alt=""></a></li>
+                  <li><a class="fs18" target="_blank" href="https://news.ucas.ac.cn/zt/2026nzt/ldyx2023/index.htm"><img src="images/2025-06/f2944688deeb466c8be55fbb2f7aa30c.jpg" alt=""></a></li>
+                  <!-- <li><a class="fs18" target="_blank" href="https://news.ucas.ac.cn/zt/2025nzt/qcysgkd/index.htm"><img src="images/1.jpg" alt=""></a></li>
+                  <li><a class="fs18" target="_blank" href="https://news.ucas.ac.cn/zt/2025nzt/wmzgkddn/index.htm"><img src="images/2.jpg" alt=""></a></li>
+                  <li><a class="fs18" target="_blank" href="https://news.ucas.ac.cn/zt/2025nzt/ldyx2023/index.htm"><img src="images/3.jpg" alt=""></a></li> -->
+              </ul>
+          </div>
+      </div>
+  </div>
+  <!-- mode01结束 -->
+  <!-- mode03开始 -->
+  <div class="wrap_mode03 sideblock">
+      <div class="row mode03 effect effect1">
+          <div class="index_title">
+              <a target="_blank" class="channel_link fs16" href="jxky/index.htm">更多</a>
+              <div class="channel_title fs36">教学科研</div>
+          </div>
+          <div class="index_03">
+              <div class="rt">
+                  <div class="index_033">
+                      <div class="swiper-wrapper">
+                          <div class="swiper-slide"><a target="_blank" href="https://news.ucas.ac.cn//kydt/0ab7e9c2e1914f9f9631575198fc4c57.htm">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/47b7af943d5a41a08fb0907a270443b9.jpg"></div>
+                          </a></div>
+                          <div class="swiper-slide"><a target="_blank" href="https://mp.weixin.qq.com/s/baLmpad71zyzGqX6X5Rq5A">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/066bb9b55aa741789157b97565a2bf9e.jpg"></div>
+                          </a></div>
+                          <div class="swiper-slide"><a target="_blank" href="https://news.ucas.ac.cn//kydt/876420a8d32b4c9f88c7ba780c785984.htm">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/414b736592124dcb9e7c9080bada5549.png"></div>
+                          </a></div>
+                          <div class="swiper-slide"><a target="_blank" href="https://mp.weixin.qq.com/s/mXKETq_VBf_Qrg9I2OCSxQ">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/1c2540137c344c5b9b8e2e61540749e8.jpg"></div>
+                          </a></div>
+                          <div class="swiper-slide"><a target="_blank" href="https://mp.weixin.qq.com/s/QK7D1Hnbi-uEoJAxewGejQ">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-04/70aaf6a0e4594dddabdc5c6b7cfd2aa3.png"></div>
+                          </a></div>
+                          <div class="swiper-slide"><a target="_blank" href="https://mp.weixin.qq.com/s/cL0Mzq7C6f-1PsEsWI7QLA">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-04/f2da1ee3e36e4b4cb78afaa9884b69d4.jpg"></div>
+                          </a></div>
+
+                      </div>
+                  </div>
+              </div>
+              <div class="lf">
+                  <div class="index_034 ul-inline">
+                      <ul>
+                          <li><a class="item" href="https://news.ucas.ac.cn//kydt/0ab7e9c2e1914f9f9631575198fc4c57.htm" target="_blank">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/47b7af943d5a41a08fb0907a270443b9.jpg"></div>
+                              <div class="title fs18 lh26x2">物理科学学院教授周武团队首次实现原子分辨电子线性二色谱测量</div>
+                          </a></li>
+                          <li><a class="item" href="https://mp.weixin.qq.com/s/baLmpad71zyzGqX6X5Rq5A" target="_blank">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/066bb9b55aa741789157b97565a2bf9e.jpg"></div>
+                              <div class="title fs18 lh26x2">为国科大师生量身打造！浙江交响乐团×‌李晨音钢琴协奏曲交响音乐会</div>
+                          </a></li>
+                          <li><a class="item" href="https://news.ucas.ac.cn//kydt/876420a8d32b4c9f88c7ba780c785984.htm" target="_blank">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/414b736592124dcb9e7c9080bada5549.png"></div>
+                              <div class="title fs18 lh26x2">人文学院教授罗武干团队揭秘汉代丝绸之路贸易密码</div>
+                          </a></li>
+                          <li><a class="item" href="https://mp.weixin.qq.com/s/mXKETq_VBf_Qrg9I2OCSxQ" target="_blank">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/1c2540137c344c5b9b8e2e61540749e8.jpg"></div>
+                              <div class="title fs18 lh26x2">国科大举办2026年“知识产权宣传周”法律公益大讲堂暨知识竞赛</div>
+                          </a></li>
+                          <li><a class="item" href="https://mp.weixin.qq.com/s/QK7D1Hnbi-uEoJAxewGejQ" target="_blank">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-04/70aaf6a0e4594dddabdc5c6b7cfd2aa3.png"></div>
+                              <div class="title fs18 lh26x2">工程科学学院教授吕科团队在第五届中国三维视觉大会获最佳技术奖</div>
+                          </a></li>
+                          <li><a class="item" href="https://mp.weixin.qq.com/s/cL0Mzq7C6f-1PsEsWI7QLA" target="_blank">
+                              <div class="img"><img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-04/f2da1ee3e36e4b4cb78afaa9884b69d4.jpg"></div>
+                              <div class="title fs18 lh26x2">国科大举办第二届花间读书市集</div>
+                          </a></li>
+                      </ul>
+                  </div>
+              </div>
+              <div class="clear"></div>
+          </div>
+      </div>
+  </div>
+  <!-- mode03结束 -->
+  <!-- mode02开始 -->
+  <div class="wrap_mode02 sideblock">
+      <div class="row mode02">
+          <div class="index_title">
+              <div class="arrows">
+                  <div class="arrow prev"></div>
+                  <div class="arrow next"></div>
+              </div>
+              <a target="_blank" class="channel_link fs16" href="https://calendar.ucas.ac.cn/index/monthCalendar.do?classificationId=0">更多</a>
+              <div class="channel_title fs36">活动预告</div>
+          </div>
+          <div class="index_02 ul-inline">
+              <ul class="swiper-wrapper">
+                  <li class="swiper-slide"><a target="_blank" class="item" href="xyhd/a1a811746bd649e0bb51de5ebaf0387f.htm">
+                      <div class="img_box">
+                          <div class="img">                              <img src="images/2026-05/aa77874e425e432c94c16ffc1915927c.jpg" />
+</div>
+                      </div>
+                      <div class="info_box">
+                          <div class="title fs18 lh24x4">乐团专场音乐会</div>
+                          <div class="info fs14 lh18">
+                              <p class="ico ico1">时间：2026年5月24日 19:30-21:00 </p>
+                              <p class="ico ico2">雁栖湖校区 东区礼堂 </p>
+                              <p class="ico ico3"> </p>
+                          </div>
+                      </div>
+                      <div class="clear"></div>
+                  </a></li>
+                  <li class="swiper-slide"><a target="_blank" class="item" href="xyhd/240b80c3191c498aa99e72012cf23a62.htm">
+                      <div class="img_box">
+                          <div class="img">                              <img src="images/2026-05/b9836b0a1e9b44caa8f46bb46f36bc3a.jpg" />
+</div>
+                      </div>
+                      <div class="info_box">
+                          <div class="title fs18 lh24x4">“乐落星河”夏日音乐节</div>
+                          <div class="info fs14 lh18">
+                              <p class="ico ico1">时间：2026年5月23日 16:00-21:30 </p>
+                              <p class="ico ico2">雁栖湖校区 西区操场 </p>
+                              <p class="ico ico3"> </p>
+                          </div>
+                      </div>
+                      <div class="clear"></div>
+                  </a></li>
+                  <li class="swiper-slide"><a target="_blank" class="item" href="xyhd/45f82c62de774b34a4514d91bf3439e0.htm">
+                      <div class="img_box">
+                          <div class="img">                              <img src="images/2026-05/f717676aa5be49e786f3dc030055dde1.jpg" />
+</div>
+                      </div>
+                      <div class="info_box">
+                          <div class="title fs18 lh24x4">中国科学院公众科学日中国科学院大学专场</div>
+                          <div class="info fs14 lh18">
+                              <p class="ico ico1">时间：2026年5月16日 10:30 </p>
+                              <p class="ico ico2">玉泉路校区 人文楼报告厅 </p>
+                              <p class="ico ico3">高登义 </p>
+                          </div>
+                      </div>
+                      <div class="clear"></div>
+                  </a></li>
+                  <li class="swiper-slide"><a target="_blank" class="item" href="xyhd/167d78cda5a5417a822e994b9cf36f63.htm">
+                      <div class="img_box">
+                          <div class="img">                              <img src="images/2026-05/491954243a1d4c51a5038b7977882d61.jpg" />
+</div>
+                      </div>
+                      <div class="info_box">
+                          <div class="title fs18 lh24x4">中国科学院公众科学日中国科学院大学专场</div>
+                          <div class="info fs14 lh18">
+                              <p class="ico ico1">时间：2026年5月16日 9:30 </p>
+                              <p class="ico ico2">玉泉路校区 人文楼报告厅 </p>
+                              <p class="ico ico3">杨焕明 </p>
+                          </div>
+                      </div>
+                      <div class="clear"></div>
+                  </a></li>
+                  <li class="swiper-slide"><a target="_blank" class="item" href="xyhd/7883f09ca89544a597317587814141f6.htm">
+                      <div class="img_box">
+                          <div class="img">                              <img src="images/2026-05/d3e2599ff5a340398448da3225ac2fca.jpg" />
+</div>
+                      </div>
+                      <div class="info_box">
+                          <div class="title fs18 lh24x4">走进考古：博物馆——联结世界的桥梁</div>
+                          <div class="info fs14 lh18">
+                              <p class="ico ico1">时间：2026年5月17日-18日 </p>
+                              <p class="ico ico2">雁栖湖校区 学园一218 </p>
+                              <p class="ico ico3"> </p>
+                          </div>
+                      </div>
+                      <div class="clear"></div>
+                  </a></li>
+                  <li class="swiper-slide"><a target="_blank" class="item" href="xyhd/9aa6852e4f5b4591a041f05de9d92622.htm">
+                      <div class="img_box">
+                          <div class="img">                              <img src="images/2026-05/9564185754614fe6a172bce3ad9f21bb.png" />
+</div>
+                      </div>
+                      <div class="info_box">
+                          <div class="title fs18 lh24x4">高竞争背景下国家自然科学基金资助设计与科学家响应</div>
+                          <div class="info fs14 lh18">
+                              <p class="ico ico1">时间：2026年5月13日（星期三）09:30-11:30 </p>
+                              <p class="ico ico2">中关村校区6号楼第一会议室 </p>
+                              <p class="ico ico3">高雨辰 </p>
+                          </div>
+                      </div>
+                      <div class="clear"></div>
+                  </a></li>
+                  <li class="swiper-slide"><a target="_blank" class="item" href="xyhd/1541a8711dd949b986f3c52274e76104.htm">
+                      <div class="img_box">
+                          <div class="img">                              <img src="images/2026-05/cbc8a5030fea4e76b6270ed7c055f254.jpg" />
+</div>
+                      </div>
+                      <div class="info_box">
+                          <div class="title fs18 lh24x4">科学与艺术大讲堂</div>
+                          <div class="info fs14 lh18">
+                              <p class="ico ico1">时间：2026年5月12日 19:30 </p>
+                              <p class="ico ico2">雁栖湖校区 学生礼堂 </p>
+                              <p class="ico ico3">张艺 李晨音 </p>
+                          </div>
+                      </div>
+                      <div class="clear"></div>
+                  </a></li>
+              </ul>
+          </div>
+      </div>
+  </div>
+  <!-- mode02结束 -->
+
+
+
+  <!-- mode04开始 -->
+  <div class="wrap_mode04 sideblock">
+      <div class="row mode04">
+          <!-- <img class="lazy" data-src="images/mode04_title.png" alt=""> -->
+          <div class="index_title2 effect effect4">
+              <div class="channel_title fs36">快速通道</div>
+              <div class="en_channel_title fs48">Fast track</div>
+              <a target="_blank" class="channel_link fs16" href="kstd/index.htm">更多</a>
+          </div>
+          <div class="index_041 effect effect2">
+              <div class="index_041b ul-inline index_041b2">
+                  <ul>
+                      <li><a target="_blank" class="item" href="https://mail.cstnet.cn/">
+                          <div class="img" style="background-image: url(images/mode041_img1.png);"></div>
+                          <div class="img_centered"><img src="images/mode041_ico1.png" ></div>
+                          <div class="title fs20" style="color:white;"><span style="color:rgb(51, 51, 51);">电子邮箱</span> </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://sep.ucas.ac.cn/">
+                          <div class="img" style="background-image: url(images/mode041_bg4.png);"></div>
+                          <div class="img_centered"><img src="images/mode042_ico4.png" ></div>
+                          <div class="title fs20"><span style="color:rgb(51, 51, 51);">信息门户</span> </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://duzhi.ucas.ac.cn/">
+                          <div class="img" style="background-image: url(images/mode041_bg7.png);"></div>
+                          <div class="img_centered"><img src="images/mode042_ico7.png" ></div>
+                          <div class="title fs20"><span style="color:rgb(51, 51, 51);">笃志网</span> </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://service.ucas.ac.cn/">
+                          <div class="img" style="background-image: url(images/mode041_bg2.png);"></div>
+                          <div class="img_centered"><img src="images/mode042_ico2.png" ></div>
+                          <div class="title fs20"><span style="color:rgb(51, 51, 51);">校园服务</span></div>
+                      </a></li>
+
+                      <li><a target="_blank" class="item" href="http://caigou.ucas.ac.cn/">
+                          <div class="img" style="background-image: url(images/mode041_bg1.png);"></div>
+                          <div class="img_centered"><img src="images/mode042_ico6.png" ></div>
+                          <div class="title fs20">网上采购平台</div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://onestop.ucas.edu.cn/home/info/6b9e95dc-5785-4eee-b25f-1f884698cfc3">
+                          <div class="img" style="background-image: url(images/mode041_bg1.png);"></div>
+                          <div class="img_centered"><img src="images/mode042_ico1.png" ></div>
+                          <div class="title fs20"><span style="color:rgb(51, 51, 51);">资源下载</span></div>
+                      </a></li>
+
+                      <li><a target="_blank" class="item" href="https://libvpn.ucas.ac.cn/https/77726476706e69737468656265737421fcfe43d23233694330098ae29b5b/">
+                          <div class="img" style="background-image: url(images/mode041_bg5.png);"></div>
+                          <div class="img_centered"><img src="images/mode042_ico5.png" ></div>
+                          <div class="title fs20"><span style="color:rgb(51, 51, 51);">图书馆</span> </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://recruit.ucas.ac.cn/#/app/zgkxydx/ucas-recruit/zpwz">
+                          <div class="img" style="background-image: url(images/mode041_bg6.png);"></div>
+                          <div class="img_centered"><img src="images/mode042_ico6.png" ></div>
+                          <div class="title fs20"><span style="color:rgb(51, 51, 51);">人才招聘</span> </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="http://job.ucas.ac.cn/">
+                          <div class="img" style="background-image: url(images/mode041_bg3.png);"></div>
+                          <div class="img_centered"><img src="images/mode042_ico3.png" ></div>
+                          <div class="title fs20"><span style="color:rgb(51, 51, 51);">就业信息</span> </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://youth.ucas.ac.cn/index.php/zh-cn/">
+                          <div class="img" style="background-image: url(images/mode041_bg8.png);"></div>
+                          <div class="img_centered"><img src="images/mode042_ico8.png" ></div>
+                          <div class="title fs20"><span style="color:rgb(51, 51, 51);">团学在线</span> </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://kexie.ucas.ac.cn/index.php/zh/">
+                          <div class="img" style="background-image: url(images/mode041_bg9.png);"></div>
+                          <div class="img_centered"><img src="images/mode042_ico9.png" ></div>
+                          <div class="title fs20"><span style="color:rgb(51, 51, 51);">科学技术协会</span> </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://gkder.ucas.ac.cn/">
+                          <div class="img" style="background-image: url(images/mode041_bg10.png);"></div>
+                          <div class="img_centered"><img src="images/mode042_ico10.png" ></div>
+                          <div class="title fs20"><span style="color:rgb(51, 51, 51);">国科大社区</span> </div>
+                      </a></li>
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </div>
+  <!-- mode04结束 -->
+
+  <!-- mode05开始 -->
+  <div class="wrap_mode05 sideblock">
+      <div class="row mode05">
+          <div class="lf">
+              <div class="index_title">
+                  <a target="_blank" class="channel_link fs16" href="kyxz/index.htm">更多</a>
+                  <div class="channel_title fs36">校园动态</div>
+              </div>
+              <div class="index_05a ul-inline">
+                  <ul>
+                      <li><a target="_blank" class="item" href="kyxz/0315669975c544458540dc48945a3c86.htm">
+                                <div class="img"><img src="images/2026-05/15cf9c6581d54a42bbcc0ce42dff7725.png" ></div>
+                            <!-- <div class="img"><img src="images/2026-05/15cf9c6581d54a42bbcc0ce42dff7725.png" ></div> -->
+  
+                          <div class="bottom">
+                              <div class="title fs18 lh26x2">“感知中国—走进高能同步辐射光源”活动成功举办</div>
+                              <div class="info fs12 lh22x2">
+                                   
+ 5月16日，由国家留学基金管理委员会主办、中国科学院大学（以下简称“国科大”）承办、中国科学院高能物理研究所高能同步辐射光源协办的“感知中国—走进高能同步...
+                              </div>
+                              <div class="time fs14 lh24">2026-05-19</div>
+                          </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://mp.weixin.qq.com/s/iTlIDN9_o-1U2MjUZubCnw">
+                                <div class="img"><img src="https://news.ucas.ac.cn/images/2026-05/b4a83f06d1404c9aafd5fdd344406e4c.jpg" ></div>
+                            <!-- <div class="img"><img src="https://news.ucas.ac.cn/images/2026-05/b4a83f06d1404c9aafd5fdd344406e4c.jpg" ></div> -->
+  
+                          <div class="bottom">
+                              <div class="title fs18 lh26x2">国科大举办“五月的鲜花”文艺汇演</div>
+                              <div class="info fs12 lh22x2">
+                                  
+                              </div>
+                              <div class="time fs14 lh24">2026-05-14</div>
+                          </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://mp.weixin.qq.com/s/ZXK0smCpvL70Tc25mTegSw">
+                                <div class="img"><img src="https://news.ucas.ac.cn/images/2026-05/b97e596fa879408e9775c46068e4baa1.jpg" ></div>
+                            <!-- <div class="img"><img src="https://news.ucas.ac.cn/images/2026-05/b97e596fa879408e9775c46068e4baa1.jpg" ></div> -->
+  
+                          <div class="bottom">
+                              <div class="title fs18 lh26x2">立夏已至，在国科大向阳而生</div>
+                              <div class="info fs12 lh22x2">
+                                  
+                              </div>
+                              <div class="time fs14 lh24">2026-05-05</div>
+                          </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//xydt/bb102349ee6c43bf850c6d6dc8ad6811.htm">
+                                <div class="img"><img src="https://news.ucas.ac.cn/images/2026-04/0b50db21218b42d88da99733dd8f4580.jpg" ></div>
+                            <!-- <div class="img"><img src="https://news.ucas.ac.cn/images/2026-04/0b50db21218b42d88da99733dd8f4580.jpg" ></div> -->
+  
+                          <div class="bottom">
+                              <div class="title fs18 lh26x2">本科生在第十七届全国大学生数学竞赛决赛中勇获佳绩</div>
+                              <div class="info fs12 lh22x2">
+                                  
+                              </div>
+                              <div class="time fs14 lh24">2026-04-20</div>
+                          </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//xydt/6fa71fe232ba488cb75d68a5b841b31c.htm">
+                                <div class="img"><img src="https://news.ucas.ac.cn/images/2026-04/c43cfca721294004b78d1120633f0cfa.jpg" ></div>
+                            <!-- <div class="img"><img src="https://news.ucas.ac.cn/images/2026-04/c43cfca721294004b78d1120633f0cfa.jpg" ></div> -->
+  
+                          <div class="bottom">
+                              <div class="title fs18 lh26x2">雁栖湖校区举办2026年文明宿舍评比颁奖活动</div>
+                              <div class="info fs12 lh22x2">
+                                  
+                              </div>
+                              <div class="time fs14 lh24">2026-04-15</div>
+                          </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://mp.weixin.qq.com/s/XAM0WiTKo-QQTOgsQ5Sdbg">
+                                <div class="img"><img src="https://news.ucas.ac.cn/images/2026-04/9318e0cf42924abb97f0c38e5e3073ba.jpg" ></div>
+                            <!-- <div class="img"><img src="https://news.ucas.ac.cn/images/2026-04/9318e0cf42924abb97f0c38e5e3073ba.jpg" ></div> -->
+  
+                          <div class="bottom">
+                              <div class="title fs18 lh26x2">满腹诗华！国科大理工博士斩获总台央视《中国诗词大会》冠军</div>
+                              <div class="info fs12 lh22x2">
+                                  
+                              </div>
+                              <div class="time fs14 lh24">2026-04-05</div>
+                          </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://mp.weixin.qq.com/s/HOCyc_ozOWsNkjy53yBJdA">
+                                <div class="img"><img src="https://news.ucas.ac.cn/images/2026-04/646d55846fad48d497e7a4e897c0c57d.jpg" ></div>
+                            <!-- <div class="img"><img src="https://news.ucas.ac.cn/images/2026-04/646d55846fad48d497e7a4e897c0c57d.jpg" ></div> -->
+  
+                          <div class="bottom">
+                              <div class="title fs18 lh26x2">国科大春日精彩上新！</div>
+                              <div class="info fs12 lh22x2">
+                                  
+                              </div>
+                              <div class="time fs14 lh24">2026-04-03</div>
+                          </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//ywsd/af3eb1c5aee149bc8234a8bacdc8c177.htm">
+                                <div class="img"><img src="https://news.ucas.ac.cn/images/2026-03/5667cb1ba469422b8e3fb095f21a30de.jpg" ></div>
+                            <!-- <div class="img"><img src="https://news.ucas.ac.cn/images/2026-03/5667cb1ba469422b8e3fb095f21a30de.jpg" ></div> -->
+  
+                          <div class="bottom">
+                              <div class="title fs18 lh26x2">国科大-格里菲斯大学合作吉祥物考拉征名结果出炉 “科科（Koko）”脱颖而出</div>
+                              <div class="info fs12 lh22x2">
+                                  
+                              </div>
+                              <div class="time fs14 lh24">2026-03-11</div>
+                          </div>
+                      </a></li>
+                      <!--                      <li><a target="_blank" class="item" href="https://mp.weixin.qq.com/s/ZXK0smCpvL70Tc25mTegSw">
+                          <div class="bottom">
+                              <div class="title fs16 lh26x2">立夏已至，在国科大向阳而生</div>
+                              <div class="time fs14 lh24">2026-05-05</div>
+                          </div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//xydt/bb102349ee6c43bf850c6d6dc8ad6811.htm">
+                          <div class="bottom">
+                              <div class="title fs16 lh26x2">本科生在第十七届全国大学生数学竞赛决赛中勇获佳绩</div>
+                              <div class="time fs14 lh24">2026-04-20</div>
+                          </div>
+                      </a></li>
+-->
+                  </ul>
+              </div>
+          </div>
+          <div class="rt">
+              <div class="index_title">
+                  <a target="_blank" class="channel_link fs16" href="yscz/index.htm">更多</a>
+                  <div class="channel_title fs36">培养单位</div>
+              </div>
+              <div class="index_05b ul-inline">
+                  <ul>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//yscz/63823b24d224426795c53cf15e5786f7.htm">
+                          <div class="img_box">
+
+                              <div class="img"><img src="https://news.ucas.ac.cn/images/2026-04/c4d2424dc4bd4794a3d2425b63ce1702.jpg"></div>
+                        
+                          </div>
+                          <div class="info_box">
+                              <div class="title fs18 lh28x2">海洋所举办研究生思政辅导员、思政联络员岗前培训会
+
+                              </div>
+                              <div class="info fs14 lh24x2">
+                                  
+                              </div>
+                              <div class="time fs14 lh24x1">2026-04-30</div>
+                          </div>
+                          <div class="clear"></div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//yscz/1be133b2d8db440f95c266edf8b74485.htm">
+                          <div class="img_box">
+
+                              <div class="img"><img src="https://news.ucas.ac.cn/images/2026-04/ab737ad1cc2e4978b7f8b25a0c9ae268.png"></div>
+                        
+                          </div>
+                          <div class="info_box">
+                              <div class="title fs18 lh28x2">过程工程所研会就业部“赢在起点，决胜2027”——公考行测、申论备考指导讲座活动圆满落幕
+
+                              </div>
+                              <div class="info fs14 lh24x2">
+                                  
+                              </div>
+                              <div class="time fs14 lh24x1">2026-04-30</div>
+                          </div>
+                          <div class="clear"></div>
+                      </a></li>
+
+                  </ul>
+              </div>
+              <div class="index_05c ul-inline">
+                  <ul>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//yscz/8dd4733f7f894a6a8c487ce1621b8151.htm">
+                          <div class="time fs13">2026-04-29</div>
+                          <div class="title fs16">青春之约 | “两弹一星”精神宣讲团走进深圳先进院</div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//yscz/741f4669148d4efea172618f9f8ef111.htm">
+                          <div class="time fs13">2026-04-27</div>
+                          <div class="title fs16">成都山地所组织开展“青春登高路·奋进正当时”五四青年节活动</div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//yscz/8a7a081532ea4232bc8e59b9955153c2.htm">
+                          <div class="time fs13">2026-03-18</div>
+                          <div class="title fs16">上海应用物理研究所举办2026学年春季学期开学第一课暨优秀学生表彰大会</div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//yscz/b8e73251c1744aefb719075ff15c3549.htm">
+                          <div class="time fs13">2026-03-18</div>
+                          <div class="title fs16">烟台海岸带研究所组织研究生赴山东省海洋资源与环境研究院交流学习</div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//yscz/381cf68a9ffd47f998c3174264fa3c0e.htm">
+                          <div class="time fs13">2026-03-18</div>
+                          <div class="title fs16">精密测量科学与技术创新研究院举办2026年春季学期研究生“开学第一课”</div>
+                      </a></li>
+                      <li><a target="_blank" class="item" href="https://news.ucas.ac.cn//yscz/ac6af4d4d1cd46e7a99e86f1152cb9a5.htm">
+                          <div class="time fs13">2026-02-15</div>
+                          <div class="title fs16">南海海洋所召开2025-2026学年学生工作座谈会暨辅导员工作会议</div>
+                      </a></li>
+                  </ul>
+              </div>
+          </div>
+          <div class="clear"></div>
+      </div>
+  </div>
+  <!-- mode05结束 -->
+
+  <!-- mode06开始 -->
+  <div class="wrap_mode06 sideblock">
+      <div class="row mode06">
+          <div class="index_06 ul-inline effect effect4">
+              <ul>
+
+                  <li><div class="item c1">
+                      <div class="info_box">
+                          <a target="_blank" href="zsjy/bkszs/index.htm" class="title fs24 lh30x2">本科生招生</a>
+                          <div class="img_centered"><img class="lazy" data-src="images/mode06_ico1.png" ></div>
+                          <a target="_blank" href="zsjy/bkszs/index.htm" class="more fs14">查看详情</a>
+                      </div>
+                      <div class="img_box">
+                          <a target="_blank" href="zsjy/bkszs/index.htm" class="img lazy" data-background="zsjy/bkszs/92df5561abc541d9aeff54cce1da5ca3_1685355434291.jpg";></a>
+                      </div>
+                      <div class="clear"></div>
+                  </div></li>
+                  <li><div class="item c2">
+                      <div class="info_box">
+                          <a target="_blank" href="zsjy/yjszs/index.htm" class="title fs24 lh30x2">研究生招生</a>
+                          <div class="img_centered"><img class="lazy" data-src="images/mode06_ico2.png" ></div>
+                          <a target="_blank" href="zsjy/yjszs/index.htm" class="more fs14">查看详情</a>
+                      </div>
+                      <div class="img_box">
+                          <a target="_blank" href="zsjy/yjszs/index.htm" class="img lazy"data-background="zsjy/yjszs/67b7bbc65b594c14b47d467a543141d9_1685355440209.jpg"></a>
+                      </div>
+                      <div class="clear"></div>
+                  </div></li>
+                  <li><div class="item c3">
+                      <div class="info_box">
+                          <a target="_blank" href="zsjy/gjxszs/index.htm" class="title fs24 lh30x2">国际学生<br>招生</a>
+                          <div class="img_centered"><img class="lazy" data-src="images/mode06_ico3.png" ></div>
+                          <a target="_blank" href="zsjy/gjxszs/index.htm" class="more fs14">查看详情</a>
+                      </div>
+                      <div class="img_box">
+                          <a target="_blank" href="zsjy/gjxszs/index.htm" class="img lazy" data-background="zsjy/gjxszs/2ef06362b83a49948c29cbedfdc266fc_1685356230722.jpg"></a>
+                      </div>
+                      <div class="clear"></div>
+                  </div></li>
+                  <li><div class="item c4">
+                      <div class="info_box">
+                          <a target="_blank" href="http://ecourse.ucas.ac.cn/portal" class="title fs24 lh30x2">在线教育</a>
+                          <div class="img_centered"><img class="lazy" data-src="images/mode06_ico4.png" ></div>
+                          <a target="_blank" href="http://ecourse.ucas.ac.cn/portal" class="more fs14">查看详情</a>
+                      </div>
+                      <div class="img_box">
+                          <a target="_blank" href="http://ecourse.ucas.ac.cn/portal" class="img lazy" data-background="images/mode06_img4.jpg"></a>
+                      </div>
+                      <div class="clear"></div>
+                  </div></li>
+                  <li><div class="item c5">
+                      <div class="info_box">
+                          <a target="_blank" href="jyjx/jxjy/index.htm" class="title fs24 lh30x2">终身教育</a>
+                          <div class="img_centered"><img class="lazy" data-src="images/mode06_ico5.png" ></div>
+                          <a target="_blank" href="jyjx/jxjy/index.htm" class="more fs14">查看详情</a>
+                      </div>
+                      <div class="img_box">
+                          <a target="_blank" href="jyjx/jxjy/index.htm" class="img lazy" data-background="images/mode06_img5.jpg"></a>
+                      </div>
+                      <div class="clear"></div>
+                  </div></li>
+              </ul>
+          </div>
+      </div>
+  </div>
+  <!-- mode06结束 -->
+
+  <!-- mode07开始 -->
+  <div class="wrap_mode07 sideblock">
+      <div class="row mode07 effect effect1">
+          <div class="index_title2 effect effect4">
+              <div class="channel_title fs36">国科大新视点</div>
+              <div class="en_channel_title fs48">New Viewpoint</div>
+              <a target="_blank" class="channel_link fs16" href="https://news.ucas.ac.cn/spxw/">更多</a>
+          </div>
+          <div class="index_07 ul-inline">
+              <!-- 新增开始 -->
+              <div class="index_07_dots"></div>
+              <div class="dif_arrow">
+                  <div class="index_07_prev"></div>
+                  <div class="index_07_next"></div>
+              </div>
+              <!-- 新增结束 -->
+              <ul class="swiper-wrapper">
+                  <li class="swiper-slide">
+                      <div class="item">
+                          <a target="_blank" href="https://news.ucas.ac.cn//spxw/9edd07ffbba54925b601580f69ad1519.htm" class="img">
+                                <img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/8d60a7f6c24f45b4bfd12a1e2866ecce.jpg">
+                            <!-- <img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/8d60a7f6c24f45b4bfd12a1e2866ecce.jpg" > -->
+                        </a>
+                          <div class="bottom pa-b">
+                              <a target="_blank" href="https://news.ucas.ac.cn//spxw/9edd07ffbba54925b601580f69ad1519.htm" class="title fs18 lh25x1">如何科学地“研制齐天大圣”</a>
+                              <!--  -->
+                          </div>
+                      </div>
+                  </li>
+                  <li class="swiper-slide">
+                      <div class="item">
+                          <a target="_blank" href="https://news.ucas.ac.cn//spxw/b2d6f44dbfb64501b5df3a9c0fde7f03.htm" class="img">
+                                <img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/f4c6107af4ce432386c5295e67f54552.jpg">
+                            <!-- <img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/f4c6107af4ce432386c5295e67f54552.jpg" > -->
+                        </a>
+                          <div class="bottom pa-b">
+                              <a target="_blank" href="https://news.ucas.ac.cn//spxw/b2d6f44dbfb64501b5df3a9c0fde7f03.htm" class="title fs18 lh25x1">中共中央政治局常委、国务院副总理丁薛祥来到中国科学院大学等高校调研</a>
+                              <!--  -->
+                          </div>
+                      </div>
+                  </li>
+                  <li class="swiper-slide">
+                      <div class="item">
+                          <a target="_blank" href="https://news.ucas.ac.cn//spxw/58ebe0e34b0747a982f92108429b8817.htm" class="img">
+                                <img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/f3003e1f8d334559a05974f0ebaf0583.jpg">
+                            <!-- <img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/f3003e1f8d334559a05974f0ebaf0583.jpg" > -->
+                        </a>
+                          <div class="bottom pa-b">
+                              <a target="_blank" href="https://news.ucas.ac.cn//spxw/58ebe0e34b0747a982f92108429b8817.htm" class="title fs18 lh25x1">夏意渐盛，光阴向暖</a>
+                              <!--  -->
+                          </div>
+                      </div>
+                  </li>
+                  <li class="swiper-slide">
+                      <div class="item">
+                          <a target="_blank" href="https://news.ucas.ac.cn//spxw/b3bb4cb778654ebf92d5bb6875325aab.htm" class="img">
+                                <img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/e7471a720eb84e178e980b4143d11cb8.png">
+                            <!-- <img class="lazy" data-src="https://news.ucas.ac.cn/images/2026-05/e7471a720eb84e178e980b4143d11cb8.png" > -->
+                        </a>
+                          <div class="bottom pa-b">
+                              <a target="_blank" href="https://news.ucas.ac.cn//spxw/b3bb4cb778654ebf92d5bb6875325aab.htm" class="title fs18 lh25x1">立德树人 |&nbsp;数理春秋，典籍不朽</a>
+                              <!--  -->
+                          </div>
+                      </div>
+                  </li>
+
+              </ul>
+          </div>
+      </div>
+  </div>
+  <!-- mode07结束 -->
+
+  <div class="mode5 sideblock">
+      <div class="mode5con row">
+          <!-- <img class="lazy" data-src="images/mode08_title.png" alt=""> -->
+          <div class="index_title">
+              <a target="_blank" class="channel_link fs16" href="https://news.ucas.ac.cn/gygkd/">更多</a>
+              <div class="channel_title fs36">光影国科大</div>
+          </div>
+          <div class="mode5bot">
+              <ul class="mode5Ul effect effect11 ">
+                  <li class="li1"><a target="_blank" href="https://news.ucas.ac.cn//gygkd/b2906a46093f4835b77f82229835ba9a.htm">
+                      <div class="mode5Pic img lazy" data-background="https://news.ucas.ac.cn/images/2026-05/1306ddc166db439192a4188ebb4a3d92.jpg"></div>
+                      <div class="mode5text">
+                          <p> 第171期“光影国科大”：果壳越野挑战赛——属于UCASer的森林越野之旅</p>
+                      </div>
+                  </a></li>
+                  <li class="li2"><a target="_blank" href="https://news.ucas.ac.cn//gygkd/8046cd0245f3495c9703b623d05abbef.htm">
+                      <div class="mode5Pic img lazy" data-background="https://news.ucas.ac.cn/images/2026-05/c7afbe8bcae1498481cac85c4639a434.jpg"></div>
+                      <div class="mode5text">
+                          <p> 第170期“光影国科大”：霞染雁栖</p>
+                      </div>
+                  </a></li>
+                  <li class="li3"><a target="_blank" href="https://news.ucas.ac.cn//gygkd/85f351e697ef42418aefa51a19cfd859.htm">
+                      <div class="mode5Pic img lazy" data-background="https://news.ucas.ac.cn/images/2026-05/9976a8812f85443ea4269c44c19906a4.jpg"></div>
+                      <div class="mode5text">
+                          <p> 第169期“光影国科大”：国科大风雨后的晚霞</p>
+                      </div>
+                  </a></li>
+                  <li class="li4"><a target="_blank" href="https://news.ucas.ac.cn//gygkd/d034eb6d112f47bdb0f6af2e13b12122.htm">
+                      <div class="mode5Pic img lazy" data-background="https://news.ucas.ac.cn/images/2026-04/2191d1fd520a46db863f7e1d2cd3c0a5.jpg"></div>
+                      <div class="mode5text">
+                          <p> 第168期“光影国科大”：国科大举办第三届弘扬“两弹一星”精神话剧大赛决赛</p>
+                      </div>
+                  </a></li>
+                  <li class="li5"><a target="_blank" href="https://news.ucas.ac.cn//gygkd/142acc6ad2254e3384372381604d14b7.htm">
+                      <div class="mode5Pic img lazy" data-background="https://news.ucas.ac.cn/images/2026-05/b9fbc24618ab4da8960873d86b250355.jpg"></div>
+                      <div class="mode5text">
+                          <p> 第167期“光影国科大”：雨后春意晚霞</p>
+                      </div>
+                  </a></li>
+                  <li class="li6"><a target="_blank" href="https://news.ucas.ac.cn//gygkd/a7b8667cc1c54af1a9586434a240e89c.htm">
+                      <div class="mode5Pic img lazy" data-background="https://news.ucas.ac.cn/images/2026-04/0d12cee5c51049aabded3ef7ee209d54.jpg"></div>
+                      <div class="mode5text">
+                          <p> 第166期“光影国科大”：国科大花间读书节🤝北京书市，共赴一场书香之约</p>
+                      </div>
+                  </a></li>
+                  <li class="li7"><a target="_blank" href="https://news.ucas.ac.cn//gygkd/4ee1254198104068b28698411b9e9eb1.htm">
+                      <div class="mode5Pic img lazy" data-background="https://news.ucas.ac.cn/images/2026-04/8fb0dbf73c8e4541bfc00e8712246478.jpg"></div>
+                      <div class="mode5text">
+                          <p> 第165期“光影国科大”：在春日国科大来一场color walk吧</p>
+                      </div>
+                  </a></li>
+              </ul>
+          </div>
+
+      </div>
+  </div>
+
+  <div class="sideblock">
+      <div style="background: url(images/mode09_bg.png) top center no-repeat;height:780px; position: relative;data-background-size: cover;data-background-attachment: fixed;padding: 1px 0 0; "
+           class="effect effect1 wrap_mode09">
+          <!-- <div class="media"></div> -->
+          <div class="mode09_top" style=" height:134px;padding: 90px 0 0;">
+              <img class="lazy" data-src="images/mode09_title.png" style="display: block;margin: 0 auto;">
+              <div class="info fs14 lh24">
+                  学校不仅注重培养学生勤学善思、严谨求真、勇于创新的科学素养，谦逊务实、坚韧执着、追求卓越的科研品格，更将科学家精神和家国情怀植根大学文化的传承，<br>培育学生胸怀天下、服务国家的使命意识和责任担当。
+              </div>
+          </div>
+          <div class="BUCEA-list10 swiper-container effect effect2">
+              <!-- <div class="swiper-pagination"></div> -->
+              <div class="swiper-wrapper">
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic10">
+                          <img src="images/mode09_item_bg.png" alt="">
+                          <div class="num">3258<span>名</span></div>
+                          <div class="title fs16 lh24x2">专任教师</div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic10">
+                          <img src="images/mode09_item_bg.png" alt="">
+                          <div class="num">19657<span>名</span></div>
+                          <div class="title fs16 lh24x2">研究生指导教师</div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic10">
+                          <img src="images/mode09_item_bg.png" alt="">
+                          <div class="num">10262<span>名</span></div>
+                          <div class="title fs16 lh24x2">博士生导师</div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic10">
+                          <img src="images/mode09_item_bg.png" alt="">
+                          <div class="num">205<span>名</span></div>
+                          <div class="title fs16 lh24x2">中国科学院院士</div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic10">
+                          <img src="images/mode09_item_bg.png" alt="">
+                          <div class="num">31<span>名</span></div>
+                          <div class="title fs16 lh24x2">中国工程院院士</div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic10">
+                          <img src="images/mode09_item_bg.png" alt="">
+                          <div class="num">1858<span>名</span></div>
+                          <div class="title fs16 lh24x2">在学本科生</div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic10">
+                          <img src="images/mode09_item_bg.png" alt="">
+                          <div class="num">68096<span>名</span></div>
+                          <div class="title fs16 lh24x2">在学研究生</div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic10">
+                          <img src="images/mode09_item_bg.png" alt="">
+                          <div class="num">33628<span>名</span></div>
+                          <div class="title fs16 lh24x2">在学博士生</div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic10">
+                          <img src="images/mode09_item_bg.png" alt="">
+                          <div class="num">1837<span>名</span></div>
+                          <div class="title fs16 lh24x2">在学外国留学生</div>
+                      </a>
+                  </div>
+
+              </div>
+              <div class="dots"></div>
+              <!-- <div class="swiper-pagination" style="position: static;text-align: center;padding-top: 50px;"></div> -->
+          </div>
+      </div>
+
+  </div>
+
+  <!-- mode10开始 -->
+  <div class="wrap_mode10 sideblock">
+      <div class="row mode10 clearFix">
+          <div class="index_title">
+              <a target="_blank" class="channel_link fs16" href="https://news.ucas.ac.cn/zt/index.htm">更多</a>
+              <div class="channel_title fs36">专题栏目</div>
+          </div>
+          <div class="BUCEA-list11  swiper-container">
+              <div class="swiper-wrapper">
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic lazy" data-background="images/2023-01/8a42b96f095243acbdc5333d066a046b.jpg" href="https://news.ucas.ac.cn/zt/2023nzt/xjpzsjscgkd/index.htm">
+                          <div class="topic_title">
+                              习近平视察国科大
+                          </div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic lazy" data-background="images/2023-06/86049172313b4f458bcd5c215894f1b6.png" href="https://pscc.ucas.ac.cn/index.php/zh/">
+                          <div class="topic_title">
+                              中国科学院党校
+                          </div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic lazy" data-background="images/2023-01/59aef31d7c364d8c9da89c5532619fa4.jpg" href="https://duzhi.ucas.ac.cn/">
+                          <div class="topic_title">
+                              笃志网
+                          </div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic lazy" data-background="images/2023-06/578f0cc3899a4815aba41cfdeabc2bbe.jpg" href="https://news.ucas.ac.cn/zt/2024nzt/zgkxydxsrkzdjxxjy/index.htm">
+                          <div class="topic_title">
+                              党纪学习教育专题
+                          </div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic lazy" data-background="images/2024-04/deb444f49013455ca79b8cea0489ca7f.jpg" href="https://news.ucas.ac.cn//zt/2025nzt/ldyx2023/index.htm">
+                          <div class="topic_title">
+                              国科大弘扬“两弹一星”精神系列活动专题网
+                          </div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic lazy" data-background="images/2023-01/27b7240415a449c79fe9a5b35f553669.jpg" href="https://glory.ucas.ac.cn/">
+                          <div class="topic_title">
+                              中国科学院与“两弹一星”纪念馆
+                          </div>
+                      </a>
+                  </div>
+                  <div class="swiper-slide">
+                      <a target="_blank" class="item-topic lazy" data-background="images/2023-01/3df742c90c3045dabb0e2f95b838634e.jpg" href="https://recruit.ucas.ac.cn/#/app/zgkxydx/ucas-recruit/zpwz">
+                          <div class="topic_title">
+                              中国科学院大学人才招聘
+                          </div>
+                      </a>
+                  </div>
+              </div>
+          </div>
+          <div class="dots"></div>
+      </div>
+  </div>
+  <!-- mode10结束 -->
+  <!-- mode12开始 -->
+  <div class="wrap_mode12 sideblock">
+      <div class="row mode12">
+          <h3 class="fs36 effect effect2">新媒体矩阵</h3>
+          <div class="index_121 ul-inline effect effect41">
+              <ul>
+                  <li><div class="item">
+                      <a target="_blank" class="img_centered"><img class="lazy" data-src="images/mode12_ico1.png" ></a>
+                      <!--<div class="hover_box">
+                          <img class="lazy" data-src="images/2026-05/7cd0c50aaa4b43af91495ccee0be1e6b.png" alt="">
+                      </div>-->
+                  </div></li>
+                  <li><div class="item">
+                      <a target="_blank" href="https://www.douyin.com/user/MS4wLjABAAAAiZKjwy0CSxtoAF7ZdjBOH_DuM15HFBSQUQi23hqqUM8" class="img_centered"><img class="lazy" data-src="images/mode12_ico2.png" ></a>
+                  </div></li>
+                  <li><div class="item">
+                      <a target="_blank" href="https://live.kuaishou.com/profile/ucas1978?fid=3410047741&cc=share_wxms&followRefer=151&shareMethod=CARD&kpn=KUAISHOU&subBiz=PROFILE&shareId=17486659502128&shareToken=X-74icF0Wfu5RbNv&shareResourceType=PROFILE_SELF&shareMode=APP&originShareId=17486659502128&appType=21&shareObjectId=3410047741&shareUrlOpened=0&timestamp=1685584807972" class="img_centered"><img class="lazy" data-src="images/kuaishou.png" ></a>
+                  </div></li>
+                  <li><div class="item">
+                      <a target="_blank" href="https://space.bilibili.com/507066827?spm_id_from=333.337.0.0" class="img_centered"><img class="lazy" data-src="images/mode12_ico3.png" ></a>
+                  </div></li>
+                  <li><div class="item">
+                      <a target="_blank" href="https://weibo.com/u/7261228880" class="img_centered"><img class="lazy" data-src="images/mode12_ico4.png" ></a>
+                  </div></li>
+                  <li><div class="item">
+                      <a target="_blank" class="img_centered"><img class="lazy" data-src="images/mode12_ico5.png" ></a>
+                  </div></li>
+              </ul>
+          </div>
+          <div class="clear"></div>
+          <div class="index_12 ul-inline">
+              <ul>
+                  <li class="effect effect2"><div class="item">
+                      <div class="img_box">
+                          <a target="_blank" href="https://mp.weixin.qq.com/s/JEjXrtX8Ln4Z4YchVjvMog" class="img"><img class="lazy" data-src="images/2026-05/7cd0c50aaa4b43af91495ccee0be1e6b.png" ></a>
+                      </div>
+                      <div class="info_box">
+
+                          <a target="_blank" class="tip fs16" ><img class="lazy" data-src="images/mode12_tip1.png" alt="">微信</a>
+                          <a target="_blank" href="https://mp.weixin.qq.com/s/JEjXrtX8Ln4Z4YchVjvMog" class="title fs16 lh26x3">下一站，中国科学院大学！</a>
+                      </div>
+                      <div class="clear"></div>
+                  </div></li>
+                  <li class="effect effect2"><div class="item">
+                      <div class="img_box">
+                          <a target="_blank" href="https://www.douyin.com/user/MS4wLjABAAAAiZKjwy0CSxtoAF7ZdjBOH_DuM15HFBSQUQi23hqqUM8?from_tab_name=main&modal_id=7636744760623873434&vid=7596557829130078793" class="img"><img class="lazy" data-src="images/2026-05/e9e8fd4e49be4903bde62a37df39c0d9.png" ></a>
+                      </div>
+                      <div class="info_box">
+
+                          <a target="_blank" class="tip fs16"><img class="lazy" data-src="images/mode12_ico2.png" alt="">抖音</a>
+                          <a target="_blank" href="https://www.douyin.com/user/MS4wLjABAAAAiZKjwy0CSxtoAF7ZdjBOH_DuM15HFBSQUQi23hqqUM8?from_tab_name=main&modal_id=7636744760623873434&vid=7596557829130078793" class="title fs16 lh26x3">2026年，中国科学院大学新增2个本科专业（方向）</a>
+                      </div>
+                      <div class="clear"></div>
+                  </div></li>
+                  <li class="effect effect2"><div class="item">
+                      <div class="img_box">
+                          <a target="_blank" href="https://weibo.com/7261228880/QEZoE77Pg?pagetype=profilefeed" class="img"><img class="lazy" data-src="images/2026-05/09f78ad872344cf382a0f7f7ba29207b.jpg" ></a>
+                      </div>
+                      <div class="info_box">
+
+                          <a target="_blank" class="tip fs16" ><img class="lazy" data-src="images/mode12_tip3.png" alt="">微博</a>
+                          <a target="_blank" href="https://weibo.com/7261228880/QEZoE77Pg?pagetype=profilefeed" class="title fs16 lh26x3">雁栖湖校区引进首批体能舱已正式落成</a>
+                      </div>
+                      <div class="clear"></div>
+                  </div></li>
+                  <li class="effect effect2"><div class="item">
+                      <div class="img_box">
+                          <a target="_blank" href="https://www.bilibili.com/video/BV1hCdKBCEBL/?spm_id_from=333.1387.homepage.video_card.click" class="img"><img class="lazy" data-src="images/2026-05/4404e851cfa244a8b181ecb0b9712c46.png" ></a>
+                      </div>
+                      <div class="info_box">
+
+                          <a target="_blank" class="tip fs16"><img class="lazy" data-src="images/mode12_ico3.png" alt="">哔哩哔哩</a>
+                          <a target="_blank" href="https://www.bilibili.com/video/BV1hCdKBCEBL/?spm_id_from=333.1387.homepage.video_card.click" class="title fs16 lh26x3">下一站，我们国科大见✨</a>
+                      </div>
+                      <div class="clear"></div>
+                  </div></li>
+
+              </ul>
+          </div>
+      </div>
+
+
+<div class="wrap_footer">
+    <footer>
+        <div class="footercon row">
+            <a href=""  class="footer_logo">
+                <img src="images/footer_logo.png">
+            </a>
+            <div class="footer_lf">
+                <div class="footer_address">
+                    <div class="box">
+                        <div class="title fs18">雁栖湖校区</div>
+                        <div class="info fs16 lh30">
+                            <p>地址：北京市怀柔区雁栖湖东路1号</p>
+                            <p>邮编：101408</p>
+                            <p>电话：010-69671108</p>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <div class="title fs18">玉泉路校区</div>
+                        <div class="info fs16 lh30">
+                            <p>地址：北京市石景山区玉泉路19号甲</p>
+                            <p>邮编：100049</p>
+                            <p>电话：010-88256939</p>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <div class="title fs18">中关村校区</div>
+                        <div class="info fs16 lh30">
+                            <p>地址：北京市海淀区中关村东路80号</p>
+                            <p>邮编：100190</p>
+                            <p>电话：010-82680900</p>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <div class="title fs18">奥运村校区</div>
+                        <div class="info fs16 lh30">
+                            <p>地址：北京市朝阳区大屯路甲3号</p>
+                            <p>邮编：100101</p>
+                            <p>电话：010-64805542</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_rt fs14 lh30">
+                <div class="footer_select_links ul-inline">
+                    <h3 class="fs18">相关链接</h3>
+                    <div class="select_link fs16">
+                        <div class="arrow"></div>
+                        <p>政府机构</p>
+                        <div class="alert_box fs14">
+                            <a href="http://www.gov.cn/">中国政府网</a>
+                            <a href="http://www.moe.gov.cn/">教育部</a>
+                            <a href="https://www.most.gov.cn">科技部</a>
+                            <a href="https://www.cast.org.cn/">中国科协</a>
+                            <a href="http://jw.beijing.gov.cn/">北京市教育委员会</a>
+                        </div>
+                    </div>
+                    <div class="select_link fs16">
+                        <div class="arrow"></div>
+                        <p>科研机构</p>
+                        <div class="alert_box fs14">
+                            <a href="http://www.caf.ac.cn/">林科院</a>
+                            <a href="http://www.cags.cgs.gov.cn/">地科院</a>
+                            <a href="http://www.iwhr.com/zgskywwnew/index.htm">水科院</a>
+                            <a href="http://www.cams.ac.cn/">医科院</a>
+                            <a href="https://www.rails.cn/">铁科院</a>
+                            <a href="https://www.nsf.gov/">美国国家科学基金委</a>
+                            <a href="http://www.81.cn/">军科院</a>
+                            <a href="https://www.mpg.de/en">德国马普学会</a>
+                            <a href="https://www.fraunhofer.de/en.html">国弗朗霍夫学会</a>
+                            <a href="https://www.dfg.de/en/index.jsp">德意志研究联合会</a>
+                            <a href="https://www.chine.campusfrance.org/zh-hans/study-france-R%26D-CNRS">法国国家科研中心</a>
+                            <a href="https://www.academie-sciences.fr/en/">法兰西科学院</a>
+                            <a href="https://royalsociety.org/">英国皇家学会</a>
+                            <a href="https://www.kva.se/en/">瑞典皇家科学院</a>
+                            <a href="https://rsc-src.ca/">加拿大皇家学会</a>
+                            <a href="https://www.science.org.au/">澳大利亚科学院</a>
+                        </div>
+                    </div>
+                    <div class="select_link fs16">
+                        <div class="arrow"></div>
+                        <p>高等学校</p>
+                        <div class="alert_box fs14">
+                            <a href="https://www.pku.edu.cn/">北京大学</a>
+                            <a href="https://www.tsinghua.edu.cn/">清华大学</a>
+                            <a href="https://www.ustc.edu.cn/">中国科学技术大学</a>
+                            <a href="https://www.zju.edu.cn/">浙江大学</a>
+                            <a href="https://www.sjtu.edu.cn/">上海交通大学</a>
+                            <a href="https://www.nju.edu.cn/">南京大学</a>
+                            <a href="https://www.fudan.edu.cn/">复旦大学</a>
+                            <a href="https://www.sysu.edu.cn/">中山大学</a>
+                            <a href="https://www.hust.edu.cn/">华中科技大学</a>
+                            <a href="https://www.whu.edu.cn/">武汉大学</a>
+                            <a href="https://www.shanghaitech.edu.cn/">上海科技大学</a>
+                        </div>
+                    </div>
+                    <div class="select_link fs16">
+                        <div class="arrow"></div>
+                        <p>国际组织</p>
+                        <div class="alert_box fs14">
+                            <a href="https://cnowsd.ucas.ac.cn/en">发展中国家妇女科学组织</a>
+                            <a href="https://twas.org/">第三世界科学院</a>
+                            <a href="https://twas.org/">发展中国家科学院</a>
+                            <a href="https://unitar.org/">联合国培训和研究机构</a>
+                            <a href="https://www.who.int/zh">世界卫生组织</a>
+                            <a href="http://www.apecchinabc.org/index/About/apec">亚太经合组织</a>
+                            <a href="https://www.wipo.int/portal/zh/">世界知识产权组织</a>
+                            <a href="http://anso.org.cn/ch/">“一带一路”国际科学组织联盟</a>
+                            <a href="https://zh.unesco.org/">联合国教科文组织</a>
+                        </div>
+                    </div>
+                    <div class="select_link fs16">
+                        <div class="arrow"></div>
+                        <p>新闻媒体</p>
+                        <div class="alert_box fs14">
+                            <a href="http://www.people.com.cn/">人民网</a>
+                            <a href="http://www.xinhuanet.com/">新华网</a>
+                            <a href="https://www.cctv.com/">央视网</a>
+                            <a href="https://www.gmw.cn/">光明网</a>
+                            <a href="http://www.china.com.cn/">中国网</a>
+                            <a href="http://www.sciencenet.cn/">科学网</a>
+                            <a href="http://www.chinajy.org.cn/">中国教育网</a>
+                            <a href="https://cn.chinadaily.com.cn/">中国日报网</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="copy_right fs14">
+            <span>版权所有©中国科学院大学</span><span>京ICP备07017956号&emsp;|&emsp;京公网安备 11010702001635号&emsp;|&emsp;总值班电话：69671100/18511561591</span>
+        </div>
+    </footer>
+</div>
+  </div>
+  <!-- mode12结束 -->
+</div>
+
+
+<!-- 通用JS -->
+<script type="text/javascript" src="js/jquery.min.js?v=1779211232555"></script>
+<script type="text/javascript" src="js/jquery.mousewheel.js?v=1779211232555"></script>
+<script type="text/javascript" src="js/swiper.min.js?v=1779211232555"></script>
+<script type="text/javascript" src="js/slick.js?v=1779211232555"></script>
+<script type="text/javascript" src="js/jquery.codehim.clock.js?v=1779211232555"></script>
+<script type="text/javascript" src="js/common.js?v=1779211232555"></script>
+<script type="text/javascript" src="js/index.js?v=1779211232555"></script>
+<script type="text/javascript" src="js/calendar.js?v=1779211232555"></script>
+<script type='text/javascript' src='js/g_index.js?v=1779211232555'></script><!--9+lVH45DGMFMtqbUd7pXYJfqzaDt/A3etWKp5gOd/oaddChRm+QQ5OnxjjxMzijWc0Qow0R9e9Un7wmJkqxpNR2w6Eja76bNgsRYHt2cyBPi8AG6aqZwrrlmuiU5Jz13HOgz1WOHSghKU9d8pfdbotRBN49KPMk9xx5EF5gNXNw=--><script type='text/javascript' src='g_style/g_index.js?v=1779211232555'></script><script type='text/javascript' src='g_style/85563443402746e3a4aa40334afeaffc_g_channel_index.js?v=1779211232555'></script><script src='/cms/web/writeLog.jsp?siteID=e0d3cca04cef416995e3bd2d1f9d8864' async='async'></script><style>.selectTdClass{background-color:#edf5fa !important}.gpTable{ border-collapse:collapse;border:1px solid #000 }.gpTable td,.gpTable th{border:1px solid #000;  padding: 2px 3px;}.gpTable caption{border:1px dashed #DDD;border-bottom:0;padding:3px;text-align:center;}.gpTable th{border-top:1px solid #BBB;background-color:#F7F7F7;}.gpTable tr.firstRow th{border-top-width:2px;}.ue-table-interlace-color-single{ background-color: #fcfcfc; } .ue-table-interlace-color-double{ background-color: #f7faff; }td p{margin:0;padding:0;} th p{margin:0;padding:0;}blockquote {padding: 0 0 0 15px;margin: 0 0 18px;border-left: 5px solid #EEE;}</style>
+</body></html>

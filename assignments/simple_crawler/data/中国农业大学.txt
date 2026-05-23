@@ -1,0 +1,1212 @@
+<!doctype html>
+<html><head><meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0"> 
+<meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+<meta name="format-detection" content="telephone=no"> 
+<meta name="renderer" content="webkit"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+<title>中国农业大学</title> 
+<link rel="stylesheet" href="static2022/css/base.css?v=1779269574425"> 
+<link rel="stylesheet" href="static2022/css/slick.css?v=1779269574425"> 
+<link rel="stylesheet" href="static2022/css/swiper.css?v=1779269574425"> 
+<link rel="stylesheet" href="static2022/css/style.css?v=1779269574425"> 
+<link rel="stylesheet" href="static2022/css/index.css?v=1779269574425"> 
+<link rel="shortcut icon" href="static2022/images/favicon.ico" type="image/x-icon"> <!--[if lt IE 9]>
+<style>html{overflow:hidden;}</style>
+<i class="ie_bg"></i><div class="ie9tips"> <img src="static2022/images/logo.png" alt=""> <p>本站不再支持您的浏览器，请升级您的浏览器到 <a href='http://browsehappy.osfipin.com/' target='_blank' style='text-decoration:underline'>更高的版本</a>！以获得更好的观看效果。</p>
+</div>
+<![endif]--> <!--[if IE 9]>
+<div id="ie9tips" style="position:fixed;top:15px;left:0;width:100%;text-align:center;color:#ccc;z-index:999999">您的浏览器版本过低，请升级到ie10以上或更换Chrome浏览器获得流畅的浏览效果！</div>
+<![endif]--><meta name="author" content="" /><meta name="description" content="" /><meta name="keywords" content="" /><script type='text/javascript' src='/publish/gPublic/all.js?v=1779269574425'></script><link rel='shortcut icon' href=''></head><body >
+
+<div class="mob_nav_btn only_mob" onclick="toggleOn(this,'.mobile-header','.mobile_header_cover')">
+	<span></span><span></span><span></span>
+</div>
+<div class="mobile_header_cover"></div>
+<section class="mobile-header only_mob" >
+	<div class="mobile-nav">
+		<ul>
+			<li><a href="index.htm" target="_blank">首页</a></li>
+		 
+			<li><a href="xxgk/index.htm" target="_blank">学校概况</a><div class="arrow" onclick="toggleParentOn(this)"></div>
+				
+				<dl class="mobile_subNav">
+					<dd><a href="xxgk/xxjj/index.htm" target="_blank">学校简介</a></dd>
+					<dd><a href="xxgk/dxzc/index.htm" target="_blank">大学章程</a></dd>
+					<dd><a href="xxgk/jbsj/index.htm" target="_blank">基本数据</a></dd>
+					<dd><a href="xxgk/xxld/index.htm" target="_blank">学校领导</a></dd>
+					<dd><a href="xxgk/xsyg/index.htm" target="_blank">校史沿革</a></dd>
+					<dd><a href="xxgk/whbz/index.htm" target="_blank">文化标识</a></dd>
+					<dd><a href="http://xxgk.cau.edu.cn/" target="_blank">信息公开</a></dd>
+					<dd><a href="xxgk/jtdy/index.htm" target="_blank">交通导游</a></dd>
+					<dd><a href="xxgk/bmhy/index.htm" target="_blank">部门黄页</a></dd>
+				</dl>
+			</li>
+
+			<li><a href="http://news.cau.edu.cn/" target="_blank">新闻资讯</a></li>
+<li><a href="xybm/index.htm" target="_blank">学院部门</a></li>
+		 
+			<li><a href="jyjx/index.htm" target="_blank">教育教学</a><div class="arrow" onclick="toggleParentOn(this)"></div>
+				
+				<dl class="mobile_subNav">
+					<dd><a href="jyjx/bksjy/index.htm" target="_blank">本科生教育</a></dd>
+					<dd><a href="jyjx/yjsjy/index.htm" target="_blank">研究生教育</a></dd>
+					<dd><a href="jyjx/jxjy/index.htm" target="_blank">继续教育</a></dd>
+					<dd><a href="http://www.cau.edu.cn/hwjl/gjxsjyhzjl/index.htm" target="_blank">国际学生教育</a></dd>
+					<dd><a href="http://www.cau.edu.cn/hwjl/zwhzbx" target="_blank">中外合作办学</a></dd>
+					<dd><a href="https://rsc.cau.edu.cn/col/col34984/index.html" target="_blank">师资队伍</a></dd>
+					<dd><a href="http://faculty.cau.edu.cn/" target="_blank">教师个人主页</a></dd>
+				</dl>
+			</li>
+
+		 
+			<li><a href="xkky/index.htm" target="_blank">学科科研</a><div class="arrow" onclick="toggleParentOn(this)"></div>
+				
+				<dl class="mobile_subNav">
+					<dd><a href="xkky/xkjs/index.htm" target="_blank">学科建设</a></dd>
+					<dd><a href="xkky/kxyj/index.htm" target="_blank">科学研究</a></dd>
+					<dd><a href="xkky/xsky/index.htm" target="_blank">学术期刊</a></dd>
+				</dl>
+			</li>
+
+		 
+			<li><a href="zsjy/index.htm" target="_blank">招生就业</a><div class="arrow" onclick="toggleParentOn(this)"></div>
+				
+				<dl class="mobile_subNav">
+					<dd><a href="zsjy/zs/index.htm" target="_blank">招生</a></dd>
+					<dd><a href="zsjy/jy/index.htm" target="_blank">就业</a></dd>
+				</dl>
+			</li>
+
+		 
+			<li><a href="hwjl/index.htm" target="_blank">合作交流</a><div class="arrow" onclick="toggleParentOn(this)"></div>
+				
+				<dl class="mobile_subNav">
+					<dd><a href="hwjl/hwxx/index.htm" target="_blank">海外学习</a></dd>
+					<dd><a href="hwjl/gjxsjyhzjl/index.htm" target="_blank">国际学生教育</a></dd>
+					<dd><a href="hwjl/zwhzbx/index.htm" target="_blank">中外合作办学</a></dd>
+				</dl>
+			</li>
+
+		 
+			<li><a href="whsh/index.htm" target="_blank">文化生活</a><div class="arrow" onclick="toggleParentOn(this)"></div>
+				
+				<dl class="mobile_subNav">
+					<dd><a href="whsh/aytyg/index.htm" target="_blank">奥运体育馆</a></dd>
+					<dd><a href="whsh/whysg/index.htm" target="_blank">文化艺术馆</a></dd>
+					<dd><a href="whsh/mjlt/index.htm" target="_blank">名家论坛</a></dd>
+					<dd><a href="whsh/xsst/index.htm" target="_blank">学生社团</a></dd>
+					<dd><a href="whsh/xsyst/index.htm" target="_blank">学生艺术团</a></dd>
+					<dd><a href="whsh/zyfw/index.htm" target="_blank">志愿服务</a></dd>
+					<dd><a href="whsh/shsj/index.htm" target="_blank">社会实践</a></dd>
+					<dd><a href="whsh/xsh/index.htm" target="_blank">学生会</a></dd>
+					<dd><a href="whsh/yjsh/index.htm" target="_blank">研究生会</a></dd>
+				</dl>
+			</li>
+
+		 
+			<li><a href="shfw/index.htm" target="_blank">社会服务</a><div class="arrow" onclick="toggleParentOn(this)"></div>
+				
+				<dl class="mobile_subNav">
+					<dd><a href="shfw/ddbfyxczx/index.htm" target="_blank">定点帮扶与乡村振兴</a></dd>
+					<dd><a href="shfw/dkzyydkhz/index.htm" target="_blank">对口支援与对口合作</a></dd>
+					<dd><a href="shfw/xdxqhz/index.htm" target="_blank">校地校企合作</a></dd>
+					<dd><a href="shfw/cgzh/index.htm" target="_blank">成果转化</a></dd>
+				</dl>
+			</li>
+
+			<li><a href="http://cauef.cau.edu.cn/" target="_blank">教育基金</a></li>
+			<li><a href="https://cauzhaopin.cau.edu.cn/zp.html#/" target="_blank">人才招聘</a></li>
+			
+		</ul>
+	</div>
+	<div class="mobile_search">
+		<form class="search" name="dataForm" action="/cms/web/search/index.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+			<input name="siteID" value="eccd42aeac684a11b1cff8d38005b490" type="hidden">
+			<input class="notxt" value="输入关键字" name="query" type="text" id="keywords" onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}">
+			<input class="notxt1 btn" name="Submit" type="submit" value="Search">
+		</form>
+	</div>
+
+  <div class="mob_links">
+					<dl>
+						<dt><a>本校师生</a></dt>
+						<dd><a href="http://one.cau.edu.cn/" target="_blank">校内平台</a></dd>
+						<dd><a href="https://vpn.cau.edu.cn" target="_blank">校外VPN</a></dd>
+						<dd><a href="https://mail.cau.edu.cn" target="_blank">网络邮局</a></dd>
+						
+					</dl>
+					<dl>
+						<dt><a>校外用户</a></dt>
+						<dd><a href="http://www.cau.edu.cn/ks" target="_blank">考生</a></dd>
+						<dd><a href="http://welcomehome.cau.edu.cn/" target="_blank">校友</a></dd>
+						<dd><a href="http://www.cau.edu.cn/fk" target="_blank">访客</a></dd>
+						<dd><a href="https://gzc.cau.edu.cn/sfw_cms/e?page=cms.index" target="_blank">招标采购</a></dd>
+						
+					</dl>
+				
+				</div>
+</section>
+<div class="body_home s showdiv">
+
+<div class="header header1">
+		<div class="wrapTop">
+			<div class="top_link top_link1 fs12">
+				<div class="top_linkIn">
+					<dl>
+						<dt><a>本校师生</a></dt>
+						<dd><a href="http://one.cau.edu.cn/" target="_blank">校内平台</a></dd>
+						<dd><a href="https://vpn.cau.edu.cn" target="_blank">校外VPN</a></dd>
+						<dd><a href="https://mail.cau.edu.cn" target="_blank">网络邮局</a></dd>
+					</dl>
+					<dl>
+						<dt><a>校外用户</a></dt>
+						<dd><a href="http://www.cau.edu.cn/ks" target="_blank">考生</a></dd>
+						<dd><a href="http://welcomehome.cau.edu.cn/" target="_blank">校友</a></dd>
+						<dd><a href="http://www.cau.edu.cn/fk" target="_blank">访客</a></dd>
+						<dd><a href="https://gzc.cau.edu.cn/sfw_cms/e?page=cms.index" target="_blank">招标采购</a></dd>
+					</dl>
+
+					<div class="ser">
+						<form class="search" name="dataForm" action="/cms/web/search/index.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+							<input name="siteID" value="eccd42aeac684a11b1cff8d38005b490" type="hidden">
+							<input class="notxt" value="输入关键字" name="query" type="text" id="keywords" onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}">
+							<input class="notxt1 btn" name="Submit" type="submit" value="Search">
+						</form>
+					</div>
+				</div>
+
+			</div>
+			<div class="logo">
+				<img src="static2022/images/logo.png" alt="">
+				<a class="logo1" href="index.htm"></a>
+			</div>
+
+			<div class="top">
+				
+				<nav class="nav">
+					<ul>
+                 
+						<li><a href="xxgk/index.htm" target="_blank">学校概况</a>
+
+							<div class="subNav">
+								<h3>学校概况</h3>
+								<div class="img_box"><img src="xxgk/d24679a3c4ed418bb53856c7a91396bd_1740389274252.jpg" alt=""></div>
+								<dl>
+									<dd><a href="xxgk/xxjj/index.htm" target="_blank">学校简介</a></dd>
+									<dd><a href="xxgk/dxzc/index.htm" target="_blank">大学章程</a></dd>
+									<dd><a href="xxgk/jbsj/index.htm" target="_blank">基本数据</a></dd>
+									<dd><a href="xxgk/xxld/index.htm" target="_blank">学校领导</a></dd>
+									<dd><a href="xxgk/xsyg/index.htm" target="_blank">校史沿革</a></dd>
+									<dd><a href="xxgk/whbz/index.htm" target="_blank">文化标识</a></dd>
+									<dd><a href="http://xxgk.cau.edu.cn/" target="_blank">信息公开</a></dd>
+									<dd><a href="xxgk/jtdy/index.htm" target="_blank">交通导游</a></dd>
+									<dd><a href="xxgk/bmhy/index.htm" target="_blank">部门黄页</a></dd>
+								</dl>
+							</div>
+						
+						</li>
+						<li><a href="http://news.cau.edu.cn/" target="_blank" >新闻资讯</a></li>
+						<li><a href="xybm/index.htm" target="_blank">学院部门</a></li>
+                 
+						<li><a href="jyjx/index.htm" target="_blank">教育教学</a>
+
+							<div class="subNav">
+								<h3>教育教学</h3>
+								<div class="img_box"><img src="jyjx/076ee242c9e4427bb669bba9e2f172b5_1740389337618.jpg" alt=""></div>
+								<dl>
+									<dd><a href="jyjx/bksjy/index.htm" target="_blank">本科生教育</a></dd>
+									<dd><a href="jyjx/yjsjy/index.htm" target="_blank">研究生教育</a></dd>
+									<dd><a href="jyjx/jxjy/index.htm" target="_blank">继续教育</a></dd>
+									<dd><a href="http://www.cau.edu.cn/hwjl/gjxsjyhzjl/index.htm" target="_blank">国际学生教育</a></dd>
+									<dd><a href="http://www.cau.edu.cn/hwjl/zwhzbx" target="_blank">中外合作办学</a></dd>
+									<dd><a href="https://rsc.cau.edu.cn/col/col34984/index.html" target="_blank">师资队伍</a></dd>
+									<dd><a href="http://faculty.cau.edu.cn/" target="_blank">教师个人主页</a></dd>
+								</dl>
+							</div>
+						
+						</li>
+                 
+						<li><a href="xkky/index.htm" target="_blank">学科科研</a>
+
+							<div class="subNav">
+								<h3>学科科研</h3>
+								<div class="img_box"><img src="xkky/33256fb9be6747af90bb453845a3ce69_1740389355245.png" alt=""></div>
+								<dl>
+									<dd><a href="xkky/xkjs/index.htm" target="_blank">学科建设</a></dd>
+									<dd><a href="xkky/kxyj/index.htm" target="_blank">科学研究</a></dd>
+									<dd><a href="xkky/xsky/index.htm" target="_blank">学术期刊</a></dd>
+								</dl>
+							</div>
+						
+						</li>
+                 
+						<li><a href="zsjy/index.htm" target="_blank">招生就业</a>
+
+							<div class="subNav">
+								<h3>招生就业</h3>
+								<div class="img_box"><img src="zsjy/c49a4e82f0ae48b09a3c43fed966f5cc_1740389365619.jpg" alt=""></div>
+								<dl>
+									<dd><a href="zsjy/zs/index.htm" target="_blank">招生</a></dd>
+									<dd><a href="zsjy/jy/index.htm" target="_blank">就业</a></dd>
+								</dl>
+							</div>
+						
+						</li>
+                 
+						<li><a href="hwjl/index.htm" target="_blank">合作交流</a>
+
+							<div class="subNav">
+								<h3>合作交流</h3>
+								<div class="img_box"><img src="hwjl/8ce86c66c26e474b8a6b1b3a61ae4cb6_1740389382386.png" alt=""></div>
+								<dl>
+									<dd><a href="hwjl/hwxx/index.htm" target="_blank">海外学习</a></dd>
+									<dd><a href="hwjl/gjxsjyhzjl/index.htm" target="_blank">国际学生教育</a></dd>
+									<dd><a href="hwjl/zwhzbx/index.htm" target="_blank">中外合作办学</a></dd>
+								</dl>
+							</div>
+						
+						</li>
+                 
+						<li><a href="whsh/index.htm" target="_blank">文化生活</a>
+
+							<div class="subNav">
+								<h3>文化生活</h3>
+								<div class="img_box"><img src="whsh/7876d3beb678401ab818b5329daa53fe_1740389392902.jpg" alt=""></div>
+								<dl>
+									<dd><a href="whsh/aytyg/index.htm" target="_blank">奥运体育馆</a></dd>
+									<dd><a href="whsh/whysg/index.htm" target="_blank">文化艺术馆</a></dd>
+									<dd><a href="whsh/mjlt/index.htm" target="_blank">名家论坛</a></dd>
+									<dd><a href="whsh/xsst/index.htm" target="_blank">学生社团</a></dd>
+									<dd><a href="whsh/xsyst/index.htm" target="_blank">学生艺术团</a></dd>
+									<dd><a href="whsh/zyfw/index.htm" target="_blank">志愿服务</a></dd>
+									<dd><a href="whsh/shsj/index.htm" target="_blank">社会实践</a></dd>
+									<dd><a href="whsh/xsh/index.htm" target="_blank">学生会</a></dd>
+									<dd><a href="whsh/yjsh/index.htm" target="_blank">研究生会</a></dd>
+								</dl>
+							</div>
+						
+						</li>
+                 
+						<li><a href="shfw/index.htm" target="_blank">社会服务</a>
+
+							<div class="subNav">
+								<h3>社会服务</h3>
+								<div class="img_box"><img src="shfw/26942f7d29594981908a0e9d838bb5d5_1740389404072.jpg" alt=""></div>
+								<dl>
+									<dd><a href="shfw/ddbfyxczx/index.htm" target="_blank">定点帮扶与乡村振兴</a></dd>
+									<dd><a href="shfw/dkzyydkhz/index.htm" target="_blank">对口支援与对口合作</a></dd>
+									<dd><a href="shfw/xdxqhz/index.htm" target="_blank">校地校企合作</a></dd>
+									<dd><a href="shfw/cgzh/index.htm" target="_blank">成果转化</a></dd>
+								</dl>
+							</div>
+						
+						</li>
+						<li><a href="http://cauef.cau.edu.cn/" target="_blank" >教育基金</a></li>
+						<li><a href="https://cauzhaopin.cau.edu.cn/zp.html#/" target="_blank" >人才招聘</a></li>
+					</ul>
+				</nav>
+			</div>
+
+
+		</div>
+	</div>	<div class="banner">
+		<div class="wrapbanner">
+			<div class="Banner swiper-container swiper1">
+				<div class="swiper-wrapper">
+                     <div class="swiper-slide">
+						<a  href="https://news.cau.edu.cn/ztbd/zjg/" ><span class="slick-img img">
+							<img class="swiper-lazy" data-src="images/2026-03/ea4b4e2d758e46a8ba6101ada9d53390.png" alt="">
+						</span>
+                          <div class="gpTextArea slick-txt">
+								<div class="">
+									<p class="fs30 lh36x1 gp-ellipsis gpArticleTitle"> </p>
+								</div>
+							</div>
+						</a>
+					</div>
+				
+                     <div class="swiper-slide">
+						<a  href="https://huixin.cau.edu.cn/" ><span class="slick-img img">
+							<img class="swiper-lazy" data-src="images/2025-10/82af1a39dc0f4a088d07c0ec00e27327.jpg" alt="">
+						</span>
+                          <div class="gpTextArea slick-txt">
+								<div class="">
+									<p class="fs30 lh36x1 gp-ellipsis gpArticleTitle"> </p>
+								</div>
+							</div>
+						</a>
+					</div>
+				
+                     <div class="swiper-slide">
+						<a  href="https://news.cau.edu.cn/tsnd/a2b609b5cc9b492389ad999f758c96d6.htm" ><span class="slick-img img">
+							<img class="swiper-lazy" data-src="images/2026-04/2d173ee412434b67b3c6360b105b11b5.jpg" alt="">
+						</span>
+                          <div class="gpTextArea slick-txt">
+								<div class="">
+									<p class="fs30 lh36x1 gp-ellipsis gpArticleTitle"> 牡丹竞放绽芳华</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				
+                     <div class="swiper-slide">
+						<a  href="https://news.cau.edu.cn/tsnd/e8fc2d326717402995c095f141272b14.htm" ><span class="slick-img img">
+							<img class="swiper-lazy" data-src="images/2026-04/47ff134ffbab4589ae0e5abf01d7cf9b.jpg" alt="">
+						</span>
+                          <div class="gpTextArea slick-txt">
+								<div class="">
+									<p class="fs30 lh36x1 gp-ellipsis gpArticleTitle"> 谷仓沐新绿</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				
+                     <div class="swiper-slide">
+						<a  href="https://news.cau.edu.cn/tsnd/ec2d59ce813f439b847667561c58d420.htm" ><span class="slick-img img">
+							<img class="swiper-lazy" data-src="images/2026-04/9057f923226648748bc8ab548c6677a5.jpg" alt="">
+						</span>
+                          <div class="gpTextArea slick-txt">
+								<div class="">
+									<p class="fs30 lh36x1 gp-ellipsis gpArticleTitle"> ​海棠烂漫时，满园皆春色</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				
+                     <div class="swiper-slide">
+						<a  href="https://www.cau.edu.cn/" ><span class="slick-img img">
+							<img class="swiper-lazy" data-src="images/2026-03/0030a1e450f34a3ea5e37b7ddfcbcf97.png" alt="">
+						</span>
+                          <div class="gpTextArea slick-txt">
+								<div class="">
+									<p class="fs30 lh36x1 gp-ellipsis gpArticleTitle"> </p>
+								</div>
+							</div>
+						</a>
+					</div>
+				
+                     <div class="swiper-slide">
+						<a  href="https://news.cau.edu.cn/ztbd/2026lh/" ><span class="slick-img img">
+							<img class="swiper-lazy" data-src="images/2026-03/d587d66ce7964331a75da9b9f075b19f.png" alt="">
+						</span>
+                          <div class="gpTextArea slick-txt">
+								<div class="">
+									<p class="fs30 lh36x1 gp-ellipsis gpArticleTitle"> </p>
+								</div>
+							</div>
+						</a>
+					</div>
+				
+					
+					
+				</div>
+				<div class="banner_btns">
+					<div class="pause_btn"></div>
+					<div class="swiper-pagination Banner-dots"></div>
+					<div class="banner_more"><a href="jcdt/index.htm">更多</a></div> 
+				</div>
+				
+				
+			</div>
+		</div>
+
+
+			<!-- 倒计时 
+			<div class="index_logo">
+				<div class="logo111"><img src="static2022/images/logo2.svg" alt=""></div>
+				<a class="logo1" href="https://cau120.cau.edu.cn/" target="_blank"></a>
+				<div class="count">
+					<div class="text fs15">倒计时</div>
+					<div class="day fs18"><span class="num" data-num="200">200</span>天</div>
+					<div class="gear"><span class="gear-rotate"></span></div>
+				</div>
+			</div>
+			倒计时 -->
+
+	</div>
+
+	<div class="bb"></div>
+</div>
+
+<div class="body_b dis" tabindex="1">
+
+<div class="header2">
+		<div class="wrapTop">
+			<div class="top top2">
+
+				<nav class="nav nav2">
+					<ul>
+                   
+						<li><a href="xxgk/index.htm" target="_blank">学校概况</a>
+							<div class="subNav">
+								<!-- <h3>学校概况</h3>
+								<div class="img_box"><img src="xxgk/d24679a3c4ed418bb53856c7a91396bd_1740389274252.jpg" alt=""></div> -->
+								<dl>
+									<dd><a href="xxgk/xxjj/index.htm" target="_blank">学校简介</a></dd>
+									<dd><a href="xxgk/dxzc/index.htm" target="_blank">大学章程</a></dd>
+									<dd><a href="xxgk/jbsj/index.htm" target="_blank">基本数据</a></dd>
+									<dd><a href="xxgk/xxld/index.htm" target="_blank">学校领导</a></dd>
+									<dd><a href="xxgk/xsyg/index.htm" target="_blank">校史沿革</a></dd>
+									<dd><a href="xxgk/whbz/index.htm" target="_blank">文化标识</a></dd>
+									<dd><a href="http://xxgk.cau.edu.cn/" target="_blank">信息公开</a></dd>
+									<dd><a href="xxgk/jtdy/index.htm" target="_blank">交通导游</a></dd>
+									<dd><a href="xxgk/bmhy/index.htm" target="_blank">部门黄页</a></dd>
+								</dl>
+							</div>
+						</li>
+						<li><a href="http://news.cau.edu.cn/"  target="_blank" >新闻资讯</a></li>
+						<li><a href="xybm/index.htm" target="_blank">学院部门</a></li>
+
+                   
+						<li><a href="jyjx/index.htm" target="_blank">教育教学</a>
+							<div class="subNav">
+								<!-- <h3>教育教学</h3>
+								<div class="img_box"><img src="jyjx/076ee242c9e4427bb669bba9e2f172b5_1740389337618.jpg" alt=""></div> -->
+								<dl>
+									<dd><a href="jyjx/bksjy/index.htm" target="_blank">本科生教育</a></dd>
+									<dd><a href="jyjx/yjsjy/index.htm" target="_blank">研究生教育</a></dd>
+									<dd><a href="jyjx/jxjy/index.htm" target="_blank">继续教育</a></dd>
+									<dd><a href="http://www.cau.edu.cn/hwjl/gjxsjyhzjl/index.htm" target="_blank">国际学生教育</a></dd>
+									<dd><a href="http://www.cau.edu.cn/hwjl/zwhzbx" target="_blank">中外合作办学</a></dd>
+									<dd><a href="https://rsc.cau.edu.cn/col/col34984/index.html" target="_blank">师资队伍</a></dd>
+									<dd><a href="http://faculty.cau.edu.cn/" target="_blank">教师个人主页</a></dd>
+								</dl>
+							</div>
+						</li>
+                   
+						<li><a href="xkky/index.htm" target="_blank">学科科研</a>
+							<div class="subNav">
+								<!-- <h3>学科科研</h3>
+								<div class="img_box"><img src="xkky/33256fb9be6747af90bb453845a3ce69_1740389355245.png" alt=""></div> -->
+								<dl>
+									<dd><a href="xkky/xkjs/index.htm" target="_blank">学科建设</a></dd>
+									<dd><a href="xkky/kxyj/index.htm" target="_blank">科学研究</a></dd>
+									<dd><a href="xkky/xsky/index.htm" target="_blank">学术期刊</a></dd>
+								</dl>
+							</div>
+						</li>
+                   
+						<li><a href="zsjy/index.htm" target="_blank">招生就业</a>
+							<div class="subNav">
+								<!-- <h3>招生就业</h3>
+								<div class="img_box"><img src="zsjy/c49a4e82f0ae48b09a3c43fed966f5cc_1740389365619.jpg" alt=""></div> -->
+								<dl>
+									<dd><a href="zsjy/zs/index.htm" target="_blank">招生</a></dd>
+									<dd><a href="zsjy/jy/index.htm" target="_blank">就业</a></dd>
+								</dl>
+							</div>
+						</li>
+						
+						<div class="logo_box">
+							<div class="logo">
+								<img src="static2022/images/logo2.png" alt="">
+								<a class="logo1" href="index.htm"></a>
+							</div>
+						</div>
+                   
+						<li><a href="hwjl/index.htm" target="_blank">合作交流</a>
+							<div class="subNav">
+								<!-- <h3>合作交流</h3>
+								<div class="img_box"><img src="hwjl/8ce86c66c26e474b8a6b1b3a61ae4cb6_1740389382386.png" alt=""></div> -->
+								<dl>
+									<dd><a href="hwjl/hwxx/index.htm" target="_blank">海外学习</a></dd>
+									<dd><a href="hwjl/gjxsjyhzjl/index.htm" target="_blank">国际学生教育</a></dd>
+									<dd><a href="hwjl/zwhzbx/index.htm" target="_blank">中外合作办学</a></dd>
+								</dl>
+							</div>
+						</li>
+                   
+						<li><a href="whsh/index.htm" target="_blank">文化生活</a>
+							<div class="subNav">
+								<!-- <h3>文化生活</h3>
+								<div class="img_box"><img src="whsh/7876d3beb678401ab818b5329daa53fe_1740389392902.jpg" alt=""></div> -->
+								<dl>
+									<dd><a href="whsh/aytyg/index.htm" target="_blank">奥运体育馆</a></dd>
+									<dd><a href="whsh/whysg/index.htm" target="_blank">文化艺术馆</a></dd>
+									<dd><a href="whsh/mjlt/index.htm" target="_blank">名家论坛</a></dd>
+									<dd><a href="whsh/xsst/index.htm" target="_blank">学生社团</a></dd>
+									<dd><a href="whsh/xsyst/index.htm" target="_blank">学生艺术团</a></dd>
+									<dd><a href="whsh/zyfw/index.htm" target="_blank">志愿服务</a></dd>
+									<dd><a href="whsh/shsj/index.htm" target="_blank">社会实践</a></dd>
+									<dd><a href="whsh/xsh/index.htm" target="_blank">学生会</a></dd>
+									<dd><a href="whsh/yjsh/index.htm" target="_blank">研究生会</a></dd>
+								</dl>
+							</div>
+						</li>
+                   
+						<li><a href="shfw/index.htm" target="_blank">社会服务</a>
+							<div class="subNav">
+								<!-- <h3>社会服务</h3>
+								<div class="img_box"><img src="shfw/26942f7d29594981908a0e9d838bb5d5_1740389404072.jpg" alt=""></div> -->
+								<dl>
+									<dd><a href="shfw/ddbfyxczx/index.htm" target="_blank">定点帮扶与乡村振兴</a></dd>
+									<dd><a href="shfw/dkzyydkhz/index.htm" target="_blank">对口支援与对口合作</a></dd>
+									<dd><a href="shfw/xdxqhz/index.htm" target="_blank">校地校企合作</a></dd>
+									<dd><a href="shfw/cgzh/index.htm" target="_blank">成果转化</a></dd>
+								</dl>
+							</div>
+						</li>
+						<li><a href="http://cauef.cau.edu.cn/"  target="_blank" >教育基金</a></li>
+						<li><a href="https://cauzhaopin.cau.edu.cn/zp.html#/"  target="_blank" >人才招聘</a></li>
+
+						<div class="ser2">
+							<div class="ser_btn"></div>
+							<div class="ser">
+								<form class="search" name="dataForm" action="/cms/web/search/index.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+									<input name="siteID" value="eccd42aeac684a11b1cff8d38005b490" type="hidden">
+									<input class="notxt" value="输入关键字" name="query" type="text" id="keywords" onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}">
+									<input class="notxt1 btn" name="Submit" type="submit" value="Search">
+								</form>
+							</div>
+						</div>
+					</ul>
+				</nav>
+				<div style="clear: both;"></div>
+			</div>
+		</div>
+	</div>		<div class="scroll">
+		<div class="content">
+			<!-- mode01开始 -->
+			<div class="wrap_mode01">
+				<div class="row mode01">
+					<div class="mode01_title">
+						<a href="https://news.cau.edu.cn/ttgznew/index.htm" target="_blank" class="en_channel_title fs16">Headlines</a>
+						<a href="https://news.cau.edu.cn/ttgznew/index.htm" target="_blank" class="channel_title fs36">头条关注</a>
+						<a href="https://news.cau.edu.cn/" target="_blank" class="channel_link fs14">进入新闻网</a>
+					</div>
+					<div class="index_01 effect effect2">
+
+<!-- 手机端轮播开始 -->
+							<div class="index_01a index_01e ul-inline">
+								<ul>
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/7150954784e0413ab57e70903ab12f33.htm" title=""  target="_blank">
+										<div class="img"><img src="images/2026-05/721bff5d0b5e4fb08bf530ac9d1362ab.jpg" ></div>
+										<div class="title fs22 lh28x1">强农报国 青春建功——中国农大青春五四主题展演暨2026年度“五四”表彰大会举行</div>
+									</a></li>
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/58879fa1043341138c2941bf0c947bac.htm" title=""  target="_blank">
+										<div class="img"><img src="images/2026-04/d8021075813a497d8cf8bd75663218fe.jpg" ></div>
+										<div class="title fs22 lh28x1">学校召开学习贯彻习近平总书记给中国农业大学科技小院学生重要回信精神三周年座谈会</div>
+									</a></li>
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/20c645521dae44648b171d4796b6ae09.htm"  target="_blank" title="">
+										<div class="img"><img  src="images/2026-05/0174eeb056684009b951f3c3844e293e.jpg" ></div>
+										<div class="title fs22 lh28x1">学校召开树立和践行正确政绩观学习教育推进会</div>
+									</a></li>
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/cdc8d8f7b93f4211ba4db69cf5a78c3d.htm"  target="_blank" title="">
+										<div class="img"><img  src="images/2026-05/856de4c6b15e45e2901befdeabe6309f.jpeg" ></div>
+										<div class="title fs22 lh28x1">校长陈卫会见山东农业大学党委书记、校长一行</div>
+									</a></li>
+									
+								</ul>
+								<div class="swiper-pagination"></div>
+							</div>
+							<!-- 手机端轮播结束 -->
+
+						<div class="lf">
+							<div class="index_01a ul-inline">
+								<ul>
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/7150954784e0413ab57e70903ab12f33.htm" title=""  target="_blank">
+										<div class="img"><img src="images/2026-05/721bff5d0b5e4fb08bf530ac9d1362ab.jpg" ></div>
+										<div class="title fs24 lh32x1">强农报国 青春建功——中国农大青春五四主题展演暨2026年度“五四”表彰大会举行</div>
+									</a></li>
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/58879fa1043341138c2941bf0c947bac.htm" title=""  target="_blank">
+										<div class="img"><img src="images/2026-04/d8021075813a497d8cf8bd75663218fe.jpg" ></div>
+										<div class="title fs24 lh32x1">学校召开学习贯彻习近平总书记给中国农业大学科技小院学生重要回信精神三周年座谈会</div>
+									</a></li>
+								</ul>
+								<div class="swiper-pagination"></div>
+							</div>
+							<div class="index_01b ul-inline">
+								<ul>
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/91265bf584534996add4cd1ee30584df.htm"  target="_blank" title="">
+										<div class="title fs22 lh28x1">勇立潮头探强农——中国农业大学加快构建中国特色哲学社会科学十年纪实</div>
+									</a></li>
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/d42b9e0b3140466f9a9d87d6f76db837.htm"  target="_blank" title="">
+										<div class="title fs22 lh28x1">新闻发布厅 | 从“施工图”到“任务书”——聚焦“8+2”行动计划年度目标任务分解</div>
+									</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="rt">
+							<div class="index_01c ul-inline">
+								<ul class="gp-avg-md-2">
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/96ee5c87f5b742e4b0f9c70c86ad72f6.htm"  target="_blank" title="">
+										<div class="title fs22 lh32x2">学校党委常委会召开2026-14次会议</div>
+										<div class="summary fs16 lh26x3">            	5月8日，学校党委常委会召开2026-14次会议。学校党委书记钟登华主持会议。</div>
+									</a></li>
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/70bddb3809dd472dbdfcb6fc24f8c59d.htm"  target="_blank" title="">
+										<div class="title fs22 lh32x2">校长办公会召开第2026-16次会议</div>
+										<div class="summary fs16 lh26x3">            	5月19日，学校校长办公会召开2026-16次会议。</div>
+									</a></li>
+								</ul>
+							</div>
+<div class="wrap_index_01d">
+							<div class="index_01d ul-inline">
+								<ul>
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/20c645521dae44648b171d4796b6ae09.htm"  target="_blank" title="">
+										<div class="img"><img src="images/2026-05/0174eeb056684009b951f3c3844e293e.jpg" ></div>
+										<div class="title fs22 lh28x1">学校召开树立和践行正确政绩观学习教育推进会</div>
+									</a></li>
+									<li><a class="item" href="https://news.cau.edu.cn/ttgznew/cdc8d8f7b93f4211ba4db69cf5a78c3d.htm"  target="_blank" title="">
+										<div class="img"><img src="images/2026-05/856de4c6b15e45e2901befdeabe6309f.jpeg" ></div>
+										<div class="title fs22 lh28x1">校长陈卫会见山东农业大学党委书记、校长一行</div>
+									</a></li>
+								</ul>
+								<div class="swiper-pagination"></div>
+							</div>
+</div>
+						</div>
+						<div class="clear"></div>
+					</div>
+					
+				</div>
+			</div>
+			<!-- mode01结束 -->
+			
+			<!-- mode11开始 -->
+			<div class="wrap_mode11">
+				<div class="mode11 row effect effect4">
+					<div class="index_title">
+						<a class="channel_title fs36" href="https://news.cau.edu.cn/ztbd/index.htm" target='_blank'>专题报道</a>
+						<a href="https://news.cau.edu.cn/ztbd/index.htm" target="_blank" class="en_channel_title fs16">HIGHLIGHTS</a>
+						<a class="channel_link fs14" href="https://news.cau.edu.cn/ztbd/index.htm" target="_blank">查看更多</a>
+					</div>
+					
+<div class="index_012 ul-inline">
+						<ul>
+							<li><a class="item" href="https://news.cau.edu.cn/ztbd/zjg/" title="" target='_blank'>
+								<div class="img"><img class="lazy" data-src="images/2026-03/74b7dcaea7e640c1818dee1103e6cb03.png"></div>
+								<div class="title fs20">树立和践行正确政绩观学习教育</div>
+							</a></li>
+							<li><a class="item" href="https://huixin.cau.edu.cn" title="" target='_blank'>
+								<div class="img"><img class="lazy" data-src="http://news.cau.edu.cn/images/2025-10/3993997f3ec7407fb6820fd40bb67f11.jpeg"></div>
+								<div class="title fs20">深入学习贯彻习近平总书记给中国农业大学全体师生重要回信精神</div>
+							</a></li>
+							<li><a class="item" href="https://news.cau.edu.cn/ztbd/2026lh/" title="" target='_blank'>
+								<div class="img"><img class="lazy" data-src="images/2026-03/c3532b82f44b4522a0deab9dcc59211f.png"></div>
+								<div class="title fs20">聚焦2026全国两会</div>
+							</a></li>
+							<li><a class="item" href="https://news.cau.edu.cn/ztbd/szqh1/" title="" target='_blank'>
+								<div class="img"><img class="lazy" data-src="http://news.cau.edu.cn/images/2025-10/3a011096ddeb47e09bd2e229565b7419.png"></div>
+								<div class="title fs20">学习宣传贯彻党的二十届四中全会精神</div>
+							</a></li>
+							<li><a class="item" href="https://news.cau.edu.cn/ztbd/jcxcsx/" title="" target='_blank'>
+								<div class="img"><img class="lazy" data-src="http://news.cau.edu.cn/images/2025-12/3fe93eda674a48df9eda00f7327313c3.png"></div>
+								<div class="title fs20">基层宣传思想文化工作巡礼</div>
+							</a></li>
+							<li><a class="item" href="https://news.cau.edu.cn/ztbd/xjj/" title="" target='_blank'>
+								<div class="img"><img class="lazy" data-src="http://news.cau.edu.cn/images/2025-12/b4ab8d88eaec4fe9bbae78ca17afc2ae.jpg"></div>
+								<div class="title fs20">小精尖 大担当</div>
+							</a></li>
+							<li><a class="item" href="https://cau120.cau.edu.cn/" title="" target='_blank'>
+								<div class="img"><img class="lazy" data-src="http://news.cau.edu.cn/images/2025-10/9f2d8324f71246248ac34ffdb0d101a8.jpg"></div>
+								<div class="title fs20">中国农业大学120周年校庆专题网</div>
+							</a></li>
+						</ul>
+						<div class="arrow prev"></div>
+						<div class="arrow next"></div>
+					</div>
+
+				</div>
+			</div>
+			<!-- mode11结束 -->
+
+			<!-- mode02开始 -->
+			<div class="wrap_mode02">
+				<div class="row mode02">
+					<div class="lf effect effect3">
+						<div class="index_title">
+							<a class="channel_title fs36" href="https://news.cau.edu.cn/mtndnew/index.htm" target="_blank">媒体农大</a>
+							<a href="https://news.cau.edu.cn/mtndnew/index.htm" target="_blank" class="en_channel_title fs16">MEDIA</a>
+							<a class="channel_link fs14" href="https://news.cau.edu.cn/mtndnew/index.htm" target="_blank">查看更多</a>
+						</div>
+						<div class="index_021 ul-inline">
+							<ul>
+								<li><div class="item">
+									<a class="tip fs13" href="https://news.cau.edu.cn/mtndnew/dd8722e09bb8422e90e5602ec1bedb64.htm"  target="_blank" >人民网</a><div class="time fs13">2026.05.18</div>
+									<a href="https://news.cau.edu.cn/mtndnew/dd8722e09bb8422e90e5602ec1bedb64.htm"   target="_blank" class="title fs16 lh26x1">中国农业大学举办场馆讲解员风采展示活动</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="https://news.cau.edu.cn/mtndnew/11b4fe8d7e09489d8c99b21a0fad5e1d.htm"  target="_blank" >中国畜牧兽医报</a><div class="time fs13">2026.05.18</div>
+									<a href="https://news.cau.edu.cn/mtndnew/11b4fe8d7e09489d8c99b21a0fad5e1d.htm"   target="_blank" class="title fs16 lh26x1">以减污降碳协同增效促进畜牧业全面绿色转型</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="https://news.cau.edu.cn/mtndnew/e635b8e4169d4421918a2caa66c4714c.htm"  target="_blank" >北京卫视</a><div class="time fs13">2026.05.16</div>
+									<a href="https://news.cau.edu.cn/mtndnew/e635b8e4169d4421918a2caa66c4714c.htm"   target="_blank" class="title fs16 lh26x1">【北京您早】专家：优化“五水联调”格局 构建“绿灰蓝”协同的韧性体系</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="https://news.cau.edu.cn/mtndnew/629530c62e2c485bb06a64ed7889a2f8.htm"  target="_blank" >北京日报客户端</a><div class="time fs13">2026.05.16</div>
+									<a href="https://news.cau.edu.cn/mtndnew/629530c62e2c485bb06a64ed7889a2f8.htm"   target="_blank" class="title fs16 lh26x1">“京颐先锋”志愿服务发布服务项目151个</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="https://news.cau.edu.cn/mtndnew/2b3d2bf2d9054eab95b010634a5e7957.htm"  target="_blank" >中国农网</a><div class="time fs13">2026.05.16</div>
+									<a href="https://news.cau.edu.cn/mtndnew/2b3d2bf2d9054eab95b010634a5e7957.htm"   target="_blank" class="title fs16 lh26x1">精准变量喷药机器人在海南果园成功技术落地</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="https://news.cau.edu.cn/mtndnew/7f51c1c0593f4aba87bee90a884d3692.htm"  target="_blank" >光明网</a><div class="time fs13">2026.05.16</div>
+									<a href="https://news.cau.edu.cn/mtndnew/7f51c1c0593f4aba87bee90a884d3692.htm"   target="_blank" class="title fs16 lh26x1">一群年轻人，在麦田里“挖”出了答案</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="https://news.cau.edu.cn/mtndnew/fa93057542fb4cbeb270fdcc493b6646.htm"  target="_blank" >北京日报客户端</a><div class="time fs13">2026.05.15</div>
+									<a href="https://news.cau.edu.cn/mtndnew/fa93057542fb4cbeb270fdcc493b6646.htm"   target="_blank" class="title fs16 lh26x1">“京字号”月季扮靓京城，育种团队揭秘“约定”为何出圈——</a>
+								</div></li>
+
+							</ul>
+						</div>
+					</div>
+					<div class="rt effect effect1">
+						<div class="index_title">
+							<a href="tzgg/index.htm" target="_blank" class="channel_title fs36">通知公告</a>
+							<a href="tzgg/index.htm" target="_blank" class="en_channel_title fs16">NOTICES</a>
+							<a class="channel_link fs14" href="tzgg/index.htm" target="_blank">查看更多</a>
+						</div>
+						<!-- <div class="clear"></div> -->
+						<div class="index_021 ul-inline">
+							<ul>
+								<li><div class="item">
+									<a class="tip fs13" href="tzgg/581f8ce54905405d941a4b10f1aa75b5.htm" target="_blank">
+人事处
+</a><div class="time fs13">2026.05.20</div>
+									<a href="tzgg/581f8ce54905405d941a4b10f1aa75b5.htm"  target="_blank" class="title fs16 lh26x1">关于2026年度中国农业大学非学术岗招聘评议结果的公示（六）</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="tzgg/3a4ee2ab5fa447e19d37b6ccfb4db735.htm" target="_blank">
+后勤保障处
+</a><div class="time fs13">2026.05.18</div>
+									<a href="tzgg/3a4ee2ab5fa447e19d37b6ccfb4db735.htm"  target="_blank" class="title fs16 lh26x1">中国农业大学后勤保障处东区物业服务部合同聘用制人员招聘启事</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="tzgg/1d6a6557c5ad4a879626808556c2781e.htm" target="_blank">
+后勤保障处
+</a><div class="time fs13">2026.05.18</div>
+									<a href="tzgg/1d6a6557c5ad4a879626808556c2781e.htm"  target="_blank" class="title fs16 lh26x1">中国农业大学后勤保障处西区物业服务部合同聘用制人员招聘启事</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="tzgg/f3995198e1f941e5abb285d4d1118e8b.htm" target="_blank">
+实验室管理处
+</a><div class="time fs13">2026.05.18</div>
+									<a href="tzgg/f3995198e1f941e5abb285d4d1118e8b.htm"  target="_blank" class="title fs16 lh26x1">关于中国农业大学实验室管理处非事业编（C岗）拟聘人员的公示</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="tzgg/35e0e30f425f420e98fe89b22cbbc134.htm" target="_blank">
+党委学生工作部（学生处、武装部）
+</a><div class="time fs13">2026.05.18</div>
+									<a href="tzgg/35e0e30f425f420e98fe89b22cbbc134.htm"  target="_blank" class="title fs16 lh26x1">关于开展2025届毕业生基层就业学费补偿贷款代偿复核工作的通知</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="tzgg/68a71b81587a4a52bd9b3257526c3284.htm" target="_blank">
+党委学生工作部（学生处、武装部）
+</a><div class="time fs13">2026.05.18</div>
+									<a href="tzgg/68a71b81587a4a52bd9b3257526c3284.htm"  target="_blank" class="title fs16 lh26x1">关于开展2024届、2025届毕业生基层就业在职在岗确认工作的通知</a>
+								</div></li>
+								<li><div class="item">
+									<a class="tip fs13" href="tzgg/520e0e9970af47418e28f0f70caf6894.htm" target="_blank">
+党委学生工作部(学生处、武装部)
+</a><div class="time fs13">2026.05.18</div>
+									<a href="tzgg/520e0e9970af47418e28f0f70caf6894.htm"  target="_blank" class="title fs16 lh26x1">关于开展2026届毕业生基层就业学费补偿和国家助学贷款代偿申请工作的通知</a>
+								</div></li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<!-- mode02结束 -->
+			
+<!-- mode10开始 -->
+			<div class="wrap_mode10">
+				<div class="row mode10">
+					<div class="lf effect effect2">
+						<div class="index_title">
+							<a class="channel_title fs36" href="https://news.cau.edu.cn/kxyj/index.htm">科学研究</a>
+							<a href="https://news.cau.edu.cn/kxyj/index.htm" class="en_channel_title fs16">research</a>
+							<a class="channel_link fs14" href="https://news.cau.edu.cn/kxyj/index.htm" target="_blank">查看更多</a>
+						</div>
+						<div class="index_10a ul-inline">
+							<ul>
+								
+								<li><a class="item" href="https://news.cau.edu.cn/kxyj/c0fe7cf65a8b4623adcc3e5fe6338567.htm"  target="_blank">
+									<div class="title fs17 lh26x2">人才强校 | 土地学院曾也鲁教授团队在基于无人机的作物冠层叶倾角高通量提取方面取得重要进展</div>
+								</a></li>
+								
+								<li><a class="item" href="https://news.cau.edu.cn/kxyj/dd4d70358eb2457097cf6434412cdb38.htm"  target="_blank">
+									<div class="title fs17 lh26x2">人才强校 | 土地学院王祥教授团队在土壤有机碳研究中取得进展：揭示植物源碳在侵蚀坡地上的分解和形成土壤碳库过程</div>
+								</a></li>
+								
+								<li><a class="item" href="https://news.cau.edu.cn/kxyj/1ceec7c418a945358c1d836f6713554c.htm"  target="_blank">
+									<div class="title fs17 lh26x2">人才强校 | 植保学院彩万志、李虎、段元格团队揭示入侵害虫悬铃木方翅网蝽转录后调控网络的适应性演化</div>
+								</a></li>
+								
+								<li><a class="item" href="https://news.cau.edu.cn/kxyj/029330c1aefe4ec1b7a2aa94a33e1e0e.htm"  target="_blank">
+									<div class="title fs17 lh26x2">人才强校 | 理学院化学系杜凤沛教授团队在构建场景导向高效绿色农药制剂方面取得新进展</div>
+								</a></li>
+								
+								<li><a class="item" href="https://news.cau.edu.cn/kxyj/13024bcdc8e84184a8b2bd370387e22c.htm"  target="_blank">
+									<div class="title fs17 lh26x2">人才强校 | 资环学院张福锁院士团队丛汶峰教授、全球食物经济与政策研究院樊胜根教授联合荷兰瓦赫宁根大学构建中国植物性食物供应支撑国民营养的食物系统优化路径</div>
+								</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="rt effect effect4">
+						<div class="index_10b ul-inline">
+							<ul>
+								<li><a class="item" href="https://news.cau.edu.cn/kxyj/c0fe7cf65a8b4623adcc3e5fe6338567.htm"  target="_blank">
+									<div class="img">
+								<img class="lazy" data-src="https://news.cau.edu.cn/images/2026-05/768aceef2e5f4873b5ddeb01a66057a0.png" >
+							    </div>
+									<div class="title fs17">人才强校 | 土地学院曾也鲁教授团队在基于无人机的作物冠层叶倾角高通量提取方面取得重要进展</div>
+								</a></li>
+								<li><a class="item" href="https://news.cau.edu.cn/kxyj/dd4d70358eb2457097cf6434412cdb38.htm"  target="_blank">
+									<div class="img">
+								<img class="lazy" data-src="https://news.cau.edu.cn/images/2026-05/760d0da3ab2d44f688f21e2f1c1f6d75.png" >
+							    </div>
+									<div class="title fs17">人才强校 | 土地学院王祥教授团队在土壤有机碳研究中取得进展：揭示植物源碳在侵蚀坡地上的分解和形成土壤碳库过程</div>
+								</a></li>
+								<li><a class="item" href="https://news.cau.edu.cn/kxyj/1ceec7c418a945358c1d836f6713554c.htm"  target="_blank">
+									<div class="img">
+								<img class="lazy" data-src="https://news.cau.edu.cn/images/2026-05/342b51f387a04dab9d98c9278d584faa.png" >
+							    </div>
+									<div class="title fs17">人才强校 | 植保学院彩万志、李虎、段元格团队揭示入侵害虫悬铃木方翅网蝽转录后调控网络的适应性演化</div>
+								</a></li>
+								<li><a class="item" href="https://news.cau.edu.cn/kxyj/029330c1aefe4ec1b7a2aa94a33e1e0e.htm"  target="_blank">
+									<div class="img">
+								<img class="lazy" data-src="https://news.cau.edu.cn/images/2026-05/e593f377ec344cd98aebcd4013a6e4a0.png" >
+							    </div>
+									<div class="title fs17">人才强校 | 理学院化学系杜凤沛教授团队在构建场景导向高效绿色农药制剂方面取得新进展</div>
+								</a></li>
+								<li><a class="item" href="https://news.cau.edu.cn/kxyj/13024bcdc8e84184a8b2bd370387e22c.htm"  target="_blank">
+									<div class="img">
+								<img class="lazy" data-src="https://news.cau.edu.cn/images/2026-05/74107c9212cd4ac0aeb6010df6a4e36f.jpg" >
+							    </div>
+									<div class="title fs17">人才强校 | 资环学院张福锁院士团队丛汶峰教授、全球食物经济与政策研究院樊胜根教授联合荷兰瓦赫宁根大学构建中国植物性食物供应支撑国民营养的食物系统优化路径</div>
+								</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<!-- mode10结束 -->
+
+			<!-- mode04开始 -->
+			<div class="wrap_mode04">
+				<div class="row mode04">
+					<div class="index_title">
+						<a href="https://news.cau.edu.cn/rwgs/index.htm" target="_blank" class="channel_title fs36">人物故事</a>
+						<a href="https://news.cau.edu.cn/rwgs/index.htm" target="_blank" class="en_channel_title fs16">STORY</a>
+						<a class="channel_link fs14" href="https://news.cau.edu.cn/rwgs/index.htm" target="_blank">查看更多</a>
+					</div>
+					<div class="index_04 effect effect1">
+						<ul class="swiper-wrapper">
+							<li class="swiper-slide"><div class="item pr">
+								<a href="https://news.cau.edu.cn/rwgs/c771ff1fcdc940b5b075168b581e094d.htm"  target="_blank" class="img"><img class="swiper-lazy" data-src="https://news.cau.edu.cn/images/2026-05/3ba19a428a9a4b9a901566b5e66f4130.jpg" ></a>
+								<a href="https://news.cau.edu.cn/rwgs/c771ff1fcdc940b5b075168b581e094d.htm"  target="_blank" class="title fs17 lh30x1">张国庆：从“植保”到“文保”，用农科智慧守护故宫文物</a>
+							</div></li>
+							<li class="swiper-slide"><div class="item pr">
+								<a href="https://news.cau.edu.cn/zhxwnew/ae14f35813a0419e96909c36559c5f24.htm"  target="_blank" class="img"><img class="swiper-lazy" data-src="https://news.cau.edu.cn/images/2026-04/7e03b3d97cfc4d4fbcf7087176d17e29.png" ></a>
+								<a href="https://news.cau.edu.cn/zhxwnew/ae14f35813a0419e96909c36559c5f24.htm"  target="_blank" class="title fs17 lh30x1">【牢记嘱托担使命】从“回信”到“回响”：中国农大来华留学生争做“知农爱农”使者</a>
+							</div></li>
+							<li class="swiper-slide"><div class="item pr">
+								<a href="https://news.cau.edu.cn/rwgs/bfbd1295a2fe4c10b0eb4a54a89b1cab.htm"  target="_blank" class="img"><img class="swiper-lazy" data-src="https://news.cau.edu.cn/images/2026-04/b4803d8649944cf7adfaf5202ae0b166.jpg" ></a>
+								<a href="https://news.cau.edu.cn/rwgs/bfbd1295a2fe4c10b0eb4a54a89b1cab.htm"  target="_blank" class="title fs17 lh30x1">机器人跑马拉松，关中国农大什么事？</a>
+							</div></li>
+							<li class="swiper-slide"><div class="item pr">
+								<a href="https://news.cau.edu.cn/rwgs/f13cbfdd681c46ebb04e72a68271626f.htm"  target="_blank" class="img"><img class="swiper-lazy" data-src="https://news.cau.edu.cn/images/2026-04/3d5e6ca9581543938cf7597a3d1d013f.jpg" ></a>
+								<a href="https://news.cau.edu.cn/rwgs/f13cbfdd681c46ebb04e72a68271626f.htm"  target="_blank" class="title fs17 lh30x1">科技赋能边疆肉牛产业，中国农大打造“镇康样板”</a>
+							</div></li>
+							<li class="swiper-slide"><div class="item pr">
+								<a href="https://news.cau.edu.cn/rwgs/54fef973b4eb4a6cbacf568b668d9b33.htm"  target="_blank" class="img"><img class="swiper-lazy" data-src="https://news.cau.edu.cn/images/2026-03/36cadf0a3f214677bfc25350fc29217a.png" ></a>
+								<a href="https://news.cau.edu.cn/rwgs/54fef973b4eb4a6cbacf568b668d9b33.htm"  target="_blank" class="title fs17 lh30x1">吴健：让百合兼具“颜”与“值”，以科技赋能乡村振兴</a>
+							</div></li>
+							<li class="swiper-slide"><div class="item pr">
+								<a href="https://news.cau.edu.cn/rwgs/32c6509afccd4f2c9756c9131c9b5e01.htm"  target="_blank" class="img"><img class="swiper-lazy" data-src="https://news.cau.edu.cn/images/2026-03/5e94ea3ac7c346148c7f6ae7dceb0e14.jpg" ></a>
+								<a href="https://news.cau.edu.cn/rwgs/32c6509afccd4f2c9756c9131c9b5e01.htm"  target="_blank" class="title fs17 lh30x1">乡村CEO：用实干解锁乡村发展密码</a>
+							</div></li>
+						</ul>
+						<div class="swiper_menu">
+							<div class="arrow prev"></div>
+							<div class="arrow next"></div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			<!-- mode04结束 -->
+			
+			
+			
+			<!-- mode06开始 -->
+			<div class="wrap_mode06" >
+				<div class="bg" style="background-image: url(images/2024-05/cd16584a994b45fba53fbbcd879740d2.jpg);"></div>
+				<div class="index_title">
+					<div class="en_channel_title fs16 effect effect1">Exhibition</div>
+					<div href="http://gallery.drafoon.com/cau2024/index.html"  target="_blank" class="channel_title fs36 effect effect1">电子展厅</div>
+				</div>
+				<a class="channel_link channel_link1 fs14" href="http://gallery.drafoon.com/cau2024/index.html" target="_blank">进入展厅</a>
+                <a class="channel_link channel_link2 fs14" href="https://news.cau.edu.cn/xszl/index.htm" target="_blank">查看更多</a>
+			</div>
+			<!-- mode06结束 -->
+							
+			<!-- mode09开始 -->
+			<div class="wrap_mode09">
+				<div class="row mode09">
+					<div class="index_title">
+						<a  class="channel_title fs36">全媒体矩阵</a>
+						<a  class="en_channel_title fs16">Omnimedia</a>
+
+						<div class="index_09a ul-inline">
+							<div class="slick-prev"></div>
+							<ul>
+								<li><div class="item">
+									<div class="img"><img class="lazy" data-src="static2022/images/mode09a_ico1.png" ></div>
+									<div class="hover_box">
+										<img class="lazy" data-src="static2022/images/erweima.jpg" alt="">
+										<p>微信公众号</p>
+									</div>
+								</div></li>
+								<li><div class="item">
+									<a href="https://weibo.com/cau1905" class="img" target="_blank"><img class="lazy" data-src="static2022/images/mode09a_ico2.png" ></a>
+								</div></li>
+								<li><div class="item">
+									<a href="https://www.xuexi.cn/" class="img" target="_blank"><img class="lazy" data-src="static2022/images/mode09a_ico6.png" ></a>
+								</div></li>
+								<li><div class="item">
+									<div class="img"><img class="lazy" data-src="static2022/images/xiaohongshu.png" ></div>
+									<div class="hover_box">
+										<img class="lazy" data-src="static2022/images/xiaohongshu_code.jpg" alt="">
+										<p>小红书</p>
+									</div>
+								</div></li>
+								<li><div class="item">
+									<div class="img"><img class="lazy" data-src="static2022/images/mode09a_ico7.png" ></div>
+									<div class="hover_box">
+										<img class="lazy" data-src="static2022/images/jiaoyuhao.png" alt="">
+										<p>中国教育发布</p>
+									</div>
+								</div></li>
+								<li><div class="item">
+									<a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAM1TSzIyfEM__dbXhjQN8IrEuUWa7i2j1jHUCiA-bxgo/?" target="_blank" class="img"><img class="lazy" data-src="static2022/images/mode09a_ico8.png" ></a>
+								</div></li>
+								<li><div class="item">
+									<a href="https://author.baidu.com/home/1718553365203511?from=dusite_sresults" target="_blank" class="img"><img class="lazy" data-src="static2022/images/mode09a_ico9.png" ></a>
+								</div></li>
+								<li><div class="item">
+									<a href="https://yspapp.cn/DuA" target="_blank" class="img"><img class="lazy" data-src="static2022/images/mode09a_ico10.png" ></a>
+								</div></li>
+								<li><div class="item">
+									<a href="https://www.douyin.com/user/MS4wLjABAAAAZ9d4If742Knm4LNNgTRpGItUkvfKTdNJOepuJ-IRm-ZEskmufD72kRX-Rmf8adB9" class="img" target="_blank"><img class="lazy" data-src="static2022/images/mode09a_ico11.png" ></a>
+								</div></li>
+								<li><div class="item">
+									<a href="https://www.kuaishou.com/profile/3xbu9m9aqhicxwc" class="img" target="_blank"><img class="lazy" data-src="static2022/images/mode09a_ico5.png" ></a>
+								</div></li>
+								<li><div class="item">
+									<a href="https://space.bilibili.com/472547299?spm_id_from=333.337.0.0" class="img" target="_blank"><img class="lazy" data-src="static2022/images/mode09a_ico4.png" ></a>
+								</div></li>
+								<li><div class="item">
+									<div class="img"><img class="lazy" data-src="static2022/images/mode09a_ico3.png" ></div>
+									<div class="hover_box">
+										<img class="lazy" data-src="static2022/images/code.jpg" alt="">
+										<p>视频号</p>
+									</div>
+								</div></li>
+<!--小红书-->
+
+							</ul>
+							<div class="slick-next"></div>
+						</div>
+					</div>
+					<div class="index_09b ul-inline">
+						<ul>
+
+
+							<li><a class="item" href="https://mp.weixin.qq.com/s/vrvt8EJk6HPzmkPW8dzVIg" target="_blank">
+								<div class="img"><img class="lazy" data-src="images/2026-05/7609a760378c492abe966dabc0259242.png" ></div>
+								<div class="ico"><img class="lazy" data-src="static2022/images/mode09b_ico1.png" alt=""></div>
+
+
+								<div class="title fs18 lh26x2">当中国农大浪漫起来…… </div>
+								<div class="time fs14">2026.05.14</div>
+							</a></li>
+
+
+							<li><a class="item" href="https://mp.weixin.qq.com/s/m2QbbYUGAv8unaScMcTKXA" target="_blank">
+								<div class="img"><img class="lazy" data-src="images/2026-04/0fd822ac9b504eb893edc6939e70e697.jpg" ></div>
+								<div class="ico"><img class="lazy" data-src="static2022/images/mode09b_ico1.png" alt=""></div>
+
+
+								<div class="title fs18 lh26x2">刷屏预警！中国农大花开成海，每一帧都是壁纸！ </div>
+								<div class="time fs14">2026.04.27</div>
+							</a></li>
+
+
+							<li><a class="item" href="https://mp.weixin.qq.com/s/bqH5AqKri3tLyWVTZgv98g" target="_blank">
+								<div class="img"><img class="lazy" data-src="images/2026-05/6b22858724954ae9b60c38861419d1d9.png" ></div>
+								<div class="ico"><img class="lazy" data-src="static2022/images/mode09b_ico1.png" alt=""></div>
+
+
+								<div class="title fs18 lh26x2">报考这个专业，高中怎么准备？ </div>
+								<div class="time fs14">2026.05.20</div>
+							</a></li>
+
+
+							<li><a class="item" href="https://mp.weixin.qq.com/s/vhXEYPWvHMuJ_PZ-9ENIqQ" target="_blank">
+								<div class="img"><img class="lazy" data-src="images/2026-04/ee33d3a89e00430da4d8fc271726ee53.jpg" ></div>
+								<div class="ico"><img class="lazy" data-src="static2022/images/mode09b_ico1.png" alt=""></div>
+
+
+								<div class="title fs18 lh26x2">介绍一下，中国农大官微的好朋友“人呆手户”！ </div>
+								<div class="time fs14">2026.04.20</div>
+							</a></li>
+
+						
+						</ul>
+					</div>
+					<div class="index_09c ul-inline">
+						<ul>
+
+							<li><a class="item" href="https://www.bilibili.com/video/BV1dQWYzFEW7/?spm_id_from=333.1387.homepage.video_card.click" target="_blank">
+								<div class="img"> <div class="video"></div> <img class="lazy" data-src="images/2025-11/b30118c8c2b14673be0a7984b8f17f19.jpg" ></div>
+								<div class="ico"><img class="lazy" data-src="static2022/images/mode09b_ico3.png" alt=""></div>
+								<div class="title fs18 lh26x1">
+中国农业大学形象宣传片《解》正式发布</div>
+								<div class="time fs14">2025.10.16</div>
+							</a></li>
+
+							<li><a class="item" href="https://video.cau.edu.cn/xwzx/161f3033956349d8a97ef359d9646505.htm" target="_blank">
+								<div class="img"> <div class="video"></div> <img class="lazy" data-src="images/2026-01/877907435be545189ef34c396d24d2c6.png" ></div>
+								<div class="ico"><img class="lazy" data-src="static2022/images/mode09b_ico3.png" alt=""></div>
+								<div class="title fs18 lh26x1">中国农业大学校歌《金色的希望》MV重磅发布</div>
+								<div class="time fs14">2025.10.09</div>
+							</a></li>
+						</ul>
+					</div>
+
+				</div>
+			</div>
+			<!-- mode09结束 -->
+
+		</div>
+		<!-- mode08开始 -->
+
+
+<div class="wrap_mode08">
+			<div class="row mode08">
+				<div class="index_08 ul-inline">
+					<ul>
+						<li><div class="item">
+							<a href="http://news.cau.edu.cn/" target="_blank" class="img_centered"><img src="static2022/images/mode08_img2.png" ></a>
+							<a href="http://news.cau.edu.cn/" target="_blank" class="title fs18">新闻网</a>
+						</div></li>
+						<li><div class="item">
+							<a href="http://jwzs.cau.edu.cn/index.html" target="_blank" class="img_centered"><img src="static2022/images/mode08_img3.png" ></a>
+							<a href="http://jwzs.cau.edu.cn/index.html" target="_blank" class="title fs18">本科招生网</a>
+						</div></li>
+						<li><div class="item">
+							<a href="http://yz.cau.edu.cn/" target="_blank" class="img_centered"><img src="static2022/images/mode08_img4.png" ></a>
+							<a href="http://yz.cau.edu.cn/" target="_blank" class="title fs18">研究生招生网</a>
+						</div></li>
+						<li><div class="item">
+							<a href="http://cauef.cau.edu.cn/" target="_blank" class="img_centered"><img src="static2022/images/mode08_img8.png" ></a>
+							<a href="http://cauef.cau.edu.cn/" target="_blank" class="title fs18">教育基金</a>
+						</div></li>
+						<li><div class="item">
+							<a href="http://cauzhaopin.cau.edu.cn/zp.html#/" target="_blank" class="img_centered"><img src="static2022/images/mode08_img5.png" ></a>
+							<a href="http://cauzhaopin.cau.edu.cn/zp.html#/" target="_blank" class="title fs18">人才招聘</a>
+						</div></li>
+<li><div class="item">
+							<a href="http://welcomehome.cau.edu.cn/" target="_blank" class="img_centered"><img src="static2022/images/mode08_img9.png" ></a>
+							<a href="http://welcomehome.cau.edu.cn/" target="_blank" class="title fs18">校友家园</a>
+						</div></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- mode08结束 -->
+		<footer>
+			<div class="footer row">
+				<div class=" footer_lf ">
+					<div class="footer_logo">
+						<img src="static2022/images/footer_logo.png" >
+						<a href="index.htm" class="logo1"></a>
+						<!-- <a href="#" class="logo2"></a> -->
+					</div>
+				</div>
+				<div class="footer_md footer_info fs14">
+					<!-- <div class="footer_logo">
+						<img src="static2022/images/footer_logo.png" >
+						<a href="#" class="logo1"></a>
+						<a href="#" class="logo2"></a>
+					</div> -->
+					<div class="lf">
+						<div class="ico ico1"></div>
+						<div class="ico ico2"><a href="mailto:xwzx@cau.edu.cn">xwzx@cau.edu.cn</a></div>
+					</div>
+					<div class="ico ico3">
+						<p>北京市海淀区清华东路17号（东校区）</p>
+						<p>北京市海淀区圆明园西路2号（西校区）</p>
+					</div>
+				</div>
+				<div class="footer_rt fs14">
+					<div class="copy_right fs14">
+						<span>中国农业大学 版权所有 ©2017</span>
+						<span>校备案号：207-23001</span>
+						<span>文保网安备案号 : 1101080025</span>
+						<span><a href="https://beian.miit.gov.cn/" target="_blank">京ICP备05004632号-1</a></span>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+		</footer>
+   <div style="display:none;">
+<script  type="text/javascript" async  src="/cms/web/writeLog.jsp?container=test10&siteID=eccd42aeac684a11b1cff8d38005b490&channelID=f5d4358b40114542ad2801552f529df5&contentID=0"></script>
+<span id="test10"></span>
+<script  type="text/javascript" async  src="/cms/web/writeLog.jsp?container=test11&siteID=eccd42aeac684a11b1cff8d38005b490&channelID=0&contentID=0"></script>
+<span id="test11"></span>
+</div>	</div>
+
+</div>
+
+	<!--	<a class="banner_link" href="https://cau120.cau.edu.cn/" target="_blank">
+		    <div class="text1 fs18">点击进入校庆网</div>
+		    <div class="text2 fs18">
+		        <p><span>120</span>周年校庆专题网</p>
+		        <p>中国农业大学</p>
+		    </div>
+		    <div class="circle">
+						<span></span>
+						<span></span>
+						<span></span>
+		
+						<span></span>
+						<span></span>
+						<span></span>
+		
+						<span></span>
+						<span></span>
+						<span></span>
+						
+						<span></span>
+						<span></span>
+						<span></span>
+		
+						<span></span>
+						<span></span>
+						<span></span>
+		
+						<span></span>
+						<span></span>
+						<span></span>
+				</div>
+		</a>-->
+
+<script src="static2022/js/jquery.min.js?v=1779269574425" type="text/javascript"></script>
+<script src="static2022/js/jquery.easing.js?v=1779269574425"></script>
+<script src="static2022/js/jquery.mousewheel.js?v=1779269574425"></script>
+<script src="static2022/js/swiper.min.js?v=1779269574425" type="text/javascript"></script>
+<script src="static2022/js/slick.js?v=1779269574425" type="text/javascript"></script>
+<script src="static2022/js/script.js?v=1779269574425" type="text/javascript"></script>
+<script src="static2022/js/index.js?v=1779269574425" type="text/javascript"></script>
+<!--B19gaK/ckwWP/66jMEaobQJOAE4n5edMfpOQRU7WmWvbe9oeHVVmrxNQ17NgIndiBVUXPRWhnSMscDraZEfaKgyx3oI7BbfPQXOEQpfy/fmj+V5pJ3NKRqreVsC/NNGMSYdiEw5k9irwg4FrAu4hEEVKpulS/KtrH4i8Rqw/33g=--><script type='text/javascript' src='g_style/g_index.js?v=1779269574425'></script><script type='text/javascript' src='g_style/f5d4358b40114542ad2801552f529df5_g_channel_index.js?v=1779269574425'></script><script src='/cms/web/writeLog.jsp?siteID=eccd42aeac684a11b1cff8d38005b490' async='async'></script><style>.selectTdClass{background-color:#edf5fa !important}.gpTable{ border-collapse:collapse;border:1px solid #000 }.gpTable td,.gpTable th{border:1px solid #000;  padding: 2px 3px;}.gpTable caption{border:1px dashed #DDD;border-bottom:0;padding:3px;text-align:center;}.gpTable th{border-top:1px solid #BBB;background-color:#F7F7F7;}.gpTable tr.firstRow th{border-top-width:2px;}.ue-table-interlace-color-single{ background-color: #fcfcfc; } .ue-table-interlace-color-double{ background-color: #f7faff; }td p{margin:0;padding:0;} th p{margin:0;padding:0;}blockquote {padding: 0 0 0 15px;margin: 0 0 18px;border-left: 5px solid #EEE;}</style>
+</body></html>

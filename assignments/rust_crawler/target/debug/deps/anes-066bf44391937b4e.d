@@ -1,0 +1,12 @@
+/home/kikun/School/opencamp-project/assignments/rust_crawler/target/debug/deps/anes-066bf44391937b4e.d: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/lib.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/macros.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/attribute.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/buffer.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/color.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/cursor.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/terminal.rs
+
+/home/kikun/School/opencamp-project/assignments/rust_crawler/target/debug/deps/libanes-066bf44391937b4e.rmeta: /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/lib.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/macros.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/attribute.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/buffer.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/color.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/cursor.rs /home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/terminal.rs
+
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/lib.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/macros.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/attribute.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/buffer.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/color.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/cursor.rs:
+/home/kikun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anes-0.1.6/src/sequences/terminal.rs:
