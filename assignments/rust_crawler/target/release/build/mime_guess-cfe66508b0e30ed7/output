@@ -1,1 +1,0 @@
-cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/kikun/School/opencamp-project/assignments/rust_crawler/target/release/build/mime_guess-cfe66508b0e30ed7/out/mime_types_generated.rs
