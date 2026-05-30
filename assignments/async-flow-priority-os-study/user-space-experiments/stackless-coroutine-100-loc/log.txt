@@ -1,0 +1,97 @@
+[0001] push task-1
+[0002] push task-2
+[0003] push task-3
+Running
+[0004] run begin, queue_len=3
+[0005] pop task-1
+[0006] poll task-1
+[0007] task-1 print A (before await 1)
+1 A
+[0008] task-1 after print A, await waiter 1
+[0009] task-1 state: Running -> Halted, result=Pending
+[0010] task-1 Pending -> push_back
+[0011] pop task-2
+[0012] poll task-2
+[0013] task-2 print A (before await 1)
+2 A
+[0014] task-2 after print A, await waiter 1
+[0015] task-2 state: Running -> Halted, result=Pending
+[0016] task-2 Pending -> push_back
+[0017] pop task-3
+[0018] poll task-3
+[0019] task-3 print A (before await 1)
+3 A
+[0020] task-3 after print A, await waiter 1
+[0021] task-3 state: Running -> Halted, result=Pending
+[0022] task-3 Pending -> push_back
+[0023] pop task-1
+[0024] poll task-1
+[0025] task-1 state: Halted -> Running, result=Ready
+[0026] task-1 resumed after await 1, print B
+1 B
+[0027] task-1 after print B, await waiter 2
+[0028] task-1 state: Running -> Halted, result=Pending
+[0029] task-1 Pending -> push_back
+[0030] pop task-2
+[0031] poll task-2
+[0032] task-2 state: Halted -> Running, result=Ready
+[0033] task-2 resumed after await 1, print B
+2 B
+[0034] task-2 after print B, await waiter 2
+[0035] task-2 state: Running -> Halted, result=Pending
+[0036] task-2 Pending -> push_back
+[0037] pop task-3
+[0038] poll task-3
+[0039] task-3 state: Halted -> Running, result=Ready
+[0040] task-3 resumed after await 1, print B
+3 B
+[0041] task-3 after print B, await waiter 2
+[0042] task-3 state: Running -> Halted, result=Pending
+[0043] task-3 Pending -> push_back
+[0044] pop task-1
+[0045] poll task-1
+[0046] task-1 state: Halted -> Running, result=Ready
+[0047] task-1 resumed after await 2, print C
+1 C
+[0048] task-1 after print C, await waiter 3
+[0049] task-1 state: Running -> Halted, result=Pending
+[0050] task-1 Pending -> push_back
+[0051] pop task-2
+[0052] poll task-2
+[0053] task-2 state: Halted -> Running, result=Ready
+[0054] task-2 resumed after await 2, print C
+2 C
+[0055] task-2 after print C, await waiter 3
+[0056] task-2 state: Running -> Halted, result=Pending
+[0057] task-2 Pending -> push_back
+[0058] pop task-3
+[0059] poll task-3
+[0060] task-3 state: Halted -> Running, result=Ready
+[0061] task-3 resumed after await 2, print C
+3 C
+[0062] task-3 after print C, await waiter 3
+[0063] task-3 state: Running -> Halted, result=Pending
+[0064] task-3 Pending -> push_back
+[0065] pop task-1
+[0066] poll task-1
+[0067] task-1 state: Halted -> Running, result=Ready
+[0068] task-1 resumed after await 3, print D
+1 D
+[0069] task-1 done
+[0070] task-1 Ready -> finished
+[0071] pop task-2
+[0072] poll task-2
+[0073] task-2 state: Halted -> Running, result=Ready
+[0074] task-2 resumed after await 3, print D
+2 D
+[0075] task-2 done
+[0076] task-2 Ready -> finished
+[0077] pop task-3
+[0078] poll task-3
+[0079] task-3 state: Halted -> Running, result=Ready
+[0080] task-3 resumed after await 3, print D
+3 D
+[0081] task-3 done
+[0082] task-3 Ready -> finished
+[0083] run end
+Done

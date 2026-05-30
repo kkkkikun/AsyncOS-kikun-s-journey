@@ -15,3 +15,11 @@ Thumbs.db
 .vscode/
 .idea/
 *.iml
+
+# Windows Zone.Identifier files
+*:Zone.Identifier
+Zone.Identifier
+
+# GDB files
+.gdb_history
+.gdbinit

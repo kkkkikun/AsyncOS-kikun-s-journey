@@ -1,0 +1,11 @@
+[0000] main: enter
+[0001] exec_task_high: begin
+[0002] exec_task_normal: begin
+[0003] exec_task_low: begin
+[0004] exec_task_low: resumed with value=101
+Got LOW priority task value 101 at time: 1.01.
+[0005] exec_task_high: resumed with value=102
+Got HIGH priority task value 102 at time: 2.01.
+[0006] exec_task_normal: resumed with value=103
+Got NORMAL priority task value 103 at time: 3.01.
+[0007] main: exit

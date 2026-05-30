@@ -1,0 +1,78 @@
+[0000] main: enter
+[0001] Reactor::new: enter
+[0002] Reactor::new: complete, returning Arc
+[0003] executor: block_on begin
+[0004] executor: created Parker
+[0005] executor: created MyWaker
+[0006] mywaker_into_waker: called, creating RawWaker
+[0007] executor: created Waker from MyWaker
+[0008] executor: created Context from Waker
+[0009] executor: about to poll future
+[0010] mainfut: begin
+[0011] mainfut: await fut1
+[0012] fut1: begin
+[0013] task-1: poll enter
+[0014] reactor-thread: start
+[0015] task-1: first registration to reactor, duration=1s
+[0016] mywaker_clone: called
+[0017] reactor: register task-1 duration=1s
+[0018] reactor: sending Timeout event duration=1s id=1
+[0019] task-1: returning Poll::Pending
+[0021] executor: poll returned Pending, preparing to park
+[0022] Parker::park: enter
+[0023] Parker::park: waiting on condvar, resumable=false
+[0020] reactor-thread: receive Timeout event duration=1s id=1
+[0024] timer-thread-1: start, sleeping for 1s
+[0025] timer-thread-1: sleep end
+[0026] reactor: wake(1) called
+[0027] reactor: task-1 state NotReady -> Ready
+[0028] reactor: calling waker.wake() for task-1
+[0029] mywaker_wake: called
+[0030] Parker::unpark: enter
+[0031] Parker::unpark: calling notify_one
+[0032] Parker::park: woke up, resumable=true
+[0033] executor: resumed from park
+[0034] executor: about to poll future
+[0035] task-1: poll enter
+[0036] task-1: reactor.is_ready(1) == true
+[0037] task-1: state marked as Finished
+[0038] fut1: resumed with value=1
+Got 1 at time: 1.01.
+[0039] mainfut: await fut2
+[0040] fut2: begin
+[0041] task-2: poll enter
+[0042] task-2: first registration to reactor, duration=2s
+[0043] mywaker_clone: called
+[0044] reactor: register task-2 duration=2s
+[0045] reactor: sending Timeout event duration=2s id=2
+[0046] task-2: returning Poll::Pending
+[0047] executor: poll returned Pending, preparing to park
+[0048] Parker::park: enter
+[0049] Parker::park: waiting on condvar, resumable=false
+[0050] reactor-thread: receive Timeout event duration=2s id=2
+[0051] timer-thread-2: start, sleeping for 2s
+[0052] timer-thread-2: sleep end
+[0053] reactor: wake(2) called
+[0054] reactor: task-2 state NotReady -> Ready
+[0055] reactor: calling waker.wake() for task-2
+[0056] mywaker_wake: called
+[0057] Parker::unpark: enter
+[0058] Parker::unpark: calling notify_one
+[0059] Parker::park: woke up, resumable=true
+[0060] executor: resumed from park
+[0061] executor: about to poll future
+[0062] task-2: poll enter
+[0063] task-2: reactor.is_ready(2) == true
+[0064] task-2: state marked as Finished
+[0065] fut2: resumed with value=2
+Got 2 at time: 3.01.
+[0066] mainfut: done
+[0067] executor: poll returned Ready
+[0068] RawWaker: drop called
+[0069] reactor: close called, sending Close event
+[0070] main: exit
+[0071] Reactor::drop: enter, joining reactor thread
+[0072] reactor-thread: receive Close event
+[0073] reactor-thread: joining timer threads
+[0074] reactor-thread: exit
+[0075] Reactor::drop: complete
