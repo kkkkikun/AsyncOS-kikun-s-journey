@@ -1,0 +1,10 @@
+[target.x86_64-unknown-linux-gnu]
+rustflags = ["--cfg", "linux64"]
+
+[target.x86_64-pc-windows-msvc]
+rustflags = ["--cfg", "win64"]
+
+[target.riscv64gc-unknown-linux-gnu]
+rustflags = ["--cfg", "rv64"]
+linker = "riscv64-linux-gnu-gcc"
+runner = "qemu-riscv64-static -L /usr/riscv64-linux-gnu -cpu rv64"

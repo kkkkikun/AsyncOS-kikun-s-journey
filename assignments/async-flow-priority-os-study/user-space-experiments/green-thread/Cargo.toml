@@ -1,0 +1,10 @@
+[package]
+name = "green-thread"
+version = "0.1.0"
+edition = "2021"
+default-run = "green-thread"
+
+[dependencies]
+
+[lints.rust]
+unexpected_cfgs = { level = "warn", check-cfg = ['cfg(linux64)', 'cfg(win64)', 'cfg(rv64)'] }

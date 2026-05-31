@@ -1,0 +1,179 @@
+[0000] runtime: initialization started
+[0001] runtime: created base thread id=0, state=Running
+[0002] runtime: created thread id=1, state=Available
+[0003] runtime: created thread id=2, state=Available
+[0004] runtime: created thread id=3, state=Available
+[0005] runtime: initialization complete, 4 threads, stack_size=2097152 bytes
+[0006] runtime: set global RUNTIME pointer, addr=0x7ffefff233b8
+[0007] runtime: spawn enter
+[0008] runtime: spawn found available thread-1
+[0009] runtime: spawn thread-1 stack_base=0x7dfd549fe010 stack_size=2097152 initial_rsp=0x7dfd54bfdff0
+[0010] runtime: spawn thread-1 Available -> Ready
+[0011] runtime: spawn complete
+[0012] runtime: spawn enter
+[0013] runtime: spawn found available thread-2
+[0014] runtime: spawn thread-2 stack_base=0x7dfd547fd010 stack_size=2097152 initial_rsp=0x7dfd549fcff0
+[0015] runtime: spawn thread-2 Available -> Ready
+[0016] runtime: spawn complete
+[0017] runtime: run begin, current thread=0
+[0018] runtime: calling t_yield, current thread=0
+[0019] runtime: t_yield enter, current thread=0
+[0020] runtime: scanning for ready threads starting from current=0
+[0021] runtime: checking thread-1 state=Ready
+[0022] runtime: selected thread-1 (Ready)
+[0023] runtime: thread-0 Running -> Ready
+[0024] runtime: thread-1 Ready -> Running
+[0025] runtime: old_pos=0 new_pos=1
+[0026] runtime: context switch old=0 new=1
+[0027] thread-1: task begin
+[0028] thread-1: before yield, counter=0
+[0029] yield_thread: called by thread-1
+[0030] runtime: t_yield enter, current thread=1
+[0031] runtime: scanning for ready threads starting from current=1
+[0032] runtime: checking thread-2 state=Ready
+[0033] runtime: selected thread-2 (Ready)
+[0034] runtime: thread-1 Running -> Ready
+[0035] runtime: thread-2 Ready -> Running
+[0036] runtime: old_pos=1 new_pos=2
+[0037] runtime: context switch old=1 new=2
+[0038] thread-2: task begin
+[0039] thread-2: before yield, counter=0
+[0040] yield_thread: called by thread-2
+[0041] runtime: t_yield enter, current thread=2
+[0042] runtime: scanning for ready threads starting from current=2
+[0043] runtime: checking thread-3 state=Available
+[0044] runtime: checking thread-0 state=Ready
+[0045] runtime: selected thread-0 (Ready)
+[0046] runtime: thread-2 Running -> Ready
+[0047] runtime: thread-0 Ready -> Running
+[0048] runtime: old_pos=2 new_pos=0
+[0049] runtime: context switch old=2 new=0
+[0050] runtime: context switch returned, current=0
+[0051] runtime: t_yield returned true, current thread=0
+[0052] runtime: calling t_yield, current thread=0
+[0053] runtime: t_yield enter, current thread=0
+[0054] runtime: scanning for ready threads starting from current=0
+[0055] runtime: checking thread-1 state=Ready
+[0056] runtime: selected thread-1 (Ready)
+[0057] runtime: thread-0 Running -> Ready
+[0058] runtime: thread-1 Ready -> Running
+[0059] runtime: old_pos=0 new_pos=1
+[0060] runtime: context switch old=0 new=1
+[0061] runtime: context switch returned, current=1
+[0062] yield_thread: returned, now running thread-1
+[0063] thread-1: after yield, counter=0
+[0064] thread-1: before yield, counter=1
+[0065] yield_thread: called by thread-1
+[0066] runtime: t_yield enter, current thread=1
+[0067] runtime: scanning for ready threads starting from current=1
+[0068] runtime: checking thread-2 state=Ready
+[0069] runtime: selected thread-2 (Ready)
+[0070] runtime: thread-1 Running -> Ready
+[0071] runtime: thread-2 Ready -> Running
+[0072] runtime: old_pos=1 new_pos=2
+[0073] runtime: context switch old=1 new=2
+[0074] runtime: context switch returned, current=2
+[0075] yield_thread: returned, now running thread-2
+[0076] thread-2: after yield, counter=0
+[0077] thread-2: before yield, counter=1
+[0078] yield_thread: called by thread-2
+[0079] runtime: t_yield enter, current thread=2
+[0080] runtime: scanning for ready threads starting from current=2
+[0081] runtime: checking thread-3 state=Available
+[0082] runtime: checking thread-0 state=Ready
+[0083] runtime: selected thread-0 (Ready)
+[0084] runtime: thread-2 Running -> Ready
+[0085] runtime: thread-0 Ready -> Running
+[0086] runtime: old_pos=2 new_pos=0
+[0087] runtime: context switch old=2 new=0
+[0088] runtime: context switch returned, current=0
+[0089] runtime: t_yield returned true, current thread=0
+[0090] runtime: calling t_yield, current thread=0
+[0091] runtime: t_yield enter, current thread=0
+[0092] runtime: scanning for ready threads starting from current=0
+[0093] runtime: checking thread-1 state=Ready
+[0094] runtime: selected thread-1 (Ready)
+[0095] runtime: thread-0 Running -> Ready
+[0096] runtime: thread-1 Ready -> Running
+[0097] runtime: old_pos=0 new_pos=1
+[0098] runtime: context switch old=0 new=1
+[0099] runtime: context switch returned, current=1
+[0100] yield_thread: returned, now running thread-1
+[0101] thread-1: after yield, counter=1
+[0102] thread-1: before yield, counter=2
+[0103] yield_thread: called by thread-1
+[0104] runtime: t_yield enter, current thread=1
+[0105] runtime: scanning for ready threads starting from current=1
+[0106] runtime: checking thread-2 state=Ready
+[0107] runtime: selected thread-2 (Ready)
+[0108] runtime: thread-1 Running -> Ready
+[0109] runtime: thread-2 Ready -> Running
+[0110] runtime: old_pos=1 new_pos=2
+[0111] runtime: context switch old=1 new=2
+[0112] runtime: context switch returned, current=2
+[0113] yield_thread: returned, now running thread-2
+[0114] thread-2: after yield, counter=1
+[0115] thread-2: before yield, counter=2
+[0116] yield_thread: called by thread-2
+[0117] runtime: t_yield enter, current thread=2
+[0118] runtime: scanning for ready threads starting from current=2
+[0119] runtime: checking thread-3 state=Available
+[0120] runtime: checking thread-0 state=Ready
+[0121] runtime: selected thread-0 (Ready)
+[0122] runtime: thread-2 Running -> Ready
+[0123] runtime: thread-0 Ready -> Running
+[0124] runtime: old_pos=2 new_pos=0
+[0125] runtime: context switch old=2 new=0
+[0126] runtime: context switch returned, current=0
+[0127] runtime: t_yield returned true, current thread=0
+[0128] runtime: calling t_yield, current thread=0
+[0129] runtime: t_yield enter, current thread=0
+[0130] runtime: scanning for ready threads starting from current=0
+[0131] runtime: checking thread-1 state=Ready
+[0132] runtime: selected thread-1 (Ready)
+[0133] runtime: thread-0 Running -> Ready
+[0134] runtime: thread-1 Ready -> Running
+[0135] runtime: old_pos=0 new_pos=1
+[0136] runtime: context switch old=0 new=1
+[0137] runtime: context switch returned, current=1
+[0138] yield_thread: returned, now running thread-1
+[0139] thread-1: after yield, counter=2
+[0140] thread-1: task end
+[0141] runtime: guard enter, thread finished execution
+[0142] runtime: t_return enter, current thread=1
+[0143] runtime: thread-1 Running -> Available
+[0144] runtime: t_yield enter, current thread=1
+[0145] runtime: scanning for ready threads starting from current=1
+[0146] runtime: checking thread-2 state=Ready
+[0147] runtime: selected thread-2 (Ready)
+[0148] runtime: thread-2 Ready -> Running
+[0149] runtime: old_pos=1 new_pos=2
+[0150] runtime: context switch old=1 new=2
+[0151] runtime: context switch returned, current=2
+[0152] yield_thread: returned, now running thread-2
+[0153] thread-2: after yield, counter=2
+[0154] thread-2: task end
+[0155] runtime: guard enter, thread finished execution
+[0156] runtime: t_return enter, current thread=2
+[0157] runtime: thread-2 Running -> Available
+[0158] runtime: t_yield enter, current thread=2
+[0159] runtime: scanning for ready threads starting from current=2
+[0160] runtime: checking thread-3 state=Available
+[0161] runtime: checking thread-0 state=Ready
+[0162] runtime: selected thread-0 (Ready)
+[0163] runtime: thread-0 Ready -> Running
+[0164] runtime: old_pos=2 new_pos=0
+[0165] runtime: context switch old=2 new=0
+[0166] runtime: context switch returned, current=0
+[0167] runtime: t_yield returned true, current thread=0
+[0168] runtime: calling t_yield, current thread=0
+[0169] runtime: t_yield enter, current thread=0
+[0170] runtime: scanning for ready threads starting from current=0
+[0171] runtime: checking thread-1 state=Available
+[0172] runtime: checking thread-2 state=Available
+[0173] runtime: checking thread-3 state=Available
+[0174] runtime: checking thread-0 state=Running
+[0175] runtime: no ready thread found, returning false
+[0176] runtime: t_yield returned false, current thread=0
+[0177] runtime: no ready threads, run end
+[0178] runtime: process exit
